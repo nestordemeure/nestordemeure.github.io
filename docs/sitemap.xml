@@ -2,23 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nestordemeure.github.io/posts/example/</loc>
+    <loc>https://nestordemeure.github.io/cooking/</loc>
+    <lastmod>2022-05-24T21:16:50-07:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/savoury/kraut-burger/</loc>
     <lastmod>2022-05-24T21:16:50-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/</loc>
     <lastmod>2022-05-24T21:16:50-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/posts/</loc>
+    <loc>https://nestordemeure.github.io/cooking/savoury/</loc>
     <lastmod>2022-05-24T21:16:50-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/tags/</loc>
-    <lastmod>2022-05-24T21:16:50-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/about/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://nestordemeure.github.io/tags/untagged/</loc>
-    <lastmod>2022-05-24T21:16:50-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/about/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/about/mentalism/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/about/research/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/about/software/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/about/websites/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/blogs/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/books/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/cartoons/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/objects/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/objects/cabas/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/objects/toothbrush/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/things-i-like/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/things-i-like/tv-shows/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/being-creative/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/consumers-and-producers/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/critical-path/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/dating-advice/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/doing-hard-things/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/false-dichotomy/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/production-value/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/rubber_duck_debugging/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/things-have-a-name/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts-and-essays/writing/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/fiction/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/movie-reviews/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/movie-reviews/the-batman/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://nestordemeure.github.io/blog/</loc>
   </url><url>
     <loc>https://nestordemeure.github.io/series/</loc>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/</loc>
+  </url><url>
+    <loc>https://nestordemeure.github.io/tags/</loc>
   </url>
 </urlset>

@@ -4,6 +4,10 @@ This is Nestor Demeure's blog, accesible at: [nestordemeure.github.io](https://n
 
 Note that this is intended more as a collection of pieces of information and texts I like and would like to find and ponder upon later than as a blog with posts added periodically.
 
+## Usage
+
+To update, just add some content then run `publish.sh`.
+
 ## TODO
 
 - add an icon

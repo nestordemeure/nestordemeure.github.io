@@ -1,20 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nestor Demeure</title>
+    <title>Main on Nestor Demeure</title>
     <link>https://nestordemeure.github.io/</link>
-    <description>Recent content on Nestor Demeure</description>
+    <description>Recent content in Main on Nestor Demeure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 24 May 2022 21:16:50 -0700</lastBuildDate><atom:link href="https://nestordemeure.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>https://nestordemeure.github.io/posts/example/</link>
+      <title>KrautBurger</title>
+      <link>https://nestordemeure.github.io/cooking/savoury/kraut-burger/</link>
       <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
       
-      <guid>https://nestordemeure.github.io/posts/example/</guid>
-      <description>this is an example post.</description>
+      <guid>https://nestordemeure.github.io/cooking/savoury/kraut-burger/</guid>
+      <description>burger bun mayo tomato saurkraut 2 cheese slice (pepper jak)
+spread mayo on each half bun put thick tomato slice on bottom until it is fully covered add one slice of cheese put equivalent of small pattie of sauerkraut on top add one more slice of cheese add final bun toast in oven until cheese is nicely melted</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/about/about/</guid>
+      <description>French, researcher in numerical accuracy, artificial inteligence and high performance computing, engeeneer with a speciality in applied mathematics and computeur science, consulting mentalist.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/about/mentalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/about/mentalism/</guid>
+      <description>I am a consulting mentalist (i have book published for that public and designed a stage show amongst other things).
+Mentalism is an ensemble of techniques (including mnemotechnic, hypnosis, magic tricks, a knowledge of statistically likely phenomenons and, indeed, a trained intuition) used to produce incredible phenomenons (usually psychic phenomenons or an impressive mastery of the human mind) in an entertainment setting.
+One point that is worth stressing is that it is neither all real (magic tricks are great to make things look better / add some punch and anyone telling you they don&amp;rsquo;t use them is either lying or very ignorant) nor all fake (anyone telling you otherwise is, similarly, likely ignorant or a magician who did some telepathy-themed tricks and think that it is all there is to it, the human mind is an amazing toy).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/about/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/about/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/about/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/about/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/about/websites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/about/websites/</guid>
+      <description>hackernews researchgate github linkedin email</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/things-i-like/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/things-i-like/blogs/</guid>
+      <description>gwern xkcd qntm slate star codex</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/things-i-like/objects/cabas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/things-i-like/objects/cabas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/things-i-like/objects/toothbrush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/things-i-like/objects/toothbrush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/things-i-like/things-i-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/things-i-like/things-i-like/</guid>
+      <description>https://tofspot.blogspot.com/2013/10/the-great-ptolemaic-smackdown-table-of.html</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/being-creative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/being-creative/</guid>
+      <description>For me making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in all fields where I applied it (I am a PhD student in computeur science and act as a consultant for some magicians). I do not think that you can make a habit of producing good ideas but if you produce enough ideas you will end up producing at least a few good ones, it is only a matter of time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/consumers-and-producers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/consumers-and-producers/</guid>
+      <description>but there is a risk of feeling bad about consuming too much and then you consume to feel better</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/critical-path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/critical-path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/dating-advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/dating-advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/doing-hard-things/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/doing-hard-things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/false-dichotomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/false-dichotomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</guid>
+      <description>Some heuritsics I use:
+  play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant
+  be nice / kind / non-jugemental to people
+  spend time on the things you like, as time and practice pile up you will end up skilled in those domain
+  go for the things that are of interest to you, not for the trendy ones</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/production-value/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/production-value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/rubber_duck_debugging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/rubber_duck_debugging/</guid>
+      <description>One good tip I got to rubber duck debug without another human was to write your questions / explanations in an email or a chat. I found that indeed, writing an email explaining a problem to a colleague was helpful to solve it despite me never sending the email.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/things-have-a-name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/things-have-a-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/writing/</guid>
+      <description>do a bad version first
+identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
+story circle</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nestordemeure.github.io/writing/movie-reviews/the-batman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/movie-reviews/the-batman/</guid>
+      <description>the batman vus et&amp;hellip; meh
+j&amp;rsquo;aime beaucoup le jeu d&amp;rsquo;acteur du rddler dans les sections demaskees (son cote comptable est top)
+quelques scenes d&amp;rsquo;actions solides mais aucune set piece qui me vende suffisament de reves
+les gadgets sont top (lentilles, parachutes, etc) mais le scenario me laisse assez froid riddler et plot principal clairement inspiree de seven moral du batman (et carnet) clairement piocher chez rorcharch de watchmen
+le film fait un effort minimum pour montrer que la mentalitee manicheiste criminel ou innocent rien au milieu n&amp;rsquo;a aucun sens (prostituee qui n&amp;rsquo;a pasle choix, catwoman fille d&amp;rsquo;un mafieux qui n&amp;rsquo;as pas le choix, meme les waynes ne sont pas tout blanc)</description>
     </item>
     
   </channel>
