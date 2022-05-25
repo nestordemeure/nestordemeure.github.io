@@ -1,6 +1,7 @@
 baseURL = 'https://nestordemeure.github.io/'
 title        = "Nestor Demeure"
 languageCode = "en-us"
+publishDir = "docs"
 theme        = "hello-friend-ng"
 paginate     = 10
 
