@@ -1,3 +1,10 @@
+---
+title: "The Batman"
+draft: false
+comments: false
+images:
+---
+
 the batman vus et... meh
 
 j'aime beaucoup le jeu d'acteur du rddler dans les sections demaskees

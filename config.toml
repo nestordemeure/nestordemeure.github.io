@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "French, researcher, engineer and consulting mentalist."
+  homeSubtitle = "French, researcher, engineer, consulting mentalist."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -118,11 +118,21 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "writing"
-    name       = "Writing"
-    url        = "/writing"
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
 
   [[menu.main]]
     identifier = "cooking"
     name       = "Cooking"
     url        = "/cooking"
+
+  [[menu.main]]
+    identifier = "writing"
+    name       = "Writing"
+    url        = "/writing"
+
+  [[menu.main]]
+    identifier = "likings"
+    name       = "Likings"
+    url        = "/likings"

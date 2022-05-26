@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nestor Demeure</title>
+    <title>Concepts and essays on Nestor Demeure</title>
     <link>https://nestordemeure.github.io/writing/concepts-and-essays/</link>
-    <description>Recent content on Nestor Demeure</description>
+    <description>Recent content in Concepts and essays on Nestor Demeure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/writing/concepts-and-essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://nestordemeure.github.io/writing/concepts-and-essays/being-creative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/being-creative/</guid>
-      <description>For me making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in all fields where I applied it (I am a PhD student in computeur science and act as a consultant for some magicians). I do not think that you can make a habit of producing good ideas but if you produce enough ideas you will end up producing at least a few good ones, it is only a matter of time.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Consummers and producers</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/consumers-and-producers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -26,7 +17,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Critical path</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/critical-path/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,16 +26,7 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://nestordemeure.github.io/writing/concepts-and-essays/dating-advice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/dating-advice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Doing hard things</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/doing-hard-things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +35,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>False dichotomy</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/false-dichotomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -62,20 +44,7 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</guid>
-      <description>Some heuritsics I use:
-  play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant
-  be nice / kind / non-jugemental to people
-  spend time on the things you like, as time and practice pile up you will end up skilled in those domain
-  go for the things that are of interest to you, not for the trendy ones</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Production value</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/production-value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -84,7 +53,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Rubber duck debugging</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/rubber_duck_debugging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -93,23 +62,21 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Some heuristics I use</title>
+      <link>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/heuristics/</guid>
+      <description>play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant be nice / kind / non-jugemental to people spend time on the things you like, as time and practice pile up you will end up skilled in those domain go for the things that are of interest to you, not for the trendy ones time spend automating tasks is usually time well spent taking a break to gather knowledge on something vaguely connected to the thing you are doing is never time lost when you have been procrastinating something for most of the day, declare that you will not do it today and that it is okay, it will free your mind to do other things instead of leaving you stuck try and do one, single and quantifiable, thing a day.</description>
+    </item>
+    
+    <item>
+      <title>Things have a name</title>
       <link>https://nestordemeure.github.io/writing/concepts-and-essays/things-have-a-name/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/concepts-and-essays/things-have-a-name/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nestordemeure.github.io/writing/concepts-and-essays/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts-and-essays/writing/</guid>
-      <description>do a bad version first
-identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
-story circle</description>
     </item>
     
   </channel>

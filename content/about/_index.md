@@ -1,3 +1,6 @@
-# main!
-
-this is the main??
+---
+title: "About"
+draft: false
+comments: false
+images:
+---

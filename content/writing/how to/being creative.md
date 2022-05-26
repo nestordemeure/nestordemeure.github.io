@@ -1,3 +1,10 @@
+---
+title: "How to be creative?"
+draft: false
+comments: false
+images:
+---
+
 For me making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in all fields where I applied it (I am a PhD student in computeur science and act as a consultant for some magicians).
 I do not think that you can make a habit of producing good ideas but if you produce enough ideas you will end up producing at least a few good ones, it is only a matter of time.
 

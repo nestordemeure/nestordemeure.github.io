@@ -1,3 +1,9 @@
+---
+title: "How to write?"
+draft: false
+comments: false
+images:
+---
 
 do a bad version first
 

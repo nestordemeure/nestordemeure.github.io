@@ -1,3 +1,9 @@
-# Cooking
+---
+title: "Cooking"
+draft: false
+comments: false
+images:
+---
 
-this is the main for the cooking category.
+I like meals that requires relatively few ingredients and a low technique but are flavorful.
+The result usually ends up looking not as good as one might hope but most of those meal are worth trying.

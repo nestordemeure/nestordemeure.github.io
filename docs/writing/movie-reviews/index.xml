@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nestor Demeure</title>
+    <title>Movie reviews on Nestor Demeure</title>
     <link>https://nestordemeure.github.io/writing/movie-reviews/</link>
-    <description>Recent content on Nestor Demeure</description>
+    <description>Recent content in Movie reviews on Nestor Demeure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/writing/movie-reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Nightmare alley</title>
+      <link>https://nestordemeure.github.io/writing/movie-reviews/nightmare-alley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/movie-reviews/nightmare-alley/</guid>
+      <description>I watched Guillermo Del Toro&amp;rsquo;s Nightmare Alley yesterday and&amp;hellip; It was ok.
+I might have been let down a little because I love both Guillermo Del Toro and the source material (by the way, you can find both the black&amp;amp;white movie and the book for free, legally, on the internet archive) so I had a lot of expectations.
+The actors are solid, the movie has a very nice forties ambiance (I love the psychologist&amp;rsquo;s office design) and some scene are wonderful (the one scene dealing with the consequence of his actions&amp;hellip; and the final scene which was already one of the strong point from the original story) but I felt that the scenario was lacking.</description>
+    </item>
+    
+    <item>
+      <title>The Batman</title>
       <link>https://nestordemeure.github.io/writing/movie-reviews/the-batman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
