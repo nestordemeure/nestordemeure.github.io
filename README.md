@@ -11,8 +11,8 @@ To update, just add some content then run `publish.sh`.
 ## TODO
 
 - add an icon for the blog
-- add categories and make sure they are dealt with properly
 - add a picture?
 - display categories as rectangles on the main page?
 - have a list of posts from newer to older on the main page?
 - justify text
+- purge docs folder before running hugo inside the publish.sh script?

@@ -17,3 +17,7 @@ even if you know it would make it better
 story circle
 
 snowflake method
+
+make it *look* good fast
+
+(see also my guide on doing hard things)

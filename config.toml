@@ -133,6 +133,6 @@ disableHugoGeneratorInject = false
     url        = "/writing"
 
   [[menu.main]]
-    identifier = "likings"
-    name       = "Likings"
-    url        = "/likings"
+    identifier = "likes"
+    name       = "Likes"
+    url        = "/likes"

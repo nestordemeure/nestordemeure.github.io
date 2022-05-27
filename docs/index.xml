@@ -40,20 +40,20 @@ Ingredients (for 4 portions):  100g of flour (you can easily turn the grams in c
     
     <item>
       <title>Articles I like</title>
-      <link>https://nestordemeure.github.io/likings/articles/</link>
+      <link>https://nestordemeure.github.io/likes/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likings/articles/</guid>
+      <guid>https://nestordemeure.github.io/likes/articles/</guid>
       <description>the great ptolemaic smackdown</description>
     </item>
     
     <item>
       <title>Blogs I like</title>
-      <link>https://nestordemeure.github.io/likings/blogs/</link>
+      <link>https://nestordemeure.github.io/likes/blogs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likings/blogs/</guid>
-      <description> gwern xkcd qntm slate star codex the jerx news from marmalade fall  </description>
+      <guid>https://nestordemeure.github.io/likes/blogs/</guid>
+      <description> gwern xkcd qntm slate star codex the jerx news from marmalade fall speeches collection on youtube  </description>
     </item>
     
     <item>
@@ -108,10 +108,10 @@ You might have seen some reference to them popping up in the past year, they hav
     
     <item>
       <title>Grocerie bag</title>
-      <link>https://nestordemeure.github.io/likings/objects/cabas/</link>
+      <link>https://nestordemeure.github.io/likes/objects/cabas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likings/objects/cabas/</guid>
+      <guid>https://nestordemeure.github.io/likes/objects/cabas/</guid>
       <description></description>
     </item>
     
@@ -142,7 +142,8 @@ There are a lot of men per woman on those apps so women there are used to doing 
       <guid>https://nestordemeure.github.io/writing/guides/doing-hard-things/</guid>
       <description>cut them into smaller things
 do a small thing to lower the barrier of entry
-be okay when it starts to be late and you have done nothing</description>
+be okay when it starts to be late and you have done nothing
+make it look good fast</description>
     </item>
     
     <item>
@@ -155,15 +156,17 @@ be okay when it starts to be late and you have done nothing</description>
 do a bad version first
 identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
 story circle
-snowflake method</description>
+snowflake method
+make it look good fast
+(see also my guide on doing hard things)</description>
     </item>
     
     <item>
       <title>Nightmare alley</title>
-      <link>https://nestordemeure.github.io/writing/reviews/movies/nightmare-alley/</link>
+      <link>https://nestordemeure.github.io/likes/movies/nightmare-alley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/reviews/movies/nightmare-alley/</guid>
+      <guid>https://nestordemeure.github.io/likes/movies/nightmare-alley/</guid>
       <description>I watched Guillermo Del Toro&amp;rsquo;s Nightmare Alley yesterday and&amp;hellip; It was ok.
 I might have been let down a little because I love both Guillermo Del Toro and the source material (by the way, you can find both the original black&amp;amp;white movie and the book for free, legally, on the internet archive) so I had a lot of expectations.
 The actors are solid, the movie has a very nice forties ambiance (I love the psychologist&amp;rsquo;s office design) and some scene are wonderful (the one scene dealing with the consequence of his actions&amp;hellip; and the final scene which was already one of the strong points from the original story) but I felt that the scenario was lacking.</description>
@@ -171,10 +174,10 @@ The actors are solid, the movie has a very nice forties ambiance (I love the psy
     
     <item>
       <title>Philips toothbrush</title>
-      <link>https://nestordemeure.github.io/likings/objects/toothbrush/</link>
+      <link>https://nestordemeure.github.io/likes/objects/toothbrush/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likings/objects/toothbrush/</guid>
+      <guid>https://nestordemeure.github.io/likes/objects/toothbrush/</guid>
       <description></description>
     </item>
     
@@ -227,23 +230,14 @@ List of some noticeable codes i published my github and gitlab</description>
     
     <item>
       <title>The Batman</title>
-      <link>https://nestordemeure.github.io/writing/reviews/movies/the-batman/</link>
+      <link>https://nestordemeure.github.io/likes/movies/the-batman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/reviews/movies/the-batman/</guid>
+      <guid>https://nestordemeure.github.io/likes/movies/the-batman/</guid>
       <description>I saw the Batman and&amp;hellip; meh.
 I love the acting of the Riddler in his unmasked sections (he looks like and accountant and that is great).
 Some solid action scenes but none of the set pieces really strikes me.
 The gadgets are really nice (lenses, parachte, etc) but the scenario leaves me cold. The riddler and the plot are clearly inspired by Seven while Batman&amp;rsquo;s moral (and notbook) are clearly taken from Watchmen&amp;rsquo;s Rorcharch.</description>
-    </item>
-    
-    <item>
-      <title>Things have a name</title>
-      <link>https://nestordemeure.github.io/writing/concepts/things-have-a-name/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts/things-have-a-name/</guid>
-      <description></description>
     </item>
     
   </channel>
