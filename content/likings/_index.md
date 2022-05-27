@@ -1,3 +1,6 @@
-# main!
-
-this is the main??
+---
+title: "Things I like"
+draft: false
+comments: false
+images:
+---

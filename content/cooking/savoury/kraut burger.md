@@ -26,6 +26,9 @@ I really like the freshness of the thick tomato slice hidden inside the burger.
 * put equivalent of small pattie of sauerkraut on top
 * add one more slice of cheese
 * add final bun
+
+## Cooking
+
 * toast in oven until cheese is nicely melted
 
 ## Credits

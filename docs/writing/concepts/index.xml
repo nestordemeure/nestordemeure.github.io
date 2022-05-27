@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concepts on Nestor Demeure</title>
+    <link>https://nestordemeure.github.io/writing/concepts/</link>
+    <description>Recent content in Concepts on Nestor Demeure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/writing/concepts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consummers and producers</title>
+      <link>https://nestordemeure.github.io/writing/concepts/consumers-and-producers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/consumers-and-producers/</guid>
+      <description>but there is a risk of feeling bad about consuming too much and then you consume to feel better</description>
+    </item>
+    
+    <item>
+      <title>Critical path</title>
+      <link>https://nestordemeure.github.io/writing/concepts/critical-path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/critical-path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False dichotomy</title>
+      <link>https://nestordemeure.github.io/writing/concepts/false-dichotomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/false-dichotomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production value</title>
+      <link>https://nestordemeure.github.io/writing/concepts/production-value/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/production-value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rubber duck debugging</title>
+      <link>https://nestordemeure.github.io/writing/concepts/rubber_duck_debugging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/rubber_duck_debugging/</guid>
+      <description>One good tip I got to rubber duck debug without another human was to write your questions / explanations in an email or a chat. I found that indeed, writing an email explaining a problem to a colleague was helpful to solve it despite me never sending the email.</description>
+    </item>
+    
+    <item>
+      <title>Things have a name</title>
+      <link>https://nestordemeure.github.io/writing/concepts/things-have-a-name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/things-have-a-name/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
