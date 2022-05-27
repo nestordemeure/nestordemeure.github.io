@@ -5,17 +5,14 @@ comments: false
 images:
 ---
 
-the batman vus et... meh
+I saw the Batman and... meh.
 
-j'aime beaucoup le jeu d'acteur du rddler dans les sections demaskees
-(son cote comptable est top)
+I love the acting of the Riddler in his unmasked sections (he looks like and accountant and that is great).
 
-quelques scenes d'actions solides mais aucune set piece qui me vende suffisament de reves
+Some solid action scenes but none of the set pieces really strikes me.
 
-les gadgets sont top (lentilles, parachutes, etc)
-mais le scenario me laisse assez froid
-riddler et plot principal clairement inspiree de seven
-moral du batman (et carnet) clairement piocher chez rorcharch de watchmen
+The gadgets are really nice (lenses, parachte, etc) but the scenario leaves me cold.
+The riddler and the plot are clearly inspired by [Seven](https://en.wikipedia.org/wiki/Seven_(1995_film)) while Batman's moral (and notbook) are clearly taken from [Watchmen's Rorcharch](https://en.wikipedia.org/wiki/Rorschach_(character)).
 
 le film fait un effort minimum pour montrer que la mentalitee manicheiste criminel ou innocent rien au milieu n'a aucun sens (prostituee qui n'a pasle choix, catwoman fille d'un mafieux qui n'as pas le choix, meme les waynes ne sont pas tout blanc)
 
@@ -35,3 +32,5 @@ pas fou
 
 bref, il y a de bone choses et de mauvaises choses, le film aurait put etre superbe mais passe a cotee et finit meh
 
+One thing I read afterward and that now seems obvious is that the movie would have been greatly improved if, at the end, Batman decided to stop being a vigilante and start being politically active.
+That would have been coherent with the arc presented in the rest of the movie.
