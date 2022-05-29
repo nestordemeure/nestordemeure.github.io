@@ -2,35 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nestordemeure.github.io/cooking/savoury/kraut-burger/</loc>
-    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
-  </url><url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/savoury/tarte-au-maroille/</loc>
+    <loc>https://nestordemeure.github.io/cooking/savoury/kraut-burger/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/crumble/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
   </url><url>
+    <loc>https://nestordemeure.github.io/cooking/savoury/tarte-au-maroille/</loc>
+    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/clafoutis/</loc>
+    <lastmod>2022-05-24T21:16:50-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/essays/magician_is_actor/</loc>
+  </url><url>
     <loc>https://nestordemeure.github.io/about/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/programs/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/articles/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/blog/</loc>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/blogs/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/books/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/cartoons/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/</loc>
-    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/about/mentalism/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
@@ -44,8 +54,10 @@
     <loc>https://nestordemeure.github.io/writing/concepts/critical-path/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/writing/fiction/eldritch-academia/</loc>
-    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/writing/fiction/eldritch_academia/</loc>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/essays/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/false-dichotomy/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
@@ -54,8 +66,10 @@
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/cabas/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/creativity/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
@@ -64,19 +78,22 @@
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/doing-hard-things/</loc>
-    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/writing/</loc>
-    <lastmod>2022-05-26T22:32:54-07:00</lastmod>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/nightmare-alley/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/toothbrush/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/production-value/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
@@ -85,6 +102,7 @@
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/restaurants/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/rubber_duck_debugging/</loc>
     <lastmod>2022-05-26T22:32:54-07:00</lastmod>
@@ -106,8 +124,10 @@
     <loc>https://nestordemeure.github.io/tags/</loc>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/the-batman/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/</loc>
+    <lastmod>2022-05-27T16:44:41-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>

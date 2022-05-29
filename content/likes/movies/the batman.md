@@ -5,32 +5,30 @@ comments: false
 images:
 ---
 
-I saw the Batman and... meh.
+***Note**: this review is adapted from some text messages so it is written in a flow of consciousness type of way.*
+
+I saw [the Batman](https://en.wikipedia.org/wiki/The_Batman_(film)) and... meh.
 
 I love the acting of the Riddler in his unmasked sections (he looks like and accountant and that is great).
 
 Some solid action scenes but none of the set pieces really strikes me.
 
 The gadgets are really nice (lenses, parachte, etc) but the scenario leaves me cold.
-The riddler and the plot are clearly inspired by [Seven](https://en.wikipedia.org/wiki/Seven_(1995_film)) while Batman's moral (and notbook) are clearly taken from [Watchmen's Rorcharch](https://en.wikipedia.org/wiki/Rorschach_(character)).
+The Riddler and the plot are clearly inspired by [Seven](https://en.wikipedia.org/wiki/Seven_(1995_film)) while Batman's moral (and notbook) are clearly taken from [Watchmen's Rorcharch](https://en.wikipedia.org/wiki/Rorschach_(character)).
 
-le film fait un effort minimum pour montrer que la mentalitee manicheiste criminel ou innocent rien au milieu n'a aucun sens (prostituee qui n'a pasle choix, catwoman fille d'un mafieux qui n'as pas le choix, meme les waynes ne sont pas tout blanc)
+The film does some work to demonstrate that "you are either an innocent or a criminal, there is no middle ground" mentality is a false dichotomy (showing us a prostitute that has no other choice, Catwoman who did't choose to be a criminal's daughter, even the Waynes are not all white).
+But it is not enough for my taste. I suspect most people will get out of the movie theater thinking that Batman is cool, not that his moral system is unsound and that he is picture as a young vigilante still searching for a healthy mindset... (to the film's credit, it *does* some effort to make things explicit where Watchmen doesn't try, letting the reader realise that Rorcharch's moral system is problematic.)
 
-mais effort insufisant a mon gout, la majoritee des gens vont sortir en ce disant que batman est cool, pas que son systeme morale a un gros problems qu'il commence a peine a remettre en question...
+I believe my two problems with the scenario are the fact that the riddles makes barely any sense (but that is inherent to riddles) and the fact that there is no true finale.
+The movie goes crescendo until the Riddler's arrest then the stakes are still increasing be we don't really care as a viewer because we know that we just need to wait for the problem to be solved (in part because we know the Riddler is safely locked in Arkham and that Gotham cannot really end up under the sea).
 
-(a la decharge du film, il fait un effort et watchmen ne fait pas gand chose dans ce sens, laissant les lecteur se rendre compte q'il y a un probleme)
+I like the fact that Batman and the Riddler's are aligned for most of the movie and that the only real difference is that Batman was born rich.
+But, the political message of the movie is... meh.
+A lot of people tried political solutions to gotham's problem (Wayne and his foundation, the previous mayor, the incoming mayor) but the movie is clear on that fact that it changes nothing and... that's it.
+The movie, implicitely, tells us that what people need is the right state of mind to solve their problems. That is not a great message.
 
-je crois que mes deux problemes avec le scenario sont le fait que les riddles n'ont pas beaucoup de sens (mais sa c'est inherents aux riddles...) et le fait qu'il lui manque un vrai final: le film va crescendo jusqu'a l'arrestation du riddler puis les enjeux augmentes mais on ne suit pas vraiment parce qu'on sais qu'il suffit d'attendre pour que la situation soit desamorcee (entre autre parce que le riddler est a arkham et parce qu'on sais que la ville ne peux pas juste sombrer sous les eaux)
+[Another reviewer](https://youtu.be/qx4TPuuFfxg) suggested an alternative ending that, retrospectively, would have made the movie significantly better (at the price of some potential public backlash): Batman should have given up being a vigilante at the end of the movie.
+He should have realised this is not working nor healthy and started to be politicaly active.
+That would be coherent with his arc presented through the movie and gotten rid of the bad messages found in the movie.
 
-j'aime bien le fait que le film montrer que batman et le riddler sont alignee dans la majoritee de leurs objectifs et que la seule differenc c'est que batman est nee riche
-
-also le message politique du film est... bof: clairement nu tas de gens ont tentee des solutions politiques au problemes de gotham (waynes avec sa fondation, ancien maire, maire a venir) mais le film est assez claire quand au fait que sa ne change rien et ... c'est tout
-
-le film laisse entendre que ce qu'il faut au gens c'est le bon etats d'esprit pour se sortir de leur probleme
-
-pas fou
-
-bref, il y a de bone choses et de mauvaises choses, le film aurait put etre superbe mais passe a cotee et finit meh
-
-One thing I read afterward and that now seems obvious is that the movie would have been greatly improved if, at the end, Batman decided to stop being a vigilante and start being politically active.
-That would have been coherent with the arc presented in the rest of the movie.
+In short, there are some good things and some bad things. The movie could have been superb but nisses the mark and ends meh which is a shame.

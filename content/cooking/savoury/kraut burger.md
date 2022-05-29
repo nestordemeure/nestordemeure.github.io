@@ -1,38 +1,38 @@
 ---
-title: "KrautBurger"
+title: "The mighty KrautBurger"
 date: 2022-05-24T21:16:50-07:00
 draft: false
 comments: false
 images:
 ---
 
-The Krautburger is my favourite homemade burger at the moment.
-It is vegetarian (but not vegan, it includes mayo and, harder to replace, cheese) and light while being tasteful due to the taste of the melted cheese and toasted bun.
-I really like the freshness of the thick tomato slice hidden inside the burger.
+The Krautburger is my favourite homemade burger of the moment.
+It is vegetarian (but not vegan due to the presence of mayonaise and, harder to replace, cheese) and light while hitting all the flavours I want due to the melted cheese and toasted bun combined with the surprise freshness of the thick tomato slice hidden inside the burger.
 
-## Ingredients
+## Ingredients (one burger):
 
-* burger bun
-* mayo
-* tomato
-* saurkraut
-* 2 cheese slice (pepper jak)
+* a burger bun (bread rather than brioche if possible)
+* some mayonaise
+* one tomato
+* enough sauerkraut to make a small patty out of it (pick one that is not too flavorfull and whose flavor *you like*, otherwise you might be disapointed by this burger...)
+* 2 slices of cheese (you want a cheese that does not melt instantly, so no american cheese, I like pepper jack because of the added flavor from the chili flakes, I would probably spinkle some chilly flakes on my sauerkraut if all I had was Gruyere)
 
-## Preparation
+## Preparation:
 
-* spread mayo on each half bun
-* put thick tomato slice on bottom until it is fully covered
+* toast the lower bun (this step is optional but will reduce soginess)
+* spread a layer of mayonnaise on each half bun (the goal here is not to act on the taste but to stop water from going through and into the bun)
+* put thick tomato slices on the bottom bun until it is fully covered (I like my slices about one centimeter thick)
 * add one slice of cheese
-* put equivalent of small pattie of sauerkraut on top
-* add one more slice of cheese
-* add final bun
+* put some sauerkraut on top and shape it like a small pattie
+* add the second slice of cheese
+* add the final bun
 
-## Cooking
+## Cooking:
 
-* toast in oven until cheese is nicely melted
+* toast in oven until the cheese is nicely melted and the top bun lightly toasted
 
-## Credits
+## Credits:
 
 This burger was born from some experimentation with leftovers.
 
-The idea of using a thick slice of fresh tomato in a grilled sandwitch comes from the [bacon tomato melt](../bacontomatomelt).
+The idea of using a thick slice of fresh tomato in a grilled sandwitch and mayonnaise as insulation comes from the [bacon tomato melt](../bacontomatomelt).
