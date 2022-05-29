@@ -1,6 +1,7 @@
 #! /bin/sh
 
 # makes sure the blog is rebuilded with the latest information
+rm -r docs/*
 hugo
 
 # pushes the blog to github
