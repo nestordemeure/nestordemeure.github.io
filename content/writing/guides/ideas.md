@@ -13,7 +13,7 @@ It usually stems from them thinking that creativity is an innate gift: some peop
 
 In practice, I found creativity to be a *muscle*.
 The more you try to use it and the easier it gets.
-But it doesn't necessary mean that you get good ideas...
+But it doesn't necessarily mean that you get good ideas...
 
 ## How do you get good ideas?
 
@@ -36,15 +36,27 @@ Keeping files on ideas I find interesting appears to be a force multiplier to im
 
 ## How do you organize knowledge?
 
+#### Organizing other people's idea
+
 You first need to read or watch a wide sample of productions from your field.
 This will let you organize knowledge in categories (your first attempt will probably be very imperfect but it is fine, you can always come back to it and reorganize things once you have a better grasp of your subject).
 
 I usually use one text file per category, each filled with one paragraph per source that brought interesting knowledge to my attention.
 Your own system might vary but I like the simplicity of working off a folder of text files.
 
-Doing so, you should start to develop your own ideas.
-You might see a way to improve an existing idea, a connection between two apparently unrelated idea or even misunderstand something, leading to a brand new creation.
-When that happens, I recommend storing your idea in a second folder dedicated to your own creations.
+#### Where the magic happens
+
+Doing so, you will start to develop your own ideas.
+This is where the magic happens.
+
+There are three ways a new idea usually pops into existence during that process:
+* you might find a way to incrementally improve an existing idea,
+* you might see a connection between two, previously unrelated, ideas (covering a wide range of ideas helps with this as it favors cross pollination between fields) that comes together as the two pieces of a puzzle,
+* you might even *misunderstand* something, realize your mistake and discover that you came up with a brand new and very clever solution!
+
+Once you have an idea, it is time to store your own ideas in a dedicated system.
+
+#### Organizing your own ideas
 
 For my ideas I use one folder per category, containing one file per idea[^2].
 Thus, I can easily find an idea and I have space to expand on it.
