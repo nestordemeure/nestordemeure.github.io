@@ -2,6 +2,7 @@
 title: "Nestor's guide to creating a blog"
 draft: false
 comments: false
+date: 2022-05-29
 images:
 ---
 

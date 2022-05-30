@@ -2,6 +2,7 @@
 title: "Some heuristics I use"
 draft: false
 comments: false
+date: 2022-05-29
 images:
 ---
 

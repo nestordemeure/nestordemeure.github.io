@@ -36,7 +36,7 @@ disableHugoGeneratorInject = false
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  customCSS = ["css/style.css"]
+  customCSS = ["/css/style.css"]
 
   # Subtitle for home
   homeSubtitle = "French, researcher, engineer, consulting mentalist."

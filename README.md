@@ -8,6 +8,13 @@ Note that this is intended more as a collection of pieces of information and tex
 
 To update, just add some content then run `publish.sh`.
 
+To add an image, you can use the following:
+
+```
+{{< image src="/writing/essays/pictures/script.jpg" title="image generated with https://app.wombo.art/" position="center" style="border-radius: 8px; max-width: 100%;" >}}
+*Image generated with https://app.wombo.art/*
+```
+
 ## TODO
 
 - add an icon for the blog

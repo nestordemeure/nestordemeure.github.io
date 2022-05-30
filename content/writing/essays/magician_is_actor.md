@@ -2,7 +2,8 @@
 title: "A magician is a..."
 draft: false
 comments: false
-images:
+date: 2022-05-29
+images: 
 ---
 
 > *"A magician is an actor playing the part of a magician."*

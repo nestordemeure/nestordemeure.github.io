@@ -6,13 +6,15 @@ comments: false
 images:
 ---
 
+This dish is a worker: it is fast and easy to cook while being delicious and rich in vegetables and flavors.
+
 I have been cooking variations of this dish for as long as I have been cooking for myself, starting when I had my first apartment.
 It has evolved a lot since its inception but it is still one of my favorite way to eat pasta.
 
 ## Ingredients (for two portions):
 
 * 160 grams of pasta (80 grams per person, you could go up to 100 grams), I like fusilli for this dish but most pasta types would be fine
-* half a jar of organic[^1] ratatouille (this is where I lose my US readers, you simply cannot find this stuff in the US: you might replace it with a jar of tomato sauce that contains quite a bit of eggplants and assorted vegetables)
+* half a jar of organic[^1] [ratatouille](https://www.auchan.fr/auchan-bio-ratatouille-en-bocal/pr-C1225159) (this is where I lose my US readers, you simply cannot find this stuff in the US: you might replace it with a jar of tomato sauce that contains a generous amount of eggplants and assorted vegetables)
 * some salted soy sauce (the salt will be useful)
 * some olive oil (we will cook it so no need for high quality stuff)
 * some salt (optional)

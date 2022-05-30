@@ -2,6 +2,7 @@
 title: "Nestor's guide to dating apps"
 draft: false
 comments: false
+date: 2022-01-08
 images:
 ---
 

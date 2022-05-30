@@ -10,7 +10,7 @@
     <item>
       <title>Nestor&#39;s guide to creating a blog</title>
       <link>https://nestordemeure.github.io/writing/guides/blogging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/guides/blogging/</guid>
       <description>Disclaimer: this guide is mostly about me keeping a trace of the process I followed to create this blog. I really wanted to use GitHub for the hosting and that leads to a lot of additional complexity that you should avoid if you are not used to writing code.
@@ -18,19 +18,9 @@ Hosting I used GitHub pages to host my blog, they are free but only support stat
     </item>
     
     <item>
-      <title>Nestor&#39;s guide to dating apps</title>
-      <link>https://nestordemeure.github.io/writing/guides/dating/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/guides/dating/</guid>
-      <description>General principles A lot of the following might seem obvious to you but, as what is obvious to some isn’t to others, I am putting a maximum of information here in the hope that you might find things that you do not already know.
-There are a lot of men per woman on those apps so women there are used to doing very little work and having a lot of choices to select from.</description>
-    </item>
-    
-    <item>
       <title>Nestor&#39;s guide to doing hard things</title>
       <link>https://nestordemeure.github.io/writing/guides/hard_things/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/guides/hard_things/</guid>
       <description>STATUS: DRAFT
@@ -40,6 +30,26 @@ be okay when it starts to be late and you have done nothing
 make it look good fast
 The easy path be conscious of the temtation to be lazy and do something &amp;ldquo;good enough&amp;rdquo; you will recognise it when you will think that it is too much effort for too little recompense
 the easy path</description>
+    </item>
+    
+    <item>
+      <title>Some heuristics I use</title>
+      <link>https://nestordemeure.github.io/writing/guides/heuristics/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/heuristics/</guid>
+      <description>STATUS: DRAFT
+ play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant be nice / kind / non-jugemental to people spend time on the things you like, as time and practice pile up you will end up skilled in those domain go for the things that are of interest to you, not for the trendy ones time spend automating tasks is usually time well spent taking a break to gather knowledge on something vaguely connected to the thing you are doing is never time lost when you have been procrastinating something for most of the day, declare that you will not do it today and that it is okay, it will free your mind to do other things instead of leaving you stuck try and do one, single and quantifiable, thing a day.</description>
+    </item>
+    
+    <item>
+      <title>Nestor&#39;s guide to dating apps</title>
+      <link>https://nestordemeure.github.io/writing/guides/dating/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/dating/</guid>
+      <description>General principles A lot of the following might seem obvious to you but, as what is obvious to some isn’t to others, I am putting a maximum of information here in the hope that you might find things that you do not already know.
+There are a lot of men per woman on those apps so women there are used to doing very little work and having a lot of choices to select from.</description>
     </item>
     
     <item>
@@ -66,16 +76,6 @@ identify lazyness things you could improve to make the result better but do not 
 story circle
 snowflake method
 make it look good fast</description>
-    </item>
-    
-    <item>
-      <title>Some heuristics I use</title>
-      <link>https://nestordemeure.github.io/writing/guides/heuristics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/guides/heuristics/</guid>
-      <description>STATUS: DRAFT
- play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant be nice / kind / non-jugemental to people spend time on the things you like, as time and practice pile up you will end up skilled in those domain go for the things that are of interest to you, not for the trendy ones time spend automating tasks is usually time well spent taking a break to gather knowledge on something vaguely connected to the thing you are doing is never time lost when you have been procrastinating something for most of the day, declare that you will not do it today and that it is okay, it will free your mind to do other things instead of leaving you stuck try and do one, single and quantifiable, thing a day.</description>
     </item>
     
   </channel>

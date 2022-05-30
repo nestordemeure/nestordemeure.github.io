@@ -2,6 +2,7 @@
 title: "Nestor's guide to doing hard things"
 draft: false
 comments: false
+date: 2022-05-29
 images:
 ---
 
