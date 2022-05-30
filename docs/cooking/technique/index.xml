@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techniques on Nestor Demeure</title>
+    <link>https://nestordemeure.github.io/cooking/technique/</link>
+    <description>Recent content in Techniques on Nestor Demeure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 24 May 2022 21:16:50 -0700</lastBuildDate><atom:link href="https://nestordemeure.github.io/cooking/technique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cutting a bellpepper</title>
+      <link>https://nestordemeure.github.io/cooking/technique/bellpepper/</link>
+      <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
+      
+      <guid>https://nestordemeure.github.io/cooking/technique/bellpepper/</guid>
+      <description>credit adam ragusea</description>
+    </item>
+    
+    <item>
+      <title>Cutting oignons</title>
+      <link>https://nestordemeure.github.io/cooking/technique/oignon/</link>
+      <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
+      
+      <guid>https://nestordemeure.github.io/cooking/technique/oignon/</guid>
+      <description>credit french guy cooking?</description>
+    </item>
+    
+    <item>
+      <title>Melting butter</title>
+      <link>https://nestordemeure.github.io/cooking/technique/melting_butter/</link>
+      <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
+      
+      <guid>https://nestordemeure.github.io/cooking/technique/melting_butter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melting chocolate</title>
+      <link>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</link>
+      <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
+      
+      <guid>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -31,7 +31,8 @@ The magicians you would watch even if they were just [making an omelette on stag
 Those magicians are *actual* actors in that they took the time to study acting and design a character that is worth watching (do not let their word fool you, even performers that [perform as amplified versions of themselves](https://youtu.be/Lo5BRAKvJoA) are putting their mask on as soon as they are in public).
 
 [^1]: Which still requires acting, even a stand-up comedian puts on a mask when they set foot on the stage.
-[^2]: I am using the word script loosely here. A lot of magicians think that having a script would make them look stilted and thus eschew them (it is definitely not a case of laziness or lack of knowledge as to [what a script actually is](https://www.goodreads.com/book/show/3195903-scripting-magic)).
+[^2]: I am using the word script loosely here. A lot of magicians think that having a script would make them look stilted and thus eschew them (it is definitely not a case of [taking the easy path]({{< ref "/writing/guides/hard_things.md#the easy path" >}})
+ or lack of knowledge as to [what a script actually is](https://www.goodreads.com/book/show/3195903-scripting-magic)).
 [^3]: Not realizing that even silent magicians, especially silent magicians, need to act. For example, [Teller](https://youtu.be/utJFs-30aDk) is a wonderfully expressive actor.
 
 ## What the quote actually means

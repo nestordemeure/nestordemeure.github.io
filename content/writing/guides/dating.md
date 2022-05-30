@@ -34,11 +34,11 @@ I also recommend **getting all the above apps** instead of focusing on one (mayb
 
 #### What do you put on your profile?
 
-**Use at least 3 pictures. All good quality** and putting you to your advantage (no need to try and put an honest picture, you want to aim for slightly better then in real life as picture will be the disqualifying factor in most cases). Try to be alone in the picture (the worst picture possible is a picture in which people do not identify you right away) and aim for pictures of you doing things you like rather than just standing.
+**Use at least 3 pictures. All good quality** and putting you to your advantage (no need to try and put an honest picture, you want to aim for slightly better than in real life as picture will be the disqualifying factor in most cases). Try to be alone in the picture (the worst picture possible is a picture in which people do not identify you right away) and aim for pictures of you doing things you like rather than just standing.
 
 **Get your profile verified**. Most apps have a mechanism to confirm that you are the person appearing on your profile picture (some even have mechanisms to signal that you are vaccinated).
 
-Your profile text should be kept **very short** (there is a lot of competition so people will not read long texts here). Give important information about yourself (kind of job, kind of hobbies, etc), **convey some personality** (personality is attractive, you want to differentiate yourself quickly from all the other men) and **be very clear about your expectations** (long term relationship).
+Your profile text should be kept **very short** (there is a lot of competition so people will not read long texts here). Give important information about yourself (kind of job, kind of hobbies, etc.), **convey some personality** (personality is attractive, you want to differentiate yourself quickly from all the other men) and **be very clear about your expectations** (long term relationship).
 
 #### Chatting on the app
 

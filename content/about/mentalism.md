@@ -13,11 +13,11 @@ Mentalism is an ensemble of techniques (including mnemotechnic, hypnosis, magic 
 
 One point that is worth stressing is that it is *neither* all real (magic tricks are great to make things look better / add some punch and anyone telling you they don't use them is either lying or very ignorant) *nor* all fake (anyone telling you otherwise is, similarly, likely ignorant or a magician who did some telepathy-themed tricks and think that it is all there is to it, the human mind is an amazing toy).
 
-If you want to be entertained by a world class mentalist, I highly recommend [watching some Derren Brown shorts on YouTube](https://www.youtube.com/c/OfficialDerren).
+If you want to be entertained by a world-class mentalist, I highly recommend [watching some Derren Brown shorts on YouTube](https://www.youtube.com/c/OfficialDerren).
 
 ## What does a consulting mentalist do?
 
-Usually people contact me because they want to do a particular demonstration on stage and I find a way to do it given their skillset, constraints and theme.
+Usually people contact me because they want to do a particular demonstration on stage and I find a way to do it given their skill set, constraints and theme.
 But it can also be building a full show around a theme or helping someone track older references on a subject they are researching.
 
 ## How do I contact you?

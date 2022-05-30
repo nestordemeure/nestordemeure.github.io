@@ -5,6 +5,8 @@ comments: false
 images:
 ---
 
+**STATUS: DRAFT**
+
 - play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant
 - be nice / kind / non-jugemental to people
 - spend time on the things you like, as time and practice pile up you will end up skilled in those domain

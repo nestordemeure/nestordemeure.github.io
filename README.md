@@ -14,4 +14,3 @@ To update, just add some content then run `publish.sh`.
 - add a picture?
 - display categories as rectangles on the main page?
 - have a list of posts from newer to older on the main page?
-- justify text

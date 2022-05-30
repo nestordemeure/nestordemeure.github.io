@@ -5,6 +5,8 @@ comments: false
 images:
 ---
 
+**STATUS: DRAFT**
+
 disclaimer: I have written non-fiction profesionaly in various fields by never published any fiction so take the following with the appropriate amoint of salt
 
 do a bad version first

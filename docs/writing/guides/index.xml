@@ -8,12 +8,13 @@
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/writing/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nestor&#39;s guide to being creative</title>
-      <link>https://nestordemeure.github.io/writing/guides/creativity/</link>
+      <title>Nestor&#39;s guide to creating a blog</title>
+      <link>https://nestordemeure.github.io/writing/guides/blogging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/guides/creativity/</guid>
-      <description>For me making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in all fields where I applied it (I am a PhD student in computeur science and act as a consultant for some magicians). I do not think that you can make a habit of producing good ideas but if you produce enough ideas you will end up producing at least a few good ones, it is only a matter of time.</description>
+      <guid>https://nestordemeure.github.io/writing/guides/blogging/</guid>
+      <description>Disclaimer: this guide is mostly about me keeping a trace of the process I followed to create this blog. I really wanted to use GitHub for the hosting and that leads to a lot of additional complexity that you should avoid if you are not used to writing code.
+Hosting I used GitHub pages to host my blog, they are free but only support static websites and, by default, force you to use their domain.</description>
     </item>
     
     <item>
@@ -28,14 +29,28 @@ There are a lot of men per woman on those apps so women there are used to doing 
     
     <item>
       <title>Nestor&#39;s guide to doing hard things</title>
-      <link>https://nestordemeure.github.io/writing/guides/doing-hard-things/</link>
+      <link>https://nestordemeure.github.io/writing/guides/hard_things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/guides/doing-hard-things/</guid>
-      <description>cut them into smaller things
+      <guid>https://nestordemeure.github.io/writing/guides/hard_things/</guid>
+      <description>STATUS: DRAFT
+cut them into smaller things
 do a small thing to lower the barrier of entry
 be okay when it starts to be late and you have done nothing
-make it look good fast</description>
+make it look good fast
+The easy path be conscious of the temtation to be lazy and do something &amp;ldquo;good enough&amp;rdquo; you will recognise it when you will think that it is too much effort for too little recompense
+the easy path</description>
+    </item>
+    
+    <item>
+      <title>Nestor&#39;s guide to having ideas</title>
+      <link>https://nestordemeure.github.io/writing/guides/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/ideas/</guid>
+      <description>STATUS: DRAFT
+Making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in all fields where I applied it I do not think that you can make a habit of producing good ideas but if you produce enough ideas you will end up producing at least a few good ones, it is only a matter of time.
+Also, having a good storage system lets me revisit ideas that were imperfect at a later point in time when I might have the correct frame of mind or knowledge to improve on them.</description>
     </item>
     
     <item>
@@ -44,13 +59,13 @@ make it look good fast</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
-      <description>disclaimer: I have written non-fiction profesionaly in various fields by never published any fiction so take the following with the appropriate amoint of salt
+      <description>STATUS: DRAFT
+disclaimer: I have written non-fiction profesionaly in various fields by never published any fiction so take the following with the appropriate amoint of salt
 do a bad version first
 identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
 story circle
 snowflake method
-make it look good fast
-(see also my guide on doing hard things)</description>
+make it look good fast</description>
     </item>
     
     <item>
@@ -59,7 +74,8 @@ make it look good fast
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/guides/heuristics/</guid>
-      <description>play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant be nice / kind / non-jugemental to people spend time on the things you like, as time and practice pile up you will end up skilled in those domain go for the things that are of interest to you, not for the trendy ones time spend automating tasks is usually time well spent taking a break to gather knowledge on something vaguely connected to the thing you are doing is never time lost when you have been procrastinating something for most of the day, declare that you will not do it today and that it is okay, it will free your mind to do other things instead of leaving you stuck try and do one, single and quantifiable, thing a day.</description>
+      <description>STATUS: DRAFT
+ play to your strengths, being balanced sounds nice but end up being really unproductive / un-pleasant be nice / kind / non-jugemental to people spend time on the things you like, as time and practice pile up you will end up skilled in those domain go for the things that are of interest to you, not for the trendy ones time spend automating tasks is usually time well spent taking a break to gather knowledge on something vaguely connected to the thing you are doing is never time lost when you have been procrastinating something for most of the day, declare that you will not do it today and that it is okay, it will free your mind to do other things instead of leaving you stuck try and do one, single and quantifiable, thing a day.</description>
     </item>
     
   </channel>
