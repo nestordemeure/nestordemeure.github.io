@@ -58,7 +58,7 @@ This means that you end up producing more good ideas on the long run.
 
 ## You are now creative
 
-I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research.md), [software engineering](/content/about/software.md) and [mentalism](/content/about/mentalism.md)). 
+I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research), [software engineering](/content/about/software) and [mentalism](/content/about/mentalism)). 
 
 Since then, I found that making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in *all* fields where I applied it.
 

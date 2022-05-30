@@ -27,3 +27,13 @@ I thus decided to use [Hugo](https://gohugo.io/), following [this excellent tuto
 
 Hugo supports [a large number of themes](https://themes.gohugo.io/) and lets you customize things fairly easily.
 So far I have barely scratched the surface.
+
+## Writing the content
+
+I first drew from previous texts I wrote for friends and message board as well as personal text I kept in folders (this explains why some dates are anterior to the creation of the blog).
+
+As I am not aiming for a chronological blog, I did not hesitate to come back to previous texts and edit them heavily in order to improve them.
+My aim is to keep doing this, coming back to texts from time to time when I see a way to improve them.
+
+I have some essays and themes in mind for the new content.
+I suspect that a key will be to make a note whenever a possible topic cross my mind.

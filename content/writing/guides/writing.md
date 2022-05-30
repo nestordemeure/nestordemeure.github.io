@@ -1,5 +1,6 @@
 ---
 title: "Nestor's guide to writing"
+date: 2022-05-29
 draft: false
 comments: false
 images:
@@ -7,7 +8,7 @@ images:
 
 **STATUS: DRAFT**
 
-disclaimer: I have written non-fiction profesionaly in various fields by never published any fiction so take the following with the appropriate amoint of salt
+**Disclaimer:** I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt.
 
 do a bad version first
 
@@ -22,4 +23,4 @@ snowflake method
 
 make it *look* good fast
 
-(see also my guide on doing hard things)
+(see also my [guide to doing a large project](/writing/guides/hard_things))

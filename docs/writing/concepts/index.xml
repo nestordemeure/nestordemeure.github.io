@@ -56,5 +56,16 @@ One good tip I got to rubber duck debug without another human was to write your 
 It also applies to debugging the human mind.</description>
     </item>
     
+    <item>
+      <title>The easy path</title>
+      <link>https://nestordemeure.github.io/writing/concepts/easy_path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/easy_path/</guid>
+      <description>STATUS: DRAFT
+The opposite of wanting something to be perfect is following the easy path. Meaning: knowing that some things could be done to make your project objectively better but keeping with the current version because it is &amp;ldquo;good enough&amp;rdquo;.
+This, as long as the modification would be within scope and allotted time, is a form of laziness. However, it is insidious, all parts of a project have to be considered &amp;ldquo;good enough&amp;rdquo; before you let go of them to tackle the next step, it is very easy to not realize that your motivation shifted from an objective look at the quality of your work toward avoiding additional work to the detriment of the end result.</description>
+    </item>
+    
   </channel>
 </rss>

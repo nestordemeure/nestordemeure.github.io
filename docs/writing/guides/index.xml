@@ -18,6 +18,31 @@ Hosting I used GitHub pages to host my blog, they are free but only support stat
     </item>
     
     <item>
+      <title>Nestor&#39;s guide to doing a large project</title>
+      <link>https://nestordemeure.github.io/writing/guides/hard_things/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/hard_things/</guid>
+      <description>Tackling a large project (this applies to anything including a book, a piece of software or a movie for example) can be daunting. Suddenly it is not a sprint to the end of a task but, rather, an endurance race that requires regularly renewed dedication: something school and early life does not prepare you for.
+These are my solutions to tackle large projects (you will find some overlap with my guide to doing the things you love well and my guide to writing).</description>
+    </item>
+    
+    <item>
+      <title>Nestor&#39;s guide to writing</title>
+      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
+      <description>STATUS: DRAFT
+Disclaimer: I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt.
+do a bad version first
+identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
+story circle
+snowflake method
+make it look good fast</description>
+    </item>
+    
+    <item>
       <title>Nestor&#39;s guide to dating apps</title>
       <link>https://nestordemeure.github.io/writing/guides/dating/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
@@ -44,36 +69,6 @@ Hosting I used GitHub pages to host my blog, they are free but only support stat
       <guid>https://nestordemeure.github.io/writing/guides/ideas/</guid>
       <description>No one is born uncreative Some people have told me that they are not creative. It usually stems from them thinking that creativity is an innate gift: some people are born with a brain that overflow with ideas at regular intervals while others stay dry for most of their life.
 In practice, I found creativity to be a muscle. The more you try to use it and the easier it gets.</description>
-    </item>
-    
-    <item>
-      <title>Nestor&#39;s guide to doing hard things</title>
-      <link>https://nestordemeure.github.io/writing/guides/hard_things/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/guides/hard_things/</guid>
-      <description>STATUS: DRAFT
-cut them into smaller things
-do a small thing to lower the barrier of entry
-be okay when it starts to be late and you have done nothing
-make it look good fast
-The easy path be conscious of the temtation to be lazy and do something &amp;ldquo;good enough&amp;rdquo; you will recognise it when you will think that it is too much effort for too little recompense
-the easy path</description>
-    </item>
-    
-    <item>
-      <title>Nestor&#39;s guide to writing</title>
-      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
-      <description>STATUS: DRAFT
-disclaimer: I have written non-fiction profesionaly in various fields by never published any fiction so take the following with the appropriate amoint of salt
-do a bad version first
-identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
-story circle
-snowflake method
-make it look good fast</description>
     </item>
     
   </channel>
