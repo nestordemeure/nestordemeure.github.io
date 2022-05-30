@@ -5,5 +5,5 @@ comments: false
 images:
 ---
 
-Most of my reviews are biased toward positivity.
-The one exeption might be movie reviews, I am less picky in the movies I watch so end end up with a wider spectrum of positions.
+While most of the [things I like and other reviews](/likes/) section is biased toward positivity, movies are the one exception.
+I am less pick about the movie I watch and, as a result, end up with a wider spectrum of feelings about my watching experience.

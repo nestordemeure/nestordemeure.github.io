@@ -2,6 +2,7 @@
 title: "Eldritch Academia"
 draft: false
 comments: false
+date: 2021-09-29
 images:
 ---
 
