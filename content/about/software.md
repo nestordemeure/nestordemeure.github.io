@@ -48,7 +48,7 @@ This crate tries to be small yet *really* fast, compatible with parallelism and 
 
 Flax Optimizers is a collection of optimizers for the [Flax deep learning framework](https://github.com/google/flax).
 
-Nowadays, it has been supplanted by [Deepmind's optax](https://github.com/deepmind/optax) but it reflects a lot of work I did to test various optimizers while working on [Ranger21](https://github.com/lessw2020/Ranger21) and I believe it contains some of the most readable implementations of the optimizers it includes.
+Nowadays, it has been supplanted by [Deepmind's optax](https://github.com/deepmind/optax) but it reflects a lot of work I did to test various optimizers while collaborating on [Ranger21](https://github.com/lessw2020/Ranger21) and I believe it contains some of the most readable implementations of the optimizers it includes.
 
 #### [Simplers](https://github.com/nestordemeure/Simplers) (Rust)
 
