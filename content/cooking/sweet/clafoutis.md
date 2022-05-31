@@ -14,7 +14,7 @@ They are also a great way to turn fruits into a cake that looks very pretty whil
 * about 500grams (you want to cover your pan with a nice layer) of a mix of cherries and apricots (stones fruits such as cherries, plums apricots and peaches feel like a better match but it works with pretty much anything including bananas and rhubarb, I like a mix of cherries and apricots to vary colors and flavors)
 * 4 eggs
 * 100 grams of flour
-* 60 grams of salted butter (you could use olive oil and some salt, the taste would differ but that still makes for a good cake)
+* 60 grams of salted butter (you could use an equal weight of olive oil and some salt, the taste would differ but that still makes for a good cake)
 * 100 grams of sugar (could be reduced according to taste)
 * 25cl of milk
 * some vanilla extract (optional)
@@ -41,7 +41,7 @@ They are also a great way to turn fruits into a cake that looks very pretty whil
 * serve at room temperature (it is also great cold after a few hours in the fridge)
 * you can (optionally) dust the top with powdered white sugar just before serving if you are serving cold (this is purely esthetic)
 
-## Credits
+## Credits:
 
 This clafoutis batter is pretty classic and can be found all over the web.
 The fruit selection is mine but probably not original.

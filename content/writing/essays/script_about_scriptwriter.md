@@ -8,6 +8,8 @@ images:
 
 **STATUS: DRAFT**
 
+> "Bad books on writing and thoughtless English professors solemnly tell beginners to Write What You Know, which explains why so many mediocre novels are about English professors contemplating adultery." -- Joe Haldeman
+
 I believe there is an inherent lazyness to people writing about their own profession
 book, scriptwriter, mangaka, moviemaker
 
@@ -22,4 +24,6 @@ but i believe it is lazy in that they choose something easy rather than the prof
 one might argue that i don't know those stories as well as their author and that it might ve the perfect profession!
 but given the number of overwhelming number of scriptwriters in movis, I have a strong, statistically guided, suspicion that there are not that many story for which the best main protagonist's job would be script writer...
 
-[the easy path]({{< ref "/writing/guides/hard_things.md#the easy path" >}})
+[the easy path](/writing/concepts/easy_path)
+
+It has even become a [trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/MostWritersAreWriters)

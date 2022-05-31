@@ -20,7 +20,7 @@ I am writing it so that it can be saved for future generation to enjoy (if you w
 * a few spoonfuls of sugar (white is fine, brown is better, [cassonade/vergeoise](https://store.belgianshop.com/sugars/91-tirlemont-cassonade-graeffe-1kg.html) is traditional)
 * 125 grams of salted butter (butter is good, salted is better)
 
-#### Toping:
+#### Toping
 
 * one egg,
 * one egg's worth of milk,

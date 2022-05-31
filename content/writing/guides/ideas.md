@@ -48,8 +48,8 @@ Your own system might vary but I like the simplicity of working off a folder of 
 
 Doing so, you will start to develop your own ideas.
 This is where the magic happens.
-
 There are three ways a new idea usually pops into existence during that process:
+
 * you might find a way to incrementally improve an existing idea,
 * you might see a connection between two, previously unrelated, ideas (covering a wide range of ideas helps with this as it favors cross pollination between fields) that comes together as the two pieces of a puzzle,
 * you might even *misunderstand* something, realize your mistake and discover that you came up with a brand new and very clever solution!
@@ -58,8 +58,9 @@ Once you have an idea, it is time to store your own ideas in a dedicated system.
 
 #### Organizing your own ideas
 
-For my ideas I use one folder per category, containing one file per idea[^2].
+For my ideas I use one folder per category, containing one file per idea[^2] (rather than a file per category).
 Thus, I can easily find an idea and I have space to expand on it.
+
 I recommend taking the time to detail the idea (something obvious now might not be obvious in six months) and detail where it came from as well as all credits that come to mind.
 Knowing where you ideas came from is important both out of respect for the sources that inspired you and because it helps you realize *which* sources are inspiring you.
 
@@ -72,6 +73,7 @@ This means that you end up producing more good ideas on the long run.
 
 I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research), [software engineering](/content/about/software) and [mentalism](/content/about/mentalism)). 
 
+I want to stress that this process is not the only way to try and produce good idea, it is just my preferred approach and an approach that is reproducible.
 Since then, I found that making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in *all* fields where I applied it.
 
 I highly recommend that you try it.

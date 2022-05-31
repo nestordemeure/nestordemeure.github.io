@@ -42,7 +42,7 @@ This one is pimped with chocolate chips, cinnamon, vanilla extract and lemon jui
 * cook for about 30 minutes at 350F (or 180C) (cooking time will vary, you basically want it to be golden on top but don't need more than that)
 * let it get down to room temperature before serving (it is also great cold, after a night in the fridge, the next day)
 
-## Credits
+## Credits:
 
 Not much, the basic crumble batter is a classic that you find all over the internet.
 The additions are mine but they follow fairly standard practices.

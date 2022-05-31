@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/us_pie_crust/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/technique/melting_butter/</loc>
+    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</loc>
+    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/</loc>
+    <lastmod>2022-05-30T12:24:49-07:00</lastmod>
+  </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/magician_is_actor/</loc>
     <lastmod>2022-05-29T18:30:30-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/script_about_scriptwriter/</loc>
     <lastmod>2022-05-29T18:30:30-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-05-29T21:56:15-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/blogging/</loc>
     <lastmod>2022-05-29T21:56:15-07:00</lastmod>
@@ -35,12 +44,6 @@
     <loc>https://nestordemeure.github.io/cooking/technique/oignon/</loc>
     <lastmod>2022-05-29T17:34:50-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/technique/melting_butter/</loc>
-    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</loc>
-    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
-  </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/krautburger/</loc>
     <lastmod>2022-05-29T20:16:38-07:00</lastmod>
   </url><url>
@@ -63,7 +66,7 @@
     <lastmod>2022-05-29T20:16:38-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/ideas/</loc>
-    <lastmod>2022-05-29T21:56:15-07:00</lastmod>
+    <lastmod>2022-05-30T12:24:49-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/about/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>

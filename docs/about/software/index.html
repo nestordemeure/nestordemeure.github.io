@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Nestor Demeure ">
-<meta name="description" content="STATUS: DRAFT
-I am an engineer with a speciality in applied mathematics and computeur science.
-List of some noticeable codes i published my github and gitlab" />
+<meta name="description" content="I am an engineer1 with a specialty in applied mathematics and computer science.
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
+Shaman (C&#43;&#43;) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -45,27 +45,27 @@ List of some noticeable codes i published my github and gitlab" />
 
 
 <meta itemprop="name" content="Software I wrote">
-<meta itemprop="description" content="STATUS: DRAFT
-I am an engineer with a speciality in applied mathematics and computeur science.
-List of some noticeable codes i published my github and gitlab">
+<meta itemprop="description" content="I am an engineer1 with a specialty in applied mathematics and computer science.
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
+Shaman (C&#43;&#43;) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version.">
 <meta itemprop="dateModified" content="2022-05-29T17:34:50-07:00" />
-<meta itemprop="wordCount" content="26"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
+<meta itemprop="wordCount" content="547"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://nestordemeure.github.io/"/>
 
 <meta name="twitter:title" content="Software I wrote"/>
-<meta name="twitter:description" content="STATUS: DRAFT
-I am an engineer with a speciality in applied mathematics and computeur science.
-List of some noticeable codes i published my github and gitlab"/>
+<meta name="twitter:description" content="I am an engineer1 with a specialty in applied mathematics and computer science.
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
+Shaman (C&#43;&#43;) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version."/>
 
 
 
 
     <meta property="og:title" content="Software I wrote" />
-<meta property="og:description" content="STATUS: DRAFT
-I am an engineer with a speciality in applied mathematics and computeur science.
-List of some noticeable codes i published my github and gitlab" />
+<meta property="og:description" content="I am an engineer1 with a specialty in applied mathematics and computer science.
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
+Shaman (C&#43;&#43;) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nestordemeure.github.io/about/software/" /><meta property="og:image" content="https://nestordemeure.github.io/"/><meta property="article:section" content="about" />
 
@@ -146,10 +146,44 @@ List of some noticeable codes i published my github and gitlab" />
             
 
             <div class="post-content">
-                <p><strong>STATUS: DRAFT</strong></p>
-<p>I am an engineer with a speciality in applied mathematics and computeur science.</p>
-<p>List of some noticeable codes i published
-my github and gitlab</p>
+                <p>I am an engineer<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> with a specialty in applied mathematics and computer science.</p>
+<p>You can find most of the software I developed on <a href="https://github.com/nestordemeure">Github</a> and <a href="https://gitlab.com/nestordemeure">Gitlab</a>.
+Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:</p>
+<h4 id="shamanhttpsgitlabcomnumerical_shamanshaman-c"><a href="https://gitlab.com/numerical_shaman/shaman">Shaman</a> (C++)</h4>
+<p>Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (<code>double</code> becomes <code>Sdouble</code>) with instrumented version.</p>
+<p>I am, understandably, <em>very</em> proud of it.
+It was developed to be accurate (otherwise there is no point) but also fast enough to be applied to large simulations running in parallel on a supercomputer.</p>
+<p>There is also a <a href="https://gitlab.com/numerical_shaman/shaman_julia">Julia version</a> available.</p>
+<h4 id="friedrichhttpsgithubcomnestordemeurefriedrich-rust"><a href="https://github.com/nestordemeure/friedrich">Friedrich</a> (Rust)</h4>
+<p>Friedrich is an implementation of Gaussian process in Rust (to the best of my knowledge it is the best implementation currently available on crates.io).</p>
+<p>I believe that it is my fifth or sixth implementation of Gaussian process (some of them <a href="https://github.com/nestordemeure/tabularGP">published</a>) and, while still very imperfect, I think I succeeded at making it very practical: anyone who had to fight with failed Cholesky decompositions will be happy to discover that we provide a solution that does not destroy your uncertainty bounds&hellip; also, we make it very easy to sample from the distribution (which is useful but not that often featured in other implementations).</p>
+<h4 id="pandas2numpyhttpsgithubcomnestordemeurepandas2numpy-python"><a href="https://github.com/nestordemeure/pandas2numpy">Pandas2Numpy</a> (Python)</h4>
+<p>Pandas2Numpy helps you convert Pandas dataframes into Numpy tensors to feed them to your deep learning framework of choice.</p>
+<p>This one is easily overlooked but I would highly recommend using it if you need to run some deep learning on tabular data.
+It <em>will</em> cut on a lot of unexpected debugging time while being simple to use and plug into any existing framework.</p>
+<p>It deals with continuous as well as categorical data and integrates common transformations such as normalization.</p>
+<h4 id="paretofronthttpsgithubcomnestordemeureparetofront-rust"><a href="https://github.com/nestordemeure/paretoFront">ParetoFront</a> (Rust)</h4>
+<p>ParetoFront is a Rust library to build a <a href="https://en.wikipedia.org/wiki/Pareto_front">Pareto front</a> incrementally.</p>
+<p>This is particularly useful in multi-objectives optimization where, instead of having a single maximum that one can easily keep track off, one might want to keep track of various trade-offs, none of which is best on all axis, found during the optimization.</p>
+<p>This crate tries to be small yet <em>really</em> fast, compatible with parallelism and correct.</p>
+<h4 id="flax-optimizershttpsgithubcomnestordemeureflaxoptimizers-python"><a href="https://github.com/nestordemeure/flaxOptimizers">Flax Optimizers</a> (Python)</h4>
+<p>Flax Optimizers is a collection of optimizers for the <a href="https://github.com/google/flax">Flax deep learning framework</a>.</p>
+<p>Nowadays, it has been supplanted by <a href="https://github.com/deepmind/optax">Deepmind&rsquo;s optax</a> but it reflects a lot of work I did to test various optimizers while working on <a href="https://github.com/lessw2020/Ranger21">Ranger21</a> and I believe it contains some of the most readable implementations of the optimizers it includes.</p>
+<h4 id="simplershttpsgithubcomnestordemeuresimplers-rust"><a href="https://github.com/nestordemeure/Simplers">Simplers</a> (Rust)</h4>
+<p>Simplers is a Rust implementation of the, very elegant, <a href="https://github.com/chrisstroemel/Simple">Simple(x) black-box global optimization algorithm</a>.</p>
+<p>The algorithm (which should not be confused with the <a href="https://en.wikipedia.org/wiki/Simplex_algorithm">simplex algorithm</a>) is closest to <a href="https://en.wikipedia.org/wiki/Bayesian_optimization">Bayesian optimization</a>.
+Its strengths, compared to Bayesian optimization, are the ability to deal with a large number of samples and high dimension efficiently.</p>
+<h4 id="kronmult993httpsgithubcomproject-asgardkronmult993-c"><a href="https://github.com/project-asgard/kronmult993">Kronmult993</a> (C++)</h4>
+<p>Kronmult993 implements a batch version of a chained Kronecker product using <a href="https://dl.acm.org/doi/abs/10.1145/3291041">Algorithm 993</a>.</p>
+<p>The library includes efficient parallel implementations, for both CPU (using OpenMP) and GPU (using CUDA), that have been tuned for the needs of <a href="https://github.com/project-asgard/asgard">ASGarD</a>.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>I don&rsquo;t mean a software engineer, I have an actual engineering diploma from a <a href="https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_pour_l%27industrie_et_l%27entreprise">French engineering school</a> (also, I am a software engineer).&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 
             </div>
         </article>

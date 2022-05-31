@@ -35,9 +35,9 @@ list of my notable publications with some description my researchgate</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/about/software/</guid>
-      <description>STATUS: DRAFT
-I am an engineer with a speciality in applied mathematics and computeur science.
-List of some noticeable codes i published my github and gitlab</description>
+      <description>I am an engineer1 with a specialty in applied mathematics and computer science.
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
+Shaman (C++) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version.</description>
     </item>
     
   </channel>
