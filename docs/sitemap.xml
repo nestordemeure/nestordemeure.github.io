@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nestordemeure.github.io/</loc>
+    <lastmod>2022-05-30T21:33:48-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/guides/writing/</loc>
+    <lastmod>2022-05-29T21:56:15-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts/easy_path/</loc>
+    <lastmod>2022-05-29T21:56:15-07:00</lastmod>
+  </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/us_pie_crust/</loc>
     <lastmod>2022-05-30T21:26:34-07:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2022-05-30T21:26:34-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</loc>
-    <lastmod>2022-05-30T21:26:34-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/</loc>
     <lastmod>2022-05-30T21:26:34-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/magician_is_actor/</loc>
@@ -26,8 +32,8 @@
     <loc>https://nestordemeure.github.io/writing/guides/hard_things/</loc>
     <lastmod>2022-05-29T21:56:15-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/writing/guides/writing/</loc>
-    <lastmod>2022-05-29T21:56:15-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/writing/essays/school_prison/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/pasta_ratatouille/</loc>
     <lastmod>2022-05-29T20:16:38-07:00</lastmod>
@@ -145,7 +151,7 @@
     <loc>https://nestordemeure.github.io/series/</loc>
   </url><url>
     <loc>https://nestordemeure.github.io/about/software/</loc>
-    <lastmod>2022-05-30T21:26:34-07:00</lastmod>
+    <lastmod>2022-05-30T21:33:48-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>
@@ -154,9 +160,6 @@
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/technique/</loc>
     <lastmod>2022-05-29T17:34:50-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/writing/concepts/easy_path/</loc>
-    <lastmod>2022-05-29T21:56:15-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/</loc>
     <lastmod>2022-05-27T16:44:41-07:00</lastmod>

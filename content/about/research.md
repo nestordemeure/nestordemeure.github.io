@@ -7,7 +7,7 @@ images:
 
 **STATUS: DRAFT**
 
-I am a researcher with a specialty in numerical accuracy, artificial inteligence and high performance computing.
+I am a researcher with a specialty in numerical accuracy, artificial intelligence and high performance computing.
 
 list of my notable publications with some description
 my researchgate

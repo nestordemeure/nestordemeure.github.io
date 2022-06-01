@@ -7,7 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nestordemeure.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nestordemeure.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nestor&#39;s guide to writing</title>
+      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
+      <description>STATUS: DRAFT
+Disclaimer: I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt. Also, a lot of this advice is shared with my guide to doing a large project. I highly recommend that you consult it.
+Make it look good fast This does not apply to all texts but I found that, when possible, making my draft look as close as possible to the final result is highly motivating.</description>
+    </item>
+    
+    <item>
+      <title>The easy path</title>
+      <link>https://nestordemeure.github.io/writing/concepts/easy_path/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/easy_path/</guid>
+      <description>The opposite of wanting something to be perfect is following the easy path: knowing that some things could be done to make your project objectively better but keeping the current version because it is &amp;ldquo;good enough&amp;rdquo;.
+This, as long as the modification would be within scope and allotted time1, is a form of laziness. However, it is insidious, all parts of a project have to be considered &amp;ldquo;good enough&amp;rdquo; before you let go of them to tackle the next step, it is very easy to not realize that your motivation shifted from an objective look at the quality of your work toward avoiding additional work to the detriment of the end result.</description>
+    </item>
+    
     <item>
       <title>Chef John&#39;s US pie crust</title>
       <link>https://nestordemeure.github.io/cooking/sweet/us_pie_crust/</link>
@@ -15,7 +36,7 @@
       
       <guid>https://nestordemeure.github.io/cooking/sweet/us_pie_crust/</guid>
       <description>This pie dough is easy to make and taste pretty much perfect for a US style pie (with crust below and above the pie). Plus, leftover dough can be stored in the fridge for later use.
-Ingredients (for one pie):  300 grams of flour 20 grams of sugar (optional) 227 grams of salted butter (get it out of the fridge as soon as you start to raise its temperature and make your job easier) 53 grams of water 8 grams of apple cider vinegar (needs testing to see how impactful it is)  Preparation:  put the flour in a large bowl add the sugar add the butter diced or sliced into thin slice (to simplify the mixing) with one hand mix the dough until you get a crumbly / flaky consistency add half of the water plus the vinegar and mix add the leftover water and mix into a ball  Cooking:  You might want to prebake the bottom of our pie (for a European style pie) or let you pie cook for a long time.</description>
+Ingredients (for one pie):  300 grams of flour 20 grams of sugar (optional) 227 grams of salted butter (get it out of the fridge as soon as you start to raise its temperature and make your job easier) 53 grams of water 8 grams of apple cider vinegar (needs testing to see how impactful it is)  Preparation:  put the flour in a large bowl add the sugar add the butter diced or sliced into thin slice (to simplify the mixing) with one hand mix the dough until you get a crumbly / flaky consistency add half of the water plus the vinegar and mix add the leftover water and mix into a ball cut the ball in two and refrigerate 30 minutes while you prepare the fillings  Cooking:  You might want to prebake the bottom of our pie (for a European style pie) or let you pie cook for a long time.</description>
     </item>
     
     <item>
@@ -82,18 +103,17 @@ These are my solutions to tackle large projects (you will find some overlap with
     </item>
     
     <item>
-      <title>Nestor&#39;s guide to writing</title>
-      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
+      <title>Schools are not prisons</title>
+      <link>https://nestordemeure.github.io/writing/essays/school_prison/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
+      <guid>https://nestordemeure.github.io/writing/essays/school_prison/</guid>
       <description>STATUS: DRAFT
-Disclaimer: I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt.
-do a bad version first
-identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
-story circle
-snowflake method
-make it look good fast</description>
+There is growing trend that assimilate school to prisons.
+Disclaimer: I went to school in France, your experience may vary considerably depending on where you went to school.
+what it says and how
+the reality depends on where you went to school depends on what school does not all educational systens are equal
+synthesis</description>
     </item>
     
     <item>
@@ -322,7 +342,7 @@ definition example its a rethoric device it also, and more importantly, applies 
       
       <guid>https://nestordemeure.github.io/about/research/</guid>
       <description>STATUS: DRAFT
-I am a researcher with a specialty in numerical accuracy, artificial inteligence and high performance computing.
+I am a researcher with a specialty in numerical accuracy, artificial intelligence and high performance computing.
 list of my notable publications with some description my researchgate</description>
     </item>
     
@@ -346,17 +366,6 @@ It also applies to debugging the human mind.</description>
       <description>I am an engineer1 with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
 Shaman (C++) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version.</description>
-    </item>
-    
-    <item>
-      <title>The easy path</title>
-      <link>https://nestordemeure.github.io/writing/concepts/easy_path/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts/easy_path/</guid>
-      <description>STATUS: DRAFT
-The opposite of wanting something to be perfect is following the easy path. Meaning: knowing that some things could be done to make your project objectively better but keeping with the current version because it is &amp;ldquo;good enough&amp;rdquo;.
-This, as long as the modification would be within scope and allotted time, is a form of laziness. However, it is insidious, all parts of a project have to be considered &amp;ldquo;good enough&amp;rdquo; before you let go of them to tackle the next step, it is very easy to not realize that your motivation shifted from an objective look at the quality of your work toward avoiding additional work to the detriment of the end result.</description>
     </item>
     
   </channel>

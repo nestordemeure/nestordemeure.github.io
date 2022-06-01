@@ -8,6 +8,16 @@
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/writing/concepts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The easy path</title>
+      <link>https://nestordemeure.github.io/writing/concepts/easy_path/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/concepts/easy_path/</guid>
+      <description>The opposite of wanting something to be perfect is following the easy path: knowing that some things could be done to make your project objectively better but keeping the current version because it is &amp;ldquo;good enough&amp;rdquo;.
+This, as long as the modification would be within scope and allotted time1, is a form of laziness. However, it is insidious, all parts of a project have to be considered &amp;ldquo;good enough&amp;rdquo; before you let go of them to tackle the next step, it is very easy to not realize that your motivation shifted from an objective look at the quality of your work toward avoiding additional work to the detriment of the end result.</description>
+    </item>
+    
+    <item>
       <title>Consummers and producers</title>
       <link>https://nestordemeure.github.io/writing/concepts/consumers_producers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,17 +64,6 @@ definition example its a rethoric device it also, and more importantly, applies 
       <description>STATUS: DRAFT
 One good tip I got to rubber duck debug without another human was to write your questions / explanations in an email or a chat. I found that indeed, writing an email explaining a problem to a colleague was helpful to solve it despite me never sending the email.
 It also applies to debugging the human mind.</description>
-    </item>
-    
-    <item>
-      <title>The easy path</title>
-      <link>https://nestordemeure.github.io/writing/concepts/easy_path/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/concepts/easy_path/</guid>
-      <description>STATUS: DRAFT
-The opposite of wanting something to be perfect is following the easy path. Meaning: knowing that some things could be done to make your project objectively better but keeping with the current version because it is &amp;ldquo;good enough&amp;rdquo;.
-This, as long as the modification would be within scope and allotted time, is a form of laziness. However, it is insidious, all parts of a project have to be considered &amp;ldquo;good enough&amp;rdquo; before you let go of them to tackle the next step, it is very easy to not realize that your motivation shifted from an objective look at the quality of your work toward avoiding additional work to the detriment of the end result.</description>
     </item>
     
   </channel>

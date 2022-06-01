@@ -8,6 +8,17 @@
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/writing/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nestor&#39;s guide to writing</title>
+      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
+      <description>STATUS: DRAFT
+Disclaimer: I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt. Also, a lot of this advice is shared with my guide to doing a large project. I highly recommend that you consult it.
+Make it look good fast This does not apply to all texts but I found that, when possible, making my draft look as close as possible to the final result is highly motivating.</description>
+    </item>
+    
+    <item>
       <title>Nestor&#39;s guide to creating a blog</title>
       <link>https://nestordemeure.github.io/writing/guides/blogging/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
@@ -25,21 +36,6 @@ Hosting I used GitHub pages to host my blog, they are free but only support stat
       <guid>https://nestordemeure.github.io/writing/guides/hard_things/</guid>
       <description>Tackling a large project (this applies to anything including a book, a piece of software or a movie for example) can be daunting. Suddenly it is not a sprint to the end of a task but, rather, an endurance race that requires regularly renewed dedication: something school and early life does not prepare you for.
 These are my solutions to tackle large projects (you will find some overlap with my guide to doing the things you love well and my guide to writing).</description>
-    </item>
-    
-    <item>
-      <title>Nestor&#39;s guide to writing</title>
-      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
-      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
-      <description>STATUS: DRAFT
-Disclaimer: I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt.
-do a bad version first
-identify lazyness things you could improve to make the result better but do not improve because you think it is good enough even if you know it would make it better
-story circle
-snowflake method
-make it look good fast</description>
     </item>
     
     <item>
