@@ -1,6 +1,6 @@
 ---
 title: "A script about a scriptwriter"
-draft: false
+draft: true
 comments: false
 date: 2022-05-29
 images:

@@ -1,6 +1,6 @@
 ---
 title: "Schools are not prisons"
-draft: false
+draft: true
 comments: false
 date: 2022-05-29
 images:

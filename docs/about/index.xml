@@ -24,9 +24,9 @@ One point that is worth stressing is that it is neither all real (magic tricks a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/about/research/</guid>
-      <description>STATUS: DRAFT
-I am a researcher with a specialty in numerical accuracy, artificial intelligence and high performance computing.
-list of my notable publications with some description my researchgate</description>
+      <description>I am a researcher with specialties in numerical accuracy, artificial intelligence, data analysis and high performance computing.
+Papers You can find most of my publications on Researchgate. Here is a list of them in no particular order:
+Ranger21: a synergistic deep learning optimizer (machine learning) The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people where branding them as new optimizers, they often just included one new idea to an existing optimizer.</description>
     </item>
     
     <item>
