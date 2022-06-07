@@ -67,6 +67,8 @@ We showed that we could predict the convergence profile of the solver with enoug
 
 ## Posters
 
+Here are some poster I presented:
+
 #### [A Direct Method to Assess Floating-Point Accuracy](https://drive.google.com/file/d/1GNm7FKPzk9YUpYDiCeoIgLMvE9FJbPlP/view?usp=sharing) (numerical accuracy)
 
 This poster (presented in 2021 at the *Platform for Advanced Scientific Computing (PASC)* Conference) covers my works on measuring numerical error and tracing it through a computation.

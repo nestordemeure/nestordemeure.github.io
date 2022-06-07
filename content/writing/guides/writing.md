@@ -1,63 +1,74 @@
 ---
 title: "Nestor's guide to writing"
-date: 2022-05-31
+date: 2022-06-06
 draft: false
 comments: false
 images:
 ---
 
-**STATUS: DRAFT**
-
 **Disclaimer:** I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt.
 Also, a lot of this advice is shared with my [guide to doing a large project](/writing/guides/hard_things). I highly recommend that you consult it.
 
-## Make it look good fast
-
-This does not apply to all texts but I found that, when possible, making my draft look as close as possible to the final result is highly motivating.
-This can sometimes be done by having a tool to export your draft as a formatted PDF ([LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) and [Overleaf](https://www.overleaf.com/) are great for that), HTML, etc.
-
-The key idea is that it helps you see your project *as a finished product* with holes to be filled rather than as a never-ending draft.
-While purely a matter of perspective, it puts you in the right state of mind to finish the project rather than leave it beautiful but unfinished.
-
 ## Do a bad version first
 
-There is always a block to overcome at the very beginning of a project.
+Stealing advice from [Dan Harmon](https://en.wikipedia.org/wiki/Dan_Harmon), *write something bad*.
 
-Stealing advice from [Dan Harmon](https://en.wikipedia.org/wiki/Dan_Harmon), I would recommend that you start by making a *bad* version.
-Knowing that your first draft *will be bad* frees you from the urge to try and make it perfect, you can just focus on writing all the things that needs to be written.
+The human mind is terrible at writing something perfect in one go but very good at criticizing things.
+So, instead of getting stuck on trying to write a good first draft, let's accept that it will be bad and push forward until we have writen all the things that need to be written.
+Then, you can improve it progressively to make it good.
 
-The trick is that, while the human mind is bad at producing a perfect text in one go, it is quite good at taking something and giving constructive criticism.
-Once you have written your first draft, you can come back to it and improve on it iteratively until you see no more defects.
+That frees you from writing blocks (just write, nevermind that it is bad) and shows you the proper way to producing something good: iterating on it.
 
 ## Give yourself time
 
 When you work on a piece of text, your mind gets used to it and its quirks. You lose the ability to judge it objectively.
 
-My solution is to do a few passes on the text then, once it stops evolving, wait.
-Give myself days away from the text, both writing *and reading*, before going back to it.
+My solution is to do a few passes on the text then, once it stops evolving, *wait*.
+Give myself a handful of days away from the text, both writing *and reading*, before going back to it.
+I then do as many passes as I can before it stops evolving once more and repeat the cycle as many times as necessary, with longer and longer breaks, until the text reaches convergence.
 
-Once the text stops evolving, you repeat the circle with a longer break.
-Doing it as many times as necessary to reach convergence.
+I even read about a writer who had to set a draft aside for a year due to family reason and highly recommended the experience.
+She explained that it freed her completely from any attachment to the text, letting her focus n the quality of the book.
 
 ## Make a plan full of holes
 
-(this is, in essence, [the snowflake method](https://www.advancedfictionwriting.com/articles/snowflake-method/))
+I am a planner. 
+Some people think they are not planners, my belief is that it is a skill acquired by practice (and, thus, you will start by being bad at it which might lead you to give up before getting good at it) but I am a polite person and I shut up.
 
-[the story circle](https://en.wikipedia.org/wiki/Dan_Harmon#%22Story_circle%22_technique)
-detail the steps
+Being a planner, I believe that you should start with a plan[^1].
+Then, for all sections of your plan, you make a plan.
+Repeating the process until you have a clear idea of what you are going to say in each unit of text (which could be somewhere between a chapter and a paragraph)[^2].
+
+Once you know what to say[^3], you should be able to write a bad version of it fairly easily.
+And once you have a bad version of everything, *you have a first draft!*
+You can now iterate on it until it becomes good.
+
+[^1]: Once you have an idea, you can even use a ready-made plan.
+For fiction, [the Hero's journey](https://en.wikipedia.org/wiki/Hero%27s_journey) is *the* classic on the subject.
+[Save the cat](https://savethecat.com/) might be its best know incarnation amongst screenwriters but, I am partial to Dan Harmon's version: [the story circle](https://en.wikipedia.org/wiki/Dan_Harmon#%22Story_circle%22_technique). Mostly because it feels detailed enough to give me a frame while being high level enough to not feel formulaic.
+
+[^2]: This shares some similarities with [the snowflake method](https://www.advancedfictionwriting.com/articles/snowflake-method/).
+
+[^3]: I like to highlight that part of the text in yellow, it makes it easy to find and replace later.
 
 ## Listen to your editors
 
-If you *respect* the opinion of one of your readers then it becomes an (informal and unpaid) editor.
+If you *respect* the opinions of one of your readers then they become an editor (informal and unpaid).
 
-Editors are precious, they have an outside perspective that let them see weakness (structural problems, lack of information given to the reader, terrible spelling, etc.) in your text that you cannot see due to being submerged in it.
-Furthermore, they do not have to work to correct the shortcomings they see so they are not too lazy to give you advice to aim for perfection (they are naturally immune to [the easy path](/writing/concepts/easy_path)).
+Editors are precious, they have an outside perspective that let them see weaknesses in your text that you cannot see due to being submerged in it (structural problems, lack of information given to the reader, terrible spelling, etc.).
+Furthermore, they do not have to work to correct the shortcomings they see so laziness does not stop them from aiming for perfection (they are naturally immune to [the easy path](/writing/concepts/easy_path)).
 
 However, you are a human being and your text is your precious baby.
 You *will be* tempted to fight them and tell them that none of the things they suggest would be an improvement, they are just picky!
-My suggestion to you would be to make a copy of your work and try their suggestions. That way you have nothing to lose (after all you want to refuse their suggestion for rational reasons, trying both way cost only a bit of time and will stretch your writing muscles anyway).
-You will not be surprised to discover that your respect their opinion (except for that particular suggestion) for a reason and that most of the time they are right.
+My suggestion to you would be to make a copy of your work and *try their suggestions*. 
+You have nothing to lose and, if you already respect their option, they are likely to be right.
 
-There is only one risk to this, losing your vision.
-You are the only one knowing what you are going for and letting too many people push you in different directions might dilute that vision.
-But it is your job to be clear on what you want and apply their recommendation while not letting that happen.
+There is a risk of losing you vision, letting it be diluted by different position, but it is you job to have a clear vision first and foremost.
+You have to know what you want, everything else can be improved on with patience and enough drafts.
+
+## Make it look good fast
+
+Finally, and this does not apply to all texts, I found that when possible making my draft look as close as possible to the final result is highly motivating.
+This can sometimes be done by having a tool to export your draft as a formatted PDF ([LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes), via [Overleaf](https://www.overleaf.com/) for example, is great for that), HTML, etc.
+
+While purely a matter of perspective, it puts you in the right state of mind to finish the project. It helps you see your project as a *finished product with holes to be filled* rather than as an idea quickly thrown on paper.
