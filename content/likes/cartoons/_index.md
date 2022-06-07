@@ -1,10 +1,11 @@
 ---
 title: "Cartoons I like"
-draft: false
+draft: true
 comments: false
 images:
 ---
 
+TODO:
 * bob's burger
 * gravity falls
 * duck takes
