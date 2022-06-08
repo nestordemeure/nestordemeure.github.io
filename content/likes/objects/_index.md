@@ -1,6 +1,6 @@
 ---
 title: "Objects I like"
-draft: true
+draft: false
 comments: false
 images:
 ---
