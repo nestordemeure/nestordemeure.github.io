@@ -17,7 +17,7 @@ The book cares deeply about the experience of eating, the discoveries that come 
 
 The author writes with a deep and communicative joy.
 He tells us stories within the story that play with our expectations while managing, until the last moment, to keep us on our toes as to what will happen to our young crat and giving us several *hard hitting* emotional moments[^2].
-Overall, it feels as if a brilliant author decided to dedicate his life to his very personnal quirky universe[^3], doing the things he *loves* rather than the things the public might be looking for.
+Overall, it feels as if a brilliant author decided to dedicate his life to his very personal quirky universe[^3], doing the things he *loves* rather than the things the public might be looking for.
 
 I would recommend The Alchemaster's Apprentice for pretty much everyone who felt intrigued when reading the above descriptions and all ages.
 It is an expertly woven tale of food, love, friendships and storytelling.

@@ -6,18 +6,20 @@ comments: false
 images:
 ---
 
-**Disclaimer:** I have written non-fiction professionally in various fields by never published any fiction so take the following with the appropriate amount of salt.
+**STATUS: DRAFT**
+
+**Disclaimer:** I have written non-fiction professionally in various fields but never published any fiction so take the following with the appropriate amount of salt.
 Also, a lot of this advice is shared with my [guide to doing a large project](/writing/guides/hard_things). I highly recommend that you consult it.
 
 ## Do a bad version first
 
-Stealing advice from [Dan Harmon](https://en.wikipedia.org/wiki/Dan_Harmon), *write something bad*.
+Stealing advice from [Dan Harmon](https://en.wikipedia.org/wiki/Dan_Harmon), *start by writing something bad*.
 
 The human mind is terrible at writing something perfect in one go but very good at criticizing things.
-So, instead of getting stuck on trying to write a good first draft, let's accept that it will be bad and push forward until we have writen all the things that need to be written.
+So, instead of getting stuck on trying to write a good first draft, let's accept that it will be bad and push forward until we have written all the things that need to be written.
 Then, you can improve it progressively to make it good.
 
-That frees you from writing blocks (just write, nevermind that it is bad) and shows you the proper way to producing something good: iterating on it.
+That frees you from writing blocks (just write, never mind that it is bad) and shows you the proper way to producing something good: iterating on it.
 
 ## Give yourself time
 
@@ -28,7 +30,7 @@ Give myself a handful of days away from the text, both writing *and reading*, be
 I then do as many passes as I can before it stops evolving once more and repeat the cycle as many times as necessary, with longer and longer breaks, until the text reaches convergence.
 
 I even read about a writer who had to set a draft aside for a year due to family reason and highly recommended the experience.
-She explained that it freed her completely from any attachment to the text, letting her focus n the quality of the book.
+She explained that it freed her completely from any attachment to the text, letting her focus on the quality of the book.
 
 ## Make a plan full of holes
 
@@ -61,10 +63,10 @@ Furthermore, they do not have to work to correct the shortcomings they see so la
 However, you are a human being and your text is your precious baby.
 You *will be* tempted to fight them and tell them that none of the things they suggest would be an improvement, they are just picky!
 My suggestion to you would be to make a copy of your work and *try their suggestions*. 
-You have nothing to lose and, if you already respect their option, they are likely to be right.
+You have nothing to lose, and they are likely right (after all you respect their opinion for a reason).
 
-There is a risk of losing you vision, letting it be diluted by different position, but it is you job to have a clear vision first and foremost.
-You have to know what you want, everything else can be improved on with patience and enough drafts.
+There is a risk of losing you vision, letting it be diluted by different position, but it is part of your job to have a clear vision.
+You have to know what you want, everything else can be improved on with patience and enough work.
 
 ## Make it look good fast
 

@@ -7,13 +7,13 @@ images:
 ---
 
 I finished [The Birthday of the World and Other Stories by Ursula K. Le Guin](https://www.goodreads.com/book/show/68021.The_Birthday_of_the_World_and_Other_Stories) a few months ago.
-I know of Ursula Le Guin by reputation[^1], but it is the first of her book that I read and... it was a slap on the face.
+I know of Ursula Le Guin by reputation[^1], but it is the first of her book that I read and... it was a slap in the face.
 
 The book is a collection of short stories in her [Ekumen universe](https://www.goodreads.com/list/show/77859.Ursula_K_Le_Guin_s_Ekumen) making them technically science fiction.
 However, while science-fiction usually deals with things and technologies, these stories are all about people and feelings.
 
 None of the characters are actually human, each short story happens on a planet where people live in a society different from ours, often because they have a slightly different biology.
-You will find people whose gender changes with time, societies where men are rare and societies who live by complex polyamourous rules.
+You will find people whose gender changes with time, societies where men are rare and societies who live by complex polyamorous rules.
 
 The book is all about tweaking something then observing how society would evolve around it. Sometime from the cold perspective of an observer and sometime from the warm perspective of someone whose desires are not exactly in match with their society's rules[^2].
 
