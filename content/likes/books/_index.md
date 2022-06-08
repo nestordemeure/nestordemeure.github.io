@@ -5,7 +5,3 @@ comments: false
 images:
 ---
 
-TODO:
-* glenn cook
-* terry pratchet
-* tous les matins du monde
