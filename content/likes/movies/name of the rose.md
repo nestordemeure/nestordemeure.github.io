@@ -29,7 +29,7 @@ The priests debate whether Christ owned his robe and kill over books while the p
 The church is fully detached from them, they pay taxes, are used as labor and feed scraps, but they have literally no voice in the debate: *no peasant speaks during the movie*, ever[^2].
 We are left with the indistinct feeling that peasants are uneducated brutes that have to be lead by others, for their own good[^3].
 
-Overall it is a great murder mystery that also manage to demonstrate a deep love for books[^4] while asking whether this is really what we should be thinking about when people are suffering not that far away from us...
+Overall it is a great murder mystery that also manage to demonstrate a deep love for books and intellectually stimulating quests[^4] while asking whether this is really what we should be thinking about when people are suffering not that far away from us...
 
 [^1]: They can also be seen as opposed to the inquisition.
 The heretics don't *really* care about poverty (something said by the main character and showed as both heretic do not hesitate to exploit peasants) but they want to change the status quo.
