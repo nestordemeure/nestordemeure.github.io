@@ -71,13 +71,15 @@ This means that you end up producing more good ideas on the long run.
 
 ## You are now creative
 
-I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research), [software engineering](/content/about/software) and [mentalism](/content/about/mentalism)). 
+I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research), [software engineering](/content/about/software) and [mentalism](/content/about/mentalism)).
 
-I want to stress that this process is not the only way to try and produce good idea, it is just my preferred approach and an approach that is reproducible.
+I want to stress that this process is not the only way to try and produce good idea, it is just my preferred approach and an approach that is reproducible[^3].
 Since then, I found that making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in *all* fields where I applied it.
 
 I highly recommend that you try it.
-The few people that tested this approach were very surprised by their ability to both come up with new ideas and demonstrate a mastery of their field[^3].
+The few people that tested this approach were very surprised by their ability to both come up with new ideas and demonstrate a mastery of their field[^4].
 
-[^3]: A welcome side effect of keeping notes. Writing a summary of something in your own words is a great way to force your brain to understand it and let it know that it is important. You will surprise yourself by remembering a lot of facts *despite never revisiting your notes!*
+[^3]: In fact, I have since found [Logseq](https://logseq.com/), an open-source software that seem to be designed to help you follow similar principles.
+
+[^4]: A welcome side effect of keeping notes. Writing a summary of something in your own words is a great way to force your brain to understand it and let it know that it is important. You will surprise yourself by remembering a lot of facts *despite never revisiting your notes!*
 Some people recommend taking notes by hand but, I have not found typing to reduce my ability to remember ideas and it improves both the readability and the durability of the notes.

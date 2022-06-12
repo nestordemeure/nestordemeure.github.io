@@ -8,6 +8,16 @@
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/cooking/technique/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cooking pasta with some sauce</title>
+      <link>https://nestordemeure.github.io/cooking/technique/pasta/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/cooking/technique/pasta/</guid>
+      <description>STATUS: DRAFT
+Ingredients: Technique: Credits: </description>
+    </item>
+    
+    <item>
       <title>Melting butter</title>
       <link>https://nestordemeure.github.io/cooking/technique/melting_butter/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
@@ -33,7 +43,8 @@ Ingredients:  chocolate to melt a tablespoon of water (you need some water to pr
       <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
       
       <guid>https://nestordemeure.github.io/cooking/technique/bellpepper/</guid>
-      <description>credit adam ragusea</description>
+      <description>STATUS: DRAFT
+credit adam ragusea</description>
     </item>
     
     <item>
@@ -42,7 +53,8 @@ Ingredients:  chocolate to melt a tablespoon of water (you need some water to pr
       <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
       
       <guid>https://nestordemeure.github.io/cooking/technique/oignon/</guid>
-      <description>credit french guy cooking?</description>
+      <description>STATUS: DRAFT
+credit french guy cooking?</description>
     </item>
     
   </channel>
