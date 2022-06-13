@@ -32,7 +32,7 @@ We are left with the indistinct feeling that peasants are uneducated brutes that
 Overall it is a great murder mystery that also manage to demonstrate a deep love for books and intellectually stimulating quests[^4] while asking whether this is really what we should be thinking about when people are suffering not that far away from us...
 
 [^1]: They can also be seen as opposed to the inquisition.
-The heretics don't *really* care about poverty (something said by the main character and showed as both heretic do not hesitate to exploit peasants) but they want to change the status quo.
+The heretics don't *really* care about poverty (something said by the main character and showed as both heretic do not hesitate to exploit peasants) but they do want to change the status quo.
 Meanwhile, the inquisition *also* kills people and does not care about money, but they only care about *preserving* the status quo.
 
 [^2]: As the title of the movie reminds us, the narrator leaves without even knowing the name of the peasant girl he fell in love with.

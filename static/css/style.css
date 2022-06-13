@@ -1,4 +1,2 @@
-/*to justify text*/
-.post-content p {
-    text-align: justify;
-}
+@import "littlefoot.css";
+@import "justify.css";
