@@ -18,6 +18,4 @@ To add an image, you can use the following:
 ## TODO
 
 - add an icon for the blog
-- add a picture?
-- display categories as rectangles on the main page?
-- have a list of posts from newer to older on the main page?
+- use side notes instead of footnotes

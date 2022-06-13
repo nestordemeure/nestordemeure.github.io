@@ -1,0 +1,12 @@
+a[href^="#fn:"],
+a[href^="#fnref:"] {
+    text-decoration: none;
+}
+
+a[href^="#fn:"]:before {
+    content: '[';
+}
+
+a[href^="#fn:"]:after {
+    content: ']';
+}

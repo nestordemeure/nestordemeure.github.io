@@ -28,10 +28,9 @@ I thus decided to use [Hugo](https://gohugo.io/), following [this excellent tuto
 Hugo supports [a large number of themes](https://themes.gohugo.io/) and lets you customize things fairly easily.
 So far I have barely scratched the surface.
 
-I use [littlefoot.js](https://littlefoot.js.org/), slightly modifying the CSS and JS files, in order to have footnote that would be displayed when hovered upon[^foot].
-At some point I might come back to it in order to try and add [side notes](https://capnfabs.net/posts/margin-notes-hugo-theme/).
-
-[^foot]: Paradoxically, littlefoot.js was designed to not have footnotes at the end of the page (reducing the footprint) but I *reintroduced* those (as I want to be sure that people will be able to read the footnotes independently of the reader they are using).
+I explored the use of [littlefoot.js](https://littlefoot.js.org/) to have footnote that would be displayed when hovered upon.
+However, the results proved to be fragile.
+At some point I might come back to the problem in order to try and add [side notes](https://capnfabs.net/posts/margin-notes-hugo-theme/).
 
 ## Writing the content
 
