@@ -37,21 +37,15 @@ She explained that it freed her completely from any attachment to the text, lett
 I am a planner. 
 Some people think they are not planners, my belief is that it is a skill acquired by practice (and, thus, you will start by being bad at it which might lead you to give up before getting good at it) but I am a polite person and I shut up.
 
-Being a planner, I believe that you should start with a plan[^1].
+Being a planner, I believe that you should start with a plan{{% sn %}}Once you have an idea, you can even use a ready-made plan.
+For fiction, [the Hero's journey](https://en.wikipedia.org/wiki/Hero%27s_journey) is *the* classic on the subject.
+[Save the cat](https://savethecat.com/) might be its best know incarnation amongst screenwriters but, I am partial to Dan Harmon's version: [the story circle](https://en.wikipedia.org/wiki/Dan_Harmon#%22Story_circle%22_technique). Mostly because it feels detailed enough to give me a frame while being high level enough to not feel formulaic.{{% /sn %}}.
 Then, for all sections of your plan, you make a plan.
-Repeating the process until you have a clear idea of what you are going to say in each unit of text (which could be somewhere between a chapter and a paragraph)[^2].
+Repeating the process until you have a clear idea of what you are going to say in each unit of text (which could be somewhere between a chapter and a paragraph){{% sn %}}This shares some similarities with [the snowflake method](https://www.advancedfictionwriting.com/articles/snowflake-method/).{{% /sn %}}.
 
-Once you know what to say[^3], you should be able to write a bad version of it fairly easily.
+Once you know what to say{{% sn %}}I like to highlight that part of the text in yellow, it makes it easy to find and replace later.{{% /sn %}}, you should be able to write a bad version of it fairly easily.
 And once you have a bad version of everything, *you have a first draft!*
 You can now iterate on it until it becomes good.
-
-[^1]: Once you have an idea, you can even use a ready-made plan.
-For fiction, [the Hero's journey](https://en.wikipedia.org/wiki/Hero%27s_journey) is *the* classic on the subject.
-[Save the cat](https://savethecat.com/) might be its best know incarnation amongst screenwriters but, I am partial to Dan Harmon's version: [the story circle](https://en.wikipedia.org/wiki/Dan_Harmon#%22Story_circle%22_technique). Mostly because it feels detailed enough to give me a frame while being high level enough to not feel formulaic.
-
-[^2]: This shares some similarities with [the snowflake method](https://www.advancedfictionwriting.com/articles/snowflake-method/).
-
-[^3]: I like to highlight that part of the text in yellow, it makes it easy to find and replace later.
 
 ## Listen to your editors
 

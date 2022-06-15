@@ -46,7 +46,7 @@ body {
         margin-top: 1rem;
 
         /* to avoid moving subtitles on hovering */
-        border-bottom: 4px solid transparent;
+        /*border-bottom: 4px solid transparent;*/
     }
 
     /* puts sidenote to the left */
@@ -63,9 +63,9 @@ body {
     }
 
     /* Highlight the sidenote when mouse hovers on the sidenote number in body. */
-    .sidenote-number:hover .sidenote {
+    /*.sidenote-number:hover .sidenote {
         border-bottom: 4px solid lightgrey;
-    }
+    }*/
 }
 
 /* Narrow viewport for mobile */

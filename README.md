@@ -15,6 +15,13 @@ To add an image, you can use the following:
 *Image generated with https://app.wombo.art/*
 ```
 
+To add a sidenote, you can use the following:
+
+```
+{{% sn %}}Content of the note.{{% /sn %}}
+```
+
 ## TODO
 
 - add an icon for the blog
+- improve placement of sidenotes to make them closer to their markers and avoid them overflowing to the bottom
