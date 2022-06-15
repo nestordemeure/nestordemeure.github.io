@@ -18,4 +18,3 @@ To add an image, you can use the following:
 ## TODO
 
 - add an icon for the blog
-- use side notes instead of footnotes

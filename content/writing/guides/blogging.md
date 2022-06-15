@@ -29,8 +29,7 @@ Hugo supports [a large number of themes](https://themes.gohugo.io/) and lets you
 So far I have barely scratched the surface.
 
 I explored the use of [littlefoot.js](https://littlefoot.js.org/) to have footnote that would be displayed when hovered upon.
-However, the results proved to be fragile.
-At some point I might come back to the problem in order to try and add [side notes](https://capnfabs.net/posts/margin-notes-hugo-theme/).
+However, the results proved to be fragile so I dropped it in favor of adapting [this approach](https://scripter.co/sidenotes-using-ox-hugo/) (tailoring the CSS to reproduce the style of the footnotes and adding some Javascript where needed) to insert [side notes](https://www.gwern.net/Sidenotes).
 
 ## Writing the content
 

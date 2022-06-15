@@ -139,3 +139,10 @@ disableHugoGeneratorInject = false
     identifier = "likes"
     name       = "Likes"
     url        = "/likes"
+
+# option of the markup generator
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # lets you write html inside the code
+      unsafe = true
