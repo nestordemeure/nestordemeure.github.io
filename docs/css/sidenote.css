@@ -1,8 +1,11 @@
 /*adapted from https://scripter.co/sidenotes-using-only-css/#html-elements-for-sidenotes*/
 
-.sidenote {
-    font-size: 80%;
-    position: relative;
+.sidenote-text {
+    text-align: justify;
+}
+
+.sidenote-backref {
+    text-decoration: none;
 }
 
 /* Sidenote counter */
@@ -13,16 +16,15 @@ body {
 .sidenote-number {
     counter-increment: sidenote-counter;
     text-decoration: none;
+    display: inline;
 }
 
 /* Counter before the sidenote in the margin. */
-.sidenote::before {
+.sidenote-text::before {
     content: counter(sidenote-counter)".";
-    position: relative;
     vertical-align: baseline;
-    font-size: 1.0em;
-    left: -1.3vw;
     position: absolute;
+    left: -1.3vw;
 }
 
 /* Counter in the main body. */
@@ -34,27 +36,37 @@ body {
 
 /* Wide viewport for computer screen */
 @media (min-width: 1400px) {
-    .sidenote {
+    .sidenote-text {
+        /* RELATIV */
         float: right;
         clear: right;
+        position: relative;
         margin-right: -22.5vw;
-        text-align: justify;
+        transform: translateY(-50%);
 
-        /* move up slightly*/
-        top: -1.3rem;
+        /* ABSOLUTE */
+        /* does not need float/clear */
+        /*position: absolute;
+        right: 2vw;
+        transform: translateY(-50%);
+        display: inline-block;*/
+
         width: 20vw;
-        margin-top: 1rem;
-
         /* to avoid moving subtitles on hovering */
-        /*border-bottom: 4px solid transparent;*/
+        border-bottom: 4px solid transparent;
     }
+
 
     /* puts sidenote to the left */
     .sidenote-left {
+        /* RELATIV */
         float: left;
         clear: left;
-        margin-right: 0;
         margin-left: -22.5vw;
+
+        /* ABSOLUTE */
+        /* does not need float/clear */
+        /*left: 3vw;*/
     }
 
     /* further shifts left sidenotes inside lists so that they are properly aligned with other side notes */
@@ -63,28 +75,22 @@ body {
     }
 
     /* Highlight the sidenote when mouse hovers on the sidenote number in body. */
-    /*.sidenote-number:hover .sidenote {
+    .sidenote:hover .sidenote-text {
         border-bottom: 4px solid lightgrey;
-    }*/
+    }
 }
 
 /* Narrow viewport for mobile */
 @media (max-width: 1400px) {
-    .sidenote {
+    .sidenote-text {
+        position: relative;
         float: right;
-        text-align: justify;
-
         width: 100%;
-        margin: 0.8rem 0rem;
-        padding: 5%;
+        padding: 1rem 5%;
     }
 
-    .sidenote::before {
+    .sidenote-text::before {
         padding-left: 5%;
         left: -3%;
     }
-}
-
-.sidenote-backref {
-    text-decoration: none;
 }

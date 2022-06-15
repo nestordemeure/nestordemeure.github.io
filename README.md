@@ -24,4 +24,4 @@ To add a sidenote, you can use the following:
 ## TODO
 
 - add an icon for the blog
-- improve placement of sidenotes to make them closer to their markers and avoid them overflowing to the bottom
+- add javascript to automatically turn footnotes into side notes(?)
