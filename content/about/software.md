@@ -5,7 +5,7 @@ comments: false
 images:
 ---
 
-I am an engineer with a specialty in applied mathematics and computer science (I received my diploma in a [French engineering school](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_pour_l%27industrie_et_l%27entreprise)).
+I am an engineer with a specialty in applied mathematics and computer science.
 
 You can find most of the software I developed on [Github](https://github.com/nestordemeure) and [Gitlab](https://gitlab.com/nestordemeure).
 Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:

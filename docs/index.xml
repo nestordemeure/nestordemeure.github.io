@@ -395,7 +395,7 @@ It also applies to debugging the human mind.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/about/software/</guid>
-      <description>I am an engineer with a specialty in applied mathematics and computer science (I received my diploma in a French engineering school).
+      <description>I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
 Shaman (C++)  Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version.</description>
     </item>
