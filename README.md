@@ -23,5 +23,8 @@ To add a sidenote, you can use the following:
 
 ## TODO
 
-- add an icon for the blog
-- add javascript to automatically turn footnotes into side notes(?)
+- add javascript to automatically turn footnotes into side notes
+  - create working branch
+  - revert shortcodes to footnotes
+  - work on javascript
+- create a cooking pasta page

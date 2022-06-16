@@ -14,7 +14,7 @@
       
       <guid>https://nestordemeure.github.io/about/mentalism/</guid>
       <description>I am a consulting mentalist (I have a book published for that public and I designed a stage show amongst other things).
-What is mentalism? Mentalism is an ensemble of techniques (including mnemotechnic, hypnosis, magic tricks, a knowledge of statistically likely phenomenons and a trained intuition) used to produce incredible phenomenons (usually psychic phenomenons or an impressive mastery of the human mind) in an entertainment setting.
+What is mentalism?  Mentalism is an ensemble of techniques (including mnemotechnic, hypnosis, magic tricks, a knowledge of statistically likely phenomenons and a trained intuition) used to produce incredible phenomenons (usually psychic phenomenons or an impressive mastery of the human mind) in an entertainment setting.
 One point that is worth stressing is that it is neither all real (magic tricks are great to make things look better / add some punch and anyone telling you they don&amp;rsquo;t use them is either lying or very ignorant) nor all fake (anyone telling you otherwise is, similarly, likely ignorant or a magician who did some telepathy-themed tricks and think that it is all there is to it, the human mind is an amazing toy).</description>
     </item>
     
@@ -25,8 +25,8 @@ One point that is worth stressing is that it is neither all real (magic tricks a
       
       <guid>https://nestordemeure.github.io/about/research/</guid>
       <description>I am a researcher with specialties in numerical accuracy, artificial intelligence, data analysis and high performance computing.
-Papers You can find most of my publications on Researchgate. Here is a list of them in no particular order:
-Ranger21: a synergistic deep learning optimizer (machine learning) The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people where branding them as new optimizers, they often just included one new idea to an existing optimizer.</description>
+Papers  You can find most of my publications on Researchgate. Here is a list of them in no particular order:
+Ranger21: a synergistic deep learning optimizer (machine learning)  The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people where branding them as new optimizers, they often just included one new idea to an existing optimizer.</description>
     </item>
     
     <item>
@@ -35,9 +35,9 @@ Ranger21: a synergistic deep learning optimizer (machine learning) The Ranger21 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/about/software/</guid>
-      <description>I am an engineer1 with a specialty in applied mathematics and computer science.
+      <description>I am an engineer with a specialty in applied mathematics and computer science (I received my diploma in a French engineering school).
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
-Shaman (C++) Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version.</description>
+Shaman (C++)  Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (double becomes Sdouble) with instrumented version.</description>
     </item>
     
   </channel>

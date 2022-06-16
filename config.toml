@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
   justifyContent = true  # Set "text-align: justify" to .post-content.
 
   # Metadata mostly used in document's head
-  description = "The life and time of Nestor Demeure"
+  description = ""
   keywords = "homepage, blog"
   images = [""]
 
@@ -114,7 +114,7 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     title = "Nestor Demeure"
-    subtitle = "The life and time of Nestor Demeure"
+    subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
