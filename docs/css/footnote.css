@@ -1,12 +1,17 @@
-a[href^="#fn:"],
-a[href^="#fnref:"] {
+.footnote-ref {
+    /*removes link underlying*/
     text-decoration: none;
 }
 
-a[href^="#fn:"]:before {
+.footnote-ref:before {
     content: '[';
 }
 
-a[href^="#fn:"]:after {
+.footnote-ref:after {
     content: ']';
+}
+
+.footnote-backref {
+    /*removes link underlying*/
+    text-decoration: none;
 }
