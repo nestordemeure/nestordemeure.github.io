@@ -46,7 +46,7 @@
 /* Mobile */
 @media (max-width: 1400px) {
     .sidenote {
-        padding: 1rem 4ch 1rem 1ch;
+        padding: 1rem 3ch 1rem 0ch;
         /* to ensure that the line will break at the endline and not the footnote number */
         float: right;
         clear: right;
