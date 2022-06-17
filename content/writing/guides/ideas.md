@@ -17,8 +17,10 @@ But it doesn't necessarily mean that you get good ideas...
 
 ## How do you get good ideas?
 
-I do not think that you can make a habit of producing good ideas but, if you produce enough ideas, you *will* end up producing at least a few good ones, it is only a matter of time{{% sn %}}My rule-of-thumb when doing research is that a tenth of my ideas are good and a tenth of those good ideas are novel.{{% /sn %}}.
+I do not think that you can make a habit of producing good ideas but, if you produce enough ideas, you *will* end up producing at least a few good ones, it is only a matter of time[^1].
 Now, how do you produce ideas?
+
+[^1]: My rule-of-thumb when doing research is that a tenth of my ideas are good and a tenth of those good ideas are novel.
 
 ## How do you get ideas?
 
@@ -56,7 +58,7 @@ Once you have an idea, it is time to store your own ideas in a dedicated system.
 
 #### Organizing your own ideas
 
-For my ideas I use one folder per category, containing one file per idea{{% sn %}}Do *not* put several ideas in a single file. It might seem fine at first, after all they might only be a paragraph long, but you will end up with a behemoth that is good to note ideas now but unsuitable to read them at a later point.{{% /sn %}} (rather than a file per category).
+For my ideas I use one folder per category, containing one file per idea[^2] (rather than a file per category).
 Thus, I can easily find an idea and I have space to expand on it.
 
 I recommend taking the time to detail the idea (something obvious now might not be obvious in six months) and detail where it came from as well as all credits that come to mind.
@@ -65,13 +67,17 @@ Knowing where you ideas came from is important both out of respect for the sourc
 Also, having a good storage system lets you revisit ideas that were imperfect at a later point in time, when you might have the correct frame of mind or knowledge to improve on them.
 This means that you end up producing more good ideas on the long run.
 
+[^2]: Do *not* put several ideas in a single file. It might seem fine at first, after all they might only be a paragraph long, but you will end up with a behemoth that is good to note ideas now but unsuitable to read them at a later point.
+
 ## You are now creative
 
-I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research), [software engineering](/content/about/software) and [mentalism](/content/about/mentalism)).
+I developed the abovementioned process organically while working simultaneously in various problem-solving and creativity centered fields ([academic research](/content/about/research), [software engineering](/content/about/software) and [mentalism](/content/about/mentalism)). 
 
-I want to stress that this process is not the only way to try and produce good idea, it is just my preferred approach and an approach that is reproducible{{% sn %}}In fact, I have since found [Logseq](https://logseq.com/), an open-source software that seem to be designed to help you follow similar principles.{{% /sn %}}.
+I want to stress that this process is not the only way to try and produce good idea, it is just my preferred approach and an approach that is reproducible.
 Since then, I found that making a habit of thinking about problems, writing my ideas and organizing them has been extremely valuable in *all* fields where I applied it.
 
 I highly recommend that you try it.
-The few people that tested this approach were very surprised by their ability to both come up with new ideas and demonstrate a mastery of their field{{% sn %}}A welcome side effect of keeping notes. Writing a summary of something in your own words is a great way to force your brain to understand it and let it know that it is important. You will surprise yourself by remembering a lot of facts *despite never revisiting your notes!*
-Some people recommend taking notes by hand but, I have not found typing to reduce my ability to remember ideas and it improves both the readability and the durability of the notes.{{% /sn %}}.
+The few people that tested this approach were very surprised by their ability to both come up with new ideas and demonstrate a mastery of their field[^3].
+
+[^3]: A welcome side effect of keeping notes. Writing a summary of something in your own words is a great way to force your brain to understand it and let it know that it is important. You will surprise yourself by remembering a lot of facts *despite never revisiting your notes!*
+Some people recommend taking notes by hand but, I have not found typing to reduce my ability to remember ideas and it improves both the readability and the durability of the notes.

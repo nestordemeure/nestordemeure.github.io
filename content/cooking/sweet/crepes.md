@@ -7,7 +7,9 @@ images:
 ---
 
 Crêpes are the perfect social dish.
-You can make them together then everyone put the topping of their choice on top, sweet or savory{{% sn %}}I am not covering topping here but cheese, charcuterie and salmon are classics for savory Crêpes while jam and sugar are very common for sweet crepes.{{% /sn %}}.
+You can make them together then everyone put the topping of their choice on top, sweet or savory[^1].
+
+[^1]: I am not covering topping here but cheese, charcuterie and salmon are classics for savory Crêpes while jam and sugar are very common for sweet crepes.
 
 ## Ingredients (4 people):
 

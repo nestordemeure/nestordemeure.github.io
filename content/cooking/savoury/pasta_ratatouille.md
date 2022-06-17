@@ -14,11 +14,13 @@ It has evolved a lot since its inception but it is still one of my favorite way 
 ## Ingredients (for two portions):
 
 * 160 grams of pasta (80 grams per person, you could go up to 100 grams), I like fusilli for this dish but most pasta types would be fine
-* half a jar of organic{{% sn %}}Being organic or not usually doesn't matter taste wise, but this is the big exception, I found jars of non-organic ratatouille to have a slightly sour taste that is a significant downgrade for this dish.{{% /sn %}} [ratatouille](https://www.auchan.fr/auchan-bio-ratatouille-en-bocal/pr-C1225159) (this is where I lose my US readers, you simply cannot find this stuff in the US: you might replace it with a jar of tomato sauce that contains a generous amount of eggplants and assorted vegetables)
+* half a jar of organic[^1] [ratatouille](https://www.auchan.fr/auchan-bio-ratatouille-en-bocal/pr-C1225159) (this is where I lose my US readers, you simply cannot find this stuff in the US: you might replace it with a jar of tomato sauce that contains a generous amount of eggplants and assorted vegetables)
 * some salted soy sauce (the salt will be useful)
 * some olive oil (we will cook it so no need for high quality stuff)
 * some salt (optional)
 * some cayenne pepper (optional)
+
+[^1]: Being organic or not usually doesn't matter taste wise, but this is the big exception, I found jars of non-organic ratatouille to have a slightly sour taste that is a significant downgrade for this dish.
 
 ## Preparation:
 
