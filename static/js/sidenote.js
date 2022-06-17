@@ -43,6 +43,7 @@ while (true) {
         text_column.innerHTML = footnote_text
         sidenote.appendChild(text_column)
         // place the note on the right or the left depending on the position of its number
+        console.log(`id:${id} x:${getxPosition(footnote_number)} threshold:${screenWidth * 0.45}`)
         if (getxPosition(footnote_number) < screenWidth * 0.45) {
             sidenote.classList.add("sidenote-left")
         }
