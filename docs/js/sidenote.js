@@ -4,12 +4,10 @@ Converts footnotes into sidenotes.
 
 // gets the x position of an element on screen
 function getxPosition(element) {
-    var x = 0;
-    while (element) {
-        x += (element.offsetLeft - element.scrollLeft + element.clientLeft);
-        element = element.offsetParent;
-    }
-    return x;
+    box = element.getBoundingClientRect()
+    x_relative = (box.right + box.left) / 2
+    x_absolute = x_relative + window.pageXOffset
+    return x_absolute
 }
 
 // the width of the screen

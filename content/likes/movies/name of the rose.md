@@ -22,7 +22,7 @@ Explicitly, it is the object of the religious debate happening in the abbey, but
 
 * The Franciscans who made a vow of poverty,
 * the pope's emissaries, dressed opulently and exploiting the people (their carriage is *pushed* by peasants until their reach the abbey's gate),
-* the Benedictines, extracting riches from peasant and fattening themselves but living in relatively austere conditions (the golden cross worn by the abbot is one of the few visible signs of luxury)
+* the Benedictines, extracting riches from peasant and fattening themselves but living in relatively austere conditions (the golden cross worn by the abbot is one of the few visible signs of luxury),
 * the heretics who killed priests as a reaction to their greed (an *active* vow of poverty, by opposition to the Franciscans[^1] who, despite their best wishes, [let inequalities happen and preach inaction](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html#:~:text=I%20have%20almost,presence%20of%20justice)).
 
 The priests debate whether Christ owned his robe and kill over books while the peasants live in mud, ready to do anything for food.
