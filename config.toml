@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04"
 
   customCSS = ["/css/style.css"]
-  customJS = ["/js/main.js"]
+  customJS = ["/js/sidenote.js", "/js/main.js"]
 
   # Subtitle for home
   homeSubtitle = "French, researcher, engineer, consulting mentalist."
