@@ -28,8 +28,7 @@ I thus decided to use [Hugo](https://gohugo.io/), following [this excellent tuto
 Hugo supports [a large number of themes](https://themes.gohugo.io/) and lets you customize things fairly easily.
 So far I have barely scratched the surface.
 
-I explored the use of [littlefoot.js](https://littlefoot.js.org/) to have footnote that would be displayed when hovered upon.
-However, the results proved to be fragile so I dropped it in favor of adapting [this approach](https://scripter.co/sidenotes-using-ox-hugo/) (tailoring the CSS to reproduce the style of the footnotes and adding some Javascript where needed) to insert [side notes](https://www.gwern.net/Sidenotes).
+I wrote some Javascript plus CSS (loosely inspired by [this approach](https://scripter.co/sidenotes-using-ox-hugo/)) to automatically convert my footnotes into [side notes](https://www.gwern.net/Sidenotes).
 
 ## Writing the content
 
