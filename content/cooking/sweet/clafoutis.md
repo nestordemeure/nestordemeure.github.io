@@ -6,12 +6,12 @@ comments: false
 images:
 ---
 
-Clafoutis were my favorite kind of cake when I was a kid. My mother used to make plum ones while fruits were in season and I famously ate a full cake who just got out of the oven while she was away of the kitchen.
+Clafoutis was my favorite kind of cake when I was a kid. My mother used to make plum ones while fruits were in season and I famously ate a full cake that just got out of the oven while she was away from the kitchen.
 They are also a great way to turn fruits into a cake that looks very pretty while being extremely easy to make.
 
 ## Ingredients:
 
-* about 500grams (you want to cover your pan with a nice layer) of a mix of cherries and apricots (stones fruits such as cherries, plums apricots and peaches feel like a better match but it works with pretty much anything including bananas and rhubarb, I like a mix of cherries and apricots to vary colors and flavors)
+* about 500grams (you want to cover your pan with a nice layer) of a mix of cherries and apricots (stones fruits such as cherries, plums apricots, and peaches feel like a better match but it works with pretty much anything including bananas and rhubarb, I like a mix of cherries and apricots to vary colors and flavors)
 * 4 eggs
 * 100 grams of flour
 * 60 grams of salted butter (you could use 45 grams of olive oil and some salt, the taste and texture would slightly differ but that still makes for a good cake)
@@ -33,7 +33,7 @@ They are also a great way to turn fruits into a cake that looks very pretty whil
 * add the flour while mixing
 * add the milk while mixing
 * melt the butter in a microwave (or oven but 30 seconds in a microwave is perfect) then add (if the butter is warm, mix it fast enough to not cook your egg)
-* pour the batter in your cake pan (the batter will be more golden and liquid than usual cake batter, it is perfectly normal)
+* pour the batter into your cake pan (the batter will be more golden and liquid than usual cake batter, it is perfectly normal)
 
 ## Cooking:
 

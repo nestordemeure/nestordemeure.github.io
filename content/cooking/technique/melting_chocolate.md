@@ -12,7 +12,7 @@ However, I am deeply convinced that using a microwave is significantly easier an
 ## Ingredients:
 
 * chocolate to melt
-* a tablespoon of water (you need some water to prevent dry burning but too much will deteriorate the end result)
+* a tablespoon of water (you need some water to prevent dry burning but too much will deteriorate the result)
 * if the recipe calls for melted butter, adding cream or milk, you can replace the water with one of those in the quantities required by the recipe
 
 ## Technique:

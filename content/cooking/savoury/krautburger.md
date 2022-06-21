@@ -7,7 +7,7 @@ images:
 ---
 
 The Krautburger is my favorite homemade burger of the moment.
-It is vegetarian (but not vegan due to the presence of mayonnaise and, harder to replace, cheese) and light while hitting all the flavors I want due to the melted cheese and toasted bun combined with the surprise freshness of the thick tomato slice hidden inside the burger.
+It is vegetarian (but not vegan due to the presence of mayonnaise and, harder to replace, cheese) and light while hitting all the flavors I want due to the melted cheese and toasted bun combined with the surprising freshness of the thick tomato slice hidden inside the burger.
 
 ## Ingredients (one burger):
 
@@ -29,7 +29,7 @@ It is vegetarian (but not vegan due to the presence of mayonnaise and, harder to
 
 ## Cooking:
 
-* toast in oven until the cheese is nicely melted and the top bun lightly toasted
+* toast in the oven until the cheese is nicely melted and the top bun lightly toasted.
 
 ## Credits:
 

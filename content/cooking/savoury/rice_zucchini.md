@@ -17,14 +17,14 @@ It is quick to do and delicious, try it on a weekday.
 * as much Parmesan as butter,
 * optionally, some smoked chilly flakes for added flavor complexity.
 
-[^1]: Slightly more than what feels reasonable to you.
+[^1]: Slightly more than what feels reasonable to *you*.
 
 ## Preparation:
 
 * Peel the Zucchini and dice it,
 * bring water to a boil,
 * add the rice and zucchini to the water and cook for ten minutes[^2],
-* put the butter in the plate,
+* put the butter on the plate,
 * add the (optional) chilly flakes,
 * once the rice and zucchini are cooked, strain and pour on the butter
 * add the Parmesan and mix.

@@ -12,7 +12,7 @@ Here is a list of some noticeable libraries (focussing on projects where I am th
 
 #### [Shaman](https://gitlab.com/numerical_shaman/shaman) (C++)
 
-Shaman is the crown jewel of my PhD, it helps you track and measure the numerical error in a computation by replacing the types (`double` becomes `Sdouble`) with instrumented version.
+Shaman is the crown jewel of my Ph.D., it helps you track and measure the numerical error in computations by replacing the types (`double` becomes `Sdouble`) with instrumented version.
 
 I am, understandably, *very* proud of it.
 It was developed to be accurate (otherwise there is no point) but also fast enough to be applied to large simulations running in parallel on a supercomputer.
@@ -27,7 +27,7 @@ I believe that it is my fifth or sixth implementation of Gaussian process (some 
 
 #### [Pandas2Numpy](https://github.com/nestordemeure/pandas2numpy) (Python)
 
-Pandas2Numpy helps you convert Pandas dataframes into Numpy tensors to feed them to your deep learning framework of choice.
+Pandas2Numpy helps you convert Pandas data frames into Numpy tensors to feed them to your deep learning framework of choice.
 
 This one is easily overlooked but I would highly recommend using it if you need to run some deep learning on tabular data.
 It *will* cut on a lot of unexpected debugging time while being simple to use and plug into any existing framework.
@@ -38,9 +38,9 @@ It deals with continuous as well as categorical data and integrates common trans
 
 ParetoFront is a Rust library to build a [Pareto front](https://en.wikipedia.org/wiki/Pareto_front) incrementally.
 
-This is particularly useful in multi-objectives optimization where, instead of having a single maximum that one can easily keep track off, one might want to keep track of various trade-offs, none of which is best on all axis, found during the optimization.
+This is particularly useful in multi-objectives optimization where, instead of having a single maximum that one can easily keep track of, one might want to keep track of various trade-offs, none of which is best on all axis, found during the optimization.
 
-This crate tries to be small yet *really* fast, compatible with parallelism and correct.
+This crate tries to be small yet *really* fast, compatible with parallelism, and correct.
 
 #### [Flax Optimizers](https://github.com/nestordemeure/flaxOptimizers) (Python)
 

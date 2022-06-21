@@ -6,8 +6,8 @@ comments: false
 images:
 ---
 
-This pie dough is easy to make and taste pretty much perfect for a US style pie (with crust below and above the pie).
-Plus, leftover dough can be stored in the fridge for later use.
+This pie dough is easy to make and tastes pretty much perfect for a US-style pie (with crust below and above the pie).
+Plus, the leftover dough can be stored in the fridge for later use.
 
 ## Ingredients (for one pie):
 
@@ -21,18 +21,18 @@ Plus, leftover dough can be stored in the fridge for later use.
 
 * put the flour in a large bowl
 * add the sugar
-* add the butter diced or sliced into thin slice (to simplify the mixing)
-* with one hand mix the dough until you get a crumbly / flaky consistency
+* add the butter diced or sliced into thin slices (to simplify the mixing)
+* with one hand mix the dough until you get a crumbly/flaky consistency
 * add half of the water plus the vinegar and mix
 * add the leftover water and mix into a ball
-* cut the ball in two and refrigerate 30 minutes while you prepare the fillings
+* cut the ball in two and refrigerate for 30 minutes while you prepare the fillings
 
 ## Cooking:
 
-* You might want to prebake the bottom of our pie (for a European style pie) or let you pie cook for a long time.
+* You might want to prebake the bottom of our pie (for a European-style pie) or let your pie cook for a long time.
 * once the pie is assembled, you can brush the top with some milk (to get a slight shine after cooking) and sprinkle a generous amount of sugar
 
 ## Credits:
 
-All the credit goes to chef John's [easy home made pie crust](https://youtu.be/e_3lBUMCRiA).
-I barely added sugar, used salted butter and translated the measurements to grams.
+All the credit goes to Chef John's [easy homemade pie crust](https://youtu.be/e_3lBUMCRiA).
+I barely added sugar, used salted butter, and translated the measurements to grams.
