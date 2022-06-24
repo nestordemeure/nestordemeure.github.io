@@ -1,5 +1,5 @@
 ---
-title: "The Three body problem"
+title: "The Three-body problem"
 draft: true
 comments: false
 date: 2022-06-07

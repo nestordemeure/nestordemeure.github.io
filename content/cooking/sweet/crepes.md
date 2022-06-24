@@ -14,16 +14,15 @@ You can make them together then everyone put the topping of their choice on top,
 ## Ingredients (4 people):
 
 * 250 grams flour
+* 25 grams of sugar
 * 4 eggs
 * 500 ml milk
-* 50 salted butter (a pinch of salt and 40 grams of olive oil, the taste is slightly different but it works)
-* 25 grams of sugar
+* 50 grams of salted butter (or 40 grams of olive oil and a pinch of salt, the taste is slightly different but it works)
 
 ## Preparation:
 
-* put the flout in a mixing bowl
+* put the flour in a mixing bowl
 * add the sugar
-* add the salt
 * add the eggs and mix
 * add the milk progressively while mixing
 * add the melted butter (making sure it is not hot enough to cook the eggs prematurely) and mix
@@ -32,7 +31,7 @@ You can make them together then everyone put the topping of their choice on top,
 
 * slightly oil (or butter) the pan
 * put a ladle worth of crêpe batter and spread it to make it round
-* once the bottom is cooked (the sides should start to get browned), use a spoon and flip it (it should cook for about a minute)
+* once the bottom is cooked (the sides should start to get browned), use a spatula and flip it (it should cook for about a minute)
 * repeat as many times as needed
 
 ## Credits:

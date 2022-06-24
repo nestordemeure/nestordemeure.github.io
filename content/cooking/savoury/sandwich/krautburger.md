@@ -20,7 +20,7 @@ It is vegetarian (but not vegan due to the presence of mayonnaise and, harder to
 ## Preparation:
 
 * toast the lower bun (this step is optional but will reduce sogginess)
-* spread a layer of mayonnaise on each half bun (the goal here is not to act on the taste but to stop water from going through and into the bun)
+* spread a layer of mayonnaise on each half-bun (the goal here is not to act on the taste but to stop water from going through and into the bun)
 * put thick tomato slices on the bottom bun until it is fully covered (I like my slices about one centimeter thick)
 * add one slice of cheese
 * put some sauerkraut on top and shape it like a small pattie

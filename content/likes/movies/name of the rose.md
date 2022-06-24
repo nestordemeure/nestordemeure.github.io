@@ -17,7 +17,7 @@ The murder mystery aspect is impeccable, with a really clever murder weapon (a k
 Sean Connery is excellent in the role of William of Baskerville, a man of great intelligence, love for knowledge (he is not lying when he says that he fell in love... with books) but also inexpugnable vanity (he goes as far as falling into a trap set in front of a mirror!).
 Vanity that will catch him back later when, in his quest to prove that he is right, he will be the indirect cause of the burning of the library he so loves (his tears, when he realizes the consequences of his actions in the burning building, are heartbreaking).
 
-But, while our attention is directed to the murder mystery, the question of church and riches is asked several times.
+While our attention is directed to the murder mystery, the question of church and riches is asked several times.
 Explicitly, it is the object of the religious debate happening in the abbey, but also by showing us a large variety of religious groups illustrating diverse positions:
 
 * The Franciscans who made a vow of poverty,
@@ -25,7 +25,7 @@ Explicitly, it is the object of the religious debate happening in the abbey, but
 * the Benedictines, extracting riches from peasants and fattening themselves but living in relatively austere conditions (the golden cross worn by the abbot is one of the few visible signs of luxury),
 * the heretics who killed priests as a reaction to their greed (an *active* vow of poverty, by opposition to the Franciscans[^1] who, despite their best wishes, [let inequalities happen and preach inaction](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html#:~:text=I%20have%20almost,presence%20of%20justice)).
 
-The priests debate whether Christ owned his robe and kill over books while the peasants live in mud, ready to do anything for food.
+The priests debate whether Christ owned his robe and kill each other for a book while the peasants live in mud, ready to do anything for food.
 The church is fully detached from them, they pay taxes, are used as labor, and feed scraps, but they have literally no voice in the debate: *no peasant speaks during the movie*, ever[^2].
 We are left with the indistinct feeling that peasants are uneducated brutes that have to be led by others, for their own good[^3].
 
@@ -33,7 +33,7 @@ Overall it is a great murder mystery that also manages to demonstrate a deep lov
 
 [^1]: They can also be seen as opposed to the inquisition.
 The heretics don't *really* care about poverty (something said by the main character and shown as both heretics do not hesitate to exploit peasants) but they do want to change the status quo.
-Meanwhile, the inquisition *also* kills people and does not care about money, but they only care about *preserving* the status quo.
+Meanwhile, the inquisition *also* kills people and does not care about money, they only care about *preserving* the status quo.
 
 [^2]: As the title of the movie reminds us, the narrator leaves without even knowing the name of the peasant girl he fell in love with.
 
