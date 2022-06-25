@@ -11,4 +11,3 @@ images:
 * slate star codex
 * the jerx
 * news from marmalade fall
-* speeches collection on youtube

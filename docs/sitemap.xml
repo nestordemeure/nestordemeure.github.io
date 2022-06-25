@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nestordemeure.github.io/writing/concepts/consumers_producers/</loc>
-    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/likes/speeches/figures_of_speech/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/likes/speeches/first_they_came/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/likes/speeches/birmingham_jail/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/likes/speeches/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts/critical_path/</loc>
+    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/writing/concepts/consumers_producers/</loc>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/rice_zucchini/</loc>
-    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/</loc>
-    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/can_opener/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/name-of-the-rose/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/cabas/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/toothbrush/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
@@ -33,16 +45,16 @@
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/pasta_bellpepper/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/writing/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/crepes/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/easy_path/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/us_pie_crust/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
@@ -66,13 +78,10 @@
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/pasta_ratatouille/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/</loc>
-    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/tarte_maroille/</loc>
-    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/clafoutis/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
@@ -83,17 +92,14 @@
     <loc>https://nestordemeure.github.io/cooking/technique/oignon/</loc>
     <lastmod>2022-06-12T15:38:11-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/savoury/sandwich/</loc>
-    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/sandwich/krautburger/</loc>
-    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/crumble/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/the-batman/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/nightmare-alley/</loc>
     <lastmod>2022-05-29T20:16:38-07:00</lastmod>
@@ -119,15 +125,12 @@
     <lastmod>2022-06-07T17:48:30-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/</loc>
-    <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/about/mentalism/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/</loc>
-    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/writing/concepts/critical_path/</loc>
     <lastmod>2022-05-29T17:34:50-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/</loc>
@@ -155,7 +158,10 @@
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/rubber_duck_debugging/</loc>
-    <lastmod>2022-05-29T17:34:50-07:00</lastmod>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/savoury/sandwich/</loc>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>
@@ -164,6 +170,9 @@
   </url><url>
     <loc>https://nestordemeure.github.io/about/software/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/</loc>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>
@@ -175,6 +184,9 @@
   </url><url>
     <loc>https://nestordemeure.github.io/likes/</loc>
     <lastmod>2022-05-27T16:44:41-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/</loc>
+    <lastmod>2022-06-23T20:23:58-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>

@@ -21,7 +21,7 @@ That’s a problem, we cannot build maths on blind belief in a small group of pe
 
 But at the moment it’s all super blurry for me (I am still unclear on the nature of things they call basic, like Y-S entities as defined in KTu-L). I will tell you how it goes in about a week :)
 
-Best,
+Best,  
 Philip
 
 ### Object: Yeah
@@ -36,7 +36,7 @@ By the way, thank you for the copy of Stephen Pollock’s paper on the Kronecker
 
 Speaking of papers, Howard (my lab supervisor) gave me some textbooks to get me started on the notations. That should let me decipher the easier theorems (gosh, I love being paid to learn new things but I feel like an undergrad right now). Hopefully next week I will be able to tell you a bit about KTu-L spaces!
 
-Best,
+Best,  
 Philip
 
 ### Object: This stuff is oooold
@@ -51,7 +51,7 @@ Robert wonders whether that could be explained by a sort of common ancestor, the
 But, that seems really unlikely to me: I can’t imagine Mesopotamian dabbling in highly abstract maths and I don’t see how their ideas would get to Japan...
 My feeling is that mathematics is not invented but discovered so it is not too surprising that different groups will discover the same thing as the thing that exists independently of its human transcriptor. A bit as if maths were things living on an actual, physical, continent that is “merely” on a different plane of existence...
 
-Best,
+Best,  
 Philip
 
 ### Object: A good thing?
