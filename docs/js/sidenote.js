@@ -13,6 +13,21 @@ function getxPosition(element) {
 // the width of the screen
 screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
 
+// is there a side flipping problem that needs to be compensated for?
+flip_sides = (getxPosition(document.body) < screenWidth * 0.45)
+console.log(`flip_sides:${flip_sides}`)
+
+// returns true if the element is considered to be on the right side
+function isOnRightSide(element) {
+    result = getxPosition(element) < screenWidth * 0.45
+    if (flip_sides) {
+        return !result
+    }
+    else {
+        return result
+    }
+}
+
 // inserts just after a given html element
 // see: https://stackoverflow.com/a/4793630/6422174
 function insertAfter(referenceNode, newNode) {
@@ -43,7 +58,7 @@ while (true) {
         text_column.innerHTML = footnote_text
         sidenote.appendChild(text_column)
         // place the note on the right or the left depending on the position of its number
-        if (getxPosition(footnote_number) < screenWidth * 0.45) {
+        if (isOnRightSide(footnote_number)) {
             sidenote.classList.add("sidenote-left")
         }
         else {
