@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nestordemeure.github.io/likes/texts/zen/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/likes/texts/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/chocolate_mousse/</loc>
-    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-02T23:24:45-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/likes/speeches/figures_of_speech/</loc>
-    <lastmod>2022-06-25T10:47:49-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/likes/texts/figures_of_speech/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/likes/speeches/first_they_came/</loc>
-    <lastmod>2022-06-25T10:47:49-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/likes/texts/first_they_came/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/likes/speeches/birmingham_jail/</loc>
-    <lastmod>2022-06-25T10:47:49-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/likes/texts/birmingham_jail/</loc>
+    <lastmod>2022-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/concepts/critical_path/</loc>
     <lastmod>2022-06-25T10:47:49-07:00</lastmod>
@@ -179,9 +185,6 @@
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/</loc>
     <lastmod>2022-06-23T20:23:58-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/likes/speeches/</loc>
-    <lastmod>2022-06-25T10:47:49-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/</loc>
     <lastmod>2022-05-25T21:17:51-07:00</lastmod>

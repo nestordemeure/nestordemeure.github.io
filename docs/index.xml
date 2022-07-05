@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nestordemeure.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nestordemeure.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Zen story</title>
+      <link>https://nestordemeure.github.io/likes/texts/zen/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/likes/texts/zen/</guid>
+      <description>One day a famous government officer met a highly respected elderly master. Being conceited, he wanted to prove that he was the superior person.
+As their conversation drew on, he asked the master, &amp;ldquo;Old monk, do you know what I think of you and the things you said?&amp;rdquo;
+The master replied, &amp;ldquo;I don&amp;rsquo;t care what you think of me. You are entitled to have your own opinion.&amp;rdquo;
+The officer snorted, &amp;ldquo;Well, I will tell you what I think anyway.</description>
+    </item>
+    
     <item>
       <title>The two-ingredient chocolate mousse</title>
       <link>https://nestordemeure.github.io/cooking/sweet/chocolate_mousse/</link>
@@ -15,15 +27,15 @@
       
       <guid>https://nestordemeure.github.io/cooking/sweet/chocolate_mousse/</guid>
       <description>This is the perfect recipe to do when you have leftover egg whites. It is delicious and uses barely any ingredients (I always keep the proper chocolate in my pantry to do this recipe when I have egg whites). Its only downside is that, once you have prepared everything, you need to wait.
-Ingredients (1 portion):   1 egg whites1 35 grams of chocolate2  Preparation:   beat your egg whites into a nice firm foam melt the chocolate (it is okay to leave some chunks in the melted chocolate, they will add homogeneity to the result) optionally, if you have egg yolks, add them to the melted chocolate and mix until homogeneous (be careful not to cook them in the hot chocolate) fold the melted chocolate into the egg whites store in the fridge for at least 5 hours (you can wait a full night if you want to be sure) eat cold  Credits:  The proportions are inspired by this Mousse au chocolat facile recipe.</description>
+Ingredients (1 portion):   1 egg whites1 35 grams of chocolate2  Preparation:   beat your egg whites into a nice firm foam melt the chocolate (it is okay to leave some chunks in the melted chocolate, they will add heterogeneity to the result) optionally, if you have egg yolks, add them to the melted chocolate and mix until homogeneous (be careful not to cook them in the hot chocolate) fold the melted chocolate into the egg whites pour into one glass, mug, or bowl per portion store in the fridge for at least 5 hours (you can wait a full night if you want to be sure) eat cold (you can shave some chocolate on top if you want to make it look fancy)  Credits:  The proportions are inspired by this Mousse au chocolat facile recipe.</description>
     </item>
     
     <item>
       <title>Figures of speech</title>
-      <link>https://nestordemeure.github.io/likes/speeches/figures_of_speech/</link>
+      <link>https://nestordemeure.github.io/likes/texts/figures_of_speech/</link>
       <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likes/speeches/figures_of_speech/</guid>
+      <guid>https://nestordemeure.github.io/likes/texts/figures_of_speech/</guid>
       <description>Figures of speech (which you can find here) is a project done illuminations media for the Almeida Theater in which great actors read great speeches and it is absolutely fantastic.
 It includes, amongst others, Ian McKellen reading Harvey Milk&amp;rsquo;s Hope Speech, Derek Jacobi reading Socrates&amp;rsquo; I Go To Die, and Noma Dumezweni reading Margaret Sanger&amp;rsquo;s The Morality of Birth Control.
 The actors are great, the speeches have stood the test of time and it is a great vessel to get familiar with them.</description>
@@ -31,10 +43,10 @@ The actors are great, the speeches have stood the test of time and it is a great
     
     <item>
       <title>First they came ...</title>
-      <link>https://nestordemeure.github.io/likes/speeches/first_they_came/</link>
+      <link>https://nestordemeure.github.io/likes/texts/first_they_came/</link>
       <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likes/speeches/first_they_came/</guid>
+      <guid>https://nestordemeure.github.io/likes/texts/first_they_came/</guid>
       <description>First they came for the Communists
 And I did not speak out
 Because I was not a Communist
@@ -51,10 +63,10 @@ Because I was not a Jew</description>
     
     <item>
       <title>Letter from a Birmingham Jail</title>
-      <link>https://nestordemeure.github.io/likes/speeches/birmingham_jail/</link>
+      <link>https://nestordemeure.github.io/likes/texts/birmingham_jail/</link>
       <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/likes/speeches/birmingham_jail/</guid>
+      <guid>https://nestordemeure.github.io/likes/texts/birmingham_jail/</guid>
       <description>&amp;ldquo;I have almost reached the regrettable conclusion that the Negro&amp;rsquo;s great stumbling block in his stride toward freedom is not the White Citizen&amp;rsquo;s Counciler or the Ku Klux Klanner, but the white moderate, who is more devoted to &amp;ldquo;order&amp;rdquo; than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice.&amp;rdquo; — Martin Luther King Jr., Letter from a Birmingham Jail</description>
     </item>
     
@@ -66,7 +78,7 @@ Because I was not a Jew</description>
       <guid>https://nestordemeure.github.io/writing/concepts/critical_path/</guid>
       <description>STATUS: DRAFT
 The critical path is definition
-how to apply it?
+how to apply it? when several people do something obviously but i extend it to a single person: sometimes you have a lot of tasks to do and a rough approximation of the time needed to do them, tasks on the critical path should be done in prioriy
 why it matters?</description>
     </item>
     

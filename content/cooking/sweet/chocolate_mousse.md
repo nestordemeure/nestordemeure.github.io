@@ -20,11 +20,12 @@ Its only downside is that, once you have prepared everything, you need to *wait*
 ## Preparation:
 
 * beat your egg whites into a nice firm foam
-* melt the chocolate (it is okay to leave some chunks in the melted chocolate, they will add homogeneity to the result)
+* melt the chocolate (it is okay to leave some chunks in the melted chocolate, they will add heterogeneity to the result)
 * optionally, if you have egg yolks, add them to the melted chocolate and mix until homogeneous (be careful not to cook them in the hot chocolate)
 * fold the melted chocolate into the egg whites
+* pour into one glass, mug, or bowl per portion
 * store in the fridge for *at least 5 hours* (you can wait a full night if you want to be sure)
-* eat cold
+* eat cold (you can shave some chocolate on top if you want to make it look fancy)
 
 ## Credits:
 
