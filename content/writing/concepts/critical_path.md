@@ -1,6 +1,6 @@
 ---
 title: "Critical path"
-draft: false
+draft: true
 comments: false
 date: 2022-06-24
 images:

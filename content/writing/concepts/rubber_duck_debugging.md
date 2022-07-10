@@ -1,6 +1,6 @@
 ---
 title: "Rubber duck debugging"
-draft: false
+draft: true
 comments: false
 images:
 ---

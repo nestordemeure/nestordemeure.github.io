@@ -27,7 +27,7 @@ It has evolved a lot since its inception but it is still one of my favorite way 
 #### Pasta
 
 * fill a pan with water and bring it to a boil (big bubbles, small bubbles do *not* count as boiling, you will be delighted to discover that I met people for which this is not obvious)
-* you can optionally add a generous amount of salt to your pasta water, the pasta will taste better but do not need it here
+* you can optionally add a generous amount of salt to your pasta water, the pasta will taste better but, you do not need it here
 * add the pasta when the water starts boiling and keep cooking for about 10 minutes (until your pasta is cooked)
 
 #### Sauce
@@ -43,7 +43,7 @@ It has evolved a lot since its inception but it is still one of my favorite way 
 * once the pasta is cooked, add a splash of pasta water to the wok, this will help with the sauce consistency (you can be approximate with the quantity, too little and your sauce will miss a bit of thickness, too much and you will have to reduce longer: either way the result will be fine and you can do better next time) you can do it directly from the pasta pan, no need for an intermediate container (that would give you additional opportunities to burn yourself)
 * strain the pasta and add them to the wok (it is okay if there is some pasta water left with the pasta, we have pasta water in the wok anyway)
 * raise to medium heat and keep mixing until you get the sauce consistency you want (the mixing time will depend on the amount of water you put, you should be done in two minutes)
-serve on a plate, feel free to add butter and shredded Parmesan to pimp the result slightly
+* serve on a plate, feel free to add butter and shredded Parmesan to pimp the result slightly
 
 ## Credits:
 

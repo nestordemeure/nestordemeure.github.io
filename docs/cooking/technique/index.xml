@@ -8,16 +8,6 @@
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://nestordemeure.github.io/cooking/technique/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cooking pasta with some sauce</title>
-      <link>https://nestordemeure.github.io/cooking/technique/pasta/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nestordemeure.github.io/cooking/technique/pasta/</guid>
-      <description>STATUS: DRAFT
-Ingredients:  Technique:  Credits:  </description>
-    </item>
-    
-    <item>
       <title>Melting butter</title>
       <link>https://nestordemeure.github.io/cooking/technique/melting_butter/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
@@ -34,27 +24,7 @@ Ingredients:   the butter you want to melt  Technique:   put the butter in a sma
       
       <guid>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</guid>
       <description>The classical technique to melt chocolate is to use a double broiler (also called bain Marie). However, I am deeply convinced that using a microwave is significantly easier and faster.
-Ingredients:   chocolate to melt a tablespoon of water (you need some water to prevent dry burning but too much will deteriorate the result) if the recipe calls for melted butter, adding cream or milk, you can replace the water with one of those in the quantities required by the recipe  Technique:   put the chocolate in a small bowl add the liquid or milk produce microwave until the chocolate is softened (around one minute depending on the strength of your microwave) mix the result to finish melting the chocolate  Credits:  I am not aware of any particular credit for this technique, I saw it in a variety of sources.</description>
-    </item>
-    
-    <item>
-      <title>Cutting a bellpepper</title>
-      <link>https://nestordemeure.github.io/cooking/technique/bellpepper/</link>
-      <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
-      
-      <guid>https://nestordemeure.github.io/cooking/technique/bellpepper/</guid>
-      <description>STATUS: DRAFT
-credit adam ragusea</description>
-    </item>
-    
-    <item>
-      <title>Cutting oignons</title>
-      <link>https://nestordemeure.github.io/cooking/technique/oignon/</link>
-      <pubDate>Tue, 24 May 2022 21:16:50 -0700</pubDate>
-      
-      <guid>https://nestordemeure.github.io/cooking/technique/oignon/</guid>
-      <description>STATUS: DRAFT
-credit french guy cooking?</description>
+Ingredients:   chocolate to melt a tablespoon of water (you need some water to prevent dry burning but too much will deteriorate the result) if the recipe calls for melted butter, adding cream or milk, you can replace the water with one of those in the quantities required by the recipe  Technique:   put the chocolate in a small bowl add the liquid or milk produce microwave until the chocolate is softened (around one minute depending on the strength of your microwave) mix the result to finish melting the chocolate  Credits:  I am not aware of any particular credit for this technique, I saw it used by a variety of sources.</description>
     </item>
     
   </channel>

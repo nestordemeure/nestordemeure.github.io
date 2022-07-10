@@ -24,4 +24,4 @@ However, I am deeply convinced that using a microwave is significantly easier an
 
 ## Credits:
 
-I am not aware of any particular credit for this technique, I saw it in a variety of sources.
+I am not aware of any particular credit for this technique, I saw it used by a variety of sources.
