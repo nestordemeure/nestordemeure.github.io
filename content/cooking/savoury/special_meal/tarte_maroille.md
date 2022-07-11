@@ -1,5 +1,5 @@
 ---
-title: "The secret of the Tarte au Maroille"
+title: "Tarte au Maroille"
 date: 2022-05-28
 draft: false
 comments: false

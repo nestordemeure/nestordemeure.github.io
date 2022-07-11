@@ -1,5 +1,5 @@
 ---
-title: "The vegetarian pasta carbonara"
+title: "Vegetarian pasta carbonara"
 date: 2022-07-07
 draft: false
 comments: false

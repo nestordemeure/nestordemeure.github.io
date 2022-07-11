@@ -1,5 +1,5 @@
 ---
-title: "The surprisingly-good-looking Clafoutis"
+title: "Clafoutis"
 date: 2022-05-28
 draft: false
 comments: false

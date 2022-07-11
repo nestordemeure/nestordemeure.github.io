@@ -1,5 +1,5 @@
 ---
-title: "The mighty KrautBurger"
+title: "KrautBurger"
 date: 2022-05-24
 draft: false
 comments: false

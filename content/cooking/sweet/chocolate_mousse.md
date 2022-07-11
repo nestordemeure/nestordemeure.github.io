@@ -1,5 +1,5 @@
 ---
-title: "The two-ingredient chocolate mousse"
+title: "Two-ingredient chocolate mousse"
 date: 2022-07-02
 draft: false
 comments: false

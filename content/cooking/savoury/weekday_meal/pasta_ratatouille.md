@@ -1,5 +1,5 @@
 ---
-title: "The everlasting pasta ratatouille"
+title: "Pasta ratatouille"
 date: 2022-05-29
 draft: false
 comments: false

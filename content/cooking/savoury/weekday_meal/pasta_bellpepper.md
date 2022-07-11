@@ -1,5 +1,5 @@
 ---
-title: "The regular pasta bell pepper"
+title: "Pasta bell pepper"
 date: 2022-06-07
 draft: false
 comments: false

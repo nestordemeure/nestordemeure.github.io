@@ -1,5 +1,5 @@
 ---
-title: "Just Crêpes"
+title: "Crêpes"
 date: 2022-06-04
 draft: false
 comments: false

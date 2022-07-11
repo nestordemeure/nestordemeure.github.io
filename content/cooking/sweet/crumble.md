@@ -1,5 +1,5 @@
 ---
-title: "The not-so-secret Crumble recipe"
+title: "Crumble"
 date: 2022-05-24
 draft: false
 comments: false

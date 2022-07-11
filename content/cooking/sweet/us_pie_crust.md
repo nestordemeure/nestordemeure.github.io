@@ -1,5 +1,5 @@
 ---
-title: "Chef John's US pie crust"
+title: "US-style pie crust"
 date: 2022-05-30
 draft: false
 comments: false

@@ -1,5 +1,5 @@
 ---
-title: "The vegan fruity breakfast"
+title: "Vegan fruity breakfast"
 date: 2022-07-11
 draft: false
 comments: false
