@@ -15,12 +15,8 @@ To add an image, you can use the following:
 *Image generated with https://app.wombo.art/*
 ```
 
-To add a sidenote, you can use the following:
-
-```
-{{% sn %}}Content of the note.{{% /sn %}}
-```
+Footnotes are automatically turned into sidenotes.
 
 ## TODO
 
-- create a cooking pasta page
+- make a page with a list of all articles from newer to older
