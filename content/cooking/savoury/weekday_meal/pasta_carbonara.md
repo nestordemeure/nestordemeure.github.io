@@ -15,7 +15,7 @@ Plus, it is vegetarian!
 * half of a thick zucchini[^bacon]
 * some olive oil
 * some soy sauce
-* two egg yolks
+* two egg yolks[^egg]
 * some milk (about the same volume as the egg yolk)
 * a lot of parmesan (at least the same volume as the egg yolk)
 * a lot of black pepper (get a pepper grinder, you will get a much-improved taste)
@@ -24,6 +24,8 @@ Plus, it is vegetarian!
 [^pasta]: Ideally you want pasta that will catch the sauce. Ridged pasta is a fine option, bronze cut pasta would be the fancy way to go.
 
 [^bacon]: Or a few strips of bacon if you don't want to go vegetarian. You would cut the slices in half and cook them in their fat before adding the pasta and sauce.
+
+[^egg]: You can reserve the egg whites for [another recipe](/cooking/sweet/chocolate_mousse).
 
 [^garlic]: Do *not* forget or omit the garlic. It is a key ingredient in the final flavor.
 
