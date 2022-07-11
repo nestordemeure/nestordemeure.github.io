@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-07-10T21:54:39-07:00</lastmod>
+    <lastmod>2022-07-11T12:20:32-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/breakfast/</loc>
+    <lastmod>2022-07-11T12:20:32-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/writing/</loc>
     <lastmod>2022-07-10T21:52:44-07:00</lastmod>
@@ -16,9 +19,6 @@
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/sweet/chocolate_mousse/</loc>
     <lastmod>2022-07-04T17:39:29-07:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/breakfast/</loc>
-    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/texts/figures_of_speech/</loc>
     <lastmod>2022-07-04T17:39:29-07:00</lastmod>
@@ -147,6 +147,8 @@
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/</loc>
     <lastmod>2022-05-29T17:34:50-07:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/posts/</loc>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/objects/</loc>
     <lastmod>2022-06-07T20:23:40-07:00</lastmod>

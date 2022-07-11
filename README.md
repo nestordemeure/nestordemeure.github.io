@@ -16,7 +16,3 @@ To add an image, you can use the following:
 ```
 
 Footnotes are automatically turned into sidenotes.
-
-## TODO
-
-- make a page with a list of all articles from newer to older

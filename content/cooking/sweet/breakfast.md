@@ -1,6 +1,6 @@
 ---
 title: "The vegan fruity breakfast"
-date: 2022-07-02
+date: 2022-07-11
 draft: false
 comments: false
 images:
