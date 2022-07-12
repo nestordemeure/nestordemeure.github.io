@@ -80,4 +80,4 @@ You have to know what you want, everything else can be improved on with patience
 
 Start writing, keep writing, come back to your writing and you will be rewarded[^also].
 
-[^also]: Also, a lot of this advice is shared with my [guide to doing a large project](/writing/guides/hard_things). I highly recommend that you consult it.
+[^also]: A lot of this advice is shared with my [guide to doing a large project](/writing/guides/hard_things). I highly recommend that you consult it.

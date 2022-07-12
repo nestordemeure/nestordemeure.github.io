@@ -18,9 +18,9 @@
         <ul class="posts-list">
             {{ range .Pages }}
             <li class="post-item">
-                <a href="{{.Permalink}}">
+                <a href="{{.Permalink}}" , style="display: grid; grid-template-columns: auto auto auto; gap: 2ch">
                     <!-- start with post's section -->
-                    <span style="text-transform: capitalize; text-align: left;">{{.Section}}</span>
+                    <span style="text-transform: capitalize;">{{.Section}}</span>
                     <span class="post-title">{{.Title}}</span>
                     <span class="post-day">
                         {{ if .Site.Params.dateformShort }}
