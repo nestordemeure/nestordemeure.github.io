@@ -21,7 +21,7 @@
                 <a href="{{.Permalink}}" , style="display: grid; grid-template-columns: 7ch auto 8ch; gap: 1ch">
                     <!-- start with post's section -->
                     <span style="text-transform: capitalize;">{{.Section}}</span>
-                    <span class="post-title">{{.Title}}</span>
+                    <span class="post-title" style="text-align:left">{{.Title}}</span>
                     <span class="post-day" style="text-align:right">
                         {{ if .Site.Params.dateformShort }}
                         {{ .Date.Format .Site.Params.dateformShort }}
