@@ -15,6 +15,7 @@ Its only downside is that, once you have prepared everything, you need to *wait*
 * 35 grams of chocolate[^2]
 
 [^1]: Don't despair if you have some full eggs, you will be able to use the egg yolks later in the recipe.
+
 [^2]: This is the only source of sugar and flavor for the dessert so I recommend aiming for slightly sweeter than your sweet spot (I like to go with 65% cacao) and using a *bar* of good quality cooking chocolate (chocolate chips tend to have a slight aftertaste that would degrade the result).
 
 ## Preparation:

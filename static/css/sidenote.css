@@ -19,7 +19,7 @@
 /* Computer screen */
 @media (min-width: 1400px) {
     .sidenote {
-        transform: translateY(-50%);
+        transform: translateY(-1.5rem);
         margin-bottom: 1rem;
     }
 
@@ -46,10 +46,15 @@
 /* Mobile */
 @media (max-width: 1400px) {
     .sidenote {
-        /* to ensure that the line will break at the endline and not the footnote number */
+        /* to ensure that the line will break at the end of the line and not the footnote number */
         float: right;
-        clear: right;
+        clear: both;
 
-        padding: 1rem 3ch 1rem 0ch;
+        margin: 1rem 3ch 1rem 0ch;
+    }
+
+    .heading-wrapper {
+        /* to avoid title collapsing with the side note in mobile settings*/
+        clear: both;
     }
 }

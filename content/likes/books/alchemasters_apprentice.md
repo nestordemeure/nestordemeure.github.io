@@ -16,7 +16,7 @@ It includes some of the best descriptions of meals and some of the most imaginat
 The book cares deeply about the experience of eating, the discoveries that come with new dishes, and the joy of sharing those experiences with the reader.
 
 The author writes with deep and communicative joy.
-He tells us stories within the story that play with our expectations while managing, until the last moment, to keep us on our toes as to what will happen to our young crat and give us several *hard-hitting* emotional moments^2].
+He tells us stories within the story that play with our expectations while managing, until the last moment, to keep us on our toes as to what will happen to our young crat and give us several *hard-hitting* emotional moments[^2].
 Overall, it feels as if a brilliant author decided to dedicate his life to his very personal quirky universe[^3], doing the things he *loves* rather than the things the public might be looking for.
 
 I would recommend The Alchemaster's Apprentice for pretty much everyone who felt intrigued when reading the above descriptions and for all ages.

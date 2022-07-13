@@ -24,7 +24,7 @@
       
       <guid>https://nestordemeure.github.io/writing/guides/blogging/</guid>
       <description>Disclaimer: This guide is mostly about me keeping a trace of the process I followed to create this blog. I really wanted to use GitHub for the hosting and that leads to a lot of additional complexity that you should avoid if you are not used to writing code.
-Hosting  I used GitHub pages to host my blog, they are free but only support static websites and, by default, force you to use their domain.</description>
+Hosting   I used GitHub pages to host my blog, they are free but only support static websites and, by default, force you to use their domain.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ These are my solutions to tackle large projects (you will find some overlap with
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/guides/ideas/</guid>
-      <description>No one is born uncreative  Some people have told me that they are not creative. It usually stems from them thinking that creativity is an innate gift: some people are born with a brain that overflow with ideas at regular intervals while others stay dry for most of their life.
+      <description>No one is born uncreative   Some people have told me that they are not creative. It usually stems from them thinking that creativity is an innate gift: some people are born with a brain that overflow with ideas at regular intervals while others stay dry for most of their life.
 In practice, I found creativity to be a muscle. The more you try to use it and the easier it gets.</description>
     </item>
     
