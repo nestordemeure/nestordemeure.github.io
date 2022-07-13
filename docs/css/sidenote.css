@@ -18,21 +18,14 @@
 
 /* Computer screen */
 @media (min-width: 1400px) {
-    .sidenote {
-        transform: translateY(-1.5rem);
-        margin-bottom: 1rem;
-    }
-
     .sidenote-right {
         float: right;
-        clear: right;
         width: 22.5vw;
         margin-right: -23vw;
     }
 
     .sidenote-left {
         float: left;
-        clear: left;
         width: 23vw;
         margin-left: -24.5vw;
     }

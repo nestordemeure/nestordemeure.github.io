@@ -2,6 +2,13 @@
 Converts footnotes into sidenotes.
 */
 
+// the width of the screen
+screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+// the font size
+fontsize = parseFloat(getComputedStyle(document.documentElement).fontSize)
+// returns true if we are on a computeur screen
+isComputeurScreen = window.matchMedia('(min-width: 1400px)').matches
+
 // gets the x position of an element on screen
 function getxPosition(element) {
     box = element.getBoundingClientRect()
@@ -10,13 +17,28 @@ function getxPosition(element) {
     return x_absolute
 }
 
-// the width of the screen
-screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-
 // inserts just after a given html element
 // see: https://stackoverflow.com/a/4793630/6422174
 function insertAfter(referenceNode, newNode) {
     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+}
+
+// takes a list of element and center them vertically while insuring that they are separated by at least 'margin'
+function centerVertically(elements, margin) {
+    ceiling = 0
+    for (element of elements) {
+        // gets size information
+        box = element.getBoundingClientRect()
+        ytop = box.top
+        ybottom = box.bottom
+        // computes the shift to center vertically while respecting the margin
+        maxlegalshift = ceiling + margin - ytop // gets one margin below the ceiling
+        optimumshift = (ytop - ybottom) / 2 // centered on the element
+        yshift = Math.max(maxlegalshift, optimumshift)
+        // applies the shift and updates the ceiling
+        element.style.cssText = `transform: translateY(${yshift}px);`
+        ceiling = ybottom + yshift
+    }
 }
 
 // iterates as long as we can find footnotes
@@ -60,10 +82,20 @@ while (true) {
     }
 }
 
-// delete the footnote footer if there was at least one footnote
 if (id > 1) {
+    // delete the footnote footer if there was at least one footnote
     footnote_footer = document.getElementsByClassName("footnotes")[0]
     footnote_footer.remove()
+
+    // centers the notes vertically
+    // now that they have been placed and have a height and base position
+    if (isComputeurScreen) {
+        // right then left
+        sidenotesRight = document.getElementsByClassName("sidenote-right")
+        centerVertically(sidenotesRight, fontsize)
+        sidenotesLeft = document.getElementsByClassName("sidenote-left")
+        centerVertically(sidenotesLeft, fontsize)
+    }
 }
 
 /*
