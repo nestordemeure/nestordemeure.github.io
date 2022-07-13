@@ -50,6 +50,9 @@
         float: right;
         clear: both;
 
+        /* ensures that we take a full line, margin included */
+        width: calc(100% - 3ch);
+
         margin: 1rem 3ch 1rem 0ch;
     }
 
