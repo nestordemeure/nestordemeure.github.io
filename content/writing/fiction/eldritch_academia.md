@@ -82,4 +82,11 @@ Yes, you should definitely come. KTu-L needs you.
 
 Philip
 
-
+<br/>
+<br/>
+<br/>
+<small>
+    <a href="/writing/fiction/eldritch_academia_anotated">
+        Annotated version.
+    </a>
+</small>

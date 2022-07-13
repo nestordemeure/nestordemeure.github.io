@@ -30,6 +30,8 @@ So far I have barely scratched the surface.
 
 I wrote some Javascript plus CSS (loosely inspired by [this approach](https://scripter.co/sidenotes-using-ox-hugo/)) to automatically convert my footnotes into [side notes](https://www.gwern.net/Sidenotes).
 
+I also added an `unlisted` field, using [this approach](https://bphogan.com/2020/08/11/2020-08-11-creating-unlisted-content-in-hugo/), to be able to link to pages that would not appear in the index by default (this can be done by setting them to draft but feels semantically wrong).
+
 ## Writing the content
 
 I first drew from previous texts I wrote for friends and message boards as well as personal texts I kept in folders (this explains why some dates are anterior to the creation of the blog).
