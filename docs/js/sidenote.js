@@ -1,21 +1,5 @@
-/*
-Converts footnotes into sidenotes.
-*/
-
-// the width of the screen
-screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
-// the font size
-fontsize = parseFloat(getComputedStyle(document.documentElement).fontSize)
-// returns true if we are on a computeur screen
-isComputeurScreen = window.matchMedia('(min-width: 1400px)').matches
-
-// gets the x position of an element on screen
-function getxPosition(element) {
-    box = element.getBoundingClientRect()
-    x_relative = (box.right + box.left) / 2
-    x_absolute = x_relative + window.pageXOffset
-    return x_absolute
-}
+//-------------------------------------------------------------------------------------------------
+// FOOTNOTE TO SIDENOTES
 
 // inserts just after a given html element
 // see: https://stackoverflow.com/a/4793630/6422174
@@ -23,27 +7,10 @@ function insertAfter(referenceNode, newNode) {
     referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
 }
 
-// takes a list of element and center them vertically while insuring that they are separated by at least 'margin'
-function centerVertically(elements, margin) {
-    ceiling = 0
-    for (element of elements) {
-        // gets size information
-        box = element.getBoundingClientRect()
-        ytop = box.top
-        ybottom = box.bottom
-        // computes the shift to center vertically while respecting the margin
-        maxlegalshift = ceiling + margin - ytop // gets one margin below the ceiling
-        optimumshift = (ytop - ybottom) / 2 // centered on the element
-        yshift = Math.max(maxlegalshift, optimumshift)
-        // applies the shift and updates the ceiling
-        element.style.cssText = `transform: translateY(${yshift}px);`
-        ceiling = ybottom + yshift
-    }
-}
-
 // iterates as long as we can find footnotes
-id = 1
+sidenoteList = []
 while (true) {
+    id = sidenoteList.length + 1
     // finds the footnote number in the text
     footnote_number_id = `fnref:${id}`
     footnote_number = document.getElementById(footnote_number_id)
@@ -64,17 +31,10 @@ while (true) {
         footnote_text = document.getElementById(footnote_id).innerHTML
         text_column.innerHTML = footnote_text
         sidenote.appendChild(text_column)
-        // place the note on the right or the left depending on the position of its number
-        if (getxPosition(footnote_number) < screenWidth * 0.45) {
-            sidenote.classList.add("sidenote-left")
-        }
-        else {
-            sidenote.classList.add("sidenote-right")
-        }
         // inserts sidenote's html after footnote marker
         insertAfter(footnote_number, sidenote)
-        // increments the footnote id
-        id += 1
+        // updates sidenote list
+        sidenoteList.push([footnote_number, sidenote])
     }
     else {
         // the id has no associated footnote, we are done
@@ -82,20 +42,10 @@ while (true) {
     }
 }
 
-if (id > 1) {
-    // delete the footnote footer if there was at least one footnote
+// delete the footnote footer if there was at least one footnote
+if (sidenoteList.length > 0) {
     footnote_footer = document.getElementsByClassName("footnotes")[0]
     footnote_footer.remove()
-
-    // centers the notes vertically
-    // now that they have been placed and have a height and base position
-    if (isComputeurScreen) {
-        // right then left
-        sidenotesRight = document.getElementsByClassName("sidenote-right")
-        centerVertically(sidenotesRight, fontsize)
-        sidenotesLeft = document.getElementsByClassName("sidenote-left")
-        centerVertically(sidenotesLeft, fontsize)
-    }
 }
 
 /*
@@ -128,3 +78,109 @@ for their own good < sup id = "fnref:4" > <a href="#fn:4" class="footnote-ref" r
 </small>
 */
 
+//-------------------------------------------------------------------------------------------------
+// SIDENOTE PLACEMENT
+
+// gets the [x,y,top,bottom] positions of an element on screen
+function getPosition(element) {
+    box = element.getBoundingClientRect()
+    // x
+    x_relative = (box.right + box.left) / 2
+    x = x_relative + window.pageXOffset
+    // y
+    y_relative = (box.top + box.bottom) / 2
+    y = y_relative + window.pageYOffset
+    return [x, y, box.top, box.bottom]
+}
+
+// computes the best shift and resulting ceiling
+function getShiftCeiling(y, ytarget, top, bottom, ceiling, margin) {
+    // shift to get one margin below the ceiling
+    shiftCeiling = (ceiling + margin) - top
+    // shift to get aligned with the target
+    shiftNumber = ytarget - y
+    // shift that gets us lower of the two
+    shift = Math.max(shiftCeiling, shiftNumber)
+    // new ceiling once we take the shift
+    ceiling = bottom + shift
+    return [shift, ceiling]
+}
+
+// positions all the side notes
+// left/right and vertically
+function positionSidenotes() {
+    // the width of the screen
+    screenWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+    // the font size
+    fontsize = parseFloat(getComputedStyle(document.documentElement).fontSize)
+    // true if we are on a computeur screen
+    isComputeurScreen = window.matchMedia('(min-width: 1400px)').matches
+
+    // sets everything to the default
+    for ([number, note] of sidenoteList) {
+        note.style.cssText = ""
+    }
+
+    // if we are dealing with a computeur, pick a side and shifts verticaly
+    if (isComputeurScreen) {
+        margin = fontsize
+        ceilingRight = -window.pageYOffset
+        ceilingLeft = -window.pageYOffset
+        for ([number, note] of sidenoteList) {
+            var [numberx, numbery, numberTop, numberBottom] = getPosition(number)
+            // pick side
+            goLeft = numberx < screenWidth * 0.45
+            isAmbiguous = (numberx > screenWidth * (5 / 12)) && (numberx < screenWidth * (7 / 12))
+            if (isAmbiguous) {
+                // try left
+                note.classList.remove("sidenote-right")
+                note.classList.add("sidenote-left")
+                var [notex, notey, noteTop, noteBottom] = getPosition(note)
+                var [shiftLeft, newCeilingLeft] = getShiftCeiling(notey, numbery, noteTop, noteBottom, ceilingLeft, margin)
+                // try right
+                note.classList.remove("sidenote-left")
+                note.classList.add("sidenote-right")
+                var [notex, notey, noteTop, noteBottom] = getPosition(note)
+                var [shiftRight, newCeilingRight] = getShiftCeiling(notey, numbery, noteTop, noteBottom, ceilingRight, margin)
+                // picks best direction
+                if ((newCeilingLeft < newCeilingRight) || ((newCeilingLeft == newCeilingRight) && goLeft)) {
+                    // left is better
+                    // or equal but the prefered direction
+                    note.classList.remove("sidenote-right")
+                    note.classList.add("sidenote-left")
+                    ceilingLeft = newCeilingLeft
+                    shift = shiftLeft
+                }
+                else {
+                    // right is better
+                    // (no need to change our class to right as it was the latest test)
+                    ceilingRight = newCeilingRight
+                    shift = shiftRight
+
+                }
+            }
+            else if (goLeft) {
+                // change side to right
+                note.classList.remove("sidenote-right")
+                note.classList.add("sidenote-left")
+                // computes shift and new ceiling
+                var [notex, notey, noteTop, noteBottom] = getPosition(note)
+                var [shift, ceilingLeft] = getShiftCeiling(notey, numbery, noteTop, noteBottom, ceilingLeft, margin)
+            }
+            else {
+                // change side to left
+                note.classList.remove("sidenote-left")
+                note.classList.add("sidenote-right")
+                // computes shift and new ceiling
+                var [notex, notey, noteTop, noteBottom] = getPosition(note)
+                var [shift, ceilingRight] = getShiftCeiling(notey, numbery, noteTop, noteBottom, ceilingRight, margin)
+            }
+            // applies shift
+            note.style.cssText = `transform: translateY(${shift}px);`
+        }
+    }
+}
+
+// runs the function once and on any screen resizing
+window.onresize = positionSidenotes
+positionSidenotes()
