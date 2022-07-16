@@ -7,7 +7,7 @@ unlisted: true
 images:
 ---
 
-*This is the annotated edition of [Eldritch Academia](/writing/fiction/eldritch_academia)[^title]. I expect it to be of very limited interest to others (the short story is probably not worth an annotated edition) but, it is a fun way to record some of the thoughts and references I put in the text and an exercise in overloading a page with sidenotes.*
+*This is the annotated edition of [Eldritch Academia](/writing/fiction/eldritch_academia)*[^title]*. I expect it to be of very limited interest to others (the short story is probably not worth an annotated edition) but, it is a fun way to record some of the thoughts and references I put in the text and an exercise in overloading a page with sidenotes.*
 
 *My overall feeling about the story is that it lacks conflict, probably because the narrator is not resisting. Plus, it reaches its end very quickly, maybe too fast to let the reader understand that a transformation is happening.*
 
