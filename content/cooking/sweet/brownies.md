@@ -34,7 +34,8 @@ I highly recommend going overboard and adding 10 grams of finely ground instant 
 ## Cooking:
 
 * cook 25 to 30 minutes in a 340F (170C) oven
-* let cool in the pan before serving (they might be best served the next day for peak flavor and texture)
+* let cool in the pan
+* cut into slices before serving (they might be best served the next day for peak flavor and texture)
 
 ## Credits:
 
