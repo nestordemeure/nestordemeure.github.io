@@ -49,7 +49,7 @@ Shaman (C&#43;&#43;)   Shaman is the crown jewel of my Ph.D., it helps you track
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
 Shaman (C&#43;&#43;)   Shaman is the crown jewel of my Ph.D., it helps you track and measure the numerical error in computations by replacing the types (double becomes Sdouble) with instrumented version.">
 <meta itemprop="dateModified" content="2022-06-20T18:35:04-07:00" />
-<meta itemprop="wordCount" content="524"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
+<meta itemprop="wordCount" content="633"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://nestordemeure.github.io/"/>
@@ -193,7 +193,17 @@ It <em>will</em> cut on a lot of unexpected debugging time while being simple to
         </a>
     </h4>
 </div><p>Flax Optimizers is a collection of optimizers for the <a href="https://github.com/google/flax">Flax deep learning framework</a>.</p>
-<p>Nowadays, it has been supplanted by <a href="https://github.com/deepmind/optax">Deepmind&rsquo;s optax</a> but it reflects a lot of work I did to test various optimizers while collaborating on <a href="https://github.com/lessw2020/Ranger21">Ranger21</a> and I believe it contains some of the most readable implementations of the optimizers it includes.</p>
+<p>Nowadays, it has been supplanted by <a href="https://github.com/deepmind/optax">Deepmind&rsquo;s Optax</a> but it reflects a lot of work I did to test various optimizers while collaborating on <a href="https://github.com/lessw2020/Ranger21">Ranger21</a> and I believe it contains some of the most readable implementations of the optimizers it includes.</p>
+<div class="heading-wrapper">
+    <h4 id="stochastorchhttpsgithubcomnestordemeurestochastorch--jochastichttpsgithubcomnestordemeurejochastic-python">
+        <a class="heading-anchor" href="#stochastorchhttpsgithubcomnestordemeurestochastorch--jochastichttpsgithubcomnestordemeurejochastic-python" style="text-decoration: none">
+            <a href="https://github.com/nestordemeure/stochastorch">StochasTorch</a> / <a href="https://github.com/nestordemeure/jochastic">Jochastic</a> (Python)
+        </a>
+    </h4>
+</div><p>Stochastorch and Jochastic are Pytorch / JAX software-based implementations of <a href="https://nhigham.com/2020/07/07/what-is-stochastic-rounding/">stochastic rounding</a> addition.</p>
+<p>When encoding the weights of a neural network in low precision (such as <code>bfloat16</code>), one runs into stagnation problems: updates end up being too small relative to the numbers the precision of the encoding.
+This leads to weights becoming stuck and the model&rsquo;s accuracy is significantly reduced.</p>
+<p>Stochastic rounding lets you perform the addition in such a way that the weights have a non-zero probability of being modified anyway. This avoids the stagnation problem without increasing memory usage (as might happen if one were using a <a href="https://en.wikipedia.org/wiki/Kahan_summation_algorithm">compensated summation</a> to solve the problem).</p>
 <div class="heading-wrapper">
     <h4 id="simplershttpsgithubcomnestordemeuresimplers-rust">
         <a class="heading-anchor" href="#simplershttpsgithubcomnestordemeuresimplers-rust" style="text-decoration: none">
@@ -202,7 +212,7 @@ It <em>will</em> cut on a lot of unexpected debugging time while being simple to
     </h4>
 </div><p>Simplers is a Rust implementation of the, very elegant, <a href="https://github.com/chrisstroemel/Simple">Simple(x) black-box global optimization algorithm</a>.</p>
 <p>The algorithm (which should not be confused with the <a href="https://en.wikipedia.org/wiki/Simplex_algorithm">simplex algorithm</a>) is closest to <a href="https://en.wikipedia.org/wiki/Bayesian_optimization">Bayesian optimization</a>.
-Its strengths, compared to Bayesian optimization, are the ability to deal with a large number of samples and high dimension efficiently.</p>
+Its strengths, compared to Bayesian optimization, are the ability to deal with a large number of samples and high dimensions efficiently.</p>
 <div class="heading-wrapper">
     <h4 id="kronmult993httpsgithubcomproject-asgardkronmult993-c">
         <a class="heading-anchor" href="#kronmult993httpsgithubcomproject-asgardkronmult993-c" style="text-decoration: none">

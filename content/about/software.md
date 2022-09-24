@@ -46,14 +46,23 @@ This crate tries to be small yet *really* fast, compatible with parallelism, and
 
 Flax Optimizers is a collection of optimizers for the [Flax deep learning framework](https://github.com/google/flax).
 
-Nowadays, it has been supplanted by [Deepmind's optax](https://github.com/deepmind/optax) but it reflects a lot of work I did to test various optimizers while collaborating on [Ranger21](https://github.com/lessw2020/Ranger21) and I believe it contains some of the most readable implementations of the optimizers it includes.
+Nowadays, it has been supplanted by [Deepmind's Optax](https://github.com/deepmind/optax) but it reflects a lot of work I did to test various optimizers while collaborating on [Ranger21](https://github.com/lessw2020/Ranger21) and I believe it contains some of the most readable implementations of the optimizers it includes.
+
+#### [StochasTorch](https://github.com/nestordemeure/stochastorch) / [Jochastic](https://github.com/nestordemeure/jochastic) (Python)
+
+Stochastorch and Jochastic are Pytorch / JAX software-based implementations of [stochastic rounding](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/) addition.
+
+When encoding the weights of a neural network in low precision (such as `bfloat16`), one runs into stagnation problems: updates end up being too small relative to the numbers the precision of the encoding.
+This leads to weights becoming stuck and the model's accuracy is significantly reduced.
+
+Stochastic rounding lets you perform the addition in such a way that the weights have a non-zero probability of being modified anyway. This avoids the stagnation problem without increasing memory usage (as might happen if one were using a [compensated summation](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) to solve the problem).
 
 #### [Simplers](https://github.com/nestordemeure/Simplers) (Rust)
 
 Simplers is a Rust implementation of the, very elegant, [Simple(x) black-box global optimization algorithm](https://github.com/chrisstroemel/Simple).
 
 The algorithm (which should not be confused with the [simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)) is closest to [Bayesian optimization](https://en.wikipedia.org/wiki/Bayesian_optimization).
-Its strengths, compared to Bayesian optimization, are the ability to deal with a large number of samples and high dimension efficiently.
+Its strengths, compared to Bayesian optimization, are the ability to deal with a large number of samples and high dimensions efficiently.
 
 #### [Kronmult993](https://github.com/project-asgard/kronmult993) (C++)
 

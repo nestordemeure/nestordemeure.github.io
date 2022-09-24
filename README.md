@@ -6,7 +6,11 @@ Note that this is intended more as a collection of pieces of information and tex
 
 ## Usage
 
-To update, just add some content then run `publish.sh`.
+This blog is generated with [Hugo](https://gohugo.io/).
+
+You can preview it locally by running `hugo server`.
+
+To update the online version, just add some content then run `publish.sh`.
 
 To add an image, you can use the following:
 
