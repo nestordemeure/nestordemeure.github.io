@@ -48,6 +48,15 @@ Flax Optimizers is a collection of optimizers for the [Flax deep learning framew
 
 Nowadays, it has been supplanted by [Deepmind's Optax](https://github.com/deepmind/optax) but it reflects a lot of work I did to test various optimizers while collaborating on [Ranger21](https://github.com/lessw2020/Ranger21) and I believe it contains some of the most readable implementations of the optimizers it includes.
 
+#### [Ranger21](https://github.com/lessw2020/Ranger21) (Python)
+
+Ranger21 is a deep learning optimizer.
+
+It was born from implementing a large number of publications and realizing that a lot of those ideas were orthogonal and synergetic: you would get better results putting them together.
+The result is an optimizer that is surprisingly robust and, looking further, the idea that we should build modular optimizers to foster research in that direction.
+
+I co-wrote it with [Less Wright](https://github.com/lessw2020) as an update to his [Ranger optimizer](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer).
+
 #### [StochasTorch](https://github.com/nestordemeure/stochastorch) / [Jochastic](https://github.com/nestordemeure/jochastic) (Python)
 
 Stochastorch and Jochastic are Pytorch / JAX software-based implementations of [stochastic rounding](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/) addition.

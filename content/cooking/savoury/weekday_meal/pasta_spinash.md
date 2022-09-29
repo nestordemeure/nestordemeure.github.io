@@ -16,7 +16,7 @@ I highly recommend it if you want a weeknight meal that feels slightly fancier t
 * a generous amount of pepper
 * some salt
 * a large bowl packet full of fresh baby spinach
-* the equivalent of one and a half large clove of garlic[^garlic]
+* the equivalent of one and a half large cloves of garlic^garlic]
 * about 30 grams of butter
 * some grated parmesan[^cheese]
 
@@ -47,7 +47,7 @@ Ideally, you want pasta that will catch the sauce such as bronze cut pasta but, 
 
 * put the olive oil in a wok
 * add a very generous amount of pepper and cook on high heat until the pepper becomes fragrant[^pepper]
-* add the finely diced spinash (roughly when you add the pasta to the water) and a big pinch of salt[^salt]
+* add the finely diced spinach (roughly when you add the pasta to the water) and a big pinch of salt[^salt]
 * let simmer on medium to low heat until the pasta is ready
 
 [^pepper]: Be careful not to overdo it and let your pepper burn.
@@ -68,5 +68,5 @@ Ideally, you want pasta that will catch the sauce such as bronze cut pasta but, 
 
 ## Credits:
 
-This dish is my take on combining the classic *Spaghetti Aglio E Olio* and spinach.
-That particular combination was inspired by a surprisingly good spinach and garlic dish I had a few years ago.
+While this dish's name is the combination of Spaghetti Aglio E Olio and the Italian word for spinach, it is in fact inspired by wanting to do a pasta dish with spinach and having seen [this Cacio E Pepe recipe](https://youtu.be/ntZebCEnjmI?list=PL_f8scwrXT8ut7l5Pu8x-YbWsLGo1uWsx) recently.
+The desire to do a pasta dish with spinach and garlic was born from remembering a surprisingly good spinach and garlic dish I had a few years ago.
