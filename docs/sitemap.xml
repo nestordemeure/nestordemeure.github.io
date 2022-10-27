@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/dalgona_coffee/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-10-05T09:45:00-04:00</lastmod>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/pasta_spinash/</loc>
     <lastmod>2022-09-28T20:18:32-07:00</lastmod>
@@ -164,7 +167,7 @@
     <lastmod>2022-06-07T20:23:40-07:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/about/research/</loc>
-    <lastmod>2022-10-05T09:45:00-04:00</lastmod>
+    <lastmod>2022-10-05T10:47:56-04:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/sandwich/</loc>
     <lastmod>2022-06-23T20:23:58-07:00</lastmod>

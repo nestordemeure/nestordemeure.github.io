@@ -15,13 +15,13 @@ I highly recommend it if you want a weeknight meal that feels slightly fancier t
 * some olive oil
 * a generous amount of pepper
 * some salt
-* a large bowl packet full of fresh baby spinach
-* the equivalent of one and a half large cloves of garlic^garlic]
+* a large bowl packed full of fresh baby spinach
+* the equivalent of one and a half large cloves of garlic[^garlic]
 * about 30 grams of butter
 * some grated parmesan[^cheese]
 
 [^pasta]: I prefer to use long thin pasta such as spaghetti or tagliatelle for this recipe.
-Ideally, you want pasta that will catch the sauce such as bronze cut pasta but, you do not need to go that fancy with your ingredients.
+Ideally, you want pasta that will catch the sauce such as bronze-cut pasta but, you do not need to go that fancy with your ingredients here.
 
 [^garlic]: Do *not* forget or omit the garlic. It is a key ingredient in the final flavor.
 
@@ -47,7 +47,7 @@ Ideally, you want pasta that will catch the sauce such as bronze cut pasta but, 
 
 * put the olive oil in a wok
 * add a very generous amount of pepper and cook on high heat until the pepper becomes fragrant[^pepper]
-* add the finely diced spinach (roughly when you add the pasta to the water) and a big pinch of salt[^salt]
+* add the finely diced spinach (roughly when you add the pasta to its water) and a big pinch of salt[^salt]
 * let simmer on medium to low heat until the pasta is ready
 
 [^pepper]: Be careful not to overdo it and let your pepper burn.
@@ -56,8 +56,8 @@ Ideally, you want pasta that will catch the sauce such as bronze cut pasta but, 
 
 #### Assembly
 
-* once the pasta is cooked, add a splash of pasta water to the wok, this will help with the sauce consistency
-* strain the pasta and add them to the wok (it is okay if there is some pasta water left with the pasta, we have pasta water in the wok anyway)
+* once the pasta is cooked, add a splash of pasta water to the wok, this will help with the consistency of the sauce
+* strain the pasta and add them to the wok (it is fine if there is some pasta water left with the pasta, we added pasta water to the wok anyway)
 * add the crushed garlic and diced butter
 * start mixing on high heat
 * once it is fairly well mixed, sprinkle grated parmesan as you would cover a similar amount of pasta in a plate[^sauce]
@@ -68,5 +68,5 @@ Ideally, you want pasta that will catch the sauce such as bronze cut pasta but, 
 
 ## Credits:
 
-While this dish's name is the combination of Spaghetti Aglio E Olio and the Italian word for spinach, it is in fact inspired by wanting to do a pasta dish with spinach and having seen [this Cacio E Pepe recipe](https://youtu.be/ntZebCEnjmI?list=PL_f8scwrXT8ut7l5Pu8x-YbWsLGo1uWsx) recently.
+While this dish's name is the combination of *Spaghetti Aglio E Olio* and the Italian word for spinach, it is inspired by wanting to do a pasta dish with spinach and having seen [this Cacio E Pepe recipe](https://youtu.be/ntZebCEnjmI?list=PL_f8scwrXT8ut7l5Pu8x-YbWsLGo1uWsx) recently.
 The desire to do a pasta dish with spinach and garlic was born from remembering a surprisingly good spinach and garlic dish I had a few years ago.
