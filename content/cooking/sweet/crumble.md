@@ -39,7 +39,7 @@ This one is pimped with chocolate chips, cinnamon, vanilla extract, and lemon ju
 
 ## Cooking:
 
-* cook for about 30 minutes at 350F (or 180C) (cooking time will vary, you want it to be golden on top but don't need more than that)
+* cook for about 25 minutes at 350F (or 180C) (cooking time will vary, you want it to be golden on top but don't need more than that)
 * let it get down to room temperature before serving (it is also great cold, after a night in the fridge, the next day)
 
 ## Credits:
