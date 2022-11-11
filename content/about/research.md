@@ -77,7 +77,7 @@ Here are some posters I presented:
 
 #### [A Direct Method to Assess Floating-Point Accuracy](https://drive.google.com/file/d/1GNm7FKPzk9YUpYDiCeoIgLMvE9FJbPlP/view?usp=sharing) (numerical accuracy)
 
-This poster (presented in 2021 at the *Platform for Advanced Scientific Computing (PASC)* Conference) covers my work on measuring numerical error and tracing it through a computation.
+This poster (presented in 2021 at the *Platform for Advanced Scientific Computing (PASC)* Conference) covers my work on measuring numerical error and tracing it through computations.
 
 #### [Uncertainty Quantification and Numerical Accuracy](https://drive.google.com/file/d/1VrqqRQgU2RDPcv2JdEbuSsbQj7hWE-pM/view?usp=sharing) (numerical accuracy)
 
