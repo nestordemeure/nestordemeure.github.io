@@ -45,7 +45,7 @@ Pizza is a classic for a reason. A lot of recipes call for preparing the dough o
 
 * bake for about 20 minutes[^bake] in a 450F (230C) oven.
 
-[^bake]: Until you reach the desired crispiness. Be careful not to go tosuggestiono far and have your cheese split into liquid fat.
+[^bake]: Until you reach the desired crispiness. Be careful not to go too far and have your cheese split into liquid fat.
 
 ## Credits:
 
