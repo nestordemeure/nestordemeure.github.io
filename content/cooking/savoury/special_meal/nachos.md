@@ -15,8 +15,9 @@ Nachos are a great group meal to eat with friends. This particular version comes
 * soy sauce
 * one can of beans (I like chili beans)
 * ketchup[^ketchup]
-* cayenne pepper
+* cayenne pepper (you could use another source of spiciness such as chilly flakes)
 * black pepper[^pepper]
+* cumin
 * paprika
 
 * tortilla chips (I like the purple ones because of their color and because they are reliably good, no need for flavored ones)
@@ -33,7 +34,7 @@ Nachos are a great group meal to eat with friends. This particular version comes
 * dice the half onion finely and put it in a wok
 * had the olive oil and soy sauce
 * add the can of beans (you can drain the excess liquid but do keep most of it)
-* add a generous amount of pepper, two pinches of cayenne pepper (careful not to put more, this is concentrated spiciness) and a very generous amount of paprika
+* add a generous amount of pepper, two pinches of cayenne pepper (careful not to put more, this is concentrated spiciness), cumin to taste and a very generous amount of paprika
 * add a splash of ketchup
 * cook until the sauce thickens significantly (you want all of your ingredients warm enough to eat as it except maybe the onions)
 
@@ -51,4 +52,4 @@ Nachos are a great group meal to eat with friends. This particular version comes
 
 ## Credits:
 
-This recipe was inspired by [Adam Ragusea's nachos recipe](https://youtu.be/54bgnpePrIo?t=250) (mixed with my own tortilla recipe) which made me realize that I can cook nachos at home.
+This recipe was inspired by [Adam Ragusea's nachos recipe](https://youtu.be/54bgnpePrIo?t=250) (mixed with my own tortilla recipe) which made me realize that I can and should cook nachos at home.
