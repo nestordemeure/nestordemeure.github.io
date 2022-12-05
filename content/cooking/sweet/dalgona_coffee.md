@@ -14,10 +14,12 @@ It is perfect to share with a guest who likes coffee.
 * two teaspoons of instant coffee[^coffee]
 * two teaspoons of sugar
 * two teaspoons of boiling water
-* one glass of *very* cold milk[^ice]
+* one glass of *very* cold whole[^whole] milk[^ice]
 
 [^coffee]: This will make or break the taste of the resulting drink.
 I recommend investing in some fancy instant coffee (I had good results with *"Trader's Joe 100% Colombian instant coffee"*).
+
+[^whole]: There is no point in skimming on the milk, it will be an important component of the final taste.
 
 [^ice]: Some people add ice cubes but I think it goes against the result being a quick drink.
 
