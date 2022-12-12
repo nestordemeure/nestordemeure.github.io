@@ -19,7 +19,7 @@ The film does some work to demonstrate that the *"you are either an innocent or 
 But it is not enough for my taste. I suspect most people will get out of the movie theater thinking that Batman is cool, not that his moral system is unsound and that he is a young vigilante still searching for a healthy mindset... (to the film's credit, it *does* some effort to make things explicit where Watchmen doesn't try, letting the reader realize that Rorschach's moral system is problematic by themselves.)
 
 I believe my two problems with the scenario are the fact that the riddles make barely any sense (but that is inherent to riddles) and the fact that there is no true finale.
-The movie goes crescendo until the Riddler's arrest then the stakes keep increasing but we don't really care as a viewer because we know that we just need to wait for the problem to be solved (in part because we know the Riddler is safely locked in Arkham and that Gotham cannot really end up under the sea).
+The movie goes crescendo until the Riddler's arrest. The stakes keep increasing afterward but we don't really care as a viewer because we know that we just need to wait for the problem to be solved (in part because we know the Riddler is safely locked in Arkham and that Gotham cannot really end up under the sea).
 
 I like the fact that Batman and the Riddler are aligned for most of the movie and that the only real difference is that Batman was born rich.
 But, the political message of the movie is... meh.

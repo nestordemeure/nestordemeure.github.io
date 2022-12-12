@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nestordemeure.github.io/</loc>
+    <lastmod>2022-12-10T23:31:12-08:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/likes/texts/ozymandias/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/likes/texts/this-too-shall-pass/</loc>
+    <lastmod>2022-12-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nestordemeure.github.io/likes/movies/pinocchio/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-10T23:31:12-08:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/cartoons/harley-quinn/</loc>
-    <lastmod>2022-12-10T19:02:42-08:00</lastmod>
-  </url><url>
-    <loc>https://nestordemeure.github.io/</loc>
     <lastmod>2022-12-10T19:02:42-08:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/cartoons/amphibia/</loc>

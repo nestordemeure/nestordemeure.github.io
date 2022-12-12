@@ -16,6 +16,6 @@ Here, the animation could have been fully 3D rendered and feel pretty much ident
 Stop motion feels more like a directorial preference: the personality of the movie comes from its designs (character designs but also the way every small object is crafted and the music, always somewhere in the background and meaningful[^ciao]).
 
 While the movie is suitable for children, it depicts emotions finely and does not shy away from deeper themes like grief and the difficulties of raising a child.
-Overall, I would recommend it to everyone and look forward to being able to watch it one day with my future children.
+Overall, I would recommend it to everyone and look forward to being able to watch it one day with my children.
 
 [^ciao]: [Ciao Papa](https://youtu.be/HnI1p2pBi84) is a hearth breaker.
