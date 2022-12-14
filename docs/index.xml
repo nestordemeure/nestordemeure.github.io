@@ -10,20 +10,20 @@
     <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nestordemeure.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grace Hopper</title>
-      <link>https://nestordemeure.github.io/writing/essays/ode_to_old_age/grace-hopper/</link>
+      <link>https://nestordemeure.github.io/writing/essays/old-people/grace-hopper/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/essays/ode_to_old_age/grace-hopper/</guid>
+      <guid>https://nestordemeure.github.io/writing/essays/old-people/grace-hopper/</guid>
       <description>&amp;ldquo;The most important thing I&amp;rsquo;ve accomplished, other than building the compiler, is training young people. They come to me, you know, and say, &amp;lsquo;Do you think we can do this?&amp;rsquo; I say, &amp;lsquo;Try it.&amp;rsquo; And I back &amp;rsquo;em up. They need that. I keep track of them as they get older and I stir &amp;rsquo;em up at intervals so they don&amp;rsquo;t forget to take chances.&amp;rdquo; — Grace Hopper
  Grace Hopper was both an admiral of the US navy and a pioneer of computer science, introducing some concepts that are now fundamental to programming.</description>
     </item>
     
     <item>
       <title>Hokusai</title>
-      <link>https://nestordemeure.github.io/writing/essays/ode_to_old_age/hokusai/</link>
+      <link>https://nestordemeure.github.io/writing/essays/old-people/hokusai/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/essays/ode_to_old_age/hokusai/</guid>
+      <guid>https://nestordemeure.github.io/writing/essays/old-people/hokusai/</guid>
       <description>Hokusai is considered one of the greatest masters in the history of art. Even if you do not know his name, you have seen a reproduction or a take on his Great Wave off Kanagawa.
 In his seventies, shortly after making the Great Wave off Kanagawa, he wrote:
  &amp;ldquo;From the age of six, I had a passion for copying the form of things and since the age of fifty I have published many drawings, yet of all I drew by my seventieth year there is nothing worth taking into account.</description>
@@ -31,10 +31,10 @@ In his seventies, shortly after making the Great Wave off Kanagawa, he wrote:
     
     <item>
       <title>Yitang Zhang</title>
-      <link>https://nestordemeure.github.io/writing/essays/ode_to_old_age/yitang-zhang/</link>
+      <link>https://nestordemeure.github.io/writing/essays/old-people/yitang-zhang/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/essays/ode_to_old_age/yitang-zhang/</guid>
+      <guid>https://nestordemeure.github.io/writing/essays/old-people/yitang-zhang/</guid>
       <description>Yitang Zhang was born in 1955. He obtained his Ph.D. at 36 but, having no publications nor the support of his advisor, he had to quit academia and work as an accountant and a delivery worker, sometimes sleeping in his car, while trying to make ends meet.
 At 58 years old, he published an extremely influential paper on bounded gaps in prime numbers which suddenly gained him a large number of prizes, a prestigious university position and wide recognition in the world of mathematics.</description>
     </item>
@@ -323,10 +323,10 @@ Because I was not a Jew</description>
     
     <item>
       <title>Consumers and producers</title>
-      <link>https://nestordemeure.github.io/writing/concepts/consumers_producers/</link>
+      <link>https://nestordemeure.github.io/writing/essays/concepts/consumers_producers/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/concepts/consumers_producers/</guid>
+      <guid>https://nestordemeure.github.io/writing/essays/concepts/consumers_producers/</guid>
       <description>Most activities can be categorized as either consumer or producer.
 A consumer activity is an activity during which you consume existing content such as watching a video, reading a book, or browsing the Internet. Depending on the content you consumed, it can be nourishing or leave you with a feeling of emptiness.
 A producer activity is an activity during which you produce new content for others to consume such as drawing, writing, cooking, or programming.</description>
@@ -426,10 +426,10 @@ Ingredients (4 people):    250 grams flour 25 grams of sugar 4 eggs 500 ml milk 
     
     <item>
       <title>The easy path</title>
-      <link>https://nestordemeure.github.io/writing/concepts/easy_path/</link>
+      <link>https://nestordemeure.github.io/writing/essays/concepts/easy_path/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nestordemeure.github.io/writing/concepts/easy_path/</guid>
+      <guid>https://nestordemeure.github.io/writing/essays/concepts/easy_path/</guid>
       <description>The opposite of wanting something to be perfect is following the easy path: knowing that some things could be done to make your project objectively better but keeping the current version because it is &amp;ldquo;good enough&amp;rdquo;.
 This, as long as the modification would be within the scope and allotted time1, is a form of laziness. However, it is insidious. All parts of a project have to be considered &amp;ldquo;good enough&amp;rdquo; before you let go of them to tackle the next step, it is very easy to not realize that your motivation shifted from an objective look at the quality of your work toward avoiding additional work to the detriment of the result.</description>
     </item>

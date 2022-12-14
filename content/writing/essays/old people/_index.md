@@ -1,5 +1,5 @@
 ---
-title: "Viellir: an ode to old age"
+title: "An ode to old people"
 draft: false
 comments: false
 date: 2022-12-13
