@@ -18,4 +18,4 @@ images:
 
 This version of the story is closest to the one I was taught, I find it comforting during hard times, reminding me that they are only temporary.
 
-However it has several variants, in both [Jewish](https://ohr.edu/ask_db/ask_main.php/335/Q1/) and [Persian](https://sufi-teachings.tumblr.com/post/97070241755/the-story-behind-this-too-shall-pass-persian) folklore, and they are unanimous on the fact that *the sentence works both ways*, having the power to remove a smile from a happy man's face.
+However, the story has several variants, in both [Jewish](https://ohr.edu/ask_db/ask_main.php/335/Q1/) and [Persian](https://sufi-teachings.tumblr.com/post/97070241755/the-story-behind-this-too-shall-pass-persian) folklore, and they are unanimous on the fact that *the sentence works both ways*, having the power to remove a smile from a happy man's face.
