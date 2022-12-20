@@ -5,7 +5,7 @@ comments: false
 images:
 ---
 
-I am a consulting mentalist (amongst other things, I have a book published for that public and I designed a stage show).
+I am a consulting mentalist (amongst other things, I have a book published for that public and I designed several stage shows).
 
 ## What is mentalism?
 
