@@ -25,13 +25,16 @@ It is rich in butter and tastes great by itself, even raw!
 * dice the butter and add it to the mix
 * mix until homogeneous[^hands]
 
-[^hands]: Mixing with your hand should make the process faster, the butter getting softer in contact with your body warm.
+[^hands]: You want to use a press and squeeze motion, applying some physical strength, folding the dough until it becomes homogeneous and you cannot see blocks of butter.
+The process gets easier as the dough warms up to your hands.
 
 ## Cooking:
 
 * use a rolling pin to flatten the dough before putting it in the pie pan
-* add the sweet pie fillings of your choice
+* add the sweet pie fillings[^fillings] of your choice
 * you might want to prebake the pie crust for about 10 minutes at 180C (350F)
+
+[^fillings]: Such as this [beautiful rhubarb and frangipane filling](https://www.tastefrance.com/us/recipes/french-rhubarb-tart).
 
 ## Credits:
 
