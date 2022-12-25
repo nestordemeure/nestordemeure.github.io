@@ -10,14 +10,14 @@ This cake feels light yet very buttery, delicious and fully decadent.
 
 ## Ingredients:
 
-* 120 grams of salted butter
-* 170 grams of 64% cacao chocolate
 * 3 eggs
-* 30 grams of plain yogurt 
 * 90 grams of white sugar
-* 2 teaspoons of cornstarch
+* 30 grams of plain yogurt 
+* 5 grams (about 2 teaspoons) of cornstarch
 * 1 teaspoon of vanilla extract
 * 1 teaspoon of grounded instant coffee
+* 120 grams of salted butter
+* 170 grams of 64% cacao chocolate
 * one large pear
 
 ## Preparation:
@@ -47,4 +47,4 @@ This cake feels light yet very buttery, delicious and fully decadent.
 ## Credits:
 
 This is my take on [Brian Lagerstrom's Super Easy Flourless Chocolate Cake](https://www.youtube.com/watch?v=5bp2XJn5AQs).
-My main contribution is to add a pear.
+My main contribution is to add a pear and half the amount.
