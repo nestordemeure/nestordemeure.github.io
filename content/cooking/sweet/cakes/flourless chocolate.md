@@ -1,5 +1,5 @@
 ---
-title: "Flourless Chocolate cake"
+title: "Chocolate decadence flourless cake"
 date: 2022-12-22
 draft: false
 comments: false
