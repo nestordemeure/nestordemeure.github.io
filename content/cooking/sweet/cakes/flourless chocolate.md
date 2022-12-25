@@ -10,22 +10,24 @@ This cake feels light yet very buttery, delicious and fully decadent.
 
 ## Ingredients:
 
-* 230 grams of salted butter
-* 330 grams of 70% cacao chocolate
-* 6 eggs
-* 60 grams of plain yogurt 
-* 185grams of white sugar
-* 10 grams of cornstarch
-* 10 grams of vanilla extract
-* 5 grams of grounded instant coffee
+* 120 grams of salted butter
+* 170 grams of 64% cacao chocolate
+* 3 eggs
+* 30 grams of plain yogurt 
+* 90 grams of white sugar
+* 2 teaspoons of cornstarch
+* 1 teaspoon of vanilla extract
+* 1 teaspoon of grounded instant coffee
 * one large pear
 
 ## Preparation:
 
 #### Eggs
 
-* separate the white and yolks of the eggs
+* separate the white and yolks[^yolks] of the eggs
 * beat the egg whites in a large bowl
+
+[^yolks]: The yolks will *not* be used.
 
 #### Batter
 
