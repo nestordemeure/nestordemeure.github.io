@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/kougelhopf/</loc>
-    <lastmod>2022-12-19T16:46:53-08:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/flourless-chocolate/</loc>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2022-12-19T16:46:53-08:00</lastmod>
+    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/pate_sablee/</loc>
-    <lastmod>2022-12-19T16:46:53-08:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/kougelhopf/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/pies/pate_sablee/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/pies/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/old-people/grace-hopper/</loc>
     <lastmod>2022-12-14T11:23:12-08:00</lastmod>
@@ -62,20 +71,23 @@
     <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/pizza/</loc>
     <lastmod>2022-11-10T20:55:08-08:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/dalgona_coffee/</loc>
-    <lastmod>2022-12-04T20:06:29-08:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/others/dalgona_coffee/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/others/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/weekday_meal/pasta_spinash/</loc>
     <lastmod>2022-10-27T10:24:27-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/brownies/</loc>
-    <lastmod>2022-07-16T10:39:08-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/brownies/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/fiction/eldritch_academia_anotated/</loc>
     <lastmod>2022-07-15T17:38:24-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/breakfast/</loc>
-    <lastmod>2022-07-11T16:05:04-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/others/breakfast/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/guides/writing/</loc>
     <lastmod>2022-07-13T12:27:49-07:00</lastmod>
@@ -86,8 +98,8 @@
     <loc>https://nestordemeure.github.io/likes/texts/zen/</loc>
     <lastmod>2022-07-04T17:39:29-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/chocolate_mousse/</loc>
-    <lastmod>2022-07-13T00:10:15-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/others/chocolate_mousse/</loc>
+    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/texts/figures_of_speech/</loc>
     <lastmod>2022-07-04T17:39:29-07:00</lastmod>
@@ -125,8 +137,8 @@
     <loc>https://nestordemeure.github.io/likes/books/birthday_of_the_world/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/crepes/</loc>
-    <lastmod>2022-07-11T16:05:04-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/others/crepes/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/concepts/easy_path/</loc>
     <lastmod>2022-12-14T11:23:12-08:00</lastmod>
@@ -137,8 +149,8 @@
     <loc>https://nestordemeure.github.io/cooking/technique/melting_chocolate/</loc>
     <lastmod>2022-07-10T15:41:27-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/us_pie_crust/</loc>
-    <lastmod>2022-07-11T16:05:04-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/pies/us_pie_crust/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/writing/essays/magician_is_actor/</loc>
     <lastmod>2022-06-20T18:35:04-07:00</lastmod>
@@ -158,14 +170,14 @@
     <loc>https://nestordemeure.github.io/cooking/savoury/sandwich/bacon_tomato_melt/</loc>
     <lastmod>2022-06-28T14:57:14-07:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/clafoutis/</loc>
-    <lastmod>2022-07-11T16:05:04-07:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/clafoutis/</loc>
+    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/tarte_maroille/</loc>
     <lastmod>2022-11-10T20:41:17-08:00</lastmod>
   </url><url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/crumble/</loc>
-    <lastmod>2022-11-06T17:07:34-08:00</lastmod>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/crumble/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/sandwich/krautburger/</loc>
     <lastmod>2022-07-11T16:05:04-07:00</lastmod>
