@@ -41,7 +41,7 @@ This cake feels light yet very buttery, delicious and fully decadent.
 
 ## Cooking:
 
-* cook 50 to 60 minutes in a 275F (135C) oven (it will still be fudgy done)
+* cook 50 to 60 minutes in a 275F (135C) oven (it will still be fudgy once done)
 * let cool in the pan before storing in the fridge for one to two hours before serving
 
 ## Credits:
