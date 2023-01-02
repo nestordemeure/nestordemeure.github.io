@@ -19,11 +19,11 @@ It is fast to prepare and very calorie-rich but the bacon, melted cheese, and to
 * shredded cheese
 
 [^1]: Bacon brings crispiness, salt, and flavor.
-The obvious alternative for a non bacon-eater would be to use some vegan bacon, the taste and texture are not perfectly reproduced but it would work satisfactorily here.
+The obvious alternative for a non-bacon-eater would be to use some vegan bacon, the taste and texture are not perfectly reproduced but it would work satisfactorily here.
 
 ## Preparation:
 
-* cook the bacon in an oven or pan until crisp (note that it will give out *a lot* of fat, you could collect it for other recipes)
+* cook the bacon until crisp[^bacon]
 * toast the bread
 * spread a thin layer of mayonnaise on the bread (it is there for some flavor notes but also to avoid having the tomato juice make the bread soggy)
 * covers the bread with a one-slice thick layer of tomato
@@ -32,6 +32,9 @@ The obvious alternative for a non bacon-eater would be to use some vegan bacon, 
 * add a pile of shredded cheese *at the very least as thick as the rest of the sandwich* on top
 * toast until the cheese is melted to your preference
 * serve warm
+
+[^bacon]: I recommend using a microwave. Put one or two slices of bacon on a plate, cover them with a paper towel and microwave until crisp (monitoring and taping away fat at regular intervals).
+Once cooked, tap with another paper towel until dry and let rest 30 seconds so that it fully crisps.
 
 ## Credits:
 
