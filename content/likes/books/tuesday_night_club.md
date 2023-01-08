@@ -29,7 +29,7 @@ However, the value of the story is not in the clever puzzle.
 The key point of the story is that Miss Marple does not solve the crime because she is a genius of deduction but rather *because she is a woman and old and spent her life in her small village* (making her familiar with both cooking vocabulary and the way people behave).
 Those are explicitly why the rest of the company, including the only other woman present, dismissed her: when the group thinks of itself as diverse, they don't even realize that by dismissing the old lady they are displaying a blind spot of their own.
 
-This message feels very modern, despite having been written in 1927, because by their very nature we are *still*, almost a hundred years later, blind to most of our blind spots.
+This message feels very modern, despite having been written in 1927, because by their very nature we are *still*, almost a hundred years later, blind to most of our blind spots...
 
 > *“Well, Aunt Jane, this is one up to you. I can’t think how on earth you managed to hit upon the truth. I should never have thought of the little maid in the kitchen being connected with the case.”*  
 > *“No, dear,”* said Miss Marple, *“but you don’t know as much of life as I do."*
