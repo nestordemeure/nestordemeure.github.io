@@ -27,12 +27,19 @@ It covers the theory between Shaman including *encapsulated error* (a very effic
 
 It also includes some work on applying artificial intelligence to pick the proper solver and preconditioner to solve a linear system (we obtained really promising results, a paper dedicated to the subject should come out at some point).
 
+#### [Encapsulated error, a direct approach to evaluate floating-point accuracy](https://dl.acm.org/doi/10.1145/3549205) (numerical accuracy)
+
+This paper covers my work on *encapsulated error*, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.
+
+The method is interesting in that it is both relatively easy to implement as a library, accurate and significantly faster than most alternatives.
+Its main downside is the need to replace floating point types used in an application with an instrumented alternative (which might not be practical when one has limited access to the source or when they are unwieldy to modify).
+
 #### [Tagged error: tracing numerical error through computations](https://ieeexplore.ieee.org/document/9603395) (numerical accuracy)
 
 This paper covers my work on *tagged error*, an extension of *encapsulated error* destined to follow numerical error through a computation.
 
 While the method introduces an important overhead, it is the best method I am aware of to find the source of a numerical error in computations.
-I have even used it to improve an algorithm fixing problems one after the other until I reached the desired precision.
+I have even used it to improve the numerical stability of algorithms, fixing problems one after the other until I reached the desired precision.
 
 #### [Large-scale neuroanatomical study uncovers 198 gene associations in mouse brain morphogenesis](https://www.nature.com/articles/s41467-019-11431-2) (data analysis)
 
@@ -55,7 +62,7 @@ It has since been published as a paper.
 
 This talk (given in 2021 for the *Rencontres Arithmétiques de l'Informatique Mathématique 2021*) covers my work on *encapsulated error*, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.
 
-*This work has been submitted to a journal but is not published yet, you can find more information in my Ph.D.*
+It has since been published as a paper.
 
 #### [AI-augmented linear solvers: using machine learning to predict the convergence profile of a linear solver](https://youtu.be/kXwPJAPwLz0?list=PLr1vc4ZveozN3DCzlIxJd_oLG9MpLev1B) (machine learning)
 
@@ -67,7 +74,7 @@ We showed that we could predict the convergence profile of the solver with enoug
 
 #### [Workshop: Introduction to porting Python to GPU with JAX.](https://youtu.be/YhXUymsQ_3g?list=PL20S5EeApOStvfX3byEoJe-Z93D64xaLE) (high-performance computing)
 
-This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
+This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022* and *NUG Meeting 2022*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
 
 It comes with [exercises](https://drive.google.com/drive/folders/12SO8IwMv2CP6vRmtgWwJ9Xekw8a2B-aT?usp=sharing) and is designed such that, by the end of the workshop, someone starting with knowledge of Python and Numpy should be able to port their code to GPU using JAX *and* decide on whether it is the best way forward.
 

@@ -50,18 +50,26 @@ Nowadays, it has been supplanted by [Deepmind's Optax](https://github.com/deepmi
 
 #### [Ranger21](https://github.com/lessw2020/Ranger21) (Python)
 
-Ranger21 is a deep learning optimizer.
+Ranger21 is a deep-learning optimizer.
 
 It was born from implementing a large number of publications and realizing that a lot of those ideas were orthogonal and synergetic: you would get better results putting them together.
 The result is an optimizer that is surprisingly robust and, looking further, the idea that we should build modular optimizers to foster research in that direction.
 
 I co-wrote it with [Less Wright](https://github.com/lessw2020) as an update to his [Ranger optimizer](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer).
 
+#### [Impersonator](https://github.com/nestordemeure/impersonator) (Python)
+
+Impersonator lets you create a chatbot that has the style and knowledge of any author, blogger or person as easily as copy-pasting texts they have written into a folder.
+
+Built on top of a large language-model, it uses the provided sources to extract both stylistic and biographical information on a person. Letting you simulate them as a chatbot.
+
+The application focuses on ease of use, adding a new author is only a matter of creating a folder and putting texts (a variety of formats are supported) in it. 
+
 #### [StochasTorch](https://github.com/nestordemeure/stochastorch) / [Jochastic](https://github.com/nestordemeure/jochastic) (Python)
 
 Stochastorch and Jochastic are Pytorch / JAX software-based implementations of [stochastic rounding](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/) addition.
 
-When encoding the weights of a neural network in low precision (such as `bfloat16`), one runs into stagnation problems: updates end up being too small relative to the numbers the precision of the encoding.
+When encoding the weights of a neural network in low precision (such as `bfloat16`), one runs into stagnation problems: updates end up being too small relative to the precision of the encoding.
 This leads to weights becoming stuck and the model's accuracy is significantly reduced.
 
 Stochastic rounding lets you perform the addition in such a way that the weights have a non-zero probability of being modified anyway. This avoids the stagnation problem without increasing memory usage (as might happen if one were using a [compensated summation](https://en.wikipedia.org/wiki/Kahan_summation_algorithm) to solve the problem).

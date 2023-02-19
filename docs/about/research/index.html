@@ -49,7 +49,7 @@ Ranger21: a synergistic deep learning optimizer (machine learning)   The Ranger2
 Papers   You can find most of my publications on Researchgate. Here is a list of them in no particular order:
 Ranger21: a synergistic deep learning optimizer (machine learning)   The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people were branding them as new optimizers, they often just included one new idea to an existing optimizer.">
 <meta itemprop="dateModified" content="2022-11-10T20:41:17-08:00" />
-<meta itemprop="wordCount" content="820"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
+<meta itemprop="wordCount" content="920"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://nestordemeure.github.io/"/>
@@ -174,6 +174,15 @@ We realized a lot of those ideas were orthogonal and synergetic: you would get b
 <p>It covers the theory between Shaman including <em>encapsulated error</em> (a very efficient way to measure the numerical error of computations) and <em>tagged error</em> (a very precise way to find the source of the numerical error that ends up in a result).</p>
 <p>It also includes some work on applying artificial intelligence to pick the proper solver and preconditioner to solve a linear system (we obtained really promising results, a paper dedicated to the subject should come out at some point).</p>
 <div class="heading-wrapper">
+    <h4 id="encapsulated-error-a-direct-approach-to-evaluate-floating-point-accuracyhttpsdlacmorgdoi1011453549205-numerical-accuracy">
+        <a class="heading-anchor" href="#encapsulated-error-a-direct-approach-to-evaluate-floating-point-accuracyhttpsdlacmorgdoi1011453549205-numerical-accuracy" style="text-decoration: none">
+            <a href="https://dl.acm.org/doi/10.1145/3549205">Encapsulated error, a direct approach to evaluate floating-point accuracy</a> (numerical accuracy)
+        </a>
+    </h4>
+</div><p>This paper covers my work on <em>encapsulated error</em>, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.</p>
+<p>The method is interesting in that it is both relatively easy to implement as a library, accurate and significantly faster than most alternatives.
+Its main downside is the need to replace floating point types used in an application with an instrumented alternative (which might not be practical when one has limited access to the source or when they are unwieldy to modify).</p>
+<div class="heading-wrapper">
     <h4 id="tagged-error-tracing-numerical-error-through-computationshttpsieeexploreieeeorgdocument9603395-numerical-accuracy">
         <a class="heading-anchor" href="#tagged-error-tracing-numerical-error-through-computationshttpsieeexploreieeeorgdocument9603395-numerical-accuracy" style="text-decoration: none">
             <a href="https://ieeexplore.ieee.org/document/9603395">Tagged error: tracing numerical error through computations</a> (numerical accuracy)
@@ -181,7 +190,7 @@ We realized a lot of those ideas were orthogonal and synergetic: you would get b
     </h4>
 </div><p>This paper covers my work on <em>tagged error</em>, an extension of <em>encapsulated error</em> destined to follow numerical error through a computation.</p>
 <p>While the method introduces an important overhead, it is the best method I am aware of to find the source of a numerical error in computations.
-I have even used it to improve an algorithm fixing problems one after the other until I reached the desired precision.</p>
+I have even used it to improve the numerical stability of algorithms, fixing problems one after the other until I reached the desired precision.</p>
 <div class="heading-wrapper">
     <h4 id="large-scale-neuroanatomical-study-uncovers-198-gene-associations-in-mouse-brain-morphogenesishttpswwwnaturecomarticless41467-019-11431-2-data-analysis">
         <a class="heading-anchor" href="#large-scale-neuroanatomical-study-uncovers-198-gene-associations-in-mouse-brain-morphogenesishttpswwwnaturecomarticless41467-019-11431-2-data-analysis" style="text-decoration: none">
@@ -213,7 +222,7 @@ This leads to the identification of 198 genes that impact brain formation.</p>
         </a>
     </h4>
 </div><p>This talk (given in 2021 for the <em>Rencontres Arithmétiques de l&rsquo;Informatique Mathématique 2021</em>) covers my work on <em>encapsulated error</em>, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.</p>
-<p><em>This work has been submitted to a journal but is not published yet, you can find more information in my Ph.D.</em></p>
+<p>It has since been published as a paper.</p>
 <div class="heading-wrapper">
     <h4 id="ai-augmented-linear-solvers-using-machine-learning-to-predict-the-convergence-profile-of-a-linear-solverhttpsyoutubekxwpjapwlz0listplr1vc4zveozn3dczlixjd_olg9mplev1b-machine-learning">
         <a class="heading-anchor" href="#ai-augmented-linear-solvers-using-machine-learning-to-predict-the-convergence-profile-of-a-linear-solverhttpsyoutubekxwpjapwlz0listplr1vc4zveozn3dczlixjd_olg9mplev1b-machine-learning" style="text-decoration: none">
@@ -229,7 +238,7 @@ This leads to the identification of 198 genes that impact brain formation.</p>
             <a href="https://youtu.be/YhXUymsQ_3g?list=PL20S5EeApOStvfX3byEoJe-Z93D64xaLE">Workshop: Introduction to porting Python to GPU with JAX.</a> (high-performance computing)
         </a>
     </h4>
-</div><p>This workshop (given in 2022 for the <em>Commonwealth Computational Summit 2022</em> and later at the <em>Data Day 2022</em>) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with <a href="https://github.com/google/jax">JAX</a>.</p>
+</div><p>This workshop (given in 2022 for the <em>Commonwealth Computational Summit 2022</em> and later at the <em>Data Day 2022</em> and <em>NUG Meeting 2022</em>) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with <a href="https://github.com/google/jax">JAX</a>.</p>
 <p>It comes with <a href="https://drive.google.com/drive/folders/12SO8IwMv2CP6vRmtgWwJ9Xekw8a2B-aT?usp=sharing">exercises</a> and is designed such that, by the end of the workshop, someone starting with knowledge of Python and Numpy should be able to port their code to GPU using JAX <em>and</em> decide on whether it is the best way forward.</p>
 <div class="heading-wrapper">
     <h2 id="posters">
@@ -262,7 +271,7 @@ This leads to the identification of 198 genes that impact brain formation.</p>
         <div class="post-info">
             
             
-			    <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg><a href="750ed82c28f30cf9815c9c7566d14a6c267353a4" target="_blank" rel="noopener">750ed82</a> @ 2022-11-10</p>
+			    <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg><a href="750ed82c28f30cf9815c9c7566d14a6c267353a4" target="_blank" rel="noopener">750ed82</a> @ 2022-11-11</p>
   		</div>
     </main>
 
