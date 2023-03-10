@@ -28,7 +28,7 @@ This recipe is simple, tastes good, has an interesting texture and, more importa
 
 ## Cooking:
 
-* cook for 45 to 50 minutes in a 350F (180C) oven
+* cook for 30 to 35 minutes in a 350F (180C) oven
 
 ## Credits:
 

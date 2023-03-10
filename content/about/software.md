@@ -65,6 +65,13 @@ Built on top of a large language-model, it uses the provided sources to extract 
 
 The application focuses on ease of use, adding a new author is only a matter of creating a folder and putting texts (a variety of formats are supported) in it. 
 
+#### [GPTranslate](https://github.com/nestordemeure/GPTranslate) (Python)
+
+GPTranslate is a universal translator based on the [GPT family of large language models](https://openai.com/product).
+Give it a book in `epub` format and it will translate it into any language.
+
+This application has two modes, one running in parallel and optimized for speed, and one focusing on human-AI interaction to produce the best translation possible.
+
 #### [StochasTorch](https://github.com/nestordemeure/stochastorch) / [Jochastic](https://github.com/nestordemeure/jochastic) (Python)
 
 Stochastorch and Jochastic are Pytorch / JAX software-based implementations of [stochastic rounding](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/) addition.
