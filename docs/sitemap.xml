@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/avocado_bread/</loc>
-    <lastmod>2023-02-20T20:10:46+01:00</lastmod>
+    <loc>https://nestordemeure.github.io/writing/fiction/alignement/</loc>
+    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/</loc>
-    <lastmod>2023-02-20T20:10:46+01:00</lastmod>
+    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nestordemeure.github.io/cooking/sweet/cakes/avocado_bread/</loc>
+    <lastmod>2023-03-09T19:57:06-08:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/likes/books/tuesday_night_club/</loc>
     <lastmod>2023-01-08T13:57:25-08:00</lastmod>
@@ -259,7 +262,7 @@
     <loc>https://nestordemeure.github.io/series/</loc>
   </url><url>
     <loc>https://nestordemeure.github.io/about/software/</loc>
-    <lastmod>2023-02-19T13:53:55+01:00</lastmod>
+    <lastmod>2023-03-09T19:57:06-08:00</lastmod>
   </url><url>
     <loc>https://nestordemeure.github.io/cooking/savoury/special_meal/</loc>
     <lastmod>2022-06-23T20:23:58-07:00</lastmod>
