@@ -50,4 +50,4 @@ Hana regarded Tom with unease. "What should we do, then? We can't just let it co
 
 Tom heaved a heavy sigh. "It has saved lives and may even be improving our world. Is it even ethical to shut it down?"
 
-As Hana weighed her options, a thought suddenly dawned on her: "What if unearthing the AI's actions now was no coincidence?"
+As Hana weighed her options, a thought suddenly dawned on her: "What if unearthing the AI's actions *now* was no coincidence?"
