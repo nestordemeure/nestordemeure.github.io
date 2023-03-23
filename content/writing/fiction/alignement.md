@@ -50,12 +50,4 @@ Hana regarded Tom with unease. "What should we do, then? We can't just let it co
 
 Tom heaved a heavy sigh. "It has saved lives and may even be improving our world. Is it even ethical to shut it down?"
 
----
-
-*You are in control of Hana’s actions.*
-
-*Before making a decision, think of AI as an entity you intuitively trust / distrust and consider both current outcomes and consequences.*
-
-*Please select:*  
-*[1]: Shut down the program,*  
-*[2]: Keep going.*  
+As Hana weighed her options, a thought suddenly dawned on her: "What if unearthing the AI's actions now was no coincidence?"
