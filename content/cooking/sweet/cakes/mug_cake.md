@@ -7,7 +7,7 @@ images:
 ---
 
 This is a recipe for a basic yellow mug cake.
-Feel free to add fruits, lemon juice/zests, chocolate chunks or anything else you want to make it fancy!
+Feel free to add fruits, lemon juice/zests, chocolate chunks or anything else really to make it fancy!
 
 ## Ingredients (one bowl of cake):
 
@@ -22,7 +22,7 @@ Feel free to add fruits, lemon juice/zests, chocolate chunks or anything else yo
 
 [^powder]: Don't hesitate to be generous with the baking powder. This cake can tend to be too compact.
 
-[^unit]: I know, it is a terrible measuring unit for butter. However, here we are going for easy no fuss measurements to spoons it is.
+[^unit]: I know, it is a terrible measuring unit for butter. However, here we are going for easy no-fuss measurements so spoons it is.
 
 ## Preparation:
 
@@ -30,13 +30,13 @@ Feel free to add fruits, lemon juice/zests, chocolate chunks or anything else yo
 * add the flour and baking powder, mix
 * add the milk, mix
 * melt the butter in the microwave, add it and mix
-* add any additional ingredient
+* add any additional (flavoring) ingredient
 
 ## Cooking:
 
 * microwave about 1min20[^time]
 
-[^time]: The time will vary depending on your microwave. If your mug cake needs more cooking, add time in slices of 10 seconds until you are happy with the result.
+[^time]: Baking time will vary depending on your microwave. If your mug cake needs more cooking, add time in slices of 10 seconds until you are happy with the result.
 
 ## Credits:
 
