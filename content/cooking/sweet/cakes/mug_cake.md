@@ -7,7 +7,8 @@ images:
 ---
 
 This is a recipe for a basic yellow mug cake.
-Feel free to add fruits, lemon juice/zests, chocolate chunks or anything else really to make it fancy!
+It might be a bit dry but it is perfect when you want cake in under five minutes.
+Feel free to add fruits, lemon juice/zests, chocolate chunks, or anything else really, to make it fancy!
 
 ## Ingredients (one bowl of cake):
 
@@ -23,6 +24,7 @@ Feel free to add fruits, lemon juice/zests, chocolate chunks or anything else re
 [^powder]: Don't hesitate to be generous with the baking powder. This cake can tend to be too compact.
 
 [^unit]: I know, it is a terrible measuring unit for butter. However, here we are going for easy no-fuss measurements so spoons it is.
+In a pinch, you can replace the butter with olive oil.
 
 ## Preparation:
 
