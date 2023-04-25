@@ -1,0 +1,21 @@
+---
+title: "Exploring New Places"
+draft: false
+comments: false
+weight: -46
+images:
+---
+
+Reveal your money to no one, but rather always claim to have very little money if asked by others, who have no interest in where you come from. To the extent that you can, deceive them, and do not disclose in which direction you are going. Always ask some people about the direction you are heading, and receive diverse answers from different sources.
+
+Beware of joining quarrelsome people, as they tend to start disputes so that, if you engage with them, they will rob and plunder you. If approached by any insults, pretend not to notice.
+
+Be cautious in believing those who appear splendidly dressed and adorned as if they were of high blood, unless you know from elsewhere that they truly are such. For often, they are masked thieves.
+
+Do not get into bed unless you have first thoroughly inspected the surroundings with a light, and do the same for food. Do not employ the host's servants for tasks around you, lest they take advantage of your presence to rifle through your bags.
+
+Always carry a book with you to pass the time and have safe companions, so that they may run ahead rather than follow.
+
+In slippery and mountainous places, tools are usefully applied, and one walks on tiptoe.
+
+In conversation, be sparing of words, lest by speaking too much, you jeopardize your money or life. Oxen travel more safely than horses through the mountains.

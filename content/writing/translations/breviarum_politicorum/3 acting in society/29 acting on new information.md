@@ -1,0 +1,10 @@
+---
+title: "Adapting to New Situations"
+draft: false
+comments: false
+weight: -29
+images:
+---
+
+At the outset, consider four things.
+First, whether it is beneficial or rather harmful to you. Second, whether your natural abilities are sufficient for this. Third, whether this is suitable for your current situation. Fourth, if you are held in high regard there, where you choose.

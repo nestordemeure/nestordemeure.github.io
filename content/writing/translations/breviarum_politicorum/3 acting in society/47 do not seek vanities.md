@@ -1,0 +1,13 @@
+---
+title: "Avoiding Vanity"
+draft: false
+comments: false
+weight: -47
+images:
+---
+
+When dealing with serious and important matters, allow others to take the playful path in order to gain applause and glory, etc. For example, if an enemy wants to return a city, let them acknowledge that they were not defeated but rather shown grace, let them leave with their banners unfurled, lacking nothing in terms of empty gestures or anything that might appease the defeated, as long as they surrender the land, hand over the captives, and leave behind gold and fortifications when the sun sets. The same applies to matters of intricate and diverse work, like flowers, etc. Stop seeking to have others awarded as a prize and focus on yourself. With no given promises, be cautious not to suffer any immediate harm, so that if by chance they show gratitude to you, it is reserved for you, and nothing more; do not expend more on those who do not deserve it than your words are worth. Forgetting such people quickly is your loss, and it will always remain so.
+
+Seek to have glory and a name without others; pursue solid power for yourself.
+
+If you are promoted to something splendid, even when taking care of the promotion, be wary of the one you fear might stir up trouble, but let them take the glory of the position, not the fruit.

@@ -1,0 +1,27 @@
+---
+title: "Making Requests"
+draft: false
+comments: false
+weight: -8
+images:
+---
+
+Be careful not to burden the giver with what you ask, or to demand too much effort, and let it be enough to inform your friend of your needs. If they do not provide help spontaneously, they will not do so at your request; but show gratitude for what has been given so that they may notice that you are asking for something new. If you are going to ask for something serious, deal with other matters first, and as if you were doing something else, reveal your desires. Approach the powerful with caution so as not to seem commanding, employ intercessors and highly respected people, such as a child with a parent, as long as you do not involve those who are in need themselves.
+
+The time to ask is when someone is happy, which happens on festive days and after lunch, but not when they are sleepy, nor amidst other affairs, when they are distracted or suffering from sleep, nor should you presume to ask for many things at once.
+
+Take up the cause of someone unknown and support them: be sparing in your interactions with them, so that you may seem to be moved more by honesty and public love than by private gain. Adjust your reasoning to the people with whom you are dealing, presenting profits and losses to the greedy; the glory of God to spiritual men; praise and mockery from associates to young people; and positions of power to the ambitious.
+
+Do not ask the Lords for written privileges and documents, as such things are slow to be granted; rather, submit your own writings at the appropriate time so that they may sign them. Do not ask someone else for anything rare that affects them (especially if it is useless to you): if they deny it, they will think you have harmed them and will hate you; for it is human nature to hate those you have harmed; if they grant it, they will turn away from you as an indiscreet petitioner.
+
+Since it is shameful to suffer rejection, ask for nothing unless you are certain of obtaining it, and therefore it will be helpful not to ask, but only to explain your needs.
+
+Never despair in the court. Nothing there is so difficult that it cannot be overcome with patience and a certain kind of persistence.
+
+In the beginning, be very vigilant in guarding against anything that could damage your reputation. For as the beginnings of reputation are, so are its growth and decline, particularly when it comes to earning the good opinion of a virtuous person.
+
+Let no one notice that you love something before you are in possession of it; therefore, either show desperation or spread the word that it has already been destined for someone else, and congratulate them.
+
+If something is denied to you, secretly enlist someone else to ask for it on their own behalf, so that you can later obtain it more easily.
+
+If someone tries to snatch the honor you seek, send someone to them secretly, who under the guise of friendship will dissuade them and point out the difficulties.

@@ -1,0 +1,51 @@
+---
+title: "Acquiring Esteem and Reputation"
+draft: false
+comments: false
+weight: -3
+images:
+---
+
+Never be certain that someone will keep a secret if you act or speak too freely or confidently in their presence. Do not trust a child or a servant in this regard. In fact, they will form an opinion of you based on this behavior and describe you to others accordingly.
+
+Never assume that someone will excuse your questionable actions; on the contrary, they will interpret them in the worst possible light. Therefore, do not indulge yourself, even if only one person is watching. Do not repeat how you have been slandered or wronged in the past; doing so only slanders you more, and there will be those who delight in your misfortunes. Bernard's saying is not applicable here: "Excuse the intention if you cannot excuse the deed, so that they may say you sinned by chance or thoughtlessly, or that you were led to evil for the sake of temptation."
+
+Sometimes, confide a secret more confidently, especially to gossips, and ask them not to reveal it to others, such as your great influence with powerful people, or your correspondence with others, etc. Then, write letters to these powerful people, seal them, and show them before burning them. Pretend to receive responses, but keep them carelessly guarded.
+
+What people hear in confusion, they too will confuse; therefore, if you want to avoid mistakes, read carefully and examine the circumstances of the matter.
+
+Never boast of having harmed no one, but for certain actions, claim that you expect a crown from God and provide made-up examples to support your claim.
+
+Whatever is going to be made public (even if it is a small matter), do it as perfectly as possible, for your eternal reputation often depends on a single act.
+
+Never undertake multiple tasks at once, because no glory comes from doing many things, but from doing one thing well; I attest to this from experience.
+
+It is fitting and beneficial to always yield to the angry, the powerful, and the relatives; feign humility, sincerity, generosity, and cheerfulness; praise them, express gratitude, offer your help promptly, even if undeserved.
+
+Begin matters with the utmost planning and effort, and with complete certainty of success, and just as the first, so too all the rest; once a reputation is gained, even mistakes will contribute to your glory.
+
+If you have a task to perform as part of your duty, do not be swayed by any requests to take on anything else that might diminish your diligence toward your assigned work. Be certain that no amount of glory will come from accomplishing many things and being distracted by many concerns if you have neglected your duty in the slightest; indeed, even by taking on those tasks, you will suffer damage to your reputation.
+
+If you are going to conduct business, do not admit a partner who is more capable and experienced in those matters than you. If you are going to approach someone, do not bring with you someone who is more favored.
+
+If you are going to change positions, be careful not to be succeeded by someone noticeably better.
+
+Begin matters with the utmost planning, effort, and with complete certainty of success, just as the first, so too all the rest; once a reputation is gained, even mistakes will contribute to your glory.
+
+Publish the accomplishments of your household without boasting, disregarding envy and criticism for the time being; for even if some accounts are less accurate, they will eventually be read as likely true. However, spoken words will die with those who spoke them or in their presence.
+
+Gain a reputation for knowledge by collecting historical knowledge in a single booklet and leisurely reviewing it every month. In this way, you will become familiar with various subjects, and you will be able to display your knowledge when needed.
+
+If you are a courtier, because the court's responsibilities do not allow you to devote time to literature (For after sleep, when, as is customary, you are awakened after ten o'clock, when you put on your daily attire appropriate for the place and your personal interests, when you compose your face in front of the mirror, when you spend time under the canopy and playing games, what part of your life is left for literature and cultivating your mind?), and yet you do not disdain to appear educated so that you may sometimes have the means to elegantly and fittingly praise your fellow servants. Although you may not be able to know what others know, at least be able to know what they do not. Follow this path: Abandoning the authors they call classics, which are ground down by academics and teachers, strive to acquire all the books that are difficult for others to find. Do not bring up anything in conversation from commonly known authors, but from these obscure ones, so that what you say may seem your own if you keep silent about the sources, or if they are less worthy and need authority, your listeners may hear about new authors with reverence for you, as they previously thought they knew everything.
+
+Have many prepared formulas for responding, greeting, speaking, and for anything that must be done suddenly.
+
+Some people overexert themselves so that they may be exalted or so that they may seem to be carried by fortune, not by care; by talent, not by effort; they begin to neglect and despise themselves or often wish to be considered inert and weak. Leave such hypocrisy to them and do not imitate them.
+
+Never act at the full extent of your power so that you may be believed capable of doing even greater things.
+
+For matters that can be handled, corrected, or punished through servants, do not do them yourself; reserve the more significant tasks for yourself.
+
+Do not argue about uncertainties, and never do so unless you know for certain that you will be the victor.
+
+If you prepare a feast, provide food and drink to the servants of your guests, for they are a talkative lot, more powerful in spreading infamy. Thus, your generosity should be visible, so that they do not speculate about any shortcomings; similarly, act generously with the barber and the prostitute.

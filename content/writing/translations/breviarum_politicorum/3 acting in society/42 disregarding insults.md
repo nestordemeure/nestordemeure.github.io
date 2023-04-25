@@ -1,0 +1,13 @@
+---
+title: "Ignoring Insults"
+draft: false
+comments: false
+weight: -42
+images:
+---
+
+Praise and mockery, flattery - nowhere does human deception more greatly abound. Collect the written Pasquinades (satirical poems) against you and read them yourself. Take care to laugh at them, for in doing so, the author will lose hope.
+
+Do not let the Pasquinade against you be made public; feign ignorance. However, if it must be revealed, read it frequently at home and learn to laugh at it. Adopt a suitable attitude, imagine yourself laughing at it in the meantime, raise objections to what you're pretending, and think about the appropriate responses based on your assumed mood.
+
+Do not always conceal it when something adverse happens, lest by the very act of dissimulation, it is believed to have occurred more truly.

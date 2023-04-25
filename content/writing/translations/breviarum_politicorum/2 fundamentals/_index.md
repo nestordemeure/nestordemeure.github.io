@@ -1,0 +1,10 @@
+---
+title: "Fundamentals"
+draft: false
+comments: false
+weight: -2
+images:
+---
+
+In the past, genuine Philosophy held two principles: Endure and Abstain. Now, there are two new ones: Simulate and Dissimulate. Whether it is Know Yourself or Know Others, these principles (unless I am mistaken) also support the previous ones.
+We will first address these; then we will discuss the previous ones in various human actions, and since they occur almost without order, we will present them without particular regard to sequence.

@@ -1,0 +1,9 @@
+---
+title: "Encouraging Action"
+draft: false
+comments: false
+weight: -16
+images:
+---
+
+In this way, you will inspire. Take upon yourself the possible losses from any event and propose rewards. Thus, before the battle, the General will order the announcement of the compensation rates for wounds, specifying the amounts for each kind, and he will promise to make up for the losses of baggage; meanwhile, a strong garrison will be placed in the camp to prevent the soldiers' minds from being distracted by worry.
