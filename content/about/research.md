@@ -41,6 +41,12 @@ This paper covers my work on *tagged error*, an extension of *encapsulated error
 While the method introduces an important overhead, it is the best method I am aware of to find the source of a numerical error in computations.
 I have even used it to improve the numerical stability of algorithms, fixing problems one after the other until I reached the desired precision.
 
+#### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://cug.org/digital-library/) (high-performance computing)
+
+This paper (published as part of the proceedings of the *Cray User Group 2023*) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
+
+It gives a practical look at porting a large pre-existing application to GPU. Studying the performance of the resulting code but also useability and productivity.
+
 #### [Large-scale neuroanatomical study uncovers 198 gene associations in mouse brain morphogenesis](https://www.nature.com/articles/s41467-019-11431-2) (data analysis)
 
 This paper concludes a large study, measuring 118 neuroanatomical parameters over 1,566 mutant mice.
@@ -77,6 +83,13 @@ We showed that we could predict the convergence profile of the solver with enoug
 This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022* and *NUG Meeting 2022*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
 
 It comes with [exercises](https://drive.google.com/drive/folders/12SO8IwMv2CP6vRmtgWwJ9Xekw8a2B-aT?usp=sharing) and is designed such that, by the end of the workshop, someone starting with knowledge of Python and Numpy should be able to port their code to GPU using JAX *and* decide on whether it is the best way forward.
+
+#### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1eVrpDsUJYp2ZqG05TYHSpAfvJ0AJRZPzS0_lND2ivk8/edit?usp=sharing) (high-performance computing)
+
+This talk, given at the *Cray User Group 2023*, contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
+Looking at the performance of the resulting code but also useability and productivity.
+
+A paper is also available in the [proceedings of the conference](https://cug.org/digital-library/).
 
 ## Posters
 

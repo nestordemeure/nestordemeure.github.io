@@ -62,4 +62,6 @@ The translation was then polished by hand before being fact-checked against an [
 
 Finally, I went over chapter titles and had GPT4 harmonize them.
 
+*Do not hesitate to contact me if you want to work on this data or can suggest fixes to the Latin reference or its translation!*
+
 [differs]: The meaning of some passages *does differ* between both translations, mostly where the original is so terse that one needs to interpret it to keep the text readable.
