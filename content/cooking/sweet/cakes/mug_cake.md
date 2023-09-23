@@ -19,7 +19,7 @@ Feel free to add fruits, lemon juice/zests, chocolate chunks, or anything else r
 * 3 tablespoons of milk
 * 1 tablespoon of salted butter[^unit]
 
-[^small]: The smallest you have on hand will be perfect.
+[^small]: The smallest you have on hand will be perfect. You can also, and it works surprisingly well, substitute it for a similar amount of yogurt.
 
 [^powder]: Don't hesitate to be generous with the baking powder. This cake can tend to be too compact.
 

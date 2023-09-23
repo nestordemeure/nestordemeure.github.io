@@ -6,9 +6,9 @@ date: 2023-09-22
 images:
 ---
 
-Jim started digging at the crossroad. He felt heavy, eating before coming was probably a bad idea… but it's not as if he had experience with that stuff.
+Jim started digging at the crossroad. He felt heavy, he wasn’t quite sure if it was the pasta or the meat, but eating before coming was probably a bad idea… but it's not as if he had experience with that stuff.
 
-Once the hole was big enough, he wrapped a silver dollar in one original page of Krazy Kat and buried it in the dirt. Then he waited.
+Once the hole was big enough, he wrapped a silver dollar in one original page of Krazy Kat and buried it in the dirt. Then, he waited.
 
 His hopes went high when a fly started to bother him. But it was just a fly.
 
