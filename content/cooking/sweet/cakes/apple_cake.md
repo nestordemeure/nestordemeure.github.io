@@ -8,13 +8,13 @@ images:
 
 This recipe is simple, surprisingly delicious, lets the apple shine through, and yet can be done with flavourless leftover apples.
 
-## Ingredients (one rectangular cake pan):
+## Ingredients (one square cake pan):
 
 * 3 large apples
 * 2 teaspoon apple cider vinegar[^vinegar]
 * 115 grams of salted butter
 * 100 grams of white sugar
-* 2 teaspoon of *brown* sugar
+* 2 teaspoon of *brown* sugar (about 30 grams)
 * 2 large eggs
 * 1 large teaspoon vanilla extract[^vanilla]
 * 120 grams flour
