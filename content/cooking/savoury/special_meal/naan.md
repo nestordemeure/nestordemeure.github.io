@@ -8,7 +8,7 @@ images:
 
 Naans are very easy to make, go well with any curry or thick sauce, and make for a nice change of carbs.
 
-## Ingredients (6 naans):
+## Ingredients (3 big naans):
 
 * 200 grams flour
 * 1 teaspoon sugar
@@ -31,7 +31,7 @@ Naans are very easy to make, go well with any curry or thick sauce, and make for
 * add the olive oil and yogurt, mix
 * add water progressively, stop before it becomes wet[^time]
 * work the dough until it is smooth
-* nead it into a ball[^oil], let rest under a wet towel for at least 1 hour at room temperature
+* nead it into a ball[^oil], let rest under a wet towel for at least 2 hour at room temperature
 
 [^time]: the exact amount of water to incorporate will vary depending on flour types.
 
@@ -40,18 +40,20 @@ Naans are very easy to make, go well with any curry or thick sauce, and make for
 #### rolling
 
 * nead the dough one last time
-* break it into 6 small balls[^cheese]
+* break it into 3 small balls[^cheese]
 * roll the balls into flat[^thick] circles
 
-[^cheese]: For cheese naan, place one slice (or half a slice) of laughting cow in the center of the ball so that it ends up trapped inside the naan.
+[^cheese]: For cheese naan, place one slice of laughting cow in the center of the ball so that it ends up trapped inside the naan.
 
-[^thick]: Keep them at least 3 millimeters thick, they need to be able to rise.
+[^thick]: Keep them about 3 millimeters thick. To thin and they will not be able to rise much, too thick and they will end up doughy.
 
 #### cooking
 
 * put in a warm skillet one at a time until they starts inflating
 * flip and wait two more minutes before setting aside
-* for garlic naans, melt butter, add pressed garlic and diced cylantro then mix thourouly before brushing on the cooked naan
+* for garlic naans, melt butter, add pressed garlic and diced cylantro then mix thourouly before brushing on the cooked[^trad] naan
+
+[^trad]: The butter would traditionaly be brush on the naans before cooking, but I prefer it brushed afterward to preserve th ebrightest flavors.
 
 ## Credits:
 
