@@ -29,9 +29,11 @@ Naans are very easy to make, go well with any curry or thick sauce, and make for
 
 * mix the flour, sugar, salt, and baking powder
 * add the olive oil and yogurt, mix
-* add water progressively
+* add water progressively, stop before it becomes wet[^time]
 * work the dough until it is smooth
-* nead it into a ball[^oil], let rest under a wet towel for at least 2 hours at room temperature
+* nead it into a ball[^oil], let rest under a wet towel for at least 1 hour at room temperature
+
+[^time]: the exact amount of water to incorporate will vary depending on flour types.
 
 [^oil]: You can oil it a bit to make it less sticky, especially when it will rest in the bowl.
 
