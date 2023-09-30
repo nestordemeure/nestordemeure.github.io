@@ -6,7 +6,7 @@ comments: false
 images:
 ---
 
-This recipe will produce something flavorful, buttery, garlicy and tomato-y within minutes.
+This recipe will produce something flavorful, buttery, garlicky and tomato-y within minutes.
 
 ## Ingredients (one toast):
 
@@ -27,7 +27,7 @@ This recipe will produce something flavorful, buttery, garlicy and tomato-y with
 * spread the garlic butter on the toast
 * add the cheese and tomatoes
 
-[^wait]: Preparing the garlic butter first gives it the strict minimum of time needed for the flavour to infuse in the butter.
+[^wait]: Preparing the garlic butter first gives it the strict minimum of time needed for the flavor to infuse in the butter.
 
 ## Credits:
 

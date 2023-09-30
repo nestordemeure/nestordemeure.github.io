@@ -6,15 +6,15 @@ comments: false
 images:
 ---
 
-This recipe is simple, surprisingly delicious, lets the apple shine through, and yet can be done with flavourless leftover apples.
+This recipe is simple, surprisingly delicious, lets the apple shine through, and yet can be done with flavorless leftover apples.
 
 ## Ingredients (one square cake pan):
 
 * 3 large apples
-* 2 teaspoon apple cider vinegar[^vinegar]
+* 2 teaspoons apple cider vinegar[^vinegar]
 * 115 grams of salted butter
 * 100 grams of white sugar
-* 2 teaspoon of *brown* sugar (about 30 grams)
+* 2 teaspoons of *brown* sugar (about 30 grams)
 * 2 large eggs
 * 1 large teaspoon vanilla extract[^vanilla]
 * 120 grams flour
@@ -22,7 +22,7 @@ This recipe is simple, surprisingly delicious, lets the apple shine through, and
 
 [^vinegar]: This helps brings in further apple flavor, which is particularly important if your apples are not that good.
 
-[^vanilla]: The traditional recipe calls for half a teaspoon of vanilla extract but adds 3 tablespoons of dark rhum.
+[^vanilla]: The traditional recipe calls for half a teaspoon of vanilla extract but adds 3 tablespoons of dark rum.
 
 ## Preparation:
 
@@ -41,7 +41,7 @@ This recipe is simple, surprisingly delicious, lets the apple shine through, and
 
 [^soft]: You can, very lightly, soften the butter in a microwave to make your task easier.
 
-[^dust]: Do not omit this step, it makes a significant improvement in the flavour and brings some textural contrast to the cake.
+[^dust]: Do not omit this step, it makes a significant improvement in the flavor and brings some textural contrast to the cake.
 
 ## Cooking:
 

@@ -33,7 +33,7 @@ The one thing one should do with old bananas. Easy and delicious.
 * mix the sugar in
 * mix and mash the bananas in[^mixture]
 * mix in the eggs
-* mix in he vanilla and milk
+* mix in the vanilla and milk
 
 * chop the walnuts and add to taste
 * chop the chocolate and add to taste

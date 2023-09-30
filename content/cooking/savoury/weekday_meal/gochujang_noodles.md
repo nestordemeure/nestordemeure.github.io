@@ -32,10 +32,10 @@ While this is a quick way to pimp up cheap instant noodles, turning them into a 
 * press[^dice] the garlic *first*
 * melt the butter in a pan
 * as soon as the butter starts sizzling, add the garlic and mix
-* add the gojuchang, vinegar, and honey
+* add the gochujang, vinegar, and honey
 * bring to a boil while mixing then let rest while waiting for the pasta to be ready
 
-[^dice]: You could dice it finely but a garlic press is a great way to extract a maximum of flavour out of a given quantity of garlic.
+[^dice]: You could dice it finely, but a garlic press is a great way to extract a maximum of flavor out of a given quantity of garlic.
 
 #### Assembly
 
@@ -43,7 +43,7 @@ While this is a quick way to pimp up cheap instant noodles, turning them into a 
 * add one teaspoon of butter
 * mix on high heat until well coated
 * transfer to a bowl
-* optionaly sprinkle diced scallions on top
+* optionally sprinkle diced scallions on top
 
 ## Credits:
 
