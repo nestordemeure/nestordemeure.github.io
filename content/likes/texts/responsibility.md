@@ -21,4 +21,4 @@ The amateurs tend to have less practice and knowledge of the craft, less underst
 Neither is inherently better, a great professional will find a way to convey their vision to the masses and the best amateurs have flawless technique.
 But, while they do the same activity, they are different in ways that should not be ignored.
 Similarly to how a great artist does the best of the idiosyncrasies of their medium, a fantastic amateur and a fantastic professional -- both practitioners of the same craft -- would be very different people producing very different art.
-They might even admire each other's output, seeing in it what by nature they cannot achieve!
+They might even love each other's output, seeing in it what by nature they cannot achieve.
