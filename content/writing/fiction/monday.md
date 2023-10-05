@@ -20,12 +20,12 @@ It took a good hour before someone showed up. It was a man, smallish, blond, blu
 
 Jim had never met the man and was not quite sure what to answer. But it did not really care for an answer.
 
-*“The name’s M̵̠̄a̷̯̐m̸͓̀m̴̰͝ȯ̵͚̾͜n̴͔͔͆, but you can call me mom. Me and the boys discussed and I might have a job for you. You see, I have a project I am* really *looking forward to. It's a comic strip, kind of funny, but not really, but it stays in your head afterward. God, does it burrow and dig itself a space in your head… Think of the market opportunity!”*
+“The name’s M̵̠̄a̷̯̐m̸͓̀m̴̰͝ȯ̵͚̾͜n̴͔͔͆, but you can call me mom. Me and the boys discussed and I might have a job for you. You see, I have a project I am *really* looking forward to. It's a comic strip, kind of funny, but not really, but it stays in your head afterward. God, does it burrow and dig itself a space in your head… Think of the market opportunity!”
 
 The man had perfect teeth.
 
-*“Trust me, I have done that with songs in the past – the Java was great but also kind of limited, you cannot really produce merch around a song – this will be a million times better.*
+“Trust me, I have done that with songs in the past – the Java was great but also kind of limited, you cannot really produce merch around a song – this will be a million times better.
 
-*It would be a pretty standard contract: fame and fortune for you, what you love most – plus perks – for me. I would tell you what to write, how to write it, and you will never, ever, draw something else. No original work, no one-off stories, no glimpses of your soul in between the jokes. Clean corporate material.*
+It would be a pretty standard contract: fame and fortune for you, what you love most – plus perks – for me. I would tell you what to write, how to write it, and you will never, ever, draw something else. No original work, no one-off stories, no glimpses of your soul in between the jokes. Clean corporate material.
 
-*Interested? You are going to* love *the lead character, he is called Garfield…”*
+Interested? You are going to *love* the lead character, he is called Garfield…”
