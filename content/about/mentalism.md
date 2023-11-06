@@ -5,7 +5,10 @@ comments: false
 images:
 ---
 
-I am a consulting mentalist (amongst other things, I have a book published for that public and I designed several stage shows).
+I am a consulting mentalist.
+Amongst other things, I have a book published for that public, I designed stage shows that are now playing in various[^two] countries, and performers all over the world are using demonstrations I created.
+
+[^two]: Two. Two counts as various.
 
 ## What is mentalism?
 
@@ -19,6 +22,8 @@ If you want to be entertained by a world-class mentalist, I highly recommend [wa
 
 Usually, people contact me because they want to do a particular demonstration on stage and I find a way to do it given their skill set, constraints, and theme.
 But it can also be building a full show around a theme or helping someone track older references on a subject they are researching.
+
+My particular area of expertise is the birth of modern mentalism. When spiritualist mediums first stepped onto the stage, where magicians where trying to debunk them, birthing within a few years a united practice that borrowed techniques and aesthetics from both fields.
 
 ## How do I contact you?
 
