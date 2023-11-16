@@ -6,7 +6,7 @@ images:
 ---
 
 I am a consulting mentalist.
-Amongst other things, I have a book published for that public, I designed stage shows that are now playing in various[^two] countries, and performers all over the world are using demonstrations I created.
+Amongst other things, I have a book published for that public and, I designed stage shows that are now playing in various[^two] countries.
 
 [^two]: Two. Two counts as various.
 

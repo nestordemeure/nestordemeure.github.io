@@ -837,7 +837,7 @@ In practice, I found creativity to be a muscle. The more you try to use it and t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/about/mentalism/</guid>
-      <description>I am a consulting mentalist. Amongst other things, I have a book published for that public, I designed stage shows that are now playing in various1 countries, and performers all over the world are using demonstrations I created.
+      <description>I am a consulting mentalist. Amongst other things, I have a book published for that public and, I designed stage shows that are now playing in various1 countries.
 What is mentalism?   Mentalism is an ensemble of techniques (including mnemotechnic, hypnosis, magic tricks, knowledge of statistically likely phenomenons, and a trained intuition) used to produce incredible phenomenons (usually psychic phenomenons or an impressive mastery of the human mind) in an entertainment setting.</description>
     </item>
     
@@ -848,8 +848,8 @@ What is mentalism?   Mentalism is an ensemble of techniques (including mnemotech
       
       <guid>https://nestordemeure.github.io/about/research/</guid>
       <description>I am a researcher with specialties in numerical accuracy, artificial intelligence, data analysis, and high-performance computing.
-Papers   You can find most of my publications on Researchgate. Here is a list of them in no particular order:
-Ranger21: a synergistic deep learning optimizer (machine learning)   The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people were branding them as new optimizers, they often just included one new idea to an existing optimizer.</description>
+Papers   You can find most of my publications on Researchgate:
+High-level GPU code: a case study examining JAX and OpenMP. (high-performance computing)   This paper (published as part of the proceedings of Supercomputing 2023) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.</description>
     </item>
     
     <item>
@@ -859,8 +859,9 @@ Ranger21: a synergistic deep learning optimizer (machine learning)   The Ranger2
       
       <guid>https://nestordemeure.github.io/about/software/</guid>
       <description>I am an engineer with a specialty in applied mathematics and computer science.
-You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the main developer) in no particular order:
-Shaman (C++)   Shaman is the crown jewel of my Ph.D., it helps you track and measure the numerical error in computations by replacing the types (double becomes Sdouble) with instrumented version.</description>
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
+letMeNERSCthatForYou (Python)   This is the current official implementation of the NERSC Documentation Chatbot.
+The chatbot was built to be able to answer user questions with NERSC-specific sourced answers using open models running fully locally on NERSC&amp;rsquo;s premise.</description>
     </item>
     
   </channel>

@@ -9,23 +9,19 @@ I am a researcher with specialties in numerical accuracy, artificial intelligenc
 
 ## Papers
 
-You can find most of my publications on [Researchgate](https://www.researchgate.net/profile/Nestor-Demeure).
-Here is a list of them in no particular order:
+You can find most of my publications on [Researchgate](https://www.researchgate.net/profile/Nestor-Demeure):
 
-#### [Ranger21: a synergistic deep learning optimizer](https://arxiv.org/abs/2106.13731) (machine learning)
+#### [High-level GPU code: a case study examining JAX and OpenMP.](https://dl.acm.org/doi/10.1145/3624062.3624186) (high-performance computing)
 
-The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people were branding them as new optimizers, they often just included one new idea to an existing optimizer.
-We realized a lot of those ideas were orthogonal and synergetic: you would get better results putting them together than what would be expected by looking at them individually.
+This paper (published as part of the proceedings of *Supercomputing 2023*) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
 
-The result is an optimizer that is surprisingly robust and, looking further, the idea that we should build modular optimizers to foster research in that direction.
+It gives a practical look at porting a large pre-existing application to GPU. Studying the performance of the resulting code but also usability and productivity.
 
-#### [Compromise between precision and performance in high-performance computing.](https://www.researchgate.net/publication/348551075_Compromise_between_precision_and_performance_in_high_performance_computing) (numerical accuracy)
+#### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://cug.org/digital-library/) (high-performance computing)
 
-This covers all the work I did during my Ph.D. (do not let the first pages fool you, it is written in English).
+This paper (published as part of the proceedings of the *Cray User Group 2023*) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
 
-It covers the theory between Shaman including *encapsulated error* (a very efficient way to measure the numerical error of computations) and *tagged error* (a very precise way to find the source of the numerical error that ends up in a result).
-
-It also includes some work on applying artificial intelligence to pick the proper solver and preconditioner to solve a linear system (we obtained really promising results, a paper dedicated to the subject should come out at some point).
+It gives a practical look at porting a large pre-existing application to GPU. Studying the performance of the resulting code but also usability and productivity.
 
 #### [Encapsulated error, a direct approach to evaluate floating-point accuracy](https://dl.acm.org/doi/10.1145/3549205) (numerical accuracy)
 
@@ -34,6 +30,13 @@ This paper covers my work on *encapsulated error*, a method designed to measure 
 The method is interesting in that it is both relatively easy to implement as a library, accurate and significantly faster than most alternatives.
 Its main downside is the need to replace floating point types used in an application with an instrumented alternative (which might not be practical when one has limited access to the source or when they are unwieldy to modify).
 
+#### [Ranger21: a synergistic deep learning optimizer](https://arxiv.org/abs/2106.13731) (machine learning)
+
+The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people were branding them as new optimizers, they often just included one new idea to an existing optimizer.
+We realized a lot of those ideas were orthogonal and synergetic: you would get better results putting them together than what would be expected by looking at them individually.
+
+The result is an optimizer that is surprisingly robust and, looking further, the idea that we should build modular optimizers to foster research in that direction.
+
 #### [Tagged error: tracing numerical error through computations](https://ieeexplore.ieee.org/document/9603395) (numerical accuracy)
 
 This paper covers my work on *tagged error*, an extension of *encapsulated error* destined to follow numerical error through a computation.
@@ -41,11 +44,13 @@ This paper covers my work on *tagged error*, an extension of *encapsulated error
 While the method introduces an important overhead, it is the best method I am aware of to find the source of a numerical error in computations.
 I have even used it to improve the numerical stability of algorithms, fixing problems one after the other until I reached the desired precision.
 
-#### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://cug.org/digital-library/) (high-performance computing)
+#### [Compromise between precision and performance in high-performance computing.](https://www.researchgate.net/publication/348551075_Compromise_between_precision_and_performance_in_high_performance_computing) (numerical accuracy)
 
-This paper (published as part of the proceedings of the *Cray User Group 2023*) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
+This covers all the work I did during my Ph.D. (do not let the first pages fool you, it is written in English).
 
-It gives a practical look at porting a large pre-existing application to GPU. Studying the performance of the resulting code but also useability and productivity.
+It covers the theory between Shaman including *encapsulated error* (a very efficient way to measure the numerical error of computations) and *tagged error* (a very precise way to find the source of the numerical error that ends up in a result).
+
+It also includes some work on applying artificial intelligence to pick the proper solver and preconditioner to solve a linear system (we obtained really promising results, a paper dedicated to the subject should come out at some point).
 
 #### [Large-scale neuroanatomical study uncovers 198 gene associations in mouse brain morphogenesis](https://www.nature.com/articles/s41467-019-11431-2) (data analysis)
 
@@ -56,33 +61,15 @@ I contributed some data analysis to the paper (admittedly a drop in a bucket, wi
 
 ## Talks
 
-Here are some slides (or recordings when available) of talks I gave:
+Here are slides (or recordings when available) of talks I gave:
 
-#### [Tagged error: Tracing numerical error through computations.](https://drive.google.com/file/d/1mt-QCBOqcdD36-6DwI4eE6GwHIoX_hGf/view?usp=sharing) (numerical accuracy)
+#### [High-level GPU code: A case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1JQwaMre9_-iiwPqslPXS7CW-SvQxv5XPgdWBd12L0io/edit?usp=sharing) (high-performance computing)
 
-This talk (given in 2021 for the *28th IEEE International Symposium on Computer Arithmetic.*) covers my work on *tagged error*, an extension of *encapsulated error* destined to follow numerical error through a computation.
+This talk was given at *P3HPC* (Performance, Portability & Productivity in HPC, a workshop given as part of *Supercomputing 2023*) and the *Summit Series XIII* (an NVIDIA and US national labs joined conference).
+It contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
+Looking at the performance of the resulting code but also useability and productivity.
 
-It has since been published as a paper.
-
-#### [Erreur Encapsulée: Une méthode directe pour estimer l’erreur due à l’arithmétique à virgule flottante](https://drive.google.com/file/d/1US7Toi0T45VulCMWRyxALYfezKznEjOJ/view?usp=sharing) (numerical accuracy)
-
-This talk (given in 2021 for the *Rencontres Arithmétiques de l'Informatique Mathématique 2021*) covers my work on *encapsulated error*, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.
-
-It has since been published as a paper.
-
-#### [AI-augmented linear solvers: using machine learning to predict the convergence profile of a linear solver](https://youtu.be/kXwPJAPwLz0?list=PLr1vc4ZveozN3DCzlIxJd_oLG9MpLev1B) (machine learning)
-
-This talk (given in 2020 for the *Digital French-German Summer School with Industry*) covers my work on using machine learning to predict the performance of linear solvers and preconditioners when solving a given linear system.
-
-We showed that we could predict the convergence profile of the solver with enough accuracy to determine which solver should be used given some target precision and time constraints.
-
-*This work has been submitted to a journal but is not published yet, you can find more information in my Ph.D.*
-
-#### [Workshop: Introduction to porting Python to GPU with JAX.](https://youtu.be/YhXUymsQ_3g?list=PL20S5EeApOStvfX3byEoJe-Z93D64xaLE) (high-performance computing)
-
-This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022* and *NUG Meeting 2022*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
-
-It comes with [exercises](https://drive.google.com/drive/folders/12SO8IwMv2CP6vRmtgWwJ9Xekw8a2B-aT?usp=sharing) and is designed such that, by the end of the workshop, someone starting with knowledge of Python and Numpy should be able to port their code to GPU using JAX *and* decide on whether it is the best way forward.
+A paper is also available in the [proceedings of the conference](https://dl.acm.org/doi/10.1145/3624062.3624186).
 
 #### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1eVrpDsUJYp2ZqG05TYHSpAfvJ0AJRZPzS0_lND2ivk8/edit?usp=sharing) (high-performance computing)
 
@@ -91,9 +78,35 @@ Looking at the performance of the resulting code but also useability and product
 
 A paper is also available in the [proceedings of the conference](https://cug.org/digital-library/).
 
+#### [Workshop: Introduction to porting Python to GPU with JAX.](https://youtu.be/YhXUymsQ_3g?list=PL20S5EeApOStvfX3byEoJe-Z93D64xaLE) (high-performance computing)
+
+This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022* and *NUG Meeting 2022*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
+
+It comes with [exercises](https://drive.google.com/drive/folders/12SO8IwMv2CP6vRmtgWwJ9Xekw8a2B-aT?usp=sharing) and is designed such that, by the end of the workshop, someone starting with knowledge of Python and Numpy should be able to port their code to GPU using JAX *and* decide on whether it is the best way forward.
+
+#### [Tagged error: Tracing numerical error through computations.](https://drive.google.com/file/d/1mt-QCBOqcdD36-6DwI4eE6GwHIoX_hGf/view?usp=sharing) (numerical accuracy)
+
+This talk (given in 2021 for the *28th IEEE International Symposium on Computer Arithmetic.*) covers my work on *tagged error*, an extension of *encapsulated error* destined to follow numerical error through a computation.
+
+It has since been published as a [paper](https://ieeexplore.ieee.org/document/9603395).
+
+#### [Erreur Encapsulée: Une méthode directe pour estimer l’erreur due à l’arithmétique à virgule flottante](https://drive.google.com/file/d/1US7Toi0T45VulCMWRyxALYfezKznEjOJ/view?usp=sharing) (numerical accuracy)
+
+This talk (given in 2021 for the *Rencontres Arithmétiques de l'Informatique Mathématique 2021*) covers my work on *encapsulated error*, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.
+
+It has since been published as a [paper](https://ieeexplore.ieee.org/document/9603395).
+
+#### [AI-augmented linear solvers: using machine learning to predict the convergence profile of a linear solver](https://youtu.be/kXwPJAPwLz0?list=PLr1vc4ZveozN3DCzlIxJd_oLG9MpLev1B) (machine learning)
+
+This talk (given in 2020 for the *Digital French-German Summer School with Industry*) covers my work on using machine learning to predict the performance of linear solvers and preconditioners when solving a given linear system.
+
+We showed that we could predict the convergence profile of the solver with enough accuracy to determine which solver should be used given some target precision and time constraints.
+
+This work has been submitted to a journal but is not published yet, you can find more information [in my Ph.D.](https://www.researchgate.net/publication/348551075_Compromise_between_precision_and_performance_in_high_performance_computing)
+
 ## Posters
 
-Here are some posters I presented:
+Here are posters I presented:
 
 #### [A Direct Method to Assess Floating-Point Accuracy](https://drive.google.com/file/d/1GNm7FKPzk9YUpYDiCeoIgLMvE9FJbPlP/view?usp=sharing) (numerical accuracy)
 
