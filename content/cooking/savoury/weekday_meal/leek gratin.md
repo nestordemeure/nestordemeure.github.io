@@ -14,7 +14,7 @@ Very much worth cooking when leeks are in season, and you want something warm an
 * 2 big leeks[^leek]
 * 1 full[^full] Roblochon[^rob]
 
-[^leek]: Enough to cover the bottom of your pan.
+[^leek]: Enough to cover the bottom of your pan in a thick layer.
 
 [^full]: Enough to cover the top of your pan.
 
@@ -25,7 +25,7 @@ Very much worth cooking when leeks are in season, and you want something warm an
 * Cut the leeks into 1cm slices then cook them in salted water until they reach your favorite consistency[^consistency]
 * drain the leeks carefully in a colander then transfer them to the bottom of you cooking pan
 * put a layer of cheese slices on top of the leeks
-* cook in an oven at 350F (180C) until the cheese is melted and crispy to your preference[^cook]
+* cook in an oven at 350F (180C) until the cheese is melted or crispy to your preference[^cook]
 * eat hot
 
 [^consistency]: I like to reach the point where they can barely hold themselves together.

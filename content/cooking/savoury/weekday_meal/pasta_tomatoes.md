@@ -14,7 +14,7 @@ This is an easy pasta dish that has a surprising depth of flavor.
 * some salt
 * some olive oil
 * a generous amount of pepper
-* the equivalent of one and a half large cloves of garlic[^garlic]
+* the equivalent of one and a half large cloves of garlic
 * a dozen leaves of basil[^basil]
 * 100 grams (roughly) of cherry tomatoes[^cherry]
 * optionally about 30 grams of butter
@@ -24,8 +24,6 @@ Ideally, you want pasta that will catch the sauce such as bronze-cut pasta but, 
 
 [^basil]: Be careful not to use too much basil, it can quickly become overpowering and almost bitter.
 
-[^garlic]: Do *not* forget or omit the garlic. It is a key ingredient in the final flavor.
-
 [^cherry]: They tend to be sweeter and more flavorful. If you have good, flavorful, normal tomatoes then feel free to dice and use them.
 
 ## Preparation:
@@ -34,7 +32,9 @@ Ideally, you want pasta that will catch the sauce such as bronze-cut pasta but, 
 
 * rince the basil leaves and dice them very finely
 * crush the garlic
-* cut the cherry tomatoes in fourth
+* cut the cherry tomatoes in fourth[^blend]
+
+[^blend]: You could blend them for a smooth sauce, but a bit of homogeneity is not bad and makes the recipe easier and faster.
 
 #### Pasta
 
