@@ -10,6 +10,12 @@ I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on [Github](https://github.com/nestordemeure) and [Gitlab](https://gitlab.com/nestordemeure).
 Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
 
+#### [Xmap](https://github.com/nestordemeure/xmap/tree/main) (Python)
+
+An alternative [xmap](https://jax.readthedocs.io/en/latest/_autosummary/jax.experimental.maps.xmap.html) implementation for [Jax](https://github.com/google/jax).
+
+This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to `vmap` (making it resilient to update on Jax's side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages.
+
 #### [letMeNERSCthatForYou](https://github.com/nestordemeure/letMeNERSCthatForYou) (Python)
 
 This is the current *official* implementation of the NERSC Documentation Chatbot.

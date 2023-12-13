@@ -7,8 +7,8 @@
 <meta name="author" content="Nestor Demeure ">
 <meta name="description" content="I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
-letMeNERSCthatForYou (Python)   This is the current official implementation of the NERSC Documentation Chatbot.
-The chatbot was built to be able to answer user questions with NERSC-specific sourced answers using open models running fully locally on NERSC&amp;rsquo;s premise." />
+Xmap (Python)   An alternative xmap implementation for Jax.
+This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to vmap (making it resilient to update on Jax&amp;rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -48,10 +48,10 @@ The chatbot was built to be able to answer user questions with NERSC-specific so
 <meta itemprop="name" content="Software I wrote">
 <meta itemprop="description" content="I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
-letMeNERSCthatForYou (Python)   This is the current official implementation of the NERSC Documentation Chatbot.
-The chatbot was built to be able to answer user questions with NERSC-specific sourced answers using open models running fully locally on NERSC&rsquo;s premise.">
+Xmap (Python)   An alternative xmap implementation for Jax.
+This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to vmap (making it resilient to update on Jax&rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages.">
 <meta itemprop="dateModified" content="2023-11-15T17:07:56-07:00" />
-<meta itemprop="wordCount" content="996"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
+<meta itemprop="wordCount" content="1083"><meta itemprop="image" content="https://nestordemeure.github.io/"/>
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://nestordemeure.github.io/"/>
@@ -59,8 +59,8 @@ The chatbot was built to be able to answer user questions with NERSC-specific so
 <meta name="twitter:title" content="Software I wrote"/>
 <meta name="twitter:description" content="I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
-letMeNERSCthatForYou (Python)   This is the current official implementation of the NERSC Documentation Chatbot.
-The chatbot was built to be able to answer user questions with NERSC-specific sourced answers using open models running fully locally on NERSC&rsquo;s premise."/>
+Xmap (Python)   An alternative xmap implementation for Jax.
+This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to vmap (making it resilient to update on Jax&rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages."/>
 
 
 
@@ -68,8 +68,8 @@ The chatbot was built to be able to answer user questions with NERSC-specific so
     <meta property="og:title" content="Software I wrote" />
 <meta property="og:description" content="I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
-letMeNERSCthatForYou (Python)   This is the current official implementation of the NERSC Documentation Chatbot.
-The chatbot was built to be able to answer user questions with NERSC-specific sourced answers using open models running fully locally on NERSC&rsquo;s premise." />
+Xmap (Python)   An alternative xmap implementation for Jax.
+This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to vmap (making it resilient to update on Jax&rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nestordemeure.github.io/about/software/" /><meta property="og:image" content="https://nestordemeure.github.io/"/><meta property="article:section" content="about" />
 
@@ -153,6 +153,14 @@ The chatbot was built to be able to answer user questions with NERSC-specific so
                 <p>I am an engineer with a specialty in applied mathematics and computer science.</p>
 <p>You can find most of the software I developed on <a href="https://github.com/nestordemeure">Github</a> and <a href="https://gitlab.com/nestordemeure">Gitlab</a>.
 Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):</p>
+<div class="heading-wrapper">
+    <h4 id="xmaphttpsgithubcomnestordemeurexmaptreemain-python">
+        <a class="heading-anchor" href="#xmaphttpsgithubcomnestordemeurexmaptreemain-python" style="text-decoration: none">
+            <a href="https://github.com/nestordemeure/xmap/tree/main">Xmap</a> (Python)
+        </a>
+    </h4>
+</div><p>An alternative <a href="https://jax.readthedocs.io/en/latest/_autosummary/jax.experimental.maps.xmap.html">xmap</a> implementation for <a href="https://github.com/google/jax">Jax</a>.</p>
+<p>This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to <code>vmap</code> (making it resilient to update on Jax&rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages.</p>
 <div class="heading-wrapper">
     <h4 id="letmenerscthatforyouhttpsgithubcomnestordemeureletmenerscthatforyou-python">
         <a class="heading-anchor" href="#letmenerscthatforyouhttpsgithubcomnestordemeureletmenerscthatforyou-python" style="text-decoration: none">

@@ -890,8 +890,8 @@ High-level GPU code: a case study examining JAX and OpenMP. (high-performance co
       <guid>https://nestordemeure.github.io/about/software/</guid>
       <description>I am an engineer with a specialty in applied mathematics and computer science.
 You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
-letMeNERSCthatForYou (Python)   This is the current official implementation of the NERSC Documentation Chatbot.
-The chatbot was built to be able to answer user questions with NERSC-specific sourced answers using open models running fully locally on NERSC&amp;rsquo;s premise.</description>
+Xmap (Python)   An alternative xmap implementation for Jax.
+This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to vmap (making it resilient to update on Jax&amp;rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages.</description>
     </item>
     
   </channel>

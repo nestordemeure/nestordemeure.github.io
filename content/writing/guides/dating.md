@@ -60,7 +60,7 @@ You can expect more reactions during the first day as the app boosts new profile
 
 ## The Date
 
-The *first date should be in a public _place_ (restaurants or cafés are classic, parks, even museums are good) and not at your place. Part of the first date's job is to confirm that both of you are non-weird non-serial-killer types of persons and that you match your profile.
+The first date should be in a public _place_ (restaurants or cafés are classic, parks, even museums are good) and not at your place. Part of the first date's job is to confirm that both of you are non-weird non-serial-killer types of persons and that you match your profile.
 
 *Don’t hesitate to swipe/chat/go on dates with people that appear slightly below your expected goals.* You might have good surprises (some people are plain bad at making profiles or don’t want to get too much unwanted attention) and, at worst, it is *practice* for the chat and dates with the people you want most. Obviously, be honest with those people if it doesn’t click by the end of the first date.
 
