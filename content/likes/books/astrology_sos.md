@@ -6,11 +6,11 @@ date: 2023-12-27
 images:
 ---
 
-*Astrology SOS*, by *The Woke Mystix*, is not about telling you what your zodiac sign (there is already a plethora of books about the subject out there) does but rather to give you a sense of *rhythm*.
+*Astrology SOS*, by *The Woke Mystix*, is not about telling you what your zodiac sign (there is already a plethora of books about that out there) does but rather to give you a sense of *rhythm*.
 
-Our rhythms[^quarter_life] as well as the rhythm of the weeks, seasons[^winter], planets, etc. It is not about woo[^woo], it is about keeping your hear to the flow of life and seasons. Being aware of the flow to be able to take actions[^action] instead of being a cork raised by the tide.
+Our rhythms[^quarter_life] as well as the rhythm of the weeks, seasons[^winter], planets, etc. It is not about woo[^woo], it is about keeping your ear to the flow of life and seasons. Being aware of the flow to be able to take actions[^action] instead of being a cork raised by the tide.
 
-If I had a criticism to make of the book, it is that it tells you what various events mean and how to deal with them but does not provide you with an easy tool to know if they are happening (when is Saturn in retrograde? I have no idea, I am not a weird astrology person[^person]).
+If I had a criticism to make of the book, it is that it tells you what various events mean and how to deal with them but does not provide you with an easy tool to know when they are happening (when is Saturn retrograde? I have no idea, I am not a weird astrology person[^person]).
 *Let's fix it!* Here are a few celestial events happening right now and what they mean according to the book:
 
 [^quarter_life]: You will find the quarter-life crisis under the heading *Saturn's Return*.
