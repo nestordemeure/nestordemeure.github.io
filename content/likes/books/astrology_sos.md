@@ -244,12 +244,22 @@ If I had a criticism to make of the book, it is that it tells you what various e
 
 <!-- Eclipses -->
 <!-- TODO add javascript to activate -->
-<p id="lunar-eclipse-message" class="invisible" style="display: none;">
-    We are currently experiencing a <em>lunar eclipse</em>, a powerful moment when the universe opens its universal portal, intensifying our energies and aligning destinies at an accelerated pace. This celestial event, occurring in the full moon's phase, invites us to confront our shadow selves and deep-seated traumas, shining a light on the unconscious and urging us to release, find closure, and let go of what no longer serves our highest good. Over the next three months, expect a journey of heightened emotions and significant breakthroughs, a time ripe for self-discovery and rejecting self-judgment. Embrace this opportunity for profound growth in all aspects of your life, and prepare for numerous 'light-bulb' moments that will reshape your path forward, guiding you towards a more aware and fulfilled existence.
-</p>
-<p id="solar-eclipse-message" class="invisible" style="display: none;">
-    We are now amidst the transformative energy of a <em>solar eclipse</em>, an extraordinary time where the moon veils the sun, creating a powerful synergy with the preceding lunar eclipse. This event, occurring during a new moon phase, is a catalyst for igniting new beginnings and setting forth on fresh journeys. The sun, our source of pure fire energy and the heart of our solar system, encourages us to amplify our intentions and embrace the unknown. The solar eclipse challenges us to step beyond our comfort zones, illuminating paths less traveled and pushing us towards spiritual alignment at an intense rate. Feelings of being out of control, fatigue, or sensitivity may arise, signifying the universe's nudge towards embracing change and taking leaps of faith. As we bask in this unique cosmic energy, it's an opportune moment to focus on our deepest desires, not just in their specifics, but in the essence of how their fulfillment would feel, preparing ourselves to welcome the blessings and opportunities this new cycle brings.
-</p>
+<span class="short-reading" style="display: block;">
+    <p id="lunar-eclipse-message" class="invisible" style="display: none;">
+        During this <em>lunar eclipse</em>, a significant celestial event, we are urged to confront and release our inner shadows and traumas. This phase of the full moon intensifies emotions and accelerates destiny alignments, leading to major breakthroughs. Over the next three months, expect a period rich in self-discovery and enlightenment, helping you discard what's no longer beneficial and guiding you towards a more fulfilled existence.
+    </p>
+    <p id="solar-eclipse-message" class="invisible" style="display: none;">
+        In the midst of a <em>solar eclipse</em>, a time of transformation where the moon covers the sun, we're encouraged to embark on new journeys and expand our horizons. This new moon event urges us to amplify our intentions and explore uncharted paths, fostering spiritual alignment. You may experience feelings like being out of control or fatigue, indicating a push towards change. This unique cosmic energy is perfect for focusing on our deepest desires, preparing to embrace the opportunities of this new cycle.
+    </p>
+</span>
+<span class="long-reading" style="display: none;">
+    <p id="lunar-eclipse-message" class="invisible" style="display: none;">
+        We are currently experiencing a <em>lunar eclipse</em>, a powerful moment when the universe opens its universal portal, intensifying our energies and aligning destinies at an accelerated pace. This celestial event, occurring in the full moon's phase, invites us to confront our shadow selves and deep-seated traumas, shining a light on the unconscious and urging us to release, find closure, and let go of what no longer serves our highest good. Over the next three months, expect a journey of heightened emotions and significant breakthroughs, a time ripe for self-discovery and rejecting self-judgment. Embrace this opportunity for profound growth in all aspects of your life, and prepare for numerous 'light-bulb' moments that will reshape your path forward, guiding you towards a more aware and fulfilled existence.
+    </p>
+    <p id="solar-eclipse-message" class="invisible" style="display: none;">
+        We are now amidst the transformative energy of a <em>solar eclipse</em>, an extraordinary time where the moon veils the sun, creating a powerful synergy with the preceding lunar eclipse. This event, occurring during a new moon phase, is a catalyst for igniting new beginnings and setting forth on fresh journeys. The sun, our source of pure fire energy and the heart of our solar system, encourages us to amplify our intentions and embrace the unknown. The solar eclipse challenges us to step beyond our comfort zones, illuminating paths less traveled and pushing us towards spiritual alignment at an intense rate. Feelings of being out of control, fatigue, or sensitivity may arise, signifying the universe's nudge towards embracing change and taking leaps of faith. As we bask in this unique cosmic energy, it's an opportune moment to focus on our deepest desires, not just in their specifics, but in the essence of how their fulfillment would feel, preparing ourselves to welcome the blessings and opportunities this new cycle brings.
+    </p>
+</span>
 
 <!-- buttons -->
 <small style="display: flex; justify-content: space-between;">
