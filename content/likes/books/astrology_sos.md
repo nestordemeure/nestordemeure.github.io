@@ -11,7 +11,7 @@ images:
 Our rhythms[^quarter_life] as well as the rhythm of the weeks, seasons[^winter], planets, etc. It is not about woo[^woo], it is about keeping your ear to the flow of life and seasons. Being aware of the flow to be able to take actions[^action] instead of being a cork raised by the tide.
 
 If I had a criticism to make of the book, it is that it tells you what various events mean and how to deal with them but does not provide you with an easy tool to know when they are happening (when is Saturn retrograde? I have no idea, I am not a weird astrology person[^person]).
-*Let's fix it!* Here are a few celestial events happening right now and what they mean according to the book:
+*Let's fix it!* Here are a few celestial events happening right now and what they mean according to the book...
 
 [^quarter_life]: You will find the quarter-life crisis under the heading *Saturn's Return*.
 
@@ -19,7 +19,7 @@ If I had a criticism to make of the book, it is that it tells you what various e
 
 [^woo]: Even if it *does* own its woo vibes.
 
-[^action]: The books gives you readings, warnings as well as small rituals. But you will probably want to do your own things.
+[^action]: The books gives you readings, warnings, as well as small rituals. But you will probably want to do your own thing.
 
 [^person]: Am I?
 
