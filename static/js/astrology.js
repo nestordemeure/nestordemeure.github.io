@@ -53,10 +53,31 @@ function toggleVisibility() {
     } else {
         // hide everything
         elements.forEach(el => el.style.display = 'none');
-        document.getElementById('toggle-link').innerText = 'Display everything.';
+        document.getElementById('toggle-link').innerText = 'Display all possible events.';
         isEverythingDisplayed = false;
         // insure today's messages are visible
         displayTodaysMessage();
+    }
+}
+
+// to display the long versions of the readings
+let areReadingsLong = false;
+function toggleReadingLength() {
+    const long_elements = document.querySelectorAll('.long-reading');
+    const short_elements = document.querySelectorAll('.short-reading');
+    if (areReadingsLong) {
+        // switch to short readings
+        long_elements.forEach(el => el.style.display = 'none');
+        short_elements.forEach(el => el.style.display = 'block');
+        document.getElementById('toggle-length').innerText = 'Switch to long readings.';
+        areReadingsLong = false;
+    }
+    else {
+        // switch to long readings
+        long_elements.forEach(el => el.style.display = 'block');
+        short_elements.forEach(el => el.style.display = 'none');
+        document.getElementById('toggle-length').innerText = 'Switch to short readings.';
+        areReadingsLong = true;
     }
 }
 
@@ -85,6 +106,7 @@ var user_location = { latitude: 37.7749, longitude: -122.4194 }; // San Francisc
 
 // returns a promise pointing to the user's location
 function setUserLocation() {
+    console.log("LOCATED!")
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(
             position => {
@@ -162,5 +184,4 @@ async function displayTodaysMessage() {
 // add information on the page
 document.addEventListener('DOMContentLoaded', (event) => {
     displayTodaysMessage();
-    setUserLocation();
 });
