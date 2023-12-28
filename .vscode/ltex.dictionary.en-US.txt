@@ -6,3 +6,4 @@ mnemotechnic
 fusilli
 miaowing
 alchemaster
+hapenning
