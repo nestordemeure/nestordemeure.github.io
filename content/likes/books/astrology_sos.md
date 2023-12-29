@@ -238,7 +238,7 @@ If I had a criticism to make of the book, it is that it tells you what various e
 </p>
 
 <!-- Special full moon message -->
-<p id="full-moon-message" style="display: none;">Today's full moon is also known as the ${moon_name}.</p>
+<p id="full-moon-message" style="display: none;">This full moon is also known as the ${moon_name}.</p>
 
 <!-- Solstice and Equinoxe -->
 <p id="winter-solstice-message" class="invisible" style="display: none;">

@@ -155,7 +155,7 @@ async function displayTodaysMessage() {
     // deal with full moon
     if (moon_phase == 'Full') {
         document.getElementById('full-moon-message').style.display = 'block';
-        document.getElementById('full-moon-message').innerHTML = `Today's full moon is also known as the <em><a href="https://en.wikipedia.org/wiki/Full_moon#Full_moon_names" target="_blank">${fullMoonNames[month_name]}</a></em>.`;
+        document.getElementById('full-moon-message').innerHTML = `This full moon is also known as the <em><a href="https://en.wikipedia.org/wiki/Full_moon#Full_moon_names" target="_blank">${fullMoonNames[month_name]}</a></em>.`;
     }
 
     // solstice and equinox messages
