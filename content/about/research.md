@@ -13,33 +13,33 @@ You can find most of my publications on [Researchgate](https://www.researchgate.
 
 #### [High-level GPU code: a case study examining JAX and OpenMP.](https://dl.acm.org/doi/10.1145/3624062.3624186) (high-performance computing)
 
-This paper (published as part of the proceedings of *Supercomputing 2023*) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
+This paper (published as part of the proceedings of *Supercomputing 2023*) contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
 
-It gives a practical look at porting a large pre-existing application to GPU. Studying the performance of the resulting code but also usability and productivity.
+It gives a practical look at porting a large pre-existing application to GPU, studying the performance of the resulting code but also usability and productivity.
 
 #### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://cug.org/digital-library/) (high-performance computing)
 
-This paper (published as part of the proceedings of the *Cray User Group 2023*) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
+This paper (published as part of the proceedings of the *Cray User Group 2023*) contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
 
-It gives a practical look at porting a large pre-existing application to GPU. Studying the performance of the resulting code but also usability and productivity.
+It gives a practical look at porting a large pre-existing application to GPU, studying the performance of the resulting code but also usability and productivity.
 
 #### [Encapsulated error, a direct approach to evaluate floating-point accuracy](https://dl.acm.org/doi/10.1145/3549205) (numerical accuracy)
 
 This paper covers my work on *encapsulated error*, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.
 
-The method is interesting in that it is both relatively easy to implement as a library, accurate and significantly faster than most alternatives.
-Its main downside is the need to replace floating point types used in an application with an instrumented alternative (which might not be practical when one has limited access to the source or when they are unwieldy to modify).
+The method is interesting in that it is both relatively easy to implement as a library, accurate, and significantly faster than most alternatives.
+Its main downside is the need to replace floating-point types used in an application with an instrumented alternative (which might not be practical when one has limited access to the source or when they are unwieldy to modify).
 
 #### [Ranger21: a synergistic deep learning optimizer](https://arxiv.org/abs/2106.13731) (machine learning)
 
 The Ranger21 paper was born from testing a large number of optimizers for deep learning and realizing that, while people were branding them as new optimizers, they often just included one new idea to an existing optimizer.
-We realized a lot of those ideas were orthogonal and synergetic: you would get better results putting them together than what would be expected by looking at them individually.
+We realized a lot of those ideas were orthogonal and synergistic: you would get better results putting them together than what would be expected by looking at them individually.
 
 The result is an optimizer that is surprisingly robust and, looking further, the idea that we should build modular optimizers to foster research in that direction.
 
 #### [Tagged error: tracing numerical error through computations](https://ieeexplore.ieee.org/document/9603395) (numerical accuracy)
 
-This paper covers my work on *tagged error*, an extension of *encapsulated error* destined to follow numerical error through a computation.
+This paper covers my work on *tagged error*, an extension of *encapsulated error* designed to follow numerical error through a computation.
 
 While the method introduces an important overhead, it is the best method I am aware of to find the source of a numerical error in computations.
 I have even used it to improve the numerical stability of algorithms, fixing problems one after the other until I reached the desired precision.
@@ -48,7 +48,7 @@ I have even used it to improve the numerical stability of algorithms, fixing pro
 
 This covers all the work I did during my Ph.D. (do not let the first pages fool you, it is written in English).
 
-It covers the theory between Shaman including *encapsulated error* (a very efficient way to measure the numerical error of computations) and *tagged error* (a very precise way to find the source of the numerical error that ends up in a result).
+It covers the theory behind Shaman including *encapsulated error* (a very efficient way to measure the numerical error of computations) and *tagged error* (a very precise way to find the source of the numerical error that ends up in a result).
 
 It also includes some work on applying artificial intelligence to pick the proper solver and preconditioner to solve a linear system (we obtained really promising results, a paper dedicated to the subject should come out at some point).
 
@@ -57,7 +57,7 @@ It also includes some work on applying artificial intelligence to pick the prope
 This paper concludes a large study, measuring 118 neuroanatomical parameters over 1,566 mutant mice.
 This leads to the identification of 198 genes that impact brain formation.
 
-I contributed some data analysis to the paper (admittedly a drop in a bucket, with 18 co-authors contributing much more important pieces of the puzzle).
+I contributed some data analysis to the paper (admittedly a drop in the bucket, with 18 co-authors contributing much more important pieces of the puzzle).
 
 ## Talks
 
@@ -66,15 +66,13 @@ Here are slides (or recordings when available) of talks I gave:
 #### [High-level GPU code: A case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1JQwaMre9_-iiwPqslPXS7CW-SvQxv5XPgdWBd12L0io/edit?usp=sharing) (high-performance computing)
 
 This talk was given at *P3HPC* (Performance, Portability & Productivity in HPC, a workshop given as part of *Supercomputing 2023*) and the *Summit Series XIII* (an NVIDIA and US national labs joined conference).
-It contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
-Looking at the performance of the resulting code but also useability and productivity.
+It contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU, looking at the performance of the resulting code but also usability and productivity.
 
 A paper is also available in the [proceedings of the conference](https://dl.acm.org/doi/10.1145/3624062.3624186).
 
 #### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1eVrpDsUJYp2ZqG05TYHSpAfvJ0AJRZPzS0_lND2ivk8/edit?usp=sharing) (high-performance computing)
 
-This talk, given at the *Cray User Group 2023*, contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
-Looking at the performance of the resulting code but also useability and productivity.
+This talk, given at the *Cray User Group 2023*, contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU, looking at the performance of the resulting code but also usability and productivity.
 
 A paper is also available in the [proceedings of the conference](https://cug.org/digital-library/).
 
@@ -86,7 +84,7 @@ It comes with [exercises](https://drive.google.com/drive/folders/12SO8IwMv2CP6vR
 
 #### [Tagged error: Tracing numerical error through computations.](https://drive.google.com/file/d/1mt-QCBOqcdD36-6DwI4eE6GwHIoX_hGf/view?usp=sharing) (numerical accuracy)
 
-This talk (given in 2021 for the *28th IEEE International Symposium on Computer Arithmetic.*) covers my work on *tagged error*, an extension of *encapsulated error* destined to follow numerical error through a computation.
+This talk (given in 2021 for the *28th IEEE International Symposium on Computer Arithmetic.*) covers my work on *tagged error*, an extension of *encapsulated error* designed to follow numerical error through a computation.
 
 It has since been published as a [paper](https://ieeexplore.ieee.org/document/9603395).
 
@@ -102,7 +100,7 @@ This talk (given in 2020 for the *Digital French-German Summer School with Indus
 
 We showed that we could predict the convergence profile of the solver with enough accuracy to determine which solver should be used given some target precision and time constraints.
 
-This work has been submitted to a journal but is not published yet, you can find more information [in my Ph.D.](https://www.researchgate.net/publication/348551075_Compromise_between_precision_and_performance_in_high_performance_computing)
+You can find further information [in my Ph.D.](https://www.researchgate.net/publication/348551075_Compromise_between_precision_and_performance_in_high_performance_computing)
 
 ## Posters
 
@@ -116,4 +114,4 @@ This poster (presented in 2021 at the *Platform for Advanced Scientific Computin
 
 This poster (presented in 2020 at *MASCOT-NUM*) covers some of my work on measuring numerical error and its application in comparing various uncertainty quantification methods and measuring their sensitivity to numerical error in their inputs.
 
-This particular case study is further detailed in my Ph.D.
+This particular case study is further detailed [in my Ph.D.](https://www.researchgate.net/publication/348551075_Compromise_between_precision_and_performance_in_high_performance_computing)

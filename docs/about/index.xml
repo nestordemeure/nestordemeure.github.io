@@ -13,8 +13,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/about/mentalism/</guid>
-      <description>I am a consulting mentalist. Amongst other things, I have a book published for that public and, I designed stage shows that are now playing in various1 countries.
-What is mentalism?   Mentalism is an ensemble of techniques (including mnemotechnic, hypnosis, magic tricks, knowledge of statistically likely phenomenons, and a trained intuition) used to produce incredible phenomenons (usually psychic phenomenons or an impressive mastery of the human mind) in an entertainment setting.</description>
+      <description>I am a consulting mentalist. Among other things, I have a book published for the public, and I designed stage shows that are now playing in various1 countries.
+What is Mentalism?   Mentalism is an ensemble of techniques (including mnemonics, hypnosis, magic tricks, a trained intuition, and knowledge of statistically likely phenomena) used to produce incredible phenomena (usually psychic phenomena or a mastery of the human mind) in an entertainment setting.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ What is mentalism?   Mentalism is an ensemble of techniques (including mnemotech
       <guid>https://nestordemeure.github.io/about/research/</guid>
       <description>I am a researcher with specialties in numerical accuracy, artificial intelligence, data analysis, and high-performance computing.
 Papers   You can find most of my publications on Researchgate:
-High-level GPU code: a case study examining JAX and OpenMP. (high-performance computing)   This paper (published as part of the proceedings of Supercomputing 2023) contrasts and compare the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.</description>
+High-level GPU code: a case study examining JAX and OpenMP. (high-performance computing)   This paper (published as part of the proceedings of Supercomputing 2023) contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.</description>
     </item>
     
     <item>
@@ -35,9 +35,8 @@ High-level GPU code: a case study examining JAX and OpenMP. (high-performance co
       
       <guid>https://nestordemeure.github.io/about/software/</guid>
       <description>I am an engineer with a specialty in applied mathematics and computer science.
-You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focussing on projects where I am the lead developer):
-Xmap (Python)   An alternative xmap implementation for Jax.
-This implementation solves my gripes with the official implementation: providing a slightly improved interface, focuses on vectorizing a function along one or more axes (it implements none of the other functionalities supported by the official implementation), jits down to several calls to vmap (making it resilient to update on Jax&amp;rsquo;s side), and provides jit-time checks to try and catch common error (such as forgetting an argument or passing something of the wrong shape / type) with nice error messages.</description>
+You can find most of the software I developed on Github and Gitlab. Here is a list of some noticeable libraries (focusing on projects where I am the lead developer):
+Divinatory GPTs (Prompt)   This is a collection of scripts and prompts I used to make custom GPTs around the theme of divination (and, in particular, tools to help people become better tarot readers).</description>
     </item>
     
   </channel>
