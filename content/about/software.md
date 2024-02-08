@@ -9,7 +9,7 @@ I am an engineer with a specialty in applied mathematics and computer science.
 
 You can find most of the software I developed on [Github](https://github.com/nestordemeure) and [Gitlab](https://gitlab.com/nestordemeure). Here is a list of some noticeable libraries (focusing on projects where I am the lead developer):
 
-### [Divinatory GPTs](https://github.com/nestordemeure/DivinatoryGPTs) (Prompt)
+#### [Divinatory GPTs](https://github.com/nestordemeure/DivinatoryGPTs) (Prompt)
 
 This is a collection of scripts and prompts I used to make [custom GPTs](https://openai.com/blog/introducing-gpts) around the theme of divination (and, in particular, tools to help people become better tarot readers).
 
