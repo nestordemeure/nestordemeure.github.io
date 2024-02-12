@@ -9,7 +9,7 @@ images:
 *"La répétition fixe la notion."*
 — Anonymous
 
-I have been using mnemotechnic techniques for about a dozen years now (they are definitely the one thing I would have wished to know when I was a student with important exams coming up), but I recently became enamored with spaced repetition as *an easy way to learn anything you want and remember it forever*.
+I have been using mnemotechnic techniques for about a dozen years now (they are definitely the one thing I wish I would have known when I was a student with important exams coming up), but I recently became enamored with spaced repetition as *an easy way to learn anything you want and remember it forever*.
 
 ## What is Spaced Repetition
 
@@ -17,9 +17,8 @@ Spaced repetition is an elaboration on the idea that practicing at regular inter
 
 [^science]: The benefits of regular work, and in particular spaced repetition, have been [thoroughly researched and reproduced across a wide variety of domains](https://gwern.net/spaced-repetition#literature-review). It is one of those few things having to do with the human brain that have actually been *proven* to work.
 
-To use it, you break the knowledge you want to remember into cards that are each a simple pass/fail task (i.e., "What is the French for butter?" / "Beurre").
-You add the cards to your implementation of choice (I will give you various options later in this guide), and it will ask you about them at regular intervals.
-If you fail, it will ask you again soon. If you succeed, it will take a little more time before asking you again so that you don't waste time reviewing easy cards too often[^efficient].
+To use it, you break the knowledge you want to remember into cards that are each a simple pass/fail task (i.e., "What is the French for butter?" / "Beurre"), add the cards to your implementation of choice (I will give you various options later in this guide), and it will ask you about them at regular intervals.
+If you fail, it will test you again soon. If you succeed, it will take a little more time before testing you again so that you don't waste time reviewing easy cards too often[^efficient].
 
 [^efficient]: This is a *key* advantage of the method. It is very efficient and lets you make the most out of your practice time.
 
@@ -28,8 +27,8 @@ So, what can I use it for? Turns out that you can apply it to remember a lot of 
 * *school work* is the most obvious application; a lot of education (at least up to high school, but also a number of certifications that one might need to get as an adult) is still very much a test of one's ability to recall given information.
 * *languages* are the killer app of spaced repetition; it makes it trivial to increase your vocabulary and memorize the rules of grammar. It will not be enough to fully grasp a language, but it takes a lot of the work out of the task.
 * *multi-step processes* this could be memorizing a piece of music, a full theater play, a complex hypnotic induction, etc. Anything that has too many steps to fit comfortably in one's head.
-* *scripts* there are [great ways](https://youtu.be/k8k_rNTDjJM) to remember scripts to the exact word; spaced repetition becomes useful when you want to *keep* that knowledge in for the long term or if you want to remember a series of ideas rather than specific words (talks would be an example of something where you do not have to be word-exact).
-* *maintaining motor tasks* this one is more tricky to find use for[^motor] but very much worth it when you can find a use case. Basically, any manual activity that you can practice as a bite-sized thing and classify as pass or fail would fall into this category.
+* *scripts* there are [great ways](https://youtu.be/k8k_rNTDjJM) to remember scripts down to the exact word; spaced repetition becomes useful when you want to *keep* that knowledge in for the long term or if you want to remember a series of ideas rather than specific words (talks would be an example of something where you do not have to be word-exact).
+* *maintaining motor tasks* is more tricky to find uses for[^motor] but very much worth it when you can find a use case. Basically, any manual activity that you can practice as a bite-sized thing and classify as pass or fail would fall into this category.
 * *remembering everything* some people just want to remember every movie or book they ever read. Adding a summary of it to your system is an easy way to do that if it is of interest to you (I personally [just take notes](/writing/guides/ideas)).
 * *preserve existing knowledge* any knowledge you currently have and fear you will forget with time is, pretty much by definition, perfect for spaced repetition.
 
@@ -71,7 +70,7 @@ It will be slightly less optimized from an algorithmic perspective but good enou
 ### Writing Cards
 
 Writing cards is a skill and you will get better at it with practice.
-I have found a few key things when it comes to writing your cards.
+I have found that a few key things are good to know when you are getting started:
 
 First and foremost, *you should write your own cards*.
 The process of writing them is a great way to let your brain know that a piece of information is of interest to you and worth remembering; that alone will boost your recall.
