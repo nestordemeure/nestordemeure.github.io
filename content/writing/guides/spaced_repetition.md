@@ -1,5 +1,5 @@
 ---
-title: "Nestor's Guide to Remember things forever"
+title: "Nestor's Guide to remembering things forever"
 draft: false
 comments: false
 date: 2024-02-12
