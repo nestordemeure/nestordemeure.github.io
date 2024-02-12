@@ -86,6 +86,7 @@ The solution for that is to take your time (after all, time is your friend here)
 Finally, spaced repetition is there to help you remember things *forever*.
 I would thus recommend *being picky with what you apply it to*. Many things are not worth remembering forever and would only clutter your system.
 Focus on things you have always wanted to know and learn, things you know and don't want to forget, or things you know for a fact you will need to know in the future.
+*There is tremendous power in knowing that if you get started today, in six months you will know a complex piece of knowledge.*
 
 [^many]: The number of card you can comfortably add in a day *obviously* depends a lot on how long and correlated your cards are. Adding five tiny cards all tackling the same concept would be fine, but I would not add two medium-sized cards covering different topics.
 
