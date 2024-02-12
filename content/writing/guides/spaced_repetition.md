@@ -65,7 +65,7 @@ I am currently using [Space](https://play.google.com/store/apps/details?id=com.s
 It is... fine. I like the user interface, and it works; that is all one needs.
 
 If you like analogue solutions, then you can do with 5 boxes (or envelopes) and a bunch of flashcards with the [Leitner System](https://en.wikipedia.org/wiki/Leitner_system).
-It will be slightly less optimized from an algorithmic perspective but good enough.
+It will be slightly less optimized from an algorithmic perspective, but it works.
 
 [^support]: Unless you want to support a particular developer's work, obviously.
 
