@@ -48,6 +48,10 @@ Now, I know that every day gets me closer to having a good recall of the knowled
 
 ## How Can I Use Spaced Repetition
 
+First and foremost, the key behind spaced repetition is *regular work*.
+The exact details of how you use it matter less than dedicating time to it every day, every other day, or every week.
+Someone using hastily written flashcards in a shoebox every day will get better results than someone using state-of-the-art algorithms and impeccable cards every month.
+
 ### Implementations
 
 Spaced repetition is fairly easy (and fun!) to implement by yourself if you know some programming.
@@ -72,7 +76,7 @@ First and foremost, *you should write your own cards*.
 The process of writing them is a great way to let your brain know that a piece of information is of interest to you and worth remembering; that alone will boost your recall.
 
 At first, you might be tempted to turn wide topics into single cards; that will make your life significantly harder.
-Smaller, as easy and bite-sized as you can, cards are a lot easier to learn which compounds nicely: a single card will be a lot harder to learn than five cards covering each a fifth of the topic.
+Smaller, as easy and bite-sized as you can, cards are a lot easier to learn which compounds nicely: a single card will be a lot harder to learn than five cards covering each a fifth of the topic[^break].
 *Break down your subject as much as you can!*
 
 As you break down a topic, you will end up with a lot of easy cards and, naturally, immediately add all of them to the system.
@@ -83,7 +87,9 @@ Finally, spaced repetition is there to help you remember things *forever* (it is
 I would thus recommend *being picky with what you apply it to*. Many things are not worth remembering forever and would only clutter your system.
 Focus on things you have always wanted to know and learn, things you know and don't want to forget, or things you know for a fact you will need to know in the future.
 
-## Other Sources on the Topic
+[^break]: Furthermore, tackling a topic from different complementary angles [has been shown](https://universeofmemory.com/spaced-repetition-apps-dont-work/) to improve recall significantly.
+
+## Further Reading
 
 Resources on the topic abound. If you want to give it a try, I would recommend giving the following a go:
 
