@@ -20,7 +20,7 @@ But it doesn't necessarily mean that you get good ideas...
 I do not think that you can make a habit of producing good ideas but, if you produce enough ideas, you *will* end up producing at least a few good ones, it is only a matter of time[^1].
 Now, how do you produce ideas?
 
-[^1: My rule of thumb when doing research is that a tenth of my ideas are good and a tenth of those good ideas are novel.
+[^1]: My rule of thumb when doing research is that a tenth of my ideas are good and a tenth of those good ideas are novel.
 
 ## How do you get ideas?
 

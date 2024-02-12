@@ -5,7 +5,7 @@ comments: false
 images:
 ---
 
-I am a consulting mentalist. Among other things, I have a book published for the public, and I designed stage shows that are now playing in various[^two] countries.
+I am a consulting mentalist. Among other things, I have a book published for that public, give talks at specialized conventions, and I designed stage shows that are now playing in various[^two] countries.
 
 [^two]: Two. Two counts as various.
 
