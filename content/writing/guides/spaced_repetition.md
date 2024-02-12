@@ -83,7 +83,7 @@ As you break down a topic, you will end up with a lot of easy cards and, natural
 That can quickly overwhelm you (when the daily review gives you 30 things to review, it starts feeling like a very real effort).
 The solution for that is to take your time (after all, time is your friend here) and *add one or two cards a day, no more.[^many]*
 
-Finally, spaced repetition is there to help you remember things *forever* (it is not optimal if your target is next week's exam, but very much worth it if you need access to this knowledge one or two years down the line).
+Finally, spaced repetition is there to help you remember things *forever*.
 I would thus recommend *being picky with what you apply it to*. Many things are not worth remembering forever and would only clutter your system.
 Focus on things you have always wanted to know and learn, things you know and don't want to forget, or things you know for a fact you will need to know in the future.
 
