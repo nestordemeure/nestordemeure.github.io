@@ -6,9 +6,9 @@ comments: false
 images:
 ---
 
-This is pretty much peak cheesy toast experience[^message].
+This is pretty much peak cheesy toast experience[^message]: it is crispy, cheesy, very flavorful, yet filling like a generous slice of a savory cake.
 Plus, as a nice bonus, once you have the ingredients, you can just pile them up in the right order and be done with.
-There are no intermediate cooking steps or other elements that would make it a time consumming process.
+There are no intermediate cooking steps or other elements that would make it a time-consuming process.
 
 [^message]: A message I sent after my first time cooking this dish reads: "This is what food is meant to be."
 
@@ -28,9 +28,9 @@ There are no intermediate cooking steps or other elements that would make it a t
 
 [^cheese]: I use a Pepper Jack spicy cheese, but the original recipe calls for American cheese.
 
-[^meat]: The spicyness of pepperoni is nice but any qualitative meat (such as a nice ham) would do the trick. You can also easily replace it with a non-meat-based equivalent (you should be able to find a lot of suitable slices at your local supermarket) in order to make this a vegetarian recipe.
+[^meat]: The spiciness of pepperoni is nice but any qualitative meat (such as a nice ham) would do the trick. You can also easily replace it with a non-meat-based equivalent (you should be able to find a lot of suitable slices at your local supermarket) in order to make this a vegetarian recipe.
 
-[^butter]: I like the flavor boost from the garli-butter, but you could also use a Japanese mayo as a faster no-garlic option.
+[^butter]: I like the flavor boost from the garlic-butter, but you could also use a Japanese mayo as a faster no-garlic option.
 
 [^shredded]: A Parmesan or Gruyère would be nice.
 
@@ -43,7 +43,7 @@ There are no intermediate cooking steps or other elements that would make it a t
 * soften the butter 10 seconds in a microwave[^time],
 * press the garlic and mix it with the butter,
 
-[^time]: The timing will depend on your microvawe, but you want your butter easily spreadable, not melted. You could also leave it at room temperature long enough.
+[^time]: The timing will depend on your microwave, but you want your butter easily spreadable, not melted. You could also leave it at room temperature long enough.
 
 #### Assembly
 
@@ -67,7 +67,7 @@ There are no intermediate cooking steps or other elements that would make it a t
 
 [^minutes]: Or until the egg whites are fully cooked, but the yolk still runny.
 
-[^temperature]: You can start with a cold oven as the baking time will vary anyway.
+[^temperature]: You can start from a cold oven as the baking time will vary anyway.
 
 ## Credits:
 
