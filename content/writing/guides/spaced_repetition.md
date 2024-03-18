@@ -1,5 +1,5 @@
 ---
-title: "Nestor's Guide to remembering things forever"
+title: "Nestor's Guide to Remembering Things Forever"
 draft: false
 comments: false
 date: 2024-02-12
@@ -31,10 +31,10 @@ So, what can I use it for? Turns out that you can apply it to remember a lot of 
 * *multi-step processes* this could be memorizing a piece of music, a full theater play, a complex hypnotic induction, etc. Anything that has too many steps to fit comfortably in one's head.
 * *scripts* there are [great ways](https://youtu.be/k8k_rNTDjJM) to remember scripts down to the exact word; spaced repetition becomes useful when you want to *keep* that knowledge in for the long term or if you want to remember a series of ideas rather than specific words (talks would be an example of something where you do not have to be word-exact).
 * *maintaining motor tasks* is more tricky to find uses for[^motor] but very much worth it when you can find a use case. Basically, any manual activity that you can practice as a bite-sized thing and classify as pass or fail would fall into this category.
-* *remembering everything* some people just want to remember every movie or book they ever read. Adding a summary of it to your system is an easy way to do that if it is of interest to you (I personally [just take notes](/writing/guides/ideas)).
+* *remembering everything* some people just want to remember every movie or book they ever read. Adding a summary of it to your system is an easy way to do that if it is of interest to you (I personally [just take notes](/writing/guides/ideas/#how-do-you-organize-knowledge)).
 * *preserve existing knowledge* any knowledge you currently have and fear you will forget with time is, pretty much by definition, perfect for spaced repetition.
 
-[^imagination]: Most people are surprisingly unimaginative with their applications, focusing on languages and academic knowledge. But it can be applied to *most* skills you might want to learn.
+[^imagination]: Most people are surprisingly unimaginative with their applications, focusing on languages and academic knowledge. But it can be applied to a *lot* of skills you might want to learn.
 
 [^motor]: Surprisingly, people have found that spaced repetition works to learn motor skills as varied as [typewriting, archery, and javelin throwing](https://gwern.net/spaced-repetition#motor-skills).
 
@@ -79,7 +79,7 @@ The process of writing them is a great way to let your brain know that a piece o
 
 At first, you might be tempted to turn wide topics into single cards; that will make your life significantly harder.
 Smaller, as easy and bite-sized as you can, cards are a lot easier to learn which compounds nicely: a single card will be a lot harder to learn than five cards covering each a fifth of the topic[^break].
-*Break down your subject as much as you can!*
+*Break down your subject as much as you can!*[^caveat]
 
 As you break down a topic, you will end up with a lot of easy cards and, naturally, immediately add all of them to the system.
 That can quickly overwhelm you (when the daily review gives you 30 things to review, it starts feeling like a very real effort).
@@ -92,6 +92,8 @@ Focus on things you have always wanted to know and learn, things you know and do
 [^many]: The number of card you can comfortably add in a day *obviously* depends a lot on how long and correlated your cards are. Adding five tiny cards all tackling the same concept would be fine, but I would not add two medium-sized cards covering different topics.
 
 [^break]: Furthermore, tackling a topic from different complementary angles [has been shown](https://universeofmemory.com/spaced-repetition-apps-dont-work/) to improve recall significantly.
+
+[^caveat]: One caveat is that breaking down knowledge too much can lead us to lose track of the structure underlying it. In this case, or if you will have to gather this knowledge (you might be remembering parts of a speech, but you will have to present the full speech), I would recommend breaking down the knowledge *and* having big all-encompassing cards that give you occasions for larger reviews of a topic.
 
 ## Further Reading
 

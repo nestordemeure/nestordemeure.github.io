@@ -17,7 +17,7 @@ This paper (published as part of the proceedings of *Supercomputing 2023*) contr
 
 It gives a practical look at porting a large pre-existing application to GPU, studying the performance of the resulting code but also usability and productivity.
 
-#### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://cug.org/digital-library/) (high-performance computing)
+#### [Porting a large cosmology code to GPU, a case study examining JAX and OpenMP.](https://cug.org/proceedings/cug2023_proceedings/at_a_glance.html) (high-performance computing)
 
 This paper (published as part of the proceedings of the *Cray User Group 2023*) contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
 
