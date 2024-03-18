@@ -37,7 +37,7 @@ Overall, *any software you are comfortable with* is likely to be fine.
 
 ### The Structure
 
-My slides often follow a set structure with known beats. You might want to emulate it, or do your own thing.
+My slides often follow a set structure with known beats. You might want to emulate it, or do your own thing, I would recommend getting familiar with its logic anyway.
 
 The title slide bears the name of the presentation, the name of the event, and the names of the people who contributed to the work (here, and the next slide, are the perfect places to credit them and let them know that, while you are the one presenting the work, you recognize their help).
 
@@ -162,6 +162,6 @@ I found that a good way to gauge interest is to see how many questions you recei
 
 ## Voilà!
 
-And voilà! This might seem like a lot, but it boils down to keeping your slides organized and concise, then rehearsing them until you are confident in your delivery. Now go forth and present; practice makes perfect, and in a couple of talks, you will be fantastic[^mine]!
+And voilà! This might seem like a lot, but it boils down to keeping your slides clear, organized and concise, then rehearsing them until you are confident in your delivery. Now go forth and present; practice makes perfect, and in a couple of talks, you will be fantastic[^mine]!
 
 [^mine]: The curious reader will find slides and recordings of some of my presentations (of *very* varied quality) [here](/about/research/#talks). 
