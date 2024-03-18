@@ -118,7 +118,7 @@ If you planned things properly, then you will likely be able to just do one rehe
 
 For an important presentation, you will want to have other people from your field attend rehearsals or, at least, go over your slides and give you feedback. They will often be able to point out weaknesses in your talk that you had become blind to.
 
-[^over]: It denotes a lack of professionalism, which would not be good in some circles, and makes the organizer's life harder. Going over time due to a large amount of audience questions would be fine as cutting those is the master of ceremony's role.
+[^over]: It denotes a lack of professionalism (which would not be good in some circles), makes the organizer's life harder, and traps the audience (who might have other priorities). None of whom you want to turn your back on. Going over time due to a large amount of audience questions would be fine as cutting those is the master of ceremony's role.
 
 [^phd]: I rehearsed my slides 15 times for my PhD defense. Once a day starting on the day I wrote the finalized version of the slides. This is *too much*, but it definitely helps: by that point, you know that stress and sickness will not matter, as soon as you start saying your introduction, you are on solid tracks that will lead you all the way to the conclusion of the presentation.
 
