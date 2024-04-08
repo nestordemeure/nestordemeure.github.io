@@ -82,9 +82,9 @@ sworn in blood.
 
 But a demon bided his time in torment, suffering sorely from the sounds of joy each day in the hall. The music of the harp, the clear song of the poet grated upon this grim spirit. For the God-cursed creature, that wretched being, could not abide their gladness. Grendel was his name, a mighty stalker of the marshes, who haunted the moors and wild fens. This miserable man had long dwelt with monsters since the Creator cast them out as kin of Cain. Upon Cain the Eternal Lord avenged the murder, the slaying of Abel. No joy had Cain in that feud, for the Lord drove him forth, far from mankind for his foul deed. From him descended all evil beings - ogres and elves and the undead - and with them that wretch Grendel, who now waged war on Hrothgar.
 
-### Grendel
-
 In the dark of night Grendel came to survey Heorot. He found within a band of noble warriors at rest after the feasting. No fear assailed them yet. The vile creature, grim and greedy, savage and cruel, was ready at once. Snatching thirty thanes as they slept, he returned to his lair, exulting in his spoil, reddened with slaughter, to seek his den.
+
+### Grendel
 
 At dawn, with daylight, Grendel's deeds were known. After their feasting, weeping arose, a great cry in the morning. The mighty lord, noble prince, sat joyless when he learned of the slaughter of his men. Grief-stricken, Hrothgar, once glad, wept for his thanes.
 
@@ -302,10 +302,11 @@ At their heads they set their battle-shields, bright bucklers. There on the benc
 
 That was a good people!
 
+They sank then to sleep. One sorely paid for his evening's rest, as had often happened when Grendel guarded that gold-hall, wreaking evil until his end came, death for his sins. It then became evident, widely known to men, that an avenger still lived after that fiend.
+
 ### A Mother
 
-They sank then to sleep. One sorely paid for his evening's rest, as had often happened when Grendel guarded that gold-hall, wreaking evil until his end came, death for his sins. It then became evident, widely known to men, that an avenger still lived after that fiend. For a long time Grendel's mother, a monstrous hag, brooded on her wrongs. She who had to dwell in the dreary waters, cold sea-streams, since Cain cut down with his sword his only brother, his father's son - he fled then marked by that murder, banished from men's joys, and dwelt in the wasteland.
-
+For a long time Grendel's mother, a monstrous hag, brooded on her wrongs. She who had to dwell in the dreary waters, cold sea-streams, since Cain cut down with his sword his only brother, his father's son - he fled then marked by that murder, banished from men's joys, and dwelt in the wasteland.
 From him awoke all those dire breeds: ogres and elves and evil phantoms, giants too who fought against God for a long while. He gave them their reward!
 
 She went then on a grievous journey, that mother of Grendel, to avenge her son's death. She came then to Heorot where the Ring-Danes slept throughout the hall. A sudden reversal came to men there when Grendel's mother burst in upon them. The terror was less by just as much as a maiden's strength, a woman's war-terror, is less than an armed man's when the hefted sword, hammer-forged, stained with blood, sharp-edged, shears through the boar on an opponent's helmet.
