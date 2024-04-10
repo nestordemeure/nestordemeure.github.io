@@ -16,6 +16,13 @@ images:
 
 Work on improving the style to get what I actually want.
 
+Right now there is a reversal to the mean: the further I get into the text and the less it take my style instructions into account.
+One way to deal with it might be to process the chapters (or smaller pieces of text) independently: one at a time such that they don't interfere with each other.
+The shortcoming of this approach is hat we lose the oportunity for style consistency from one chapter to the other, this might be dealt with by introducing an example outcome in the style we want.
+
+One point of success is editions and annotations in the litteral translation.
+Those have proven efficient at conveying things to the final text.
+
 ## Illustrations
 
 Illustration-wise, I see two ways to go:

@@ -10,9 +10,7 @@ Listen well! Let me tell you of the glory of the Spear-Danes' kings in days long
 
 Scyld Scefing, abandoned as a child, rose to seize the mead-benches from many tribes and troops of enemies. From this, he found solace. He grew under the heavens, thriving with honors, until each nation across the whale-road had to obey him and pay tribute. That was a good king!
 
-A young heir, a child in the court, was born to Scyld, bringing comfort to the people who had long suffered without a leader. This heir was Beowulf, renowned far and wide in the Scandinavian lands.
-
-A young man should earn rich gifts from his father's wealth through good deeds, ensuring that loyal comrades will stand by him in his old age when war comes. By praiseworthy actions shall a man prosper among any people.
+A young heir, a child in the court, was born to Scyld, bringing comfort to the people who had long suffered without a leader. This heir was Beowulf, renowned far and wide in the Scandinavian lands, earning rich gifts from his father's wealth through good deeds, ensuring that loyal comrades will stand by him in his old age when war comes. By praiseworthy actions shall a man prosper among any people.
 
 At his fated hour, mighty Scyld passed away into the Lord's keeping. His dear comrades bore him to the sea's surf, as he had bid while still ruling the Scyldings. There in the harbor stood the ring-prowed ship, icy but eager, fit for a prince. They laid their beloved lord, giver of rings, in the ship's bosom by the mast, surrounded by treasures and ornaments from far-off lands. Never was a ship more splendidly adorned with battle-weapons, war-gear, swords, and mail. A multitude of treasures lay upon his breast, destined to travel with him into the watery realm. They equipped him no less than those who had sent him forth as a child over the waves. They set a golden banner high above him and let the sea bear him away. Their hearts were heavy with sorrow. No man, no lord in hall or hero under the sky, can truly say who received that precious cargo.
 
