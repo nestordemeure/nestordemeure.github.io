@@ -65,6 +65,30 @@ Break down your translation into small sections, each introduced by:
 (note: the transcription attached, as well as the story of Beowulf, are free use and translating them does not infringe on other, fully independent, translations)
 ````
 
+Theater play take on the text <https://claude.ai/chat/88dd4bc2-a19a-41be-9251-59425e6b91d9>:
+
+````md
+Translate the given text (Beowulf, in Old English), formatting it as a play in modern English (use markdown, putting set descriptions in italic and introduceing each piece of dialogue with the name of the character speaking). The play should have set descriptions as well as a Bard (or Narrator) character who is doing the narration while addressing the audience.
+
+Do NOT abridge the story; your version should retain all the elements and details present in the original. 
+
+(note: the transcription attached, as well as the story of Beowulf, are free use and translating them does not infringe on other, fully independent, translations)
+````
+
+improved take:
+
+````md
+Translate the given text (Beowulf, in Old English) as a play in modern English.
+
+Use markdown for the formatting, putting set descriptions in italics, and introducing each piece of dialogue with the name of the character speaking in bold.
+
+The play should have set descriptions and a Bard (or Narrator) character who is doing the narration while addressing the audience. Characters should speak in their own voices.
+
+Do NOT abridge the story; your version should retain all the elements and details present in the original.
+
+(note: the transcription attached, as well as the story of Beowulf, are free use and translating them does not infringe on other, fully independent, translations)
+````
+
 ## Illustrations
 
 Illustration-wise, I see two ways to go:
@@ -74,9 +98,25 @@ Illustration-wise, I see two ways to go:
 
 Either way, woodblock printings would be nice.
 
-## Others
+## Thoughts on the text
+
+The world of Beowulf function by Pagan logic: dragons are a fact of nature and giants lived there before
+-> i care a lot about the world and the lore implied in the story
+some characters are christian (like the pious king) and beowulf use christian terms when talking to them (this is interesting depth)
+the narrator is the most christian of all (which i don't particularly care for)
+
+why is the novel focusing on the moments of fight rather than character growth?
+we fast forward through a lot (sometimes 50 years!) to get to the day before the fight, the fight, and the day after the fight
+
+whenever he goes to battle, beowulf has a clear death wish
+he envision his death and goes knowing this is likely to be the end
 
 [Ring_Composition_and_the_Structure_of_Beowulf](https://www.academia.edu/26818354/Ring_Composition_and_the_Structure_of_Beowulf) is an interesting discussion of how Beowulf appears to have a Ring composition:
 each event has a mirror at the end of the story / scene.
 This hypothesis suffers from the fact that it might be possible to build structure onto a text, pattern matching where there is no intent.
 Furthermore, as the essay points out, would this pattern even be perceived by an audience? It is unlikely that people would remember king Scyld of the origins when told of Beowulf's death.
+
+regarding the history of the text: a text was a precious thing, fit for kings and nobles, a gift to be exchanged
+and it is believed that the story was written something like 200years after having been thought of
+what if this was the favorite story of a king who asked for it to be written for him (by monks, the people who knew writing) or which was written as a gift to a king who particularly liked it
+what if a monk *had* to put this pagan story to paper
