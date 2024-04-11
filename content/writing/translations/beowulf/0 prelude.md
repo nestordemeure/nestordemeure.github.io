@@ -9,12 +9,17 @@ images:
 > *"If you wish to translate, not rewrite Beowulf, your language must be literary and traditional: not because it is now a long while since the poem was made, or because it speaks of things that have since become ancient; but because the diction of Beowulf was poetical, archaic, artificial (if you will), in the day that the poem was made."*
 — J. R. R. Tolkien, [Beowulf: The Monsters and the Critics](https://en.wikipedia.org/wiki/Beowulf:_The_Monsters_and_the_Critics)
 
+> *"Even when the poem is rendered into a modern language with only the most respectful literalist decorum, then someone, somewhere, is wanting to raise Beowulf from the dead and set it into motion again before a new generation of readers."*
+— John D. Niles, [Rewriting Beowulf: The Task of Translation](https://www.jstor.org/stable/378784)
+
 I have been reading [Maria Dahvana Headley's *Beowulf: A New Translation*](https://www.mariadahvanaheadley.com/beowulf-a-new-translation). The excellent introduction explains her desire to avoid archaism and the constraints of older poetic forms (traps in which many previous translators have fallen) in order to produce a text that has some immediacy, that feels like it could be a story told over the counter[^counter].
 
 [^counter]: Her vision for Beowulf is that of a manly, adrenaline and testosterone-fueled, bar story.
 
 *I wholeheartedly agree with her analysis*.
-However, I find that her execution suffers from vocabulary that oscillates between archaisms (i.e., `mead-halls`) and terms that are so anchored in the current moment that they instantly jerk me out of the text (i.e., `hashtag blessed`).
+However, I find that her execution suffers from vocabulary that oscillates between archaisms (i.e., `mead-halls`) and terms that are so anchored in the current moment that they instantly jerk me out of the text (i.e., `hashtag blessed`)[^alternative].
+
+[^alternative]: If the project *is* of interest to you, I would recommend looking into [Meghan Purvis's translation of *Beowulf*](https://www.pennedinthemargins.co.uk/index.php/2013/06/meghan-purvis-on-translating-beowulf/).
 
 This got me thinking. I believe that there is a lot of value in the story; it has powerful images, interesting structure, depth, and buckets of blood.
 I would love to read something like Neil Gaiman's take on the text[^movie], telling the story but freeing himself from the constraints of the original form, or Rudyard Kipling's, building on the orality of the text as he did in *Just So Stories*[^arthur].

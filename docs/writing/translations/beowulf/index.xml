@@ -14,8 +14,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/translations/beowulf/references/</guid>
-      <description>Beowulf has been translated and adapted many times. I believe this stems from the impossibility of producing a perfect translation—a translation that would both preserve the form (alliterative verse) and produce a text whose meaning is clear to modern readers (is the text even designed to be read silently?). This produces many compromises, as well as axes of freedom, for the translator.
-The following is a list of takes on the text that I find of interest:</description>
+      <description>&amp;ldquo;The more the poem is read, the less it is read except in translation&amp;rdquo; — John D. Niles, Rewriting Beowulf: The Task of Translation
+ Beowulf has been translated and adapted many times (you will find a handy comparison of various translations here). I believe this stems from the impossibility of producing a perfect translation—a translation that would both preserve the form (alliterative verse) and produce a text whose meaning is clear to modern readers (is the text even designed to be read silently?</description>
     </item>
     
     <item>
@@ -24,9 +24,9 @@ The following is a list of takes on the text that I find of interest:</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nestordemeure.github.io/writing/translations/beowulf/notes/</guid>
-      <description>The bulk of the translation work was done using Artificial Intelligence (and in particular Claude Opus1).
-The process and prompt I used are detailed below. They were born out of a lot of trial and error and are likely still very imperfect (as demonstrated by the fact that I was not able to capture the style I wanted).
-Chapters   First, I cut the story into chapters (as a way to both break down the work and introduce breathing points into the reading), starting from Carrigan&amp;rsquo;s model of Beowulf&amp;rsquo;s design then trying to produce units of text of similar size2 and each ending on a dramatic or suspenseful note:</description>
+      <description>&amp;ldquo;Like any interpretive work, a translation is the result of a volatile hermeneutic process. Its readers should be wary of accepting it as a record of “what the text says,” for the text says many things, some of them enigmatically.&amp;rdquo; — John D. Niles, Rewriting Beowulf: The Task of Translation
+ The bulk of the translation work was done using Artificial Intelligence (and in particular Claude Opus1).
+The process and prompt I used are detailed below.</description>
     </item>
     
     <item>

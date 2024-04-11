@@ -6,6 +6,9 @@ weight: -10
 images:
 ---
 
+> *"Like any interpretive work, a translation is the result of a volatile hermeneutic process. Its readers should be wary of accepting it as a record of “what the text says,” for the text says many things, some of them enigmatically."*
+— John D. Niles, [Rewriting Beowulf: The Task of Translation](https://www.jstor.org/stable/378784)
+
 The bulk of the translation work was done using Artificial Intelligence (and in particular [Claude Opus](https://www.anthropic.com/news/claude-3-family)[^claude]).
 
 The process and prompt I used are detailed below.
