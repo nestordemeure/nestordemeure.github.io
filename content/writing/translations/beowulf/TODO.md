@@ -113,8 +113,14 @@ he envision his death and goes knowing this is likely to be the end
 
 [Ring_Composition_and_the_Structure_of_Beowulf](https://www.academia.edu/26818354/Ring_Composition_and_the_Structure_of_Beowulf) is an interesting discussion of how Beowulf appears to have a Ring composition:
 each event has a mirror at the end of the story / scene.
+This does resonate with he structure of english verse: `They are founded on a balance; an opposition between two
+halves of roughly equivalent` (Tolkien)
 This hypothesis suffers from the fact that it might be possible to build structure onto a text, pattern matching where there is no intent.
 Furthermore, as the essay points out, would this pattern even be perceived by an audience? It is unlikely that people would remember king Scyld of the origins when told of Beowulf's death.
+
+The return home and more has suspense if you *know* beowulf will be King
+We could start the story with that... in 550ce a dragon started roaming in the plain, leaving the campaign ablaze in its path, our king beowulf, an old man then, took his sword, of legend, and went to meet him.
+But this is not where our tale starts...
 
 regarding the history of the text: a text was a precious thing, fit for kings and nobles, a gift to be exchanged
 and it is believed that the story was written something like 200years after having been thought of
