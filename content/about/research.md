@@ -67,6 +67,7 @@ Here are slides (or recordings when available) of talks I gave:
 
 This talk was given at the French *École Supérieure Arts Appliqués Textile* (School of Higher Studies in Applied Arts and Textiles), an art school specializing in design and textiles, in April 2024.
 The goal was to provide an overview of how modern generative AI works, what it can and cannot currently do, current legislation, as well as societal impacts of these techniques. With an emphasis on what we know, don't know, and cannot yet know as techniques are rapidly evolving.
+
 An audio recording of the talk and subsequent discussion can be found on [RADAR](https://audioblog.arteradio.com/blog/201201/podcast/226908/intelligence-artificielle-conference-interactive), the school's radio station.
 
 #### [High-level GPU code: A case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1JQwaMre9_-iiwPqslPXS7CW-SvQxv5XPgdWBd12L0io/edit?usp=sharing) (high-performance computing)
