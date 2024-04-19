@@ -34,6 +34,3 @@ One notable element is that they introduced the idea of Beowulf being the father
 
 * [*Bea wolf* by Zach Weinersmith and Boulet](https://www.smbc-comics.com/bea/)
 This is very much Beowulf meets [Craig of the Creek](/likes/cartoons/craig%20of%20the%20creek.md). It is not my vision of the text but, still, it is a lot of (alliteration rich!) fun.
-
-* [*Beowulf: A Dual-Language Edition* by Howell D. Chickering](https://eclass.uoa.gr/modules/document/file.php/ENL599/Chickering--Beowulf.pdf)
-Several authors I respect liked this translation. I have yet to decide on it, but I am storing it here in the meantime.
