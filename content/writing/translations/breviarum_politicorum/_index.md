@@ -8,7 +8,7 @@ images:
 
 The [*Breviarium Politicorum Secundum Rubricas Mazarinicas*](https://fr.wikipedia.org/wiki/Br%C3%A9viaire_des_politiciens) (which translates to *The Politician's Handbook, Leaves from Mazarin's Notebooks*) was published in 1684, 23 years after the death of its proclaimed author: [Cardinal Jules Mazarin](https://en.wikipedia.org/wiki/Cardinal_Mazarin). Diplomat, politician, and advisor to kings, Mazarin was one of the key political figures of 17th-century France. As such, and regardless of its actual authorship, the text has been a subject of considerable attention.
 
-This book stands as France's closest counterpart to [Machiavelli’s *The Prince*](https://en.wikipedia.org/wiki/The_Prince), and with each passing year, as we are each more and more part of larger hierarchies with superiors and underlings, its distinctive perspectives on appearances, treachery, and strategic concessions feel ever more relevant.
+This book stands as France's closest counterpart to [Machiavelli’s *The Prince*](https://en.wikipedia.org/wiki/The_Prince), and with each passing year, as we are each more and more part of larger hierarchies with superiors and underlings, its distinctive perspective on appearances, treachery, and strategic concessions feels ever more relevant.
 
 For the curious reader, I highly recommend reading Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/bonus/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
 
