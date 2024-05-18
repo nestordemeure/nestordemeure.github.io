@@ -12,44 +12,46 @@ weight: -3
 
 ## A Word from the Publisher
 
-I had been delaying the publication of this Political treatise, sent to me by an Italian Prince, due to being overwhelmed with the most pressing matters. Now, under the orders of that same Excellent Prince, I am making it public. The importance of the subject, and the name of Cardinal Mazarin, whose life serves as the model and standard for the ideas presented here, will add significant weight to the commonly proposed political rules. Everyone is aware of the serious storms the Eminent Prince faced and nearly succumbed to.
+I had been delaying the publication[^printer] of this Political treatise, sent to me by an Italian Prince, due to being overwhelmed with the most pressing matters. Now, under the orders of that same Excellent Prince, I am making it public. The importance of the subject, and the name of Cardinal Mazarin, whose life serves as the model and standard for the ideas presented here, will add significant weight to the commonly proposed political rules. Everyone is aware of the serious storms the Eminent Prince faced and nearly succumbed to.
 
-However, it is not so obvious to everyone the skills he used to overcome those various tides of misfortune, which seemed certain to overwhelm him, and how he navigated through them to reach a safe harbor. He achieved great things in managing a powerful Kingdom torn apart by factions during those dangerous and challenging times, and emerged from numerous difficulties with increased glory. Notably, he instilled in the mind of *Louis XIV*, easily the greatest of all French Kings, the principles of ruling that allowed him to vastly expand France's borders and raise it to the height of dignity and power upon taking the throne. Extracting these lessons is difficult, but this Treatise will spare you that task.
+[^printer]: This introduction was written by the *original* printer and, maybe, by the actual writer of the text.
 
-As there is hardly any complete and perfected system of Political precepts, since the particular circumstances that greatly vary the general rules are infinite, no simpler or more fortunate method can be provided than to make the discipline, supported only by general precepts, practical or active by adapting those general rules to the particular circumstances on which they depend.
+However, the skills he used to overcome those various tides of misfortune, which seemed certain to overwhelm him, and how he navigated through them to reach a safe harbor, are not so obvious to everyone. He achieved great things in managing a powerful Kingdom torn apart by factions during those dangerous and challenging times, and emerged from numerous difficulties with increased glory. Notably, he instilled in the mind of *Louis XIV*, easily the greatest of all French Kings, the principles of ruling that allowed him to vastly expand France's borders and raise it to the height of dignity and power upon taking the throne. Extracting these lessons is difficult, but this Treatise will spare you that task.
 
-But you will more easily achieve that goal, dear Reader, if you strive to keep this illustrious example before your eyes, according to whose model today's Politicians attempt to conform and adapt their rules using their own wisdom. However, I wish for you to conduct yourself in a way that allows you to clearly understand the reasoning and norms that Political men typically use, not to deceive others, but to avoid being deceived yourself, by combining the two norms of the highest prudence prescribed by the general rule of fairness and justice, and the teaching of the Gospel:
+As there is hardly any complete and perfected system of Political precepts, since the general rules can be altered by an infinity of circumstances, no simpler or more fortunate method can be provided than to make the discipline, supported only by general precepts, practical or active by adapting those general rules to the particular circumstances on which they depend. But you will more easily achieve that goal, dear Reader, if you strive to keep this illustrious example before your eyes, according to whose model today's Politicians attempt to conform and adapt their rules using their own wisdom.
+
+However, I wish for you to conduct yourself in a way that allows you to clearly understand the reasoning and norms that Political men typically use, not to deceive others, but to avoid being deceived yourself, by combining the two norms of the highest prudence prescribed with the general rule of fairness and justice, and the teaching of the Gospel:
 
 > *Do not do to others what you would not want done to you, Be wise as Serpents, and innocent as Doves.*
 
 Enjoy this work of ours, and farewell.
 
-## Fundamentals
+## I. Fundamentals
 
-There were once two fundamental principles in Philosophy: *Sustain and Abstain*.
-Now, new principles have emerged: *Simulate and Dissimulate*, or *Learn About Yourself* and *Learn About Others*, which (if I am not mistaken) complement each other.
+In the past, two fundamental principles dominated philosophy: *Sustain* and *Abstain*.
+However, new principles have since emerged, namely *Simulate* and *Dissimulate*, and, complementing them, *Learn About Yourself* and *Learn About Others*.
 
 We will first address *Learn About Yourself* and *Learn About Others*.
-Then, since human *Actions* often occur in no particular order, we will explore the principles of *Simulate and Dissimulate* in various contexts, without following a strict order.
+Then, since human *Actions* do not follow a particular order, we will explore the principles of *Simulate and Dissimulate* in various contexts.
 
 ### Learn About Yourself
 
 Are you overcome by anger, fear, rashness, or some other strong emotion?
 What defects are evident in your conduct during various activities, such as dining, attending church, conversing, playing games, or engaging in other social interactions?
 
-Examine all the parts of your body: are your eyes too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or fast?
+Examine all the parts of your body: are your eyes too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or too fast?
 
 With whom do you associate? Are they praiseworthy, successful, prudent individuals?
 
-At what times are you most likely to act carelessly or recklessly? Do you stumble in word or deed when drinking at the table, playing games, or facing calamity? As Tacitus noted, "the minds of mortals are pliable" during such moments.
+At what times are you most likely to act carelessly or recklessly? Do you stumble in word or deed when drinking at the table, playing games, or facing calamity? As [Tacitus](https://en.wikipedia.org/wiki/Tacitus) noted, "the minds of mortals are pliable" during such moments.
 
 What places do you visit - are they suspect, vile, disreputable, unworthy of you?
 
-Be cautious in your actions, and never let caution be absent - to which end reading this little book will serve.
+Be always cautious in your actions, to which end reading this little book will serve.
 
 Consider the place, time, situation, and the rank of the persons with whom you are interacting.
 
-Make note of each individual defect, so that you may address it more diligently. Whenever you slip up, it will be beneficial to discipline yourself strictly.
+Make note of each of your individual defect, so that you may address it more diligently; whenever you slip up, it will be beneficial to discipline yourself strictly.
 
 If you are provoked to the point of anger, remain silent and show no sign of it, especially when you cannot effectively express your zeal or satisfy yourself. Instead, *pretend* that you are not offended and wait for a more opportune moment. Show nothing in your face except kindness, or even affection.
 
@@ -57,7 +59,7 @@ Do not readily laugh at just any witticism.
 
 Strive to have everyone figured out. Never reveal your secrets to anyone; fish for the secrets of others.
 
-Say or do nothing indecorous in the presence of anyone, even if it is natural and not malicious, because such things are despised by others.
+Say or do nothing indecorous in the presence of anyone, even if it is natural and not malicious, such things are despised by others.
 
 Maintain a modest and steady demeanor, but keenly observe everything with sharp eyes and an inquisitive expression. Those who do so are considered prudent, astute, and precise.
 
@@ -86,19 +88,18 @@ Entice someone to tell their life story, which can be done by pretending to shar
 
 You can test someone's knowledge or character by presenting them with specific situations. For example, give them a mediocre epigram to read. If they praise it excessively, they likely have little poetic ability. If they praise it only to the extent it deserves, they may be a skilled poet. Similarly, if you bring up the subject of food and they show excessive enthusiasm, they may be a glutton. This principle can be applied to other vices and virtues as well.
 
-Have someone propose at a gathering, as if in jest, what each person's abilities are, what virtues they have, what office they are suited for - for often jests weave much truth.
+Have someone guess at a gathering, as if in jest, what each person's abilities are, what virtues they have, what office they are suited for - for often jests weave much truth.
 
 You can also sometimes play the role of a doctor, mixing things into their food that will make them cheerful and talkative.
 
 It is a sign of a malicious man to frequently contradict; one who often stoops to theft is like this.
 
 Those who boast much about themselves are not greatly to be feared; they are fantasizers.
-
-Those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal reflection are often prone to self-deception and fantasizing.
+Similarly, those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal reflection are often prone to self-deception and fantasizing.
 
 You will recognize one raised from poverty if he starts to complain about food and clothing, for the poor, when elevated, especially desire such things above the nobility.
 
-Those devoted to wine and Venus rarely keep secrets. The latter are slaves to their desires; the former are carried away to inconsiderate speech when inebriated.
+Those devoted to wine and lust rarely keep secrets. The latter are slaves to their desires; the former are carried away to inconsiderate speech when inebriated.
 
 To catch a braggart in a lie, listen carefully when he boasts about his journeys, travels, military service, exploits, and how many years he spent in various places. Later, add up the total of all the years he mentioned. On another occasion, ask him what year he began and finished each experience, and how many years his life spans. Any inconsistencies in his story will become evident.
 Also ask if he knows how many towers that famous city has, or that most celebrated fortress (make up a name) - or congratulate him, as if knowing everything, that he escaped this or that danger.
@@ -107,28 +108,30 @@ You can recognize an upright and pious man by the consistency in his life, the a
 
 Those who most boast of being free from ambition and pride, and who act in an overly friendly manner when offended, are by nature melancholic or phlegmatic. Those who have an affected gentleness, a little bump on the nose, and sharp eyes are usually cunning.
 
-Ask for advice from someone and his prudence, skill, etc. will be recognized. Hence one should also pretend to be of two minds and uncertain.
+Ask for advice from someone and his prudence, skill, etc. will be recognized.
+Hence one should pretend to be of two minds and uncertain when asked for advice.
 
 Put little trust in one who promises easily, for he is a liar and deceiver.
 
-Judge someone to be a keeper of secrets if he never reveals the secrets of another to you, even in friendship. Convince a friend to entrust something to the individual you are testing, or have them try to obtain information from the individual that you have entrusted to them.
-However, be aware that people are more likely to disclose secrets to women, children, their beloved, and those they consider superior to themselves. If he reveals someone else's secret to you, entrust him with nothing, because he may have someone he loves as much as you.
+Judge someone to be a keeper of secrets if he never reveals the secrets of another to you, even in friendship.
+Convince a friend to entrust something to the individual you are testing, or have them try to obtain information from the individual that you have entrusted. However, be aware that people are more likely to disclose secrets to women, children, their beloved, and those they consider superior to themselves.
+If he reveals someone else's secret to you, entrust him with nothing, because he may have someone he loves as much as you.
 
 It will sometimes be helpful to intercept, read and resend the letters of one's subjects.
 
 Those who have too many particular and elegant possessions are effeminate and often not very holy. Those who have excessively ornate weapons are often poor soldiers; those with overly refined tools of their trade are often poor craftsmen, unless youth excuses it. Likewise, those who indulge their own nature too much and are excessively handsome and likeable are often unlearned.
 
-You will detect a flatterer in this way: pretend you have done something that is clearly absurd and boast about it. If he praises it, he is a flatterer; if not, if at least he remains silent.
+You will detect a flatterer in this way: pretend you have done something that is clearly absurd and boast about it. If he praises it, he is a flatterer; if he criticizes it, or at least remains silent, he is not.
 
-You will notice a false friend if a third party, instructed by you, reports to him that you have been reduced to the utmost extremity, that the laws on which you relied have been found to be false; if he hears this as if unconcerned, he will never be a friend. Also send someone to seek advice from him in your name and at the same time ask for help; you will see what kind of person he is. And having tested his proven virtue, pretend that everything was falsely reported to you.
+You will notice a false friend if a third party, instructed by you, reports to him that you have been reduced to the utmost extremity, that the laws on which you relied have been found to be false; if he hears this as if unconcerned, he will never be a friend. Also send someone to seek advice from him in your name and at the same time ask for help; you will see what kind of person he is. Having tested his proven virtue, pretend that everything was falsely reported.
 
-The uneducated betray themselves by excessive elegance in their possessions, by the decoration of their walls, by their fastidiousness about their bed, or if something is said that is less than pure Latin, they laugh and show they noticed it.
+The uneducated betray themselves by excessive elegance in their possessions, by the decoration of their walls, by their fastidiousness about their bed, or if something is said that is less than pure Latin, by laughing and showing they noticed it.
 
 Beware of men of small stature: they are obstinate and factious.
 
 You will test the harmony between friends in this way: disparage one of them by name in front of the other; then praise him - from the silence or lukewarm response you will discern the whole matter.
 
-Propose some cases in a group setting, how one could proceed ingeniously in this or that situation; each person's cleverness and cunning will be evident from their response. Also suggest how this or that person could be deceived; bring up the subject of persecutions. He who says the most will prove he has suffered the most.
+Discuss situations in a group setting, how one could proceed ingeniously in this or that case; each person's cleverness and cunning will be evident from their response. Also suggest how this or that person could be deceived; bring up the topic of persecutions. He who says the most will prove he has suffered the most.
 
 Liars are often by nature those who have dimples in their cheeks when they laugh.
 
@@ -136,7 +139,7 @@ Do not greatly fear those who are excessively concerned with their own skin.
 
 Much can be learned about any matter from the young and the very old.
 
-One who speaks both well and ill of the same matter is a dissembler - an occasion should be given for this.
+Those who vacillate between approval and disapproval on a matter are hypocrites. Devise situations that will bring their duplicity to light.
 
 Those who know many languages are often of poor judgment, because an excess of memory often hinders judgment.
 
@@ -144,7 +147,7 @@ If someone suddenly displays great virtues, having previously been wicked, be su
 
 If you think someone will betray your words, speak some unique things in front of them, things you have said in front of no one else; if those specific details are later spread, you have found the informer.
 
-If others tell you their dreams, ask the frequent dreamer about different dreams, and after some discussion you will learn much about his secret mind. For example, if someone says he loves you, on another occasion fish for dreams; if he never dreams of you, his love is feigned.
+If others tell you their dreams, ask the frequent dreamer about different dreams, and after some discussion you will learn much about their secret mind. For example, if someone says they love you, on another occasion fish for dreams; if they never dream of you, their love is feigned.
 
 Explore another's feelings toward you by showing your efforts, or by pretending to be his enemy.
 
@@ -152,17 +155,17 @@ Show no knowledge of any vice, and do not relate the vices of others with censur
 
 If an accuser comes to you, intending to betray another, pretend you have already heard it, and many other things besides; then you will see what suspicions and particulars he will add that he would not otherwise have said.
 
-Those who act too tenderly with dogs and pleasant children are soft. Those who speak with a fake voice and a fake cough are effeminate, prone to lust; so too are those who are excessively well-groomed, adorned, desiring to please the eyes of others, and too observant of a younger or more feminine age.
+Those who act too tenderly with dogs and children are soft. Those who speak with a fake voice and a fake cough are effeminate, prone to lust; so too are those who are excessively well-groomed, adorned, desiring to please the eyes of others, and too observant of a younger or more feminine age.
 
-Deceivers are those who concede everything too easily, who excessively approve of all your actions, because this friendship is feigned.
+Deceivers are those who concede everything too easily, who excessively approve of all your actions, because their friendship is feigned.
 
-Beware of associating with one who inveighs too fiercely against others in your presence, because he will do the same to you.
+Beware of associating with one who constantly speak ill of others in your presence. They will probably do the same to you when you are not around.
 
 Catch a keeper of secrets in this way: tell him something under the strictest secrecy; tell the same thing to another with the same caution; set up a third party, aware of the deception, to convene these two and insinuate something about what was entrusted. Here it will appear what each one will betray, and who will betray it first. If they realize all three of them know something together, the one who does not betray it then - make him your secretary.
 
-To learn another's mind, suborn someone whom he loves, and through them you will discover his most secret thoughts.
+To learn another's mind, suborn someone whom they love, and through them you will discover their most secret thoughts.
 
-## Acting in Society
+## II. Acting in Society
 
 As I begin this part of the discussion, I will explore various contexts without adhering to a strict order.
 
@@ -1402,7 +1405,7 @@ If someone explains the text to you, first reread it yourself to develop the abi
 
 Finally, consider how this line of reasoning could be useful in discussions with physicians or scholars.
 
-## Axioms
+## III. Axioms
 
 1. Treat any friend as if he may one day become your enemy.
 2. It is dangerous when a single individual becomes too powerful within any group or organization.
@@ -1420,7 +1423,7 @@ Finally, consider how this line of reasoning could be useful in discussions with
 14. Plan giving gifts and feasting as if they were a military campaign.
 15. Revealing a secret can be more dangerous than holding captive an enemy plotting against your life.
 
-## Summary
+## IV. Summary
 
 Keep these five things in mind:
 
@@ -1471,5 +1474,3 @@ Similarly, express appreciation for the food and clothing you receive from other
 #### Mind Your Words
 
 Consider your words carefully. Could they be interpreted negatively? If so, they certainly will be interpreted that way. Someone you do not see may be watching or listening.
-
-# Finis

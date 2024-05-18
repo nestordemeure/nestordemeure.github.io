@@ -29,19 +29,18 @@ Entice someone to tell their life story, which can be done by pretending to shar
 
 You can test someone's knowledge or character by presenting them with specific situations. For example, give them a mediocre epigram to read. If they praise it excessively, they likely have little poetic ability. If they praise it only to the extent it deserves, they may be a skilled poet. Similarly, if you bring up the subject of food and they show excessive enthusiasm, they may be a glutton. This principle can be applied to other vices and virtues as well.
 
-Have someone propose at a gathering, as if in jest, what each person's abilities are, what virtues they have, what office they are suited for - for often jests weave much truth.
+Have someone guess at a gathering, as if in jest, what each person's abilities are, what virtues they have, what office they are suited for - for often jests weave much truth.
 
 You can also sometimes play the role of a doctor, mixing things into their food that will make them cheerful and talkative.
 
 It is a sign of a malicious man to frequently contradict; one who often stoops to theft is like this.
 
 Those who boast much about themselves are not greatly to be feared; they are fantasizers.
-
-Those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal reflection are often prone to self-deception and fantasizing.
+Similarly, those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal reflection are often prone to self-deception and fantasizing.
 
 You will recognize one raised from poverty if he starts to complain about food and clothing, for the poor, when elevated, especially desire such things above the nobility.
 
-Those devoted to wine and Venus rarely keep secrets. The latter are slaves to their desires; the former are carried away to inconsiderate speech when inebriated.
+Those devoted to wine and lust rarely keep secrets. The latter are slaves to their desires; the former are carried away to inconsiderate speech when inebriated.
 
 To catch a braggart in a lie, listen carefully when he boasts about his journeys, travels, military service, exploits, and how many years he spent in various places. Later, add up the total of all the years he mentioned. On another occasion, ask him what year he began and finished each experience, and how many years his life spans. Any inconsistencies in his story will become evident.
 Also ask if he knows how many towers that famous city has, or that most celebrated fortress (make up a name) - or congratulate him, as if knowing everything, that he escaped this or that danger.
@@ -50,28 +49,30 @@ You can recognize an upright and pious man by the consistency in his life, the a
 
 Those who most boast of being free from ambition and pride, and who act in an overly friendly manner when offended, are by nature melancholic or phlegmatic. Those who have an affected gentleness, a little bump on the nose, and sharp eyes are usually cunning.
 
-Ask for advice from someone and his prudence, skill, etc. will be recognized. Hence one should also pretend to be of two minds and uncertain.
+Ask for advice from someone and his prudence, skill, etc. will be recognized.
+Hence one should pretend to be of two minds and uncertain when asked for advice.
 
 Put little trust in one who promises easily, for he is a liar and deceiver.
 
-Judge someone to be a keeper of secrets if he never reveals the secrets of another to you, even in friendship. Convince a friend to entrust something to the individual you are testing, or have them try to obtain information from the individual that you have entrusted to them.
-However, be aware that people are more likely to disclose secrets to women, children, their beloved, and those they consider superior to themselves. If he reveals someone else's secret to you, entrust him with nothing, because he may have someone he loves as much as you.
+Judge someone to be a keeper of secrets if he never reveals the secrets of another to you, even in friendship.
+Convince a friend to entrust something to the individual you are testing, or have them try to obtain information from the individual that you have entrusted. However, be aware that people are more likely to disclose secrets to women, children, their beloved, and those they consider superior to themselves.
+If he reveals someone else's secret to you, entrust him with nothing, because he may have someone he loves as much as you.
 
 It will sometimes be helpful to intercept, read and resend the letters of one's subjects.
 
 Those who have too many particular and elegant possessions are effeminate and often not very holy. Those who have excessively ornate weapons are often poor soldiers; those with overly refined tools of their trade are often poor craftsmen, unless youth excuses it. Likewise, those who indulge their own nature too much and are excessively handsome and likeable are often unlearned.
 
-You will detect a flatterer in this way: pretend you have done something that is clearly absurd and boast about it. If he praises it, he is a flatterer; if not, if at least he remains silent.
+You will detect a flatterer in this way: pretend you have done something that is clearly absurd and boast about it. If he praises it, he is a flatterer; if he criticizes it, or at least remains silent, he is not.
 
-You will notice a false friend if a third party, instructed by you, reports to him that you have been reduced to the utmost extremity, that the laws on which you relied have been found to be false; if he hears this as if unconcerned, he will never be a friend. Also send someone to seek advice from him in your name and at the same time ask for help; you will see what kind of person he is. And having tested his proven virtue, pretend that everything was falsely reported to you.
+You will notice a false friend if a third party, instructed by you, reports to him that you have been reduced to the utmost extremity, that the laws on which you relied have been found to be false; if he hears this as if unconcerned, he will never be a friend. Also send someone to seek advice from him in your name and at the same time ask for help; you will see what kind of person he is. Having tested his proven virtue, pretend that everything was falsely reported.
 
-The uneducated betray themselves by excessive elegance in their possessions, by the decoration of their walls, by their fastidiousness about their bed, or if something is said that is less than pure Latin, they laugh and show they noticed it.
+The uneducated betray themselves by excessive elegance in their possessions, by the decoration of their walls, by their fastidiousness about their bed, or if something is said that is less than pure Latin, by laughing and showing they noticed it.
 
 Beware of men of small stature: they are obstinate and factious.
 
 You will test the harmony between friends in this way: disparage one of them by name in front of the other; then praise him - from the silence or lukewarm response you will discern the whole matter.
 
-Propose some cases in a group setting, how one could proceed ingeniously in this or that situation; each person's cleverness and cunning will be evident from their response. Also suggest how this or that person could be deceived; bring up the subject of persecutions. He who says the most will prove he has suffered the most.
+Discuss situations in a group setting, how one could proceed ingeniously in this or that case; each person's cleverness and cunning will be evident from their response. Also suggest how this or that person could be deceived; bring up the topic of persecutions. He who says the most will prove he has suffered the most.
 
 Liars are often by nature those who have dimples in their cheeks when they laugh.
 
@@ -79,7 +80,7 @@ Do not greatly fear those who are excessively concerned with their own skin.
 
 Much can be learned about any matter from the young and the very old.
 
-One who speaks both well and ill of the same matter is a dissembler - an occasion should be given for this.
+Those who vacillate between approval and disapproval on a matter are hypocrites. Devise situations that will bring their duplicity to light.
 
 Those who know many languages are often of poor judgment, because an excess of memory often hinders judgment.
 
@@ -87,7 +88,7 @@ If someone suddenly displays great virtues, having previously been wicked, be su
 
 If you think someone will betray your words, speak some unique things in front of them, things you have said in front of no one else; if those specific details are later spread, you have found the informer.
 
-If others tell you their dreams, ask the frequent dreamer about different dreams, and after some discussion you will learn much about his secret mind. For example, if someone says he loves you, on another occasion fish for dreams; if he never dreams of you, his love is feigned.
+If others tell you their dreams, ask the frequent dreamer about different dreams, and after some discussion you will learn much about their secret mind. For example, if someone says they love you, on another occasion fish for dreams; if they never dream of you, their love is feigned.
 
 Explore another's feelings toward you by showing your efforts, or by pretending to be his enemy.
 
@@ -95,12 +96,12 @@ Show no knowledge of any vice, and do not relate the vices of others with censur
 
 If an accuser comes to you, intending to betray another, pretend you have already heard it, and many other things besides; then you will see what suspicions and particulars he will add that he would not otherwise have said.
 
-Those who act too tenderly with dogs and pleasant children are soft. Those who speak with a fake voice and a fake cough are effeminate, prone to lust; so too are those who are excessively well-groomed, adorned, desiring to please the eyes of others, and too observant of a younger or more feminine age.
+Those who act too tenderly with dogs and children are soft. Those who speak with a fake voice and a fake cough are effeminate, prone to lust; so too are those who are excessively well-groomed, adorned, desiring to please the eyes of others, and too observant of a younger or more feminine age.
 
-Deceivers are those who concede everything too easily, who excessively approve of all your actions, because this friendship is feigned.
+Deceivers are those who concede everything too easily, who excessively approve of all your actions, because their friendship is feigned.
 
-Beware of associating with one who inveighs too fiercely against others in your presence, because he will do the same to you.
+Beware of associating with one who constantly speak ill of others in your presence. They will probably do the same to you when you are not around.
 
 Catch a keeper of secrets in this way: tell him something under the strictest secrecy; tell the same thing to another with the same caution; set up a third party, aware of the deception, to convene these two and insinuate something about what was entrusted. Here it will appear what each one will betray, and who will betray it first. If they realize all three of them know something together, the one who does not betray it then - make him your secretary.
 
-To learn another's mind, suborn someone whom he loves, and through them you will discover his most secret thoughts.
+To learn another's mind, suborn someone whom they love, and through them you will discover their most secret thoughts.
