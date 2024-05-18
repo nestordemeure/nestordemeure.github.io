@@ -173,14 +173,14 @@ This is the corresponding translation to English:
 $ENGLISH
 ```
 
-I am afraid that text has been added or removed to the English translation.
+I am afraid that text has been added or removed in the English translation.
 
-Check the translation (especially the beginning and end of the section, this is where addition / deletion are the most likely) and tell me if the English matches with the Latin or not.
+Check the translation (especially the beginning and end of the section, this is where addition/deletion is the most likely) and tell me if the English matches with the Latin or not.
 
 If the translation appears correct, display "Matching". Otherwise, provide a fixed translation. Either way, put your answer in <response></response> tags.
 ````
 
-I then did a machine-helped editing pass. Using the following prompt to single out sentences that needed clarifications:
+I then did a machine-assisted editing pass using the following prompt to single out sentences that needed clarification:
 
 ````md
 You are an expert editor with a knack for producing clear, well-flowing texts.

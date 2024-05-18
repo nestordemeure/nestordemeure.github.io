@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Nestor Demeure ">
-<meta name="description" content="I first went through the various editions scan of the original book that can be found online
-From this emerged the picture of a 1684 original edition, a 1701 expanded edition (with additional aphorisms as well as what looks like two booklets on similar topics added for padding), and a 1724 simplified edition (which drops the padding booklets, this is what was used for the official French translation).
-I decided to work from the 1701 expanded edition as it contains all parts present in other editions which gave me the freedom to cut it down to either other edition at a later point." />
+<meta name="description" content="I first went through the various editions&amp;rsquo; scans of the original book that can be found online.
+From this emerged the picture of a 1684 original edition, a 1701 expanded edition (with additional aphorisms as well as what looks like two booklets on similar topics added for padding), and a 1724 simplified edition (which drops the padding booklets; this is what was used for the official French translation).
+I decided to work from the 1701 expanded edition as it contains all parts present in other editions, which gave me the freedom to cut it down to either other edition at a later point." />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -127,10 +127,10 @@ I decided to work from the 1701 expanded edition as it contains all parts presen
     <h1>1. Establishing a Latin reference</h1>
 
     
-    <div class="content"><p>I first went through the various editions scan of the original book that can be found online</p>
-<p>From this emerged the picture of a <code>1684</code> original edition, a <code>1701</code> expanded edition (with additional aphorisms as well as what looks like two booklets on similar topics added for padding), and a <code>1724</code> simplified edition (which drops the padding booklets, this is what was used for the official French translation).</p>
-<p>I decided to work from the <code>1701</code> expanded edition as it contains all parts present in other editions which gave me the freedom to cut it down to either other edition at a later point.</p>
-<p>After listing the chapters of the book (using <a href="https://www.anthropic.com/news/claude-3-family">Claude Opus</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and some manual clean-up<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>), I turned the two OCR I had for this edition into a master version (one section at a time) using the following prompt (which includes the table of content of the Latin text as well as the name of the section to clean-up and the name of the next section):</p>
+    <div class="content"><p>I first went through the various editions&rsquo; scans of the original book that can be found online.</p>
+<p>From this emerged the picture of a <code>1684</code> original edition, a <code>1701</code> expanded edition (with additional aphorisms as well as what looks like two booklets on similar topics added for padding), and a <code>1724</code> simplified edition (which drops the padding booklets; this is what was used for the official French translation).</p>
+<p>I decided to work from the <code>1701</code> expanded edition as it contains all parts present in other editions, which gave me the freedom to cut it down to either other edition at a later point.</p>
+<p>After listing the chapters of the book (using <a href="https://www.anthropic.com/news/claude-3-family">Claude Opus</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and some manual clean-up<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>), I turned the two OCRs I had for this edition into a master version (one section at a time) using the following prompt (which includes the table of contents of the Latin text as well as the name of the section to clean up and the name of the next section):</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>I am giving you two OCRs of the 1701 print of Mazarin&#39;s <span style="color:#e6db74">`Breviarum Politicorum, Secundum Rubricas Mazarinicas`</span>.
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>The book is structured as follows:
@@ -145,8 +145,8 @@ I decided to work from the 1701 expanded edition as it contains all parts presen
 </span></span><span style="display:flex;"><span>Using appropriate markdown features such as emphasis, etc., where applicable.
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>Do not include the title of the section. Put your response in &lt;<span style="color:#f92672">response</span>&gt;&lt;/<span style="color:#f92672">response</span>&gt; tags.
-</span></span></code></pre></div><p>The text was then checked against a scan of the book to ensure that all of it had been transcribed as well as check for paragraph breaks, italic, and other forms of emphasis.</p>
-<p>Finally, I cut the padding out (<code>De Conciliatione Animorum</code> and <code>Ubi Ingenium Excolendum</code>) which gave me a text similar to the <code>1724</code> simplified edition. Going forward, this is my reference Latin text to be translated.</p>
+</span></span></code></pre></div><p>The text was then checked against a scan of the book to ensure that all of it had been transcribed, as well as to check for paragraph breaks, italics, and other forms of emphasis.</p>
+<p>Finally, I cut the padding out (<code>De Conciliatione Animorum</code> and <code>Ubi Ingenium Excolendum</code>), which gave me a text similar to the <code>1724</code> simplified edition. Going forward, this is my reference Latin text to be translated.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -154,7 +154,7 @@ I decided to work from the 1701 expanded edition as it contains all parts presen
 <p>It is the model used with all following prompts. Due to both its long context length (able to take the full book as input) and superior performance on literary tasks.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2">
-<p>Note that the book is only <em>loosely</em> organized, forming a list of parts of widely varying sizes. Thus splitting it into part does include an element of subjectivity.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Note that the book is only <em>loosely</em> organized, forming a list of parts of widely varying sizes. Thus, splitting it into parts does include an element of subjectivity.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>

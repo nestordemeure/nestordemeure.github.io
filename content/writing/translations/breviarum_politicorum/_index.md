@@ -15,7 +15,6 @@ For the curious reader, I highly recommend reading Umberto Eco’s essay [*The S
 <!--
 TODO second translation:
 * fully recheck translation manually
-* grammar check all of my own writing
 -->
 
 <!--

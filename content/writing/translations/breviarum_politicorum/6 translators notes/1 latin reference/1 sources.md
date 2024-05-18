@@ -6,11 +6,11 @@ weight: -1
 images:
 ---
 
-Scans of several prints of the text can be found online. From them emerges three main editions of the text: an `original` edition, an `expanded` edition, and a `simplified` edition.
+Scans of several prints of the text can be found online. From them emerge three main editions of the text: an `original` edition, an `expanded` edition, and a `simplified` edition.
 
 ## Original Edition
 
-Those are print and reprints of the original edition, with only minor tweaks between each other.
+These are print and reprints of the original edition, with only minor tweaks between each other.
 
 * [1684 Print (original)](https://archive.org/details/bub_gb_iudnLdj4p1UC/page/n3/mode/2up)
 * [1691 Print](https://books.google.be/books?id=4QAFAAAAcAAJ&hl=fr&pg=PP5#v=onepage&q&f=false)
@@ -22,8 +22,7 @@ Those are print and reprints of the original edition, with only minor tweaks bet
 
 ## Expanded Edition
 
-This edition is greatly expanded, including a first `Ubi Ingenium Excolendum` section as well as a `De Conciliatione Animorum` final sections, those are most likely other booklets touching similar topics that have been added for padding.
-It also adds several aphorisms (`Peregrinari`, etc.) in the `Actiones Humanae Civiles` section.
+This edition is greatly expanded, including a first `Ubi Ingenium Excolendum` section as well as a `De Conciliatione Animorum` final section; these are most likely other booklets touching on similar topics that have been added for padding. It also adds several aphorisms (`Peregrinari`, etc.) in the `Actiones Humanae Civiles` section.
 
 * [1701 Print (v1)](https://www.google.com/books/edition/BREVIARIUM_POLITICORUM_Seu_ARCANA_POLITI/E7JeAAAAcAAJ?hl=en&gbpv=1&pg=PP3&printsec=frontcover)
 * [1701 Print (v2)](https://www.google.com/books/edition/Breviarium_Politicorum/f9YGAAAAcAAJ?hl=en&gbpv=1&pg=PP5&printsec=frontcover)
@@ -37,7 +36,7 @@ This later edition drops the padding sections added at the beginning and end (go
 
 * [1724 Print](https://www.google.com/books/edition/Breviarium_politicorum_secundum_rubricas/SbFmAAAAcAAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcover)
 
-## Structure of the text
+## Structure of the Text
 
 Editions of the book follow this structure:
 
@@ -132,9 +131,9 @@ Editions of the book follow this structure:
   * `Epilogus`[^intro]
 * `Index`
 
-[^author]: This might be the only place where the actual author addresses us in their own voice. Note that the `extended` edition includes a paragraph mentioning the inclusion of *Exercitatio de Conciliatione Animorum* but nothing on *Ubi Ingenium Excolendum*.
+[^author]: This might be the only place where the actual author addresses us in their own voice. Note that the `expanded` edition includes a paragraph mentioning the inclusion of *Exercitatio de Conciliatione Animorum* but nothing on *Ubi Ingenium Excolendum*.
 
-[^guide]: This is likely another booklet added as padding, but I could not locate an independent source for this text and its addition is not mentioned in the introduction.
+[^guide]: This is likely another booklet added as padding, but I could not locate an independent source for this text, and its addition is not mentioned in the introduction.
 
 [^header]: A header there lets us know that this is the *actual* beginning of the text.
 
