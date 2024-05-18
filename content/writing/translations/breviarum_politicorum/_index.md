@@ -10,11 +10,13 @@ The [*Breviarium Politicorum Secundum Rubricas Mazarinicas*](https://fr.wikipedi
 
 This book stands as France's closest counterpart to [Machiavelli’s *The Prince*](https://en.wikipedia.org/wiki/The_Prince), and with each passing year, as we are each more and more part of larger hierarchies with superiors and underlings, its distinctive perspective on appearances, treachery, and strategic concessions feels ever more relevant.
 
-For the curious reader, I highly recommend reading Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/bonus/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
+For the curious reader, I highly recommend reading Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/assets/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
 
-{{< image src="/writing/translations/breviarum_politicorum/bonus/portrait.jpg" title="Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html#inscription)" position="center" style="max-width: 50%;" >}}
+Finally, if you prefer reading ebooks, you will find an EPUB version of this translation [here](/writing/translations/breviarum_politicorum/assets/Mazarin_Breviarium_Politicorum.epub).
+
+{{< image src="/writing/translations/breviarum_politicorum/assets/portrait.jpg" title="Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html#inscription)" position="center" style="max-width: 50%;" >}}
 <small style="display: block; margin: 0 auto; text-align: center; font-style: italic;">
-Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html#inscription)
+Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html)
 </small>
 
 <!--
