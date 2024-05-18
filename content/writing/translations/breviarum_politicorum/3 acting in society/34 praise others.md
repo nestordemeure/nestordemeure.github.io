@@ -1,9 +1,0 @@
----
-title: "Praising Others"
-draft: false
-comments: false
-weight: -34
-images:
----
-
-Under the guise of liberty, act only according to your own judgment and the public good when speaking and acting, and do not hate adulation more than necessary. Excuse their gentleness and clemency, being devoted to piety, so that rigor may weaken. Never praise those things which, while praising one person, openly criticize others, except perhaps where there is a crowd and many confused voices. Therefore, leave the unpraised virtue of a friend and conceal their faults.

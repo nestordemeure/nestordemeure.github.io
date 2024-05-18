@@ -1,0 +1,12 @@
+<!-- layouts/shortcodes/columns.html -->
+<div class="double-column-container">
+    {{ $parts := split .Inner "<--->" }}
+        {{ $leftFlex := .Get "leftFlex" | default "95" }}
+        {{ $rightFlex := .Get "rightFlex" | default "80" }}
+        <div class="double-column" style="flex: {{ $leftFlex }};">
+            {{ index $parts 0 | markdownify }}
+        </div>
+        <div class="double-column" style="flex: {{ $rightFlex }};">
+            {{ index $parts 1 | markdownify }}
+        </div>
+</div>

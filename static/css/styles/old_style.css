@@ -1,0 +1,55 @@
+/* 
+An old-text kind of style:
+* switches the font to IM Fell DW Pica (with adjusted sizes for redeability)
+* centers headings
+
+Potential improvements: adding Lettrines
+*/
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&family=IM+Fell+English:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&family=IM+Fell+English:ital@0;1&display=swap');
+
+body {
+    font-family: "IM Fell DW Pica", serif;
+    font-size: 150%;
+}
+
+em,
+i {
+    font-style: italic;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "IM Fell DW Pica SC", serif;
+}
+
+h1,
+h2 {
+    font-size: 180%;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-size: 120%;
+}
+
+h1 a.heading-anchor,
+h2 a.heading-anchor,
+h3 a.heading-anchor {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.post-title {
+    font-size: 350%;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}

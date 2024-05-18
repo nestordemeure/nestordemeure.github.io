@@ -6,5 +6,8 @@ weight: -2
 images:
 ---
 
-In the past, genuine Philosophy held two principles: Endure and Abstain. Now, there are two new ones: Simulate and Dissimulate. Whether it is Know Yourself or Know Others, these principles (unless I am mistaken) also support the previous ones.
-We will first address these; then we will discuss the previous ones in various human actions, and since they occur almost without order, we will present them without particular regard to sequence.
+There were once two fundamental principles in Philosophy: *Sustain and Abstain*.
+Now, new principles have emerged: *Simulate and Dissimulate*, or *Learn About Yourself* and *Learn About Others*, which (if I am not mistaken) complement each other.
+
+We will first address *Learn About Yourself* and *Learn About Others*.
+Then, since human *Actions* often occur in no particular order, we will explore the principles of *Simulate and Dissimulate* in various contexts, without following a strict order.

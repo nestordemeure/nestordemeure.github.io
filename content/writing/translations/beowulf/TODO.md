@@ -2,6 +2,7 @@
 title: "TODO"
 draft: true
 comments: false
+unlisted: true
 images:
 ---
 
@@ -126,3 +127,26 @@ regarding the history of the text: a text was a precious thing, fit for kings an
 and it is believed that the story was written something like 200years after having been thought of
 what if this was the favorite story of a king who asked for it to be written for him (by monks, the people who knew writing) or which was written as a gift to a king who particularly liked it
 what if a monk *had* to put this pagan story to paper
+
+The text conains a word that does not appear elsewhere in old english: [Ealuscerwen](https://en.wikipedia.org/wiki/Ealuscerwen)
+Ale expelling for something meaningful horror-ish
+Their stomach churning
+/ puking sensation
+along similar line, see the [ealuscerpen](https://books.google.fr/books?id=fM9RAQAAIAAJ&pg=PA165&lpg=PA165&dq=Ealuscerwen+beowulf+puking&source=bl&ots=51Rgh7umhP&sig=ACfU3U0yP1qnPkIqc8NE1M0510I2yioERQ&hl=en&sa=X&ved=2ahUKEwim3umDktSFAxV6TqQEHSEgCkIQ6AF6BAgLEAM#v=onepage&q=Ealuscerwen%20beowulf%20puking&f=false) (ale-womiting) intrepretation mentionned [here](https://www.jstor.org/stable/3713790) and [here](https://www.jstor.org/stable/44512779)
+
+Tolkien makes the solid point (given the name of the hall, king and his family) that Heorot was likely a place of cult for [Freyr](https://en.wikipedia.org/wiki/Freyr) ("the Lord").
+Having a king pray to a norse / germanic god called "the Lord" must have made the translation to Christianism fairly straightforward.
+
+found in the poetry book: the idea that grendel's mother takes an arm for an arm
+the right hand man of the king for the right hand of grendel
+
+also, beowulf having the strength of 30 men as a child, and grendel eating 30 men
+
+the golden banner on the ship, whose destination is nuknown
+ending on a treasure with a ship and golden banner
+
+add page on my positions and interpretations:
+
+* unferth
+* ealuscerwen
+* christianism

@@ -1,0 +1,29 @@
+.double-column-container {
+    display: flex;
+    /* Default block display */
+    width: 100%;
+    /* Container takes full width of the viewport */
+    text-align: justify;
+    /* Justifies the text inside the columns */
+    overflow: hidden;
+    /* Ensures no overflow of content outside the container */
+}
+
+.double-column {
+    float: left;
+    /* Floats each column to the left */
+    padding: 20px;
+    /* Adds padding around the content */
+}
+
+@media (max-width: 600px) {
+    .double-column-container {
+        display: block;
+        /* Go back to a block based system */
+    }
+
+    .double-column {
+        width: 100%;
+        /* Each column takes full width on smaller screens */
+    }
+}
