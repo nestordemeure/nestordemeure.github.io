@@ -12,6 +12,11 @@ This book stands as France's closest counterpart to [Machiavelli’s *The Prince
 
 For the curious reader, I highly recommend reading Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/bonus/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
 
+{{< image src="/writing/translations/breviarum_politicorum/bonus/portrait.jpg" title="Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html#inscription)" position="center" style="max-width: 50%;" >}}
+<small style="display: block; margin: 0 auto; text-align: center; font-style: italic;">
+Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html#inscription)
+</small>
+
 <!--
 TODO second translation:
 * fully recheck translation manually
@@ -20,7 +25,6 @@ TODO second translation:
 <!--
 Latex/paper edition:
 content:
-1724 print content (?)
 letrine at the beginning of each chapter
 title in small caps
 page break at the beginning of each chapter
