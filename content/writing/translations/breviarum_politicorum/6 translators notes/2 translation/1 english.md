@@ -169,7 +169,7 @@ To learn another's mind, suborn someone whom they love, and through them you wil
 
 As I begin this part of the discussion, I will explore various contexts without adhering to a strict order.
 
-### Gaining Favor
+### Gaining Favor with a Friend
 
 Identify your friend's interests and choose gifts that align with them. Suitable items include mathematics books, optical instruments, microscopes, sundials, various mirrors, and other curiosities, as well as treatises on the secrets of nature, such as those written by [Mizauld](https://en.wikipedia.org/wiki/Antonio_Mizauld).
 
@@ -181,9 +181,9 @@ Congratulate him briefly but elegantly on special occasions such as feast days, 
 
 Praise his virtues sparingly, but consistently ignore his vices.
 
-Share your travels with him, tell him about the praises others have spoken of him, and whisper everything in his ear, especially things said by his superiors.
+Share your travels with him and tell him about the praises others have spoken of him, confidentially sharing details with him, especially things said by his superiors.
 
-Never reveal his faults or vices, no matter how much he may ask. If he insists and you fear appearing distrustful, mention only the mildest faults or those he has openly acknowledged himself. For such things leave a bitter memory, no matter how they are said, especially if there is too much truth in them.
+Never reveal his faults or vices, no matter how much he may ask. If he insists and you are afraid of appearing untrustworthy, mention only the mildest faults or those he has openly acknowledged himself. For such things leave a bitter memory, no matter how they are said, especially if there is too much truth in them.
 
 Have mutual acquaintances convey your greetings frequently, and send your own regards in letters.
 
@@ -195,11 +195,11 @@ Do not seek to please anyone by indulging their vices or engaging in behavior th
 For example, if you are a clergyman, avoid excessive jesting, vulgar humor, heavy drinking, and other inappropriate behaviors. While these may win affection in the moment, they will eventually lead to contempt, ridicule, or even fierce hatred, though it may not arise immediately.
 Therefore, even if at times it may be expedient to act in a less than virtuous manner, do so without engaging in outright vice.
 
-When you arrive somewhere new, first identify those who are favored by the master of the place and those who have influence through their faction and eloquence. Win their favor by any means, so that you can use their advice and influence in promoting your interests. These people will share some of the responsibility when they give counsel.
+When you arrive somewhere new, first identify those who are favored by the master of the place and those who have influence through their faction and eloquence. Win their favor by any means, so that you can use their advice and influence in promoting your interests. These people will take some of the responsibility upon themselves when they give counsel.
 
 If you wish to take revenge on someone, make that person appear suspicious to your friend and turn your friend's envy to your cause.
 
-Never commit any crime at your master's behest, for even if you win his gratitude in the moment, he will thereafter view you as a critic, able to do to your master what you readily undertook at his command, a man of faith and virtue for sale. At the very least, distance yourself from the reward for the deed as soon as it is done.
+Never commit any crime at your master's behest, for even if you win his gratitude in the moment, he will thereafter view you as a critic, able to do to your master what you readily undertook at his command, a man whose faith and virtue are for sale. At the very least, distance yourself from the reward for the deed as soon as it is done.
 
 Write letters praising a third party, then deliberately allow them to be lost or intercepted so that they reach the third party you are praising.
 
@@ -215,11 +215,11 @@ Never buy from a friend, for if he sells dearly, you will be harmed; if cheaply,
 
 Treat even his lowliest servants well, otherwise they will gradually turn your friend's mind against you.
 
-At banquets, foster loyalty among servants by entrusting them with fabricated secrets, even some related to their duties, and show that you hold them in a special position.
+At banquets, foster loyalty with servants by entrusting them with fabricated secrets, even some related to their duties, and show that you hold them in a special position.
 
 If you are too familiar with servants, they will hold you in contempt. If you are angry with them, they will hate you. However, if you treat them with a calm, dignified manner, they will revere you.
 
-With free men, show benevolence, love, and courtesy. Do not allow them to stoop to humble services or extreme gestures of submission, such as kissing feet. Consider the greedy to be on the same level as slaves in terms of their disposition.
+With free men, show benevolence, love, and courtesy. Do not allow them to stoop to humble services or extreme gestures of submission, such as kissing feet. However, consider the greedy to be on the same level as slaves in terms of their disposition.
 
 If you seek the favor of the people, promise to promote their interests, especially those that benefit individuals, for they are moved more by these than by honor.
 

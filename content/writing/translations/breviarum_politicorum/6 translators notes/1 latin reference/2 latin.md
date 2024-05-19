@@ -1200,5 +1200,3 @@ De superioribus semper bene loquere, quia paci servit, eos quorum gratia eges, l
 #### Vide Quid Agas
 
 Quid loquaris. Potestne hoc in meliorem partem trahi? Si potest, certo trahetur, forte aspicit quispiam, aut audit, quem tu non vides.
-
-# Finis
