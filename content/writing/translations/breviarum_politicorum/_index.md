@@ -13,7 +13,7 @@ This book stands as France's closest counterpart to [Machiavelli’s *The Prince
 In the age of information, the text has something meaningful to offer to anyone willing to listen: it details the construction of a coherent public persona, suitable to be broadcast to all without leaving openings for scandal or weakness, built to give you leverage in collaborating and achieving your goals.
 It even explains how to organize a fantastical banquet, gain favors with friends and love interests, get rid of unwanted guests, and use various techniques to escape prison and avoid ambushes! Good, practical stuff.
 
-Before delving into the book, I highly recommend that you read Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/assets/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.  
+Before delving into the book, I highly recommend that you read Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/assets/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
 Finally, if you prefer reading ebooks, you will find an EPUB version of this translation [here](/writing/translations/breviarum_politicorum/assets/Mazarin_Breviarium_Politicorum.epub).
 
 {{< image src="/writing/translations/breviarum_politicorum/assets/portrait.jpg" title="Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection/art-object-page.110731.html#inscription)" position="center" style="max-width: 50%;" >}}
