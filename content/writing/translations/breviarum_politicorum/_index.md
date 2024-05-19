@@ -10,6 +10,9 @@ The [*Breviarium Politicorum Secundum Rubricas Mazarinicas*](https://fr.wikipedi
 
 This book stands as France's closest counterpart to [Machiavelli’s *The Prince*](https://en.wikipedia.org/wiki/The_Prince), and with each passing year, as we are each more and more part of larger hierarchies with superiors and underlings, its distinctive perspective on appearances, treachery, and strategic concessions feels ever more relevant.
 
+In the age of information, the text has something meaningful to offer to anyone willing to listen: it details the construction of a coherent public persona, suitable to be broadcast to all without leaving openings for scandal or weakness, built to give you leverage in collaborating and achieving your goals.
+It even explains how to organize a fantastical banquet, gain favors with friends and love interests, get rid of unwanted guests, and use various techniques to escape prison and avoid ambushes! Good, practical stuff.
+
 For the curious reader, I highly recommend reading Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/assets/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
 
 Finally, if you prefer reading ebooks, you will find an EPUB version of this translation [here](/writing/translations/breviarum_politicorum/assets/Mazarin_Breviarium_Politicorum.epub).
@@ -22,6 +25,10 @@ Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection
 <!--
 TODO second translation:
 * fully recheck translation manually
+* improve on introuction?
+  * introducing a better final hook?
+  * mentionning the fact that it has applications to love and friendships
+  * the public personna
 -->
 
 <!--
@@ -39,4 +46,6 @@ https://commons.wikimedia.org/wiki/File:Signature_Cardinal_Mazarin.png
 cover:
 [gallimar](https://www.grapheine.com/en/history-of-graphic-design/history-of-book-covers-4) style minimalistic cover (no illustration or just the shape of a cardinal's hat (but mazarin used to go with a minimalistic hat))
 *but* writen in white (or cream, but not goldish, to avoid it getting yellow with time) on a cardinal red background (making it pop)
+
+https://en.wikipedia.org/wiki/%C3%89minence_grise#/media/File:G%C3%A9r%C3%B4me_Eminence_grise_1873.jpg
 -->
