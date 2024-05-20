@@ -11,7 +11,7 @@ The [*Breviarium Politicorum Secundum Rubricas Mazarinicas*](https://fr.wikipedi
 This book stands as France's closest counterpart to [Machiavelli’s *The Prince*](https://en.wikipedia.org/wiki/The_Prince), and with each passing year, as we are each more and more part of larger hierarchies with superiors and underlings, its distinctive perspective on appearances, treachery, and strategic concessions feels ever more relevant.
 
 In the age of information, the text has something meaningful to offer to anyone willing to listen: it details the construction of a coherent public persona, suitable to be broadcast to all without leaving openings for scandal or weakness, built to give you leverage in collaborating and achieving your goals.
-It even explains how to organize a fantastical banquet, gain favors with friends and love interests, get rid of unwanted guests, and use various techniques to escape prison and avoid ambushes! Good, practical stuff.
+It even explains how to gain favors with friends and love interests, get rid of unwanted guests, use various techniques to escape prison or ambushes, and even organize a fantastical banquet! Good, *practical* stuff.
 
 Before delving into the book, I highly recommend that you read Umberto Eco’s essay [*The Signs of Power*](/writing/translations/breviarum_politicorum/assets/signs_of_power); it is the definitive preface to the *Breviarium Politicorum*.
 Finally, if you prefer reading ebooks, you will find an EPUB version of this translation [here](/writing/translations/breviarum_politicorum/assets/Mazarin_Breviarium_Politicorum.epub).
