@@ -18,4 +18,4 @@ Divide tasks that span several days into smaller, manageable portions to complet
 
 Avoid engaging in time-consuming, useless tasks that offer little benefit or recognition, regardless of who requests them.
 
-Refrain from personally dealing with craftsmen, household affairs, gardens, or buildings, as these tasks are labor-intensive and give rise to one concern after another.
+Refrain from personally dealing with craftsmen, household affairs, gardens, and construction projects, as these tasks are labor-intensive and give rise to one concern after another.

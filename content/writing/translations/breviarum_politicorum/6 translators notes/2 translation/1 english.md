@@ -245,7 +245,7 @@ First win over the servants of one whose friendship you seek, even bribing them 
 
 However far you advance in his favor, treat it no differently than if you were still seeking it through a thousand kindnesses: for favor, once acquired, wishes to be maintained so as not to be lost; indeed, it requires to be nourished by attentions.
 
-### Identifying Who is Someone's Friend
+### Identifying Mutual Friends
 
 If you praise someone and a listener remains silent in response, it indicates that the listener is not truly the praised person's friend.
 
@@ -263,13 +263,11 @@ Never assume that someone will keep a secret if you act or speak too freely or c
 Never assume that someone will excuse your questionable behavior; in fact, they will likely interpret it in the worst possible way. To prevent this, avoid engaging in any actions that could be seen as questionable, even if there is only one witness.
 
 Do not relate how you were previously defamed or wronged, for you will only defame yourself further and there will be those who approve.
-When your actions are questioned, the saying "Excuse the intention if you cannot excuse the deed" does not apply. Others may claim that you acted wrongfully by accident, without thought, or that you deliberately sought out evil to test them.
+When your actions are questioned, the saying ["Excuse the intention even if you cannot excuse the deed"](https://archive.org/details/St.BernardOnTheSongOfSongs/page/n234/mode/1up#:~:text=Excuse%20his,excuse%20the%20act) does not apply as some may claim that you acted wrongfully by accident, without thought, or that you deliberately sought out evil to test them.
 
 At times, particularly with talkative individuals, you can strategically share a secret, asking them not to reveal it to others. For example, confide that you have significant influence with powerful people or maintain correspondence with them. To support this claim, write letters to these powerful individuals out of sight, seal them, and make a show of destroying the replies you have carelessly kept. However, be cautious with this tactic, as people may distort information they only partially hear.
 
-Boast that you have never harmed anyone.
-
-If you have helped someone, especially in front of this person, say that you expect a crown from God for your good deeds. You can give examples invented on the spot to support your claim.
+Boast that you have never harmed anyone and that, if there had to be one thing for which you expect a divine reward, it is this. You can give examples invented on the spot to support your claim.
 
 Whatever is to be made public, no matter how small, do it as perfectly as possible, because often a long-lasting reputation depends on a single act.
 
@@ -297,7 +295,7 @@ What you can do, correct, or punish through servants, do not do yourself. You do
 
 Do not dispute uncertain things, unless you know you will certainly win.
 
-If you arrange a banquet, share your fortune with the servants of the guests. This is a talkative crowd with significant influence in spreading a bad reputation. A generous gesture should captivate their attention, preventing them from prying into other matters. Similarly, deal generously with the barber and the prostitute.
+If you arrange a banquet, share your fortune with the servants of the guests. This is a talkative crowd with significant influence in spreading a bad reputation. A generous gesture should captivate their attention, preventing them from prying into other matters. Similarly, deal generously with barbers and prostitutes.
 
 ### Finding More Time for Business
 
@@ -313,7 +311,7 @@ Divide tasks that span several days into smaller, manageable portions to complet
 
 Avoid engaging in time-consuming, useless tasks that offer little benefit or recognition, regardless of who requests them.
 
-Refrain from personally dealing with craftsmen, household affairs, gardens, or buildings, as these tasks are labor-intensive and give rise to one concern after another.
+Refrain from personally dealing with craftsmen, household affairs, gardens, and construction projects, as these tasks are labor-intensive and give rise to one concern after another.
 
 ### Acquiring Gravity
 
@@ -355,11 +353,11 @@ When praising or criticizing, avoid excessive exaggeration. Judge proportionatel
 
 Rarely display strong emotions, such as excessive joy, admiration, or other feelings.
 
-Demonstrate piety even with your closest friends.
+Demonstrate piety even in the presence of your closest friends.
 
 Even when you are most confident in your position, refrain from complaining about or accusing others.
 
-Do not give your subordinates too many tasks at once or tasks they cannot carry out. Doing so will lead them to either despise your commands or demonstrate that your orders were ill-advised.
+Do not give your subordinates too many tasks at once or tasks they cannot carry out. Doing so will either lead them to either despise your commands or demonstrate that your orders were ill-advised.
 
 Make no laws, or very few.
 
@@ -376,7 +374,7 @@ If someone approaches while you are reading, quickly turn to a different page to
 If you are writing letters or reading a book and someone arrives who might find your activity suspicious, anticipate this and pretend to be doing something else entirely. Act as if you are consulting the book or letters in front of you.
 For example, if you are writing warnings, ask the approaching guest what you could cautiously and prudently respond to such a case, or ask for news so you could fill the letters. Employ similar tactics when counting money or reading a book.
 
-When writing secrets, use your own handwriting unless you are employing ciphers that are easily decipherable by others, such as those found in [Trithemius](https://en.wikipedia.org/wiki/Johannes_Trithemius)' [*Polygraphia*](https://en.wikipedia.org/wiki/Polygraphia_(book)). In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer.
+Do not hesitate to write secrets in your own hand, unless you are employing ciphers that are easily decipherable by others, such as those found in [Trithemius](https://en.wikipedia.org/wiki/Johannes_Trithemius)' [*Polygraphia*](https://en.wikipedia.org/wiki/Polygraphia_(book)). In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer.
 
 ### Giving Gifts and Favors
 
@@ -403,7 +401,9 @@ If you wish to give something pleasing to a particular person, do not promise it
 
 Those who praise their own possessions in front of others are inviting them to ask for those things.
 
-Avoid hastily criticizing the practices established by your predecessors, as they may have foreseen issues that you have not yet considered.
+Avoid hastily criticizing the practices established by your predecessors, as they may have foreseen issues that you have not yet considered[^chesterton].
+
+[^chesterton]: This principle is now famous as [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence).
 
 Likewise, do not readily grant perpetual favors, because it may be necessary to change them later, and you will no longer be able to do so.
 
@@ -417,7 +417,8 @@ If something is given to you (even if very small), take care not to be ungratefu
 
 ### Asking for Things
 
-When asking a friend for a favor, make sure your request doesn't require too much money or effort. Simply letting them know you need help should suffice. If your friend does not provide the favor voluntarily, he will not do so even if you ask directly.
+When asking a friend for a favor, make sure your request doesn't require too much money or effort.
+Instead of directly asking, letting them know that you need help should suffice. If your friend does not provide the favor voluntarily, he will not do so even if you ask directly.
 However, express gratitude for all help provided, as this will subtly convey your desire for further assistance.
 
 If you are about to request something serious, first discuss other matters and subtly explain your desires as if doing something else.
@@ -425,7 +426,7 @@ If you are about to request something serious, first discuss other matters and s
 Be cautious when asking nobles for favors, as they may perceive your request as a command.
 Seek the help of illustrious people to advocate for you, such as a child asking their parent for a favor, but avoid involving those who have the same need as you.
 
-The best time to ask for a favor is when someone is happy, such as on a feast day or after a meal, but not while they are drowsy, distracted by other business, or struggling to stay awake.
+The best time to ask for a favor is when someone is happy, such as on a feast day or after a meal, but not while they are drowsy, distracted by other business, or tired.
 
 Do not presume to ask for many things at once.
 
@@ -433,7 +434,7 @@ When advocating for someone, treat them as if you don't know them. Limit your in
 
 When persuading others, tailor your arguments to their interests and values: emphasize potential gains or losses for those motivated by wealth, appeal to religious beliefs for the devout, offer praise to the young and ambitious, and highlight social pressure for those concerned with their reputation.
 
-Avoid asking a leader for special favors or legal permissions, as these requests are often granted slowly. Instead, wait for the right moment and present the necessary paperwork for their signature.
+Avoid asking a leader for special favors or legal permissions, as these requests are often granted slowly. Instead, wait for the right moment and present the necessary paperwork ready for their signature.
 
 Do not ask someone for a rare item they cherish, especially if you have no genuine use for it.
 If he refuses, he will feel guilty for disappointing you and start hating you, as people often resent those they have wronged.
@@ -441,11 +442,11 @@ If he agrees, he may view you as an imprudent requester and avoid you in the fut
 
 To avoid the shame of rejection, only make requests when you are confident they will be granted. Therefore, it is better to explain your need without directly asking for anything.
 
-Conceal your strong desire for something until you have obtained it. To do this, either feign indifference or imply that it has already been promised to someone else, and congratulate them.
+Conceal your strong desire for something until you have obtained it. To do this, either feign indifference or imply that you believe it has already been promised to someone else, and then congratulate them.
 
 If something is denied to you, secretly send another to request it for himself, from whom you will more easily obtain the thing.
 
-If someone wants to snatch from you an honor that you seek, send someone to him who will dissuade him in the name of friendship and show the difficulties.
+If someone wants to snatch an honor that you seek from you, send someone to him who will dissuade him in the name of friendship by highlighting the difficulties attached to the task.
 
 ### Admonishing
 
@@ -467,7 +468,7 @@ Be cautious when trusting prudent men. They may minimize issues related to their
 They will not reveal if anyone has spoken badly about you in their presence, nor whom you should be wary of, or what vices they themselves struggle with.
 The same is true of priests when they praise their penitents, because they can say nothing but good about them, no less than parents about their children.
 
-If you fear someone may complain about you, cause trouble, or do something along those lines in your absence, keep them close to you. Engage them in activities under the guise of friendship, such as entertainments, hunting, dining, conversation, or military service.
+If you fear that someone may complain about you, cause trouble, or do something along those lines in your absence, keep them close to you. Engage them in activities under the guise of friendship, such as entertainments, hunting, dining, conversation, or military service.
 Thus, to prevent neighboring nations from rebelling while you are engaged in another war, bring their leaders with you, accompanied by a small, trusted force, as if they were your most loyal allies.
 
 It will be useful to have a mirror in front of you while you sit at table or write, so that you may see what is being done behind your back.
@@ -506,13 +507,15 @@ Be cautious of sudden fame or glory, as people can become overwhelmed before the
 
 Do not criticize or condemn the vices or customs that are pleasing to the common people.
 
-If you know the perpetrator of a hateful act, do not expose yourself to new hatred. Avoid appearing to approve of the deed, taking glory in it, or mocking those who were harmed. Such actions greatly increase envy. It is better to be absent and remain silent about the deed.
+If you know the perpetrator of a hateful act, do not expose yourself to new hatred: avoid appearing to approve of the deed, taking glory in it, or mocking those who were harmed. Such actions greatly increase envy. It is better to be absent and remain silent about the deed.
 
 Avoid introducing novelties in your attire, appearance, or the banquets you host.
 
-When making laws, do not imply that people lack virtue. Instead, compel all to act uniformly.
+When making laws, do not imply that some people lack virtue. Instead, compel all to act uniformly.
 
-Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed.
+Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed[^hooper].
+
+[^hooper]: [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)'s [It's easier to ask forgiveness than it is to get permission.](https://en.wikiquote.org/wiki/Grace_Hopper#:~:text=magazine%20(July%201986)-,It%27s%20easier%20to%20ask%20forgiveness%20than%20it%20is%20to%20get%20permission.,-As%20quoted%20in)
 
 Make it a universal principle to speak neither positively nor negatively about anyone, not even a little.
 Do not report good or bad deeds, as the person you are speaking to may be a friend of the one you are discussing, and you may inadvertently offend them. Your words, possibly distorted and exaggerated, will eventually reach the person you are speaking about.
@@ -523,26 +526,26 @@ Be cautious of excessive generosity, as it may give the impression that you cons
 
 Avoid boasting that you will enforce the law more strictly and rigidly than your predecessors, as this may alienate friends. Even if you have the right to do so, only propose changes that you know will be well-received.
 
-Do not give any servant authority over others or deal with them in a way that suggests you are acting together, especially if they are disliked by the others. Do not praise or reward them unless their virtue is evident to all, as this may encourage others to emulate them.
+Do not give any servant authority over others or deal with them in a way that suggests you are acting together, especially if they are disliked.
+Do not praise or reward servants unless their virtue is evident to all, as this may encourage others to emulate them.
 
 If it becomes necessary to treat your people with severity, have others carry out the actions. Make it appear as though they are acting independently of your command. This way, if those affected complain, you can minimize the severity and blame those who executed it, as if they were solely responsible.
-For example, if discipline is lax, allow others, such as the Tribunes, to notice the need for correction and carry out harsh measures without specific instructions from you. They may resort to even harsher actions to avenge themselves, giving you the opportunity to show benevolence to those who appeal to you.
+For example, if discipline is lax, allow others, officials or supervisors, to notice the need for correction and carry out harsh measures without specific instructions from you. They may resort to even harsher actions to avenge themselves, giving you the opportunity to show benevolence to those who appeal to you.
 
 When someone else has earned glory through harsh actions, give them full credit. This way, you will receive the benefits without provoking envy. Doing so can also be seen as a form of glory.
 
-Attribute your good outcomes and successes to the influence, guidance, or advice of others. Act as if you had their support and wisdom.
-
+Attribute your good outcomes and successes to the influence, guidance, or advice of others. Act as if you received their support and wisdom.
 In success, claim nothing for yourself.
 
 Let your interactions, table, and clothing remain the same. If changes are necessary, make them subtly and gradually.
 
 If someone must be punished, either lead them to confess their own guilt or delegate the judgment to another person. Secretly order this person to pass a harsh sentence, which you can then soften to appear merciful.
 
-Do not insult the vanquished, nor your antagonist, and even if you conquer him, do not proclaim yourself the victor in deeds or words. Be content with true victory.
+Do not insult the vanquished, nor your antagonist, and even if you conquer someone, do not proclaim yourself the victor in deeds or words. Be content with true victory.
 
 If you must make a decision that may provoke envy, use ambiguous language. Present arguments for both sides, emphasizing the one you prefer. However, appear to conclude in favor of the other side or avoid stating a conclusion altogether.
 
-If someone asks you to intercede, promise to do so, but simultaneously indicate that the matter is not entirely within your control and the outcome may not be favorable.
+If someone asks you to intercede, promise to do so, but simultaneously indicate that the matter is not entirely within your control and that the outcome may not be favorable.
 
 If vengeance is to be taken through another or an unknown person, order the injured party to grant pardon to the offender, but secretly allow the offender to flee as soon as possible.
 
@@ -566,7 +569,7 @@ Do not deal openly with those who are hated by all, nor suggest advice to them.
 
 Never let it be known you were in a council in which hated things are believed to be done even against enemies, although you can be the author from afar.
 
-Do not find fault with anyone's deeds, do not criticize, do not inspect the duties of others. The places over which others preside, their fields, workshops, stables, etc. and places where they can see they are being observed. Do not go to these places of your own accord.
+Do not find fault with anyone's deeds, do not criticize or inspect the duties of others. Avoid the places where others preside—such as fields, workshops, or stables—as well as places where they can see that they are being observed. Do not go to these places of your own accord.
 
 Inquire very cautiously from servants and boys about their masters.
 

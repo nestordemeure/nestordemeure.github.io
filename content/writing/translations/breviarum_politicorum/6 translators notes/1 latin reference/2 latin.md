@@ -245,7 +245,7 @@ Nunquam tibi promittas, quod aliquis tuam actionem dubiam sit excusaturus, imo i
 
 Non referas, quomodo alias fueris diffamatus, vel injuria affectus, nam sic te magis diffamas, et erunt, qui approbent.
 
-Non valet hic illud Bernardi: *Excusa intentionem, si non potes opus*, ut dicant casu, aut inconsiderate peccasse, vel te tentandi gratia, ad malum sollicitasse.
+Non valet hic illud Bernardi: *Excusa intentionem, si opus non potes*, ut dicant casu, aut inconsiderate peccasse, vel te tentandi gratia, ad malum sollicitasse.
 
 Aliquando confidentius, maxime garrulis, secretum confide, ac roga, ne illud aliis detegant, scilicet te plurimum posse apud Potentes, habere cum aliis correspondentias etc.
 

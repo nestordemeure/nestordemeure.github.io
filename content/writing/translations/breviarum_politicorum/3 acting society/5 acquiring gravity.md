@@ -44,11 +44,11 @@ When praising or criticizing, avoid excessive exaggeration. Judge proportionatel
 
 Rarely display strong emotions, such as excessive joy, admiration, or other feelings.
 
-Demonstrate piety even with your closest friends.
+Demonstrate piety even in the presence of your closest friends.
 
 Even when you are most confident in your position, refrain from complaining about or accusing others.
 
-Do not give your subordinates too many tasks at once or tasks they cannot carry out. Doing so will lead them to either despise your commands or demonstrate that your orders were ill-advised.
+Do not give your subordinates too many tasks at once or tasks they cannot carry out. Doing so will either lead them to either despise your commands or demonstrate that your orders were ill-advised.
 
 Make no laws, or very few.
 

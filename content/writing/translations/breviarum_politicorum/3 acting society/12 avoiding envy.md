@@ -16,13 +16,15 @@ Be cautious of sudden fame or glory, as people can become overwhelmed before the
 
 Do not criticize or condemn the vices or customs that are pleasing to the common people.
 
-If you know the perpetrator of a hateful act, do not expose yourself to new hatred. Avoid appearing to approve of the deed, taking glory in it, or mocking those who were harmed. Such actions greatly increase envy. It is better to be absent and remain silent about the deed.
+If you know the perpetrator of a hateful act, do not expose yourself to new hatred: avoid appearing to approve of the deed, taking glory in it, or mocking those who were harmed. Such actions greatly increase envy. It is better to be absent and remain silent about the deed.
 
 Avoid introducing novelties in your attire, appearance, or the banquets you host.
 
-When making laws, do not imply that people lack virtue. Instead, compel all to act uniformly.
+When making laws, do not imply that some people lack virtue. Instead, compel all to act uniformly.
 
-Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed.
+Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed[^hooper].
+
+[^hooper]: [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)'s [It's easier to ask forgiveness than it is to get permission.](https://en.wikiquote.org/wiki/Grace_Hopper#:~:text=magazine%20(July%201986)-,It%27s%20easier%20to%20ask%20forgiveness%20than%20it%20is%20to%20get%20permission.,-As%20quoted%20in)
 
 Make it a universal principle to speak neither positively nor negatively about anyone, not even a little.
 Do not report good or bad deeds, as the person you are speaking to may be a friend of the one you are discussing, and you may inadvertently offend them. Your words, possibly distorted and exaggerated, will eventually reach the person you are speaking about.
@@ -33,26 +35,26 @@ Be cautious of excessive generosity, as it may give the impression that you cons
 
 Avoid boasting that you will enforce the law more strictly and rigidly than your predecessors, as this may alienate friends. Even if you have the right to do so, only propose changes that you know will be well-received.
 
-Do not give any servant authority over others or deal with them in a way that suggests you are acting together, especially if they are disliked by the others. Do not praise or reward them unless their virtue is evident to all, as this may encourage others to emulate them.
+Do not give any servant authority over others or deal with them in a way that suggests you are acting together, especially if they are disliked.
+Do not praise or reward servants unless their virtue is evident to all, as this may encourage others to emulate them.
 
 If it becomes necessary to treat your people with severity, have others carry out the actions. Make it appear as though they are acting independently of your command. This way, if those affected complain, you can minimize the severity and blame those who executed it, as if they were solely responsible.
-For example, if discipline is lax, allow others, such as the Tribunes, to notice the need for correction and carry out harsh measures without specific instructions from you. They may resort to even harsher actions to avenge themselves, giving you the opportunity to show benevolence to those who appeal to you.
+For example, if discipline is lax, allow others, officials or supervisors, to notice the need for correction and carry out harsh measures without specific instructions from you. They may resort to even harsher actions to avenge themselves, giving you the opportunity to show benevolence to those who appeal to you.
 
 When someone else has earned glory through harsh actions, give them full credit. This way, you will receive the benefits without provoking envy. Doing so can also be seen as a form of glory.
 
-Attribute your good outcomes and successes to the influence, guidance, or advice of others. Act as if you had their support and wisdom.
-
+Attribute your good outcomes and successes to the influence, guidance, or advice of others. Act as if you received their support and wisdom.
 In success, claim nothing for yourself.
 
 Let your interactions, table, and clothing remain the same. If changes are necessary, make them subtly and gradually.
 
 If someone must be punished, either lead them to confess their own guilt or delegate the judgment to another person. Secretly order this person to pass a harsh sentence, which you can then soften to appear merciful.
 
-Do not insult the vanquished, nor your antagonist, and even if you conquer him, do not proclaim yourself the victor in deeds or words. Be content with true victory.
+Do not insult the vanquished, nor your antagonist, and even if you conquer someone, do not proclaim yourself the victor in deeds or words. Be content with true victory.
 
 If you must make a decision that may provoke envy, use ambiguous language. Present arguments for both sides, emphasizing the one you prefer. However, appear to conclude in favor of the other side or avoid stating a conclusion altogether.
 
-If someone asks you to intercede, promise to do so, but simultaneously indicate that the matter is not entirely within your control and the outcome may not be favorable.
+If someone asks you to intercede, promise to do so, but simultaneously indicate that the matter is not entirely within your control and that the outcome may not be favorable.
 
 If vengeance is to be taken through another or an unknown person, order the injured party to grant pardon to the offender, but secretly allow the offender to flee as soon as possible.
 
@@ -76,7 +78,7 @@ Do not deal openly with those who are hated by all, nor suggest advice to them.
 
 Never let it be known you were in a council in which hated things are believed to be done even against enemies, although you can be the author from afar.
 
-Do not find fault with anyone's deeds, do not criticize, do not inspect the duties of others. The places over which others preside, their fields, workshops, stables, etc. and places where they can see they are being observed. Do not go to these places of your own accord.
+Do not find fault with anyone's deeds, do not criticize or inspect the duties of others. Avoid the places where others preside—such as fields, workshops, or stables—as well as places where they can see that they are being observed. Do not go to these places of your own accord.
 
 Inquire very cautiously from servants and boys about their masters.
 

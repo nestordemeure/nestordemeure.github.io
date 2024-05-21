@@ -29,7 +29,9 @@ If you wish to give something pleasing to a particular person, do not promise it
 
 Those who praise their own possessions in front of others are inviting them to ask for those things.
 
-Avoid hastily criticizing the practices established by your predecessors, as they may have foreseen issues that you have not yet considered.
+Avoid hastily criticizing the practices established by your predecessors, as they may have foreseen issues that you have not yet considered[^chesterton].
+
+[^chesterton]: This principle is now famous as [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence).
 
 Likewise, do not readily grant perpetual favors, because it may be necessary to change them later, and you will no longer be able to do so.
 

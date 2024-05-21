@@ -11,13 +11,11 @@ Never assume that someone will keep a secret if you act or speak too freely or c
 Never assume that someone will excuse your questionable behavior; in fact, they will likely interpret it in the worst possible way. To prevent this, avoid engaging in any actions that could be seen as questionable, even if there is only one witness.
 
 Do not relate how you were previously defamed or wronged, for you will only defame yourself further and there will be those who approve.
-When your actions are questioned, the saying "Excuse the intention if you cannot excuse the deed" does not apply. Others may claim that you acted wrongfully by accident, without thought, or that you deliberately sought out evil to test them.
+When your actions are questioned, the saying ["Excuse the intention even if you cannot excuse the deed"](https://archive.org/details/St.BernardOnTheSongOfSongs/page/n234/mode/1up#:~:text=Excuse%20his,excuse%20the%20act) does not apply as some may claim that you acted wrongfully by accident, without thought, or that you deliberately sought out evil to test them.
 
 At times, particularly with talkative individuals, you can strategically share a secret, asking them not to reveal it to others. For example, confide that you have significant influence with powerful people or maintain correspondence with them. To support this claim, write letters to these powerful individuals out of sight, seal them, and make a show of destroying the replies you have carelessly kept. However, be cautious with this tactic, as people may distort information they only partially hear.
 
-Boast that you have never harmed anyone.
-
-If you have helped someone, especially in front of this person, say that you expect a crown from God for your good deeds. You can give examples invented on the spot to support your claim.
+Boast that you have never harmed anyone and that, if there had to be one thing for which you expect a divine reward, it is this. You can give examples invented on the spot to support your claim.
 
 Whatever is to be made public, no matter how small, do it as perfectly as possible, because often a long-lasting reputation depends on a single act.
 
@@ -45,4 +43,4 @@ What you can do, correct, or punish through servants, do not do yourself. You do
 
 Do not dispute uncertain things, unless you know you will certainly win.
 
-If you arrange a banquet, share your fortune with the servants of the guests. This is a talkative crowd with significant influence in spreading a bad reputation. A generous gesture should captivate their attention, preventing them from prying into other matters. Similarly, deal generously with the barber and the prostitute.
+If you arrange a banquet, share your fortune with the servants of the guests. This is a talkative crowd with significant influence in spreading a bad reputation. A generous gesture should captivate their attention, preventing them from prying into other matters. Similarly, deal generously with barbers and prostitutes.

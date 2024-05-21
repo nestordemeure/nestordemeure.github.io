@@ -150,3 +150,42 @@ add page on my positions and interpretations:
 * unferth
 * ealuscerwen
 * christianism
+
+## Further thoughts
+
+#### What is it?
+
+I think that a big part of the attraction of the work, similarly to ACAAN, is that it is a puzzle with many answers but few ways to check them.
+Seemingly simple questions like when was the poem composed? When was it written? By whom? And why? Have no agreed upon simple answer.
+
+For the rest of this work, I will work under the, somewhat arbitratry, assumption that the poem was written by an English monk, or other member of a spiritual group (someone who knew how to right and had a clear christian bend), maybe a talented and recognised writer in their own right (i cannot judge much of the writing style but it has been praised), commisioned by a noble (or thoerwise rich enough to ask for something to be written) of scandinavian descent (the poem is peculiar in that it is an english poem, writen in old english, yet about scandinavian people in scandinavia) asking for their favorite story to be put to paper (this would explain the idiosynchrocies of the text, after all it is the only epic with have in old english and to this day it is the favorite story of a surprisingly large number of people).
+
+Those might all seem obvious, strightforward, hypotheses to some reader but the academic litterature contains several solid hypothesis on the genesis of the text where only some, or even none, of those hypothesis are true.
+The text gives us very little to work with and a story of its genesis is at best a story we tell ourself to guide our perspective on it.
+
+#### Christianism in Beowulf
+
+Christian themes in Beowulf can be split into two categories: those in the narrator's voice and those in a character's voice.
+
+I am far from the first to have remarked that christian incisions by the narrator are trivial to excise which made me, as many others before me, suspicious of the fact that they are later adition.
+
+However, some characters, like king Hrothgar, are clearly speaking in religious terms. Even Beowulf has been obversed (source) to speak in more religious terms when he talks to Hrothgar, meaning that a character is addapting his vocabulary when talking to this explicitly religious other character!
+But to which god did Hrohgar pray?
+Tolkien makes the observation that all of his family members (as well as Heorot itself) have names hinting at them being followers and servants of Freyr.
+
+In that light, it seem very plausable that a prechistian story was christianized at a later point, changing the god being refered to as well as adding christian incisions.
+
+#### The Unferth quandary
+
+Unferth has gotten a lot of attention because, i believe, he feels like a character that should be important and have a deep background, yet the poem gives us very little.
+
+His name, which roughly trnslates to "unfriend" already is very much a folktale name where all other characters are made to sound historic.
+Tolkien belived that he came from a larger corpus of story and that the reader would already know stories of Heorot where an antagonistic interaction with Unferth was expected. I have however not been able to found trace of such story, or agrement on their existence, in the academic litterature.
+My personal take on that name is that it might have been lost and reinvented between the creation of the story and its transcription. But this might not be it, our original writer might just have liked to make the character's role very clear to his readers.
+
+Later, Unferth is accused by Beowulf of killing his brothers. A strong accusation that is never revisited nor explained (part of what prompted Tolkien to expect a further corpus of stories).
+Some have tried to draw a link with Cain, which is linked to all monsters in the story, but the parallel lacks strength as Unferth has no known link to Grendel nor larger ties to Cain.
+My personnal explaination for this surpriingly strong and unexplained call out is a translation problem: I believe that Beowulf accused Unferth of *letting* his brothers (meaning the other Danes) die. rather than of killing biological borthers.
+
+Finally, after his change of mind regarding Beowulf, why did Unferth sword, a legendary family heirloom he lent /beowulf, not work against the monster?
+This is a question only the writer could answer. My personal feeling is that the surprising failure of the sword is good writing, it keeps us on our toes as to what the hero will be able to do.
