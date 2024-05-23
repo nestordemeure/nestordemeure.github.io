@@ -85,7 +85,7 @@ A paper is also available in the [proceedings of the conference](https://cug.org
 
 #### [Workshop: Introduction to porting Python to GPU with JAX.](https://youtu.be/YhXUymsQ_3g?list=PL20S5EeApOStvfX3byEoJe-Z93D64xaLE) (high-performance computing)
 
-This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022* and *NUG Meeting 2022*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
+This workshop (given in 2022 for the *Commonwealth Computational Summit 2022* and later at the *Data Day 2022*, *NUG Meeting 2022*, and *Laboratoire Astroparticule & Cosmologie 2024*) is an introduction to porting Python code, and in particular numerical and scientific applications, to GPU with [JAX](https://github.com/google/jax).
 
 It comes with [exercises](https://drive.google.com/drive/folders/12SO8IwMv2CP6vRmtgWwJ9Xekw8a2B-aT?usp=sharing) and is designed such that, by the end of the workshop, someone starting with knowledge of Python and Numpy should be able to port their code to GPU using JAX *and* decide on whether it is the best way forward.
 

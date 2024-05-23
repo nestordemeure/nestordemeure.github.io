@@ -189,3 +189,5 @@ My personnal explaination for this surpriingly strong and unexplained call out i
 
 Finally, after his change of mind regarding Beowulf, why did Unferth sword, a legendary family heirloom he lent /beowulf, not work against the monster?
 This is a question only the writer could answer. My personal feeling is that the surprising failure of the sword is good writing, it keeps us on our toes as to what the hero will be able to do.
+
+#### Ealuscerwen Obviously
