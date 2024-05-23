@@ -6,7 +6,7 @@ weight: -17
 images:
 ---
 
-As much as possible, be silent and listen to the advice of others, and carefully weigh it in your mind.
+As much as possible, be silent, listen to the advice of others, and carefully weigh it in your mind.
 
 Take care not to be carried away by the passion of love.
 
@@ -14,7 +14,7 @@ Do not value your own words and deeds too highly.
 
 Do not occupy yourself with useless matters that will be of no future use.
 
-Finally, do not entangle yourself in the affairs of others.
+Do not entangle yourself in the affairs of others.
 
 Freely give others credit for accomplishments, even if you have greatly contributed to the project. By doing so, you will receive even greater recognition in return, without inciting envy.
 
@@ -36,16 +36,15 @@ If someone incites you to do something, see that they offer themselves as a part
 
 Before making a request, offering advice, or undertaking any business, research similar cases and historical judgments to guide your decisions.
 
-The rhetoricians should be reread from time to time; they suggest ways of stirring up envy, retorting, excusing, diminishing, etc.
+The rhetoricians should be reread from time to time. Study their suggestions to do such things as stirring up envy, retorting, excusing, and diminishing someone.
 
 Strive for ambiguity in your statements, making your position appear clear to both parties without committing to a definite conclusion. This technique of double meaning, as employed by Aristotle according to [Nazianzus](https://en.wikipedia.org/wiki/Gregory_of_Nazianzus)[^aristotle], can be useful in various situations.
-Use this technique in books, in odious letters and counsel, presenting arguments for both sides of an issue while minimally revealing your own position.
-In addition to using ambiguous language, you can express your desires, make requests, or declare your affection through rhetorical techniques.
+Use this technique in books, in tedious letters, and in advice, presenting arguments for both sides of an issue while minimally revealing your own position.
+You can use a wide range of rhetorical techniques, in addition to using ambiguous language, to express your desires, make requests, or declare your affection.
 
-[^aristotle]: While I could not find trace of Gregory of Nazianzus mentioning it, Aristotle *did* write about the topic in his [Sophistical refutations](https://en.wikipedia.org/wiki/Syntactic_ambiguity#:~:text=Aristotle%20writes%20about%20an%20influence%20of%20ambiguities%20on%20arguments%20and%20also%20about%20this%20influence%20depending%20on%20either%20combination%20or%20division%20of%20words%3A).
+[^aristotle]: Aristotle *did* write about the topic in his [Sophistical refutations](https://en.wikipedia.org/wiki/Syntactic_ambiguity#:~:text=Aristotle%20writes%20about%20an%20influence%20of%20ambiguities%20on%20arguments%20and%20also%20about%20this%20influence%20depending%20on%20either%20combination%20or%20division%20of%20words%3A).
 
 Allow others to criticize you, even if their claims are false. Do not defend yourself, as this will encourage them to continue. Instead, show appreciation for useful advice.
-
 Ignore useless remarks, but acknowledge some, even if they are false. This will make you appear flexible and not overly concerned with being right all the time.
 
 Train yourself to always be able to provide arguments for both sides of an issue; to accomplish this, study the techniques of rhetoricians and their methods of justification.
@@ -70,7 +69,7 @@ Divide the page into four columns to record the following:
 
 Put these rules into practice each day in conversation.
 
-Whether you receive correction from a superior justly or unjustly, always refrain from criticizing them in the presence of others and speak well of them."
+Whether you receive correction from a superior justly or unjustly, always refrain from criticizing them in the presence of others and speak well of them.
 
 As much as possible, promise nothing to anyone in writing, especially to women.
 

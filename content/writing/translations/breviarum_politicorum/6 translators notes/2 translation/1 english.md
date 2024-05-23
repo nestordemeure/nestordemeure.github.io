@@ -515,7 +515,7 @@ When making laws, do not imply that some people lack virtue. Instead, compel all
 
 Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed[^hooper].
 
-[^hooper]: [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)'s [It's easier to ask forgiveness than it is to get permission.](https://en.wikiquote.org/wiki/Grace_Hopper#:~:text=magazine%20(July%201986)-,It%27s%20easier%20to%20ask%20forgiveness%20than%20it%20is%20to%20get%20permission.,-As%20quoted%20in)
+[^hooper]: [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)'s ["It's easier to ask forgiveness than it is to get permission."](https://en.wikiquote.org/wiki/Grace_Hopper#:~:text=magazine%20(July%201986)-,It%27s%20easier%20to%20ask%20forgiveness%20than%20it%20is%20to%20get%20permission.,-As%20quoted%20in)
 
 Make it a universal principle to speak neither positively nor negatively about anyone, not even a little.
 Do not report good or bad deeds, as the person you are speaking to may be a friend of the one you are discussing, and you may inadvertently offend them. Your words, possibly distorted and exaggerated, will eventually reach the person you are speaking about.
@@ -598,13 +598,13 @@ Do not act on information without verifying it first.
 First, examine a person's motives and assess whether they are consistent with their claimed actions, typical behavior, or the actions they are suspected of committing.
 Additionally, note if the person is acting more passionately or more cautiously than they typically do.
 
-If a person is not acting in their own interest, or if they abruptly change their stance with great zeal, it may indicate that they have been bribed.
+If a person is not acting in their own interest, or if they abruptly and enthusiastically change their stance, it may indicate that they have been bribed.
 
 If a person does not agree after their stated reasons have been thoroughly disproven, they are not genuinely motivated by those reasons.
 
 Likewise, if someone offers excessively complex, subtle, implausible, unnatural, or trivial arguments while passionately advocating for a cause, it indicates that they are not acting in their own interest.
 
-If an individual advocates for the same position on multiple occasions but offers different justifications each time, disregarding their previous reasons, it is likely because people often struggle to remember arguments that do not stem from their own ideas.
+If an individual advocates for the same position on multiple occasions but offers different justifications each time, disregarding their previous reasons, it is likely because people often struggle to remember arguments that are not their own.
 
 Send someone to approach the person confidently in the name of friendship and to frankly inquire about the cause. This will uncover the person's true motivations.
 
@@ -615,13 +615,14 @@ Otherwise, you will either arouse distrust towards yourself or incite hatred bet
 
 Never increase severity toward those you govern unless you also increase rewards or benefits at the same time; otherwise, you will either incur hatred or contempt. If you increase both severity and rewards, you will mix love with fear.
 
-If you introduce something new that offends others or your superior, present it as a common occurrence, and the widespread nature of the fault will lessen the envy towards you.
+If you introduce something new that offends others or your superior, present it as a common occurrence, the widespread nature of the fault will lessen the animosity towards you.
 
 If you are believed to be the source of an unpopular policy, openly perform good deeds among the people, such as reducing taxes or punishments, especially for those well-liked by the public.
 
 If you are planning something unusual, first meet secretly with a theologian or another influential figure and win this person over to your side, so that they may publicly advise, promote, and even compel you to follow through with your plan.
 
-When you are about to impose new laws, demonstrate their necessity and deliberate with the prudent about establishing them. Alternatively, let there be a rumor that you sought their counsel, making you appear more prudent. You can then, rejecting their advice, impose other laws by your own judgment.
+When you are about to impose new laws, demonstrate their necessity and deliberate with the prudent about establishing them. Alternatively, let there be a rumor that you sought their counsel, making you appear more prudent.
+You can then, ignoring their advice, impose other laws by your own judgment.
 
 Do not procure a wife, maidservant, or other personal roles for anyone, or persuade them to a certain state of life.
 
@@ -635,7 +636,7 @@ Even if you personally disagree, follow the more lenient opinion in matters of c
 
 In the presence of no one should you show that you have power over superiors or have obtained a favor.
 
-In the presence of no one should you reveal your opinion about another in any confidence.
+Similarly, you should never reveal your opinion about another in any confidence.
 
 Always please a superior by generating profit or benefits, regardless of your position.
 
@@ -645,23 +646,23 @@ If you hear that a presumed friend has spoken ill of you, do not reproach them. 
 
 Do not wish to know all the secrets of the great. If it happens to be divulged from elsewhere, suspicion will oppress you.
 
-If someone is going to do something pleasing to you, e.g. congratulate, greet, etc., show that it is most pleasing to you. Otherwise, you will overturn it in the future.
+If someone does something pleasing to you, such as congratulating or greeting you, show that it is most pleasing to you. Otherwise, you might not receive such gestures in the future.
 
 If someone does not keep their word or deed as promised, do not reproach them. You will gain nothing but hatred.
 
-As much as you can, allow yourself to be defeated by your lord in games, in which the contest is always about glory, not about any loss to you. Thus, you are strong if you conquer others, even if you are conquered by your lord alone.
+As much as you can, allow yourself to be defeated by your lord in those games in which the contest is about glory, not about any loss to you. You are strong if you conquer others, even if you are conquered by your lord alone.
 
 In whatever familiarity you may have with your lord, never forget reverence and submission. Otherwise, he will think that familiarity breeds contempt.
 
 Do not boast that you have won someone over to your side by your counsel, even if he was willing. He will resist more in the future.
 
-Do not insult the bad outcome of one who did not obey your counsel. Rather, excuse the outcome in the executor.
+Do not insult the bad outcome of one who did not obey your counsel. Rather, excuse the person who carried out the action.
 
 To one boasting of his wealth, strength, dexterity in leaping, counsel, aid—do not act in a way that suggests you are not enjoying it. If you know his ignorance, feign ignorance yourself.
 
-However, if you have been gravely injured by a superior, not only do not complain, but do not even let him notice that you were injured, because they hate the one they have injured.
+If you have been gravely injured by a superior, not only do not complain, but do not even let him notice that you were injured, because they hate the one they have injured.
 
-Praise even the smallest gifts as the greatest, if from your lord. Boast that you love him supremely, show it.
+Praise even the smallest gifts as the greatest, if they come from your lord. Proclaim and show that you love then supremely.
 
 Refuse dignities with your whole heart, and do not let many things be conferred on you that shine greatly but bring little utility.
 
@@ -673,7 +674,7 @@ For example, before a battle, a commander should announce compensation for speci
 
 ### Acquiring Prudence
 
-As much as possible, be silent and listen to the advice of others, and carefully weigh it in your mind.
+As much as possible, be silent, listen to the advice of others, and carefully weigh it in your mind.
 
 Take care not to be carried away by the passion of love.
 
@@ -681,7 +682,7 @@ Do not value your own words and deeds too highly.
 
 Do not occupy yourself with useless matters that will be of no future use.
 
-Finally, do not entangle yourself in the affairs of others.
+Do not entangle yourself in the affairs of others.
 
 Freely give others credit for accomplishments, even if you have greatly contributed to the project. By doing so, you will receive even greater recognition in return, without inciting envy.
 
@@ -703,16 +704,15 @@ If someone incites you to do something, see that they offer themselves as a part
 
 Before making a request, offering advice, or undertaking any business, research similar cases and historical judgments to guide your decisions.
 
-The rhetoricians should be reread from time to time; they suggest ways of stirring up envy, retorting, excusing, diminishing, etc.
+The rhetoricians should be reread from time to time. Study their suggestions to do such things as stirring up envy, retorting, excusing, and diminishing someone.
 
 Strive for ambiguity in your statements, making your position appear clear to both parties without committing to a definite conclusion. This technique of double meaning, as employed by Aristotle according to [Nazianzus](https://en.wikipedia.org/wiki/Gregory_of_Nazianzus)[^aristotle], can be useful in various situations.
-Use this technique in books, in odious letters and counsel, presenting arguments for both sides of an issue while minimally revealing your own position.
-In addition to using ambiguous language, you can express your desires, make requests, or declare your affection through rhetorical techniques.
+Use this technique in books, in tedious letters, and in advice, presenting arguments for both sides of an issue while minimally revealing your own position.
+You can use a wide range of rhetorical techniques, in addition to using ambiguous language, to express your desires, make requests, or declare your affection.
 
-[^aristotle]: While I could not find trace of Gregory of Nazianzus mentioning it, Aristotle *did* write about the topic in his [Sophistical refutations](https://en.wikipedia.org/wiki/Syntactic_ambiguity#:~:text=Aristotle%20writes%20about%20an%20influence%20of%20ambiguities%20on%20arguments%20and%20also%20about%20this%20influence%20depending%20on%20either%20combination%20or%20division%20of%20words%3A).
+[^aristotle]: Aristotle *did* write about the topic in his [Sophistical refutations](https://en.wikipedia.org/wiki/Syntactic_ambiguity#:~:text=Aristotle%20writes%20about%20an%20influence%20of%20ambiguities%20on%20arguments%20and%20also%20about%20this%20influence%20depending%20on%20either%20combination%20or%20division%20of%20words%3A).
 
 Allow others to criticize you, even if their claims are false. Do not defend yourself, as this will encourage them to continue. Instead, show appreciation for useful advice.
-
 Ignore useless remarks, but acknowledge some, even if they are false. This will make you appear flexible and not overly concerned with being right all the time.
 
 Train yourself to always be able to provide arguments for both sides of an issue; to accomplish this, study the techniques of rhetoricians and their methods of justification.
@@ -737,7 +737,7 @@ Divide the page into four columns to record the following:
 
 Put these rules into practice each day in conversation.
 
-Whether you receive correction from a superior justly or unjustly, always refrain from criticizing them in the presence of others and speak well of them."
+Whether you receive correction from a superior justly or unjustly, always refrain from criticizing them in the presence of others and speak well of them.
 
 As much as possible, promise nothing to anyone in writing, especially to women.
 
@@ -749,7 +749,9 @@ Reflect on your own action after it has passed, and on another's - what it lacke
 
 ### Acting Cautiously
 
-Being cautious involves two aspects: *cautious trust* and a certain *generosity*. *Cautious trust* means being on guard even with friends, as some friendships exist to deceive, and trusting no one without reason to suspect them. *Generosity*, in this context, means refraining from indiscriminately telling the truth or correcting others' errors and habits, while maintaining a pretense of doing so, although this is not entirely harmless.
+Being cautious involves two aspects: *cautious trust* and a certain *generosity*.
+*Cautious trust* means being on guard even with friends, as some friendships exist to deceive, and trusting no one without reason to suspect them.
+*Generosity*, in this context, means refraining from indiscriminately telling the truth or correcting others' errors and habits, while maintaining a pretense of doing so, although this is not entirely harmless.
 
 Entrust a secret to no one, because anyone can become an enemy at any moment.
 
@@ -757,7 +759,7 @@ Do nothing when distracted by life's joys, or you will make mistakes and betray 
 
 Do not assume that anyone will interpret your actions favorably, as people who do so are exceedingly rare.
 
-Entrust nothing to letters that you would not want read by a third party; in fact, put his praises in them, so that they may come into his hands.
+Entrust nothing to letters that you would not want read by a third party; in fact, put praises in them, so that they may come into their hands.
 
 If someone tries to extract information from you by pretending to know it already, do not correct their errors.
 
@@ -770,7 +772,7 @@ Moreover, do favors for the leaders of your enemies and maintain correspondence 
 
 Avoid acting solely for the sake of appearances, unless you are prepared to justify your actions. People will condemn your deeds without waiting for an explanation, and in this era, even certain virtues are condemned, let alone questionable ones.
 
-If inferiors and servants ask something of you, order them to leave it in writing for you, so that you may be able to inspect all the circumstances more closely. You, however, give responses only orally.
+If inferiors and servants ask something of you, order them to leave it in writing for you, so that you may be able to inspect all the circumstances more closely. You, however, should give responses only orally.
 
 When conversing in situations where your words may be used against you, preemptively claim that you often speak in jest, exploring contradictory ideas and occasionally being mischievous. This way, if you say something incautious, you can excuse it by reminding others of your earlier disclaimer.
 
@@ -784,7 +786,7 @@ Do not readily give advice to the more ferocious and impetuous; they judge by th
 
 Where it is believable that you are being observed, speak very little; there is an easy lapse in many things.
 
-In everything, observe vices and virtues, so that if there is need, you may be able to turn to one part or the other: this will be an armory useful for many things.
+In everything, observe vices and virtues, so that if there is need, you may be able to turn to one part or the other: those weapons will prove useful for many things.
 
 Have shutters on the insides of windows, and let the part where they meet the windows be black, so that it cannot be discerned whether the window is closed or not.
 
@@ -792,14 +794,15 @@ Have shutters on the insides of windows, and let the part where they meet the wi
 
 Arrange a signal with your servant beforehand. When they receive the signal, have them call you away as if for urgent business. They can whisper in your ear, send a messenger with letters, or announce that harm has been done or that there are disturbances among your subjects.
 
-Have a doctor forbid you from speaking or drinking, etc.
+Have a doctor forbid you from speaking or drinking.
 
-Have a saddled horse brought, as if you are about to depart.
+Have a saddled horse brought, as if you were about to depart.
 
 Give oats to your guest's horses, but first shake a wolf skin over them, or provide a stable where a wolf's carcass has been buried.
-This will keep them restless.
+This will make them restless.
 
-Provide a bedroom with a specially prepared bed near windows. If it starts raining, open the windows. Block the fireplace so that it smokes, and initially light the furnace.
+Provide a bedroom with a specially prepared bed near windows that are kept open when it starts raining.
+lock the fireplace so that it smokes, and light the furnace before offering the room.
 
 ### Conversing with Others
 

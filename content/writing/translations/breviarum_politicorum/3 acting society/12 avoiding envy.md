@@ -24,7 +24,7 @@ When making laws, do not imply that some people lack virtue. Instead, compel all
 
 Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed[^hooper].
 
-[^hooper]: [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)'s [It's easier to ask forgiveness than it is to get permission.](https://en.wikiquote.org/wiki/Grace_Hopper#:~:text=magazine%20(July%201986)-,It%27s%20easier%20to%20ask%20forgiveness%20than%20it%20is%20to%20get%20permission.,-As%20quoted%20in)
+[^hooper]: [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)'s ["It's easier to ask forgiveness than it is to get permission."](https://en.wikiquote.org/wiki/Grace_Hopper#:~:text=magazine%20(July%201986)-,It%27s%20easier%20to%20ask%20forgiveness%20than%20it%20is%20to%20get%20permission.,-As%20quoted%20in)
 
 Make it a universal principle to speak neither positively nor negatively about anyone, not even a little.
 Do not report good or bad deeds, as the person you are speaking to may be a friend of the one you are discussing, and you may inadvertently offend them. Your words, possibly distorted and exaggerated, will eventually reach the person you are speaking about.
