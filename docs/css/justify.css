@@ -1,6 +1,6 @@
 /* to justify all text in posts */
 .post-content,
-.content {
+.posts .content {
     text-align: justify;
     hyphens: auto;
 }
