@@ -151,6 +151,12 @@ add page on my positions and interpretations:
 * ealuscerwen
 * christianism
 
+The summary in beowulf could be a "previously in beowulf" type of thing
+Hinting at a story break just before
+
+I very much like the view that the poem is multitude, containing several genre
+But also, the fact that it might just... not be a masterpiece but rather a text that survived and in which we are now trying to find value
+
 ## Further thoughts
 
 #### What is it?

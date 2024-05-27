@@ -13,15 +13,16 @@ If someone wrongs you, it is best to conceal your true feelings. Quarreling only
 Respond to those who criticize or oppose you in the best way possible, sometimes speaking ironically or maliciously. Respond candidly to their words, not to their intention, and meanwhile pretend to be occupied with other cares.
 
 If someone accosts you on the road, without naming you directly, but denouncing a deed you are suspected of, strongly condemn the deed and the wickedness of those who commit such acts. Pretend to be unaware of any involvement or feign misunderstanding and respond about entirely different matters.
-But if he even names you, act as if he were not seriously rising up against you, but feigning anger. Then add humorous remarks that do not insult him, but rather put him in a cheerful mood. Alternatively, criticize yourself alongside him as if there were a third party involved, and you would complain more than he would.
+But if he names you, act as if he were not seriously rising up against you, but feigning anger. Then add humorous remarks that do not insult him, but rather put him in a cheerful mood. Alternatively, criticize yourself alongside him as if there were a third party involved, and you would complain more than he would.
 And after they have left off, show by lighter means how futilely those things, though excellently denounced, were exaggerated, and how trivial the cause is.
 
 If someone receives you in an inappropriate manner, conceal your resentment and act as if you had been received honorably. Thus, his rudeness will be its own punishment and a source of confusion for him. He may then try to compensate for his error by showing kindness.
 
-If someone openly criticizes newly bestowed honors, defending their cause will demonstrate your nobility. Praise the merits of long-standing lineage, and apply the same reasoning to other cases.
+If someone openly criticizes newly bestowed offices, defending their cause will demonstrate your nobility. Praise the merits of long-standing lineage, and apply the same reasoning to other cases.
 
-If you are openly assailed with abuse, so that there is no place for dissimulation, have jocular responses ready at hand, or begin some little story, which will be relevant to the matter in any case, through which, however, a way may be prepared for other discussions to follow.
-In such situations, have someone prepared to present letters to you at a predetermined signal. After reading the letters, mention that an amusing incident has occurred, which may conveniently draw the person away to witness it.
+If you are openly insulted, so that there is no place for dissimulation, have a ready humorous response, or begin a story that is somewhat relevant to the matter, through which a path may nevertheless be prepared for other discussions to follow.
+
+Have someone prepared to present letters to you at a predetermined signal for such situations. After reading the letters, mention that an amusing incident has occurred, to which you are unexpectedly called to attend.
 
 Allow the offender time to recognize the inappropriateness of their actions on their own. However, refrain from pointing out this realization to them, as it may be perceived as an attempt to provoke their anger.
 

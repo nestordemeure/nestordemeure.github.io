@@ -16,12 +16,12 @@ If entrusted with a secret, either decline to accept it or keep it strictly conf
 
 Avoid accepting responsibility for others' money or belongings.
 
-When dealing with men suspected of being talkative, stick to customary greetings and small talk.
+When dealing with men you suspect of being talkative, stick to customary greetings and small talk.
 
-Avoid voluntarily promising to intercede on someone's behalf; if your efforts are unsuccessful, you will be troubled.
+Avoid promising to intercede on someone's behalf; if your efforts are unsuccessful, you will be troubled.
 
 Do not personally oversee the work of craftsmen.
 
-Have no dealings with complaining, groaning women and the obstinate.
+Have no dealings with complainers, groaning women, and the obstinate.
 
 If you must go to places that you dislike, refuse to conduct business there. Instead, act as if the places were meant for other purposes.

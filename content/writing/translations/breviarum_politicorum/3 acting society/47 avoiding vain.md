@@ -8,7 +8,7 @@ images:
 
 When dealing with a serious matter, let others focus on trivial aspects like applause and glory.
 
-If an enemy wishes to surrender a city, offer them the most honorable conditions. Make them believe they are doing you a favor rather than being conquered. Let him depart with his banners unfurled and provide him with all the symbolic trappings of victory. In exchange, ensure that he yields the lands, hands over the captives, and leaves behind the gold and fortifications before sunset.
+If an enemy wishes to surrender a city, offer them the most honorable conditions. Make them believe they are doing you a favor rather than being conquered. Let them depart with their banners unfurled and provide them with all the symbolic trappings of victory. In exchange, ensure that they yield the lands, hand over the captives, and leave behind the gold and fortifications before sunset.
 
 This principle also applies to matters valued for their intricacy or diversity, such as artistic or creative works. Let others have these things as a reward, but do not seek them for yourself.
 

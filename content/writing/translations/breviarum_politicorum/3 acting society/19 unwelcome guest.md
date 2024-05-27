@@ -16,4 +16,4 @@ Give oats to your guest's horses, but first shake a wolf skin over them, or prov
 This will make them restless.
 
 Provide a bedroom with a specially prepared bed near windows that are kept open when it starts raining.
-lock the fireplace so that it smokes, and light the furnace before offering the room.
+Block the fireplace so that it smokes, and light the furnace before offering the room.

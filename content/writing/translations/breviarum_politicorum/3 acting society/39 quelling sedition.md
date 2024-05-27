@@ -14,4 +14,4 @@ Offer great rewards to whoever quells the sedition, suggests a way to resolve it
 
 If the people are rebellious or unruly, they must above all be guided towards virtue by good men. Instilling the fear of God and piety is essential, as these alone will make them more compliant.
 
-Spread false rumors accusing the instigators of the factions of seeking hidden private gain and dominion at the expense of the people's well-being and lives. Emphasize that they will not benefit from their actions.
+Spread false rumors accusing the instigators of the factions of secretly seeking private gain and dominion at the expense of the people's well-being and lives. Emphasize that they will not benefit from their actions.

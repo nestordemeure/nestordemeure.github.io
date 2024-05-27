@@ -10,5 +10,5 @@ To get an honest opinion about your actions, pretend that someone else is descri
 
 Remember that people have different views, and keep in mind that friends may be more forgiving in their evaluation.
 
-If you receive measured praise, you can be more confident in the opinion's sincerity.
-Giving some praise is considerate. On the other hand, offering no praise, prying into the matter, and disapproving of everything about the deed is unkind.
+If you receive measured praise, you can be more confident in the opinion's sincerity, giving some praise is considerate.
+On the other hand, offering no praise, prying into the matter, and disapproving of everything about the deed is unkind.
