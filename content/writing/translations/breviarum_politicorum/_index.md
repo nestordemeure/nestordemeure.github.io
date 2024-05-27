@@ -22,15 +22,6 @@ Cardinal Jules Mazarin, [National Gallery of Art](https://www.nga.gov/collection
 </small>
 
 <!--
-TODO second translation:
-* fully recheck translation manually
-* improve on introuction?
-  * introducing a better final hook?
-  * mentionning the fact that it has applications to love and friendships
-  * the public personna
--->
-
-<!--
 Latex/paper edition:
 content:
 letrine at the beginning of each chapter
@@ -46,5 +37,6 @@ cover:
 [gallimar](https://www.grapheine.com/en/history-of-graphic-design/history-of-book-covers-4) style minimalistic cover (no illustration or just the shape of a cardinal's hat (but mazarin used to go with a minimalistic hat))
 *but* writen in white (or cream, but not goldish, to avoid it getting yellow with time) on a cardinal red background (making it pop)
 
+illustration:
 https://en.wikipedia.org/wiki/%C3%89minence_grise#/media/File:G%C3%A9r%C3%B4me_Eminence_grise_1873.jpg
 -->
