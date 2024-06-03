@@ -92,6 +92,6 @@ Finally, and at a significantly lower price (if not free), [most *public librari
 
 I highly recommend ebooks as a way to reduce bulk and increase reading comfort. Obviously, *reading ebooks does not mean letting go of paper*. I do buy paper editions of books I love, and have already read on my phone. Buying a physical edition is a way to further support authors[^support] and they are a lot easier to lend to friends.
 
-[^support]: [If statistics are to be believed](https://www.davidderrico.com/cost-breakdowns-e-books-vs-printed-books/#:~:text=Cost%20breakdowns%20for%20print%20books%20vs.%20e%2Dbooks), authors get the most money out of a sell when you buy a hardback, followed by ebooks, and finally paperbacks.
+[^support]: [If statistics are to be believed](https://www.davidderrico.com/cost-breakdowns-e-books-vs-printed-books/#:~:text=Cost%20breakdowns%20for%20print%20books%20vs.%20e%2Dbooks), authors get the most money out of a sale when you buy a hardback, followed by ebooks, and finally paperbacks.
 
 Reading an ebook *feels weird* the first time, but you quickly get used to it: give it a try!
