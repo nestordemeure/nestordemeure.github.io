@@ -51,7 +51,7 @@ On a screen, such as a phone, I recommend using a [*light-on-dark color scheme*]
 
 I also recommend *increasing font size*; defaults tend to be too small. I usually increase the text size until it feels too large then take a step back from that point.
 
-I have no strong personal preference as to font type[^serif], but there is [research hinting at sans-serif fonts being better if you have trouble reading](https://geniusee.com/single-blog/font-readability-research-famous-designers-vs-scientists). However, those are minor differences dwarfed by other factors like font size.
+I have no strong personal preference as to font type[^serif], but there is [research hinting at *sans-serif fonts* being better if you have trouble reading](https://geniusee.com/single-blog/font-readability-research-famous-designers-vs-scientists). However, those are minor differences dwarfed by other factors like font size.
 
 [^serif]: I do think that [serif fonts](https://en.wikipedia.org/wiki/Serif) evoke the feeling of reading a book stronger than sans-serif fonts, which I associate with the internet and technology.
 
