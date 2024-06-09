@@ -14,6 +14,6 @@ For [$22](https://www.victorinox.com/en-US/Products/Cutlery/Paring-Knives/Swiss-
 
 The knives are useful; I use at least one whenever I am cooking, they handle well thanks to their small size and handle design, and they stay sharp with no real effort[^sharp].
 
-[^sharp]: You do have to follow the basics of *knife care*: handwash your knives (no dishwasher), use them on soft surfaces (never ceramic or stone), do not use them on harder things than they can handle (no bone or steel wire), and [sharpen](https://youtu.be/7a0pQT1kVS0) the small paring knife every few months.
+[^sharp]: You do have to follow the basics of *knife care*: handwash your knives (no dishwasher), use them on soft surfaces (never ceramic or stone), do not use them to cut harder things than they can handle (no bone or steel wire), and [sharpen](https://youtu.be/7a0pQT1kVS0) the small paring knife every few months.
 
 {{< image src="https://www.swissknifeshop.com/cdn/shop/products/vf6711632x1000a.jpg?width=500" alt="Victorinox Paring Knife Set" position="center" style="border-radius: 8px;" >}}

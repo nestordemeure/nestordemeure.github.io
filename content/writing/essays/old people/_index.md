@@ -1,5 +1,5 @@
 ---
-title: "An ode to old people"
+title: "An Ode to Old People"
 draft: false
 comments: false
 date: 2022-12-13

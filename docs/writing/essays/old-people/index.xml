@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>An ode to old people on Nestor Demeure</title>
+    <title>An Ode to Old People on Nestor Demeure</title>
     <link>https://nestordemeure.github.io/writing/essays/old-people/</link>
-    <description>Recent content in An ode to old people on Nestor Demeure</description>
+    <description>Recent content in An Ode to Old People on Nestor Demeure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nestordemeure.github.io/writing/essays/old-people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J. R. R. Tolkien</title>
+      <link>https://nestordemeure.github.io/writing/essays/old-people/tolkien/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nestordemeure.github.io/writing/essays/old-people/tolkien/</guid>
+      <description>J. R. R. Tolkien was born in January 1892. Oxford professor and indisputed father of modern fantasy, he published a total of 3 novels1 in his life.
+Tolkien had only published some poetry and academic works when he published The Hobbit, then aged 45. He would later publish the three volumes of his magnum opus, The Lord of the Rings, between the ages of 62 and 63.
+He did not publish much, and he did not publish early.</description>
+    </item>
+    
     <item>
       <title>Grace Hopper</title>
       <link>https://nestordemeure.github.io/writing/essays/old-people/grace-hopper/</link>
