@@ -70,6 +70,14 @@ The goal was to provide an overview of how modern generative AI works, what it c
 
 An audio recording of the talk and subsequent discussion can be found on [RADAR](https://audioblog.arteradio.com/blog/201201/podcast/226908/intelligence-artificielle-conference-interactive), the school's radio station.
 
+#### [Anatomy of a Chatbot: building the NERSC documentation chatbot](https://docs.google.com/presentation/d/17HZvzdDVOoVN6yqB-eQLtj6Z2Si6ZHKWyWyn6zGs9yc/edit?usp=sharing) (machine learning)
+
+This talk was given for the *February 2024 NERSC Week*. The presentation introduces the fundamentals of large language model architecture and usage before delving into the design of a chatbot designed to extract information from NERSC's documentation.
+
+The chatbot was built to be able to answer user questions with NERSC-specific *sourced* answers using *open models* running fully *locally* on NERSC's premises.
+
+You can find the implementation [here](https://github.com/nestordemeure/letMeNERSCthatForYou).
+
 #### [High-level GPU code: A case study examining JAX and OpenMP.](https://docs.google.com/presentation/d/1JQwaMre9_-iiwPqslPXS7CW-SvQxv5XPgdWBd12L0io/edit?usp=sharing) (high-performance computing)
 
 This talk was given at *P3HPC* (Performance, Portability & Productivity in HPC, a workshop given as part of *Supercomputing 2023*) and the *Summit Series XIII* (an NVIDIA and US national labs joined conference).
