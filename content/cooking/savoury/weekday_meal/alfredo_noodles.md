@@ -29,9 +29,11 @@ This is my current lazy-day meal. It takes about 10 minutes to assemble this one
 #### Pasta
 
 * put the pasta in water and get it boiling[^warm] until cooked to your taste,
-* drain the pasta in a colander.
+* reserve[^need] the pasta in a colander.
 
 [^warm]: No need to start with boiling water. Putting the pasta straight into the water will get the dish done faster.
+
+[^need]: You could also leave them in the pot if you drained them without colander, it is fine.
 
 #### Sauce
 
@@ -44,7 +46,7 @@ This is my current lazy-day meal. It takes about 10 minutes to assemble this one
 * sprinkle with furikake to taste,
 * add a generous amount of bonito flakes on top.
 
-[^melt]: The residual heat in the pasta should be enough; any high heat would prevent an emulsion of the butter and cheese.
+[^melt]: The residual heat in the pasta should be enough; any high heat would prevent the emulsion of the butter and cheese.
 
 ## Credits:
 
