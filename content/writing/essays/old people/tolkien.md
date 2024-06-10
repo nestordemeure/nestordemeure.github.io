@@ -6,7 +6,7 @@ date: 2024-06-09
 images: 
 ---
 
-[J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien) was born in January 1892. Oxford professor and indisputed father of modern fantasy, *he published a total of 3 novels*[^def] *in his life*.
+[J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien) was born in January 1892. Oxford professor and indisputed father of modern fantasy, *he published a total of 4 novels*[^def] *in his life*.
 
 [^def]: Note that we are only talking about fiction novels. [He did also publish some academic work, as well as poetry and short stories](https://en.wikipedia.org/wiki/J._R._R._Tolkien_bibliography).
 
