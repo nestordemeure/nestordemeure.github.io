@@ -8,7 +8,7 @@ images:
 
 I am usually against knife sets; they tend to contain useless knives and suboptimal versions of useful knives, but I absolutely love this set of paring knives[^vict].
 
-[^vict]: I have also [heard good things about their chef's knife and bread knife](https://youtu.be/wd9uoHsWuOE), apparently similarly great value and sturdiness for the price, but I have yet to test them.
+[^vict]: I have also [heard that their chef's knife and bread knife deliver good value for their price](https://youtu.be/wd9uoHsWuOE), and arguably if you have a good chef's knife and a good bread knife, then you need only one paring knife, but I have yet to test them.
 
 For [$22](https://www.victorinox.com/en-US/Products/Cutlery/Paring-Knives/Swiss-Classic-Paring-Knife-Set-3-Pieces/p/6.7116.32), it includes a small (paring) knife (useful whenever you want a small sharp knife, i.e., perfect for onion), a serrated slightly longer (tomato) knife (great for smooth vegetables, like tomatoes, as well as a surprising array of small bread, sandwich, and pastries), and a small serrated knife (the least useful of the set, usually used when one of the other two is in washing).
 

@@ -1,5 +1,5 @@
 ---
-title: "Special meals"
+title: "Special Meals"
 draft: false
 comments: false
 images:

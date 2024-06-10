@@ -1,5 +1,5 @@
 ---
-title: "Weekday meals"
+title: "Weekday Meals"
 draft: false
 comments: false
 images:
