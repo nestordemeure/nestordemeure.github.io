@@ -39,7 +39,7 @@ It is quick to make, looks quite fancy, and has a nice richness of flavor: basic
 #### Nuts
 
 * Chop the nuts finely (reserve some for garnishing)
-* Bloom the nuts with the dried grapes and butter in a small pan
+* Roast the nuts, until fragrant, with the dried grapes and butter in a small pan
 
 #### Yogurt
 
