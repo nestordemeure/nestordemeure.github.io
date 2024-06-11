@@ -12,9 +12,9 @@ It is quick to make, looks quite fancy, and has a nice richness of flavor: basic
 ## Ingredients (1 small bowl):
 
 * 1 small bowl of dry[^dry] Greek[^yogurt] yogurt
-* Nuts[^nuts] to taste
+* Unsalted nuts[^nuts] to taste
 * Dried grapes to taste (optional)
-* A hazelnut-sized[^pinch] amount of butter
+* A hazelnut-sized[^pinch] amount of salted butter
 * 1/2 teaspoon of cardamom powder
 * 1/4 teaspoon of saffron threads
 * Powdered sugar to taste
@@ -52,5 +52,5 @@ It is quick to make, looks quite fancy, and has a nice richness of flavor: basic
 
 ## Credits:
 
-I learned about the dish, as well as the idea of blooming nuts in butter, in [Bon Appétit's *Pro Chefs Give 26 Cooking Tips for Every Letter A-Z* video](https://youtu.be/_LyR8Nhzoxw).
+I learned about the dish's existence, as well as the idea of blooming nuts in butter, in [Bon Appétit's *Pro Chefs Give 26 Cooking Tips for Every Letter A-Z* video](https://youtu.be/_LyR8Nhzoxw).
 The final dish is a personal mix of several recipes I saw online and techniques I am familiar with.
