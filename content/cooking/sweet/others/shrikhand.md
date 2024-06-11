@@ -6,7 +6,7 @@ comments: false
 images:
 ---
 
-Shrikhand is an Indian, mostly Gujarati, dessert made primarily with yogurt and cardamom.
+[Shrikhand](https://www.howtopronounce.com/shrikhand) is an Indian, Gujarati and Marathi, dessert made primarily with yogurt and cardamom.
 It is quick to make, looks quite fancy, and has a nice richness of flavor: basically a *fancy Indian yogurt*.
 
 ## Ingredients (1 small bowl):
