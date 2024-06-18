@@ -151,7 +151,7 @@ If you want to do a live demonstration, and think that it could bring value to y
 
 [^value]: A lot of live presentations have no reason to be and would be best presented as one or two slides.
 
-[^record]: Recordings are a very valid and reliable alternative to live presentations. You lose interactivity and some impressiveness but are able to ensure that things will go smoothly (obviously, always rehearse the presentation of your recording in conditions; you do not want that to be failing for technical reasons).
+[^record]: Recordings are a very valid and reliable alternative to live demonstrations. You lose interactivity and some impressiveness but are able to ensure that things will go smoothly (obviously, always rehearse the presentation of your recording in conditions; you do not want that to be failing for technical reasons).
 
 ### After the Presentation
 
