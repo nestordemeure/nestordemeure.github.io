@@ -37,7 +37,7 @@ Overall, *any software you are comfortable with* is likely to be fine.
 
 ### The Structure
 
-My slides often follow a set structure with known beats. You might want to emulate it, or do your own thing, I would recommend getting familiar with its logic anyway.
+My slides often follow a set structure with known beats. Whether you want to emulate it or do your own thing, I would recommend getting familiar with its logic.
 
 The title slide bears the name of the presentation, the name of the event, and the names of the people who contributed to the work (here, and the next slide, are the perfect places to credit them and let them know that, while you are the one presenting the work, you recognize their help).
 
@@ -50,13 +50,13 @@ It is there to convey the importance and purpose of your work: why bother and wh
 You can then, optionally, give the plan of your presentation. This is only needed for long, multi-part, and sometimes multi-topic, presentations.
 
 Then comes the parts that make up the presentation, often starting with fundamentals or a state of the art.
-I like to introduce each section with a question (these slides carry a single question, written in a very large font; they are a good way to wake up people...) letting the audience know why the upcoming part of the presentation matters, what problem it tackles.
+I like to introduce each section with a question (these slides carry a single question, written in a very large font; they are a good way to wake people up...) letting the audience know why the upcoming part of the presentation matters, and what problem it tackles.
 
 The slides usually conclude with a... conclusion section.
-This is split into an overview, summarizing the work and its salient/memorable aspects, followed by perspective, which covers upcoming work and limitations of the current work (this slide is a great way to own current weaknesses of your work).
+This is split into an overview, summarizing the work and its salient/memorable aspects, followed by perspective, which covers upcoming work and limitations of the current work (this slide is a great way to recognize and assume current weaknesses of your work).
 
 I always end my slides on a "Thank You!" slide that contains my contact information.
-The "Thank You!" part is there to both clearly let the audience know that the presentation is finished and give me an excuse to put my contact information (usually an email) on the slides (useful as they are later distributed, plus it reminds the audience of my name).
+The "Thank You!" part is there to both clearly let the audience know that the presentation is finished and give me an excuse to put my contact information (usually an email) on the slides (useful if they are later distributed, plus it reminds the audience of my name).
 
 Practice, especially presenting on the same topic in front of different crowds, will quickly teach you that some questions keep coming.
 Those can, and often should, be introduced into the slides.
@@ -113,7 +113,7 @@ It is usually a great time to realize that the structure of your slides is not w
 Furthermore, it should quickly give you a very clear idea of how long your presentation will take (the first few rehearsals are usually a bit longer due to hesitations) and let you adjust for the talk's requirements.
 As a rule, you *never* want to go over time[^over].
 
-I personally rehearse between 3 (bare minimum) and 8 (really important) times before giving a talk.
+I personally rehearse between 3 (bare minimum) and 8 (really important presentation) times before giving a talk.
 If you planned things properly, then you will likely be able to just do one rehearsal a day until the presentation's day[^phd].
 
 For an important presentation, you will want to have other people from your field attend rehearsals or, at least, go over your slides and give you feedback. They will often be able to point out weaknesses in your talk that you had become blind to.
