@@ -309,3 +309,5 @@ If I had a criticism to make of the book, it is that it tells you what various e
     <button id="toggle-localization" onclick="setUserLocation(); return false;">Compute solar data from user position.</button>
     <button id="toggle-length" onclick="toggleReadingLength(); return false;">Switch to long readings.</button>
 </small>
+
+---
