@@ -138,3 +138,7 @@ I then move most of my files, including:
 
 * Creating a new key and setting it up for GitHub
 * Setting up a folder-over-SSH for remote work (`sftp://perlmtter-p1.nersc.gov/global/u2/n/nestor`)
+
+**Blog:**
+
+* Updating the submodules for this website (`git submodule update --init --recursive`)

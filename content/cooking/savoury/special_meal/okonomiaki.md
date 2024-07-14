@@ -6,23 +6,23 @@ comments: false
 images:
 ---
 
-Okonomiyaki, which roughly means "anything grilled," can be described as a Japanese cabbage and seafood-flavored pancake. But, that is very much off the mark as to what the dish is: think of a grilled disk of cabbage and batter, coated in a sweet sauce, and Japanese mayo. It is heaven and surprisingly easy to make.
+Okonomiyaki, which roughly translates to "anything grilled," can be described as a Japanese cabbage and seafood-flavored pancake. But, that is very much off the mark as to what the dish is: think of a grilled disk of cabbage and batter, coated in a sweet sauce, and Japanese mayo. It is heaven and surprisingly easy to make.
 
 ## Ingredients (1 Okonomiyaki):
 
 Batter:
 
 * 76 grams flour
-* an eighth of a teaspoon[^pinch] of baking powder
-* a quarter teaspoon of salt
+* 1/8 teaspoon[^pinch] of baking powder
+* 1/4 teaspoon of salt
 * 2 eggs
 * 60 ml of warm water[^dashi]
 * bonito flakes
-* soy sauce
+* 1/2 teaspoon soy sauce
 * 1/4 of a head of cabbage
 * 1/4 of a red[^scallions] onion
 
-[^pinch]: The technical term is a "pinch."
+[^pinch]: The technical term is a "pinch" but I am pretty sure that the dish would be fine if it were omitted.
 
 [^dashi]: This will be used with soy sauce and bonito flakes to do a quick [dashi](https://en.wikipedia.org/wiki/Dashi) substitute. If you have dashi, use it.
 
