@@ -123,6 +123,7 @@ I personally let the installer access the internet and accept third-party softwa
 * CheeseCAM
 * VLC
 * HandBrake
+* Shotwell (for quick, tiny image editing)
 
 ## Files
 
