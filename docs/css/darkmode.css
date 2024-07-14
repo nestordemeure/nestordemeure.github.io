@@ -1,0 +1,7 @@
+[data-theme=dark] em,
+[data-theme=dark] i,
+[data-theme=dark] strong {
+    /*to avoid italic being full white in dark mode
+    we use a midpoint between white and text color (#a9a9b3)*/
+    color: #d4d4d9;
+}

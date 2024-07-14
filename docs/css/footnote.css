@@ -1,0 +1,17 @@
+.footnote-ref {
+    /*removes link underlying*/
+    text-decoration: none;
+}
+
+.footnote-ref:before {
+    content: '[';
+}
+
+.footnote-ref:after {
+    content: ']';
+}
+
+.footnote-backref {
+    /*removes link underlying*/
+    text-decoration: none;
+}

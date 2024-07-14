@@ -1,0 +1,56 @@
+.sidenote {
+    /* columns display: number then text*/
+    display: grid;
+    grid-template-columns: 3ch auto;
+    gap: 1ch;
+
+    position: relative;
+}
+
+.sidenote-number {
+    text-align: right;
+}
+
+.sidenote-text p {
+    /* avoid linebreaks between paragraphs inside the text */
+    display: inline;
+}
+
+/* Computer screen */
+@media (min-width: 1400px) {
+    .sidenote-right {
+        float: right;
+        width: 22.5vw;
+        margin-right: -23vw;
+    }
+
+    .sidenote-left {
+        float: left;
+        width: 23vw;
+        margin-left: -24.5vw;
+    }
+
+    /* further shifts left sidenotes inside lists so that they are properly aligned with other side notes */
+    ul li .sidenote-left {
+        margin-left: -27.5vw;
+    }
+}
+
+/* Mobile */
+@media (max-width: 1400px) {
+    .sidenote {
+        /* to ensure that the line will break at the end of the line and not the footnote number */
+        float: right;
+        clear: both;
+
+        /* ensures that we take a full line, margin included */
+        width: calc(100% - 3ch);
+
+        margin: 1rem 3ch 1rem 0ch;
+    }
+
+    .heading-wrapper {
+        /* to avoid title collapsing with the side note in mobile settings*/
+        clear: both;
+    }
+}

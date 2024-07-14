@@ -108,6 +108,7 @@ I personally let the installer access the internet and accept third-party softwa
 * `git`
 * `curl`
 * `ocrmypdf`, `pdfunite`, `pdf2txt`
+* `hugo`
 
 **`.deb` files:**
 

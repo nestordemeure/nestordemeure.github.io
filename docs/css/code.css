@@ -1,0 +1,7 @@
+/* Allows line to wrap inside code blocks */
+.highlight pre code {
+    white-space: pre-wrap;
+    /* Allows lines to wrap */
+    word-wrap: break-word;
+    /* Ensures words break within the boundary */
+}
