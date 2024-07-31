@@ -109,6 +109,8 @@ I personally let the installer access the internet and accept third-party softwa
 * `curl`
 * `ocrmypdf`, `pdfunite`, `pdf2txt`
 * `hugo`
+* `vlc`
+* `python3-pip`
 
 **`.deb` files:**
 
@@ -117,14 +119,19 @@ I personally let the installer access the internet and accept third-party softwa
   * My baseline tabs/group
 * Zoom
 
+**Flatpack:**
+
+* [flatpack](https://flathub.org/setup/Ubuntu)
+* [handbrake](https://flathub.org/apps/fr.handbrake.ghb)
+
 **App center:**
 
 * VSCode
   * Sync profile
 * CheeseCAM
-* VLC
-* HandBrake
 * Shotwell (for quick, tiny image editing)
+* Xournal++
+* Foliate
 
 ## Files
 
