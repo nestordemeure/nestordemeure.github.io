@@ -1,150 +1,148 @@
 baseURL = 'https://nestordemeure.github.io/'
-title        = "Nestor Demeure"
+title = "Nestor Demeure"
 languageCode = "en-us"
 publishDir = "docs"
 # https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/exampleSite/config.toml
-theme        = "hello-friend-ng"
-paginate     = 100
+theme = "hello-friend-ng"
+paginate = 100
 
 # This message is only used by the RSS template.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
-buildDrafts  = false
-buildFuture  = false
+buildDrafts = false
+buildFuture = false
 buildExpired = false
 canonifyURLs = true
 enableRobotsTXT = true
-enableGitInfo   = true
-enableEmoji     = true
+enableGitInfo = true
+enableEmoji = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS = false
 disableSitemap = false
-disable404     = false
+disable404 = false
 disableHugoGeneratorInject = false
 
-[author]
-  name = "Nestor Demeure"
-
 [taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+category = "blog"
+tag = "tags"
+series = "series"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+author = "Nestor Demeure"
+dateform = "Jan 2, 2006"
+dateformShort = "Jan 2"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04"
 
-  customCSS = ["/css/style.css"]
-  customJS = ["/js/sidenote.js", "/js/main.js"]
+customCSS = ["/css/style.css"]
+customJS = ["/js/sidenote.js", "/js/main.js"]
 
-  # Subtitle for home
-  homeSubtitle = "French, researcher, engineer, consulting mentalist."
+# Subtitle for home
+homeSubtitle = "French, researcher, engineer, consulting mentalist."
 
-  # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+# Set a background for the homepage
+# backgroundImage = "assets/images/background.jpg"
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+disableReadOtherPosts = false
 
-  # Enable sharing buttons, if you like
-  enableSharingButtons = true
+# Enable sharing buttons, if you like
+enableSharingButtons = true
 
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = true  # Set "text-align: justify" to .post-content.
+# Toggle this option need to rebuild SCSS, requires extended version of Hugo
+justifyContent = true # Set "text-align: justify" to .post-content.
 
-  # Metadata mostly used in document's head
-  description = ""
-  keywords = "homepage, blog"
-  images = [""]
+# Metadata mostly used in document's head
+description = ""
+keywords = "homepage, blog"
+images = [""]
 
-  [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /home/nestor/"
-    logoHomeLink = "/posts"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
+[params.logo]
+logoMark = ">"
+logoText = "$ cd /home/nestor/"
+logoHomeLink = "/posts"
+# Set true to remove the logo cursor entirely.
+# logoCursorDisabled = false
+# Set to a valid CSS color to change the cursor in the logo.
+# logoCursorColor    = "#67a2c9"
+# Set to a valid CSS time value to change the animation duration, "0s" to disable.
+# logoCursorAnimate  = "2s"
 
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
-  [params.footer]
-    trademark = false
-    rss = false
-    copyright = false
-    author = false
-    topText = []
-    bottomText = []
+# Custom footer 
+# If you want, you can easily override the default footer with your own content. 
+[params.footer]
+trademark = false
+rss = false
+copyright = false
+author = false
+topText = []
+bottomText = []
 
-  # Uncomment this to enable Commento.
-  # [params.commento]
-  #   url = ""
+# Uncomment this to enable Commento.
+# [params.commento]
+#   url = ""
 
-  # Uncomment this if you want a portrait on your start page
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+# Uncomment this if you want a portrait on your start page
+# [params.portrait]
+#   path     = "/img/image.jpg"
+#   alt      = "Portrait"
+#   maxWidth = "50px"
 
-  # Social icons
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nestordemeure+blog@gmail.com"
+# Social icons
+[[params.social]]
+name = "email"
+url = "mailto:nestordemeure+blog@gmail.com"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/nestordemeure"
+[[params.social]]
+name = "github"
+url = "https://github.com/nestordemeure"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/nestor-demeure-0a7476110/?locale=en_US"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/nestor-demeure-0a7476110/?locale=en_US"
 
-  [[params.social]]
-    name = "researchgate"
-    url  = "https://www.researchgate.net/profile/Nestor-Demeure"
+[[params.social]]
+name = "researchgate"
+url = "https://www.researchgate.net/profile/Nestor-Demeure"
 
-  [[params.social]]
-    name = "ycombinator"
-    url  = "https://news.ycombinator.com/user?id=nestorD"
+[[params.social]]
+name = "ycombinator"
+url = "https://news.ycombinator.com/user?id=nestorD"
 
 [languages]
-  [languages.en]
-    title = "Nestor Demeure"
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    
-    [languages.en.params]
-      subtitle = ""
-      keywords = ""
-      readOtherPosts = "Read other posts"
+[languages.en]
+title = "Nestor Demeure"
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[languages.en.params]
+subtitle = ""
+keywords = ""
+readOtherPosts = "Read other posts"
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
 
-  [[menu.main]]
-    identifier = "cooking"
-    name       = "Cooking"
-    url        = "/cooking"
+[[menu.main]]
+identifier = "cooking"
+name = "Cooking"
+url = "/cooking"
 
-  [[menu.main]]
-    identifier = "writing"
-    name       = "Writing"
-    url        = "/writing"
+[[menu.main]]
+identifier = "writing"
+name = "Writing"
+url = "/writing"
 
-  [[menu.main]]
-    identifier = "likes"
-    name       = "Likes"
-    url        = "/likes"
+[[menu.main]]
+identifier = "likes"
+name = "Likes"
+url = "/likes"
 
 # option of the markup generator
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      # lets you write html inside the code
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+# lets you write html inside the code
+unsafe = true

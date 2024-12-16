@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Nestor Demeure</title>
+    <link>https://nestordemeure.github.io/about/</link>
+    <description>Recent content in About on Nestor Demeure</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <atom:link href="https://nestordemeure.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consulting mentalist</title>
+      <link>https://nestordemeure.github.io/about/mentalism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/about/mentalism/</guid>
+      <description>&lt;p&gt;I am a consulting mentalist. Among other things, I have a book published for that public, give talks at specialized conventions, and I designed stage shows that are now playing in various&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; countries.&lt;/p&gt;&#xA;&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h2 id=&#34;what-is-mentalism&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#what-is-mentalism&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            What is Mentalism?&#xA;        &lt;/a&gt;&#xA;    &lt;/h2&gt;&#xA;&lt;/div&gt;&lt;p&gt;Mentalism is an ensemble of techniques (including mnemonics, hypnosis, magic tricks, a trained intuition, and knowledge of statistically likely phenomena) used to produce incredible phenomena (usually psychic phenomena or a mastery of the human mind) in an entertainment setting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research I did</title>
+      <link>https://nestordemeure.github.io/about/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/about/research/</guid>
+      <description>&lt;p&gt;I am a researcher with specialties in numerical accuracy, artificial intelligence, data analysis, and high-performance computing.&lt;/p&gt;&#xA;&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h2 id=&#34;papers&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#papers&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            Papers&#xA;        &lt;/a&gt;&#xA;    &lt;/h2&gt;&#xA;&lt;/div&gt;&lt;p&gt;You can find most of my publications on &lt;a href=&#34;https://www.researchgate.net/profile/Nestor-Demeure&#34;&gt;Researchgate&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h4 id=&#34;high-level-gpu-code-a-case-study-examining-jax-and-openmphttpsdlacmorgdoi10114536240623624186-high-performance-computing&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#high-level-gpu-code-a-case-study-examining-jax-and-openmphttpsdlacmorgdoi10114536240623624186-high-performance-computing&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3624062.3624186&#34;&gt;High-level GPU code: a case study examining JAX and OpenMP.&lt;/a&gt; (high-performance computing)&#xA;        &lt;/a&gt;&#xA;    &lt;/h4&gt;&#xA;&lt;/div&gt;&lt;p&gt;This paper (published as part of the proceedings of &lt;em&gt;Supercomputing 2023&lt;/em&gt;) contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software I wrote</title>
+      <link>https://nestordemeure.github.io/about/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/about/software/</guid>
+      <description>&lt;p&gt;I am an engineer with a specialty in applied mathematics and computer science.&lt;/p&gt;&#xA;&lt;p&gt;You can find most of the software I developed on &lt;a href=&#34;https://github.com/nestordemeure&#34;&gt;Github&lt;/a&gt; and &lt;a href=&#34;https://gitlab.com/nestordemeure&#34;&gt;Gitlab&lt;/a&gt;. Here is a list of some noticeable libraries (focusing on projects where I am the lead developer):&lt;/p&gt;&#xA;&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h4 id=&#34;divinatory-gptshttpsgithubcomnestordemeuredivinatorygpts-prompt&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#divinatory-gptshttpsgithubcomnestordemeuredivinatorygpts-prompt&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            &lt;a href=&#34;https://github.com/nestordemeure/DivinatoryGPTs&#34;&gt;Divinatory GPTs&lt;/a&gt; (Prompt)&#xA;        &lt;/a&gt;&#xA;    &lt;/h4&gt;&#xA;&lt;/div&gt;&lt;p&gt;This is a collection of scripts and prompts I used to make &lt;a href=&#34;https://openai.com/blog/introducing-gpts&#34;&gt;custom GPTs&lt;/a&gt; around the theme of divination (and, in particular, tools to help people become better tarot readers).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

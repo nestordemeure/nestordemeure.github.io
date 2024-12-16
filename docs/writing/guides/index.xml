@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nestor&#39;s Guides on Nestor Demeure</title>
+    <link>https://nestordemeure.github.io/writing/guides/</link>
+    <description>Recent content in Nestor&#39;s Guides on Nestor Demeure</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <atom:link href="https://nestordemeure.github.io/writing/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nestor&#39;s Guide to Reading Ebooks</title>
+      <link>https://nestordemeure.github.io/writing/guides/ebooks/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/ebooks/</guid>
+      <description>&lt;p&gt;I have always been a big reader. For a long time, that meant having to buy or borrow the books I was interested in, always carrying one or two books with me, then ending up with shelves of books that have been of interest to me once but would now be best &lt;a href=&#34;https://littlefreelibrary.org/&#34;&gt;donated away&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This led to an interest in &lt;em&gt;ebooks&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h2 id=&#34;why-read-ebooks&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#why-read-ebooks&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            Why read ebooks?&#xA;        &lt;/a&gt;&#xA;    &lt;/h2&gt;&#xA;&lt;/div&gt;&lt;p&gt;I see several key advantages to ebooks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s Guide to Giving a Presentation</title>
+      <link>https://nestordemeure.github.io/writing/guides/presentation/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/presentation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Only the prepared speaker deserves to be confident.&amp;rdquo;&lt;/em&gt;&#xA;— Dale Carnegie&lt;/p&gt;&#xA;&lt;p&gt;In my early engineering school days, I was lucky to intern with a team of biologists who were &lt;em&gt;really&lt;/em&gt; good at presenting their ideas (be it for conferences or internal meetings).&#xA;This taught me a lot of things and set what I believe are good practices.&lt;/p&gt;&#xA;&lt;p&gt;Here are some of the key things I try to have in mind when I give a presentation&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&#xA;Some of these points will seem obvious to some readers, not to others, so I will try not to assume any knowledge from the reader.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s Guide to Remembering Things Forever</title>
+      <link>https://nestordemeure.github.io/writing/guides/spaced_repetition/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/spaced_repetition/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;La répétition fixe la notion.&amp;rdquo;&lt;/em&gt;&#xA;— Anonymous&lt;/p&gt;&#xA;&lt;p&gt;I have been using mnemotechnic techniques for about a dozen years now (they are definitely the one thing I wish I would have known when I was a student with important exams coming up), but I recently became enamored with spaced repetition as an easy way to learn anything you want and remember it forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Imagine being able to trust the process and knowing that if you get started today, in six months you will know a complex piece of knowledge.&lt;/em&gt; That is the promise of spaced repetition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s guide to writing</title>
+      <link>https://nestordemeure.github.io/writing/guides/writing/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/writing/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Writing is easy. Just put a sheet of paper in the typewriter and start bleeding.&amp;rdquo;&lt;/em&gt;&#xA;— &lt;a href=&#34;https://quoteinvestigator.com/2011/09/14/writing-bleed/&#34;&gt;Walter Wellesley &amp;ldquo;Red&amp;rdquo; Smith&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;I am the intended reader of this guide. If the tone seems harsh or the advice opinionated, it is because I can sometimes be harsh with myself and because I &lt;em&gt;know&lt;/em&gt; that those techniques work for me. I have written non-fiction professionally in various fields but never published any fiction so take the following with the appropriate amount of salt.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s guide to creating a blog</title>
+      <link>https://nestordemeure.github.io/writing/guides/blogging/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/blogging/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: This guide is mostly about me keeping a trace of the process I followed to create this blog.&#xA;I &lt;em&gt;really&lt;/em&gt; wanted to use GitHub for the hosting and that leads to a lot of additional complexity that you should avoid if you are not used to writing code.&lt;/p&gt;&#xA;&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h2 id=&#34;hosting&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#hosting&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            Hosting&#xA;        &lt;/a&gt;&#xA;    &lt;/h2&gt;&#xA;&lt;/div&gt;&lt;p&gt;I used &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub pages&lt;/a&gt; to host my blog, they are free but only support static websites and, by default, force you to use their domain.&#xA;Both restrictions are fine by me since I wanted a static website and am okay with having a domain that makes it clear that writing code is a part of my life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s guide to doing a large project</title>
+      <link>https://nestordemeure.github.io/writing/guides/hard_things/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/hard_things/</guid>
+      <description>&lt;p&gt;Tackling a large project (this applies to anything including a book, a piece of software, or a movie for example) can be daunting.&#xA;Suddenly it is not a sprint to the end of a task but, rather, an endurance race that requires regularly renewed dedication: something school and early life do not prepare you for.&lt;/p&gt;&#xA;&lt;p&gt;These are my solutions to tackle large projects (you will find some overlap with my &lt;a href=&#34;https://nestordemeure.github.io/writing/guides/heuristics/&#34;&gt;guide to doing the things you love well&lt;/a&gt; and my &lt;a href=&#34;https://nestordemeure.github.io/writing/guides/writing/&#34;&gt;guide to writing&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s guide to dating apps</title>
+      <link>https://nestordemeure.github.io/writing/guides/dating/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/dating/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This guide is targeted at heterosexual men (with a focus on people looking for a relationship) and was written at the end of 2021 for a friend, the content might not apply to you.&#xA;Also, a lot of the following might seem obvious to you but, as what is obvious to some isn’t to others, I am putting a maximum of information here in the hope that you might find things that you do not already know.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s guide to doing the things you love well</title>
+      <link>https://nestordemeure.github.io/writing/guides/heuristics/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/heuristics/</guid>
+      <description>&lt;p&gt;Here are some heuristics I use in life and work:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Play to your strengths; being balanced sounds nice but ends up being really unproductive/unpleasant.&lt;/li&gt;&#xA;&lt;li&gt;Spend time on the things you like, as time and practice pile up you will end up skilled in those domains.&lt;/li&gt;&#xA;&lt;li&gt;Go for the things that are of interest to you, not for the trendy ones.&lt;/li&gt;&#xA;&lt;li&gt;Time spent automating tasks is usually time well spent.&lt;/li&gt;&#xA;&lt;li&gt;Taking a break to gather knowledge on something vaguely connected to the thing you are doing is never time lost.&lt;/li&gt;&#xA;&lt;li&gt;When you have been procrastinating something for most of the day, declare that you will not do it today and that it is okay; it will free your mind to do other things instead of leaving you stuck.&lt;/li&gt;&#xA;&lt;li&gt;Try and do one, single and quantifiable, thing a day. With time, they pile up, and you end up doing a lot of things.&lt;/li&gt;&#xA;&lt;li&gt;The mind is good at criticizing something but bad at doing something from scratch: instead of trying to produce perfection, do a rough draft and then improve on it incrementally.&lt;/li&gt;&#xA;&lt;li&gt;Also, be nice, kind, and nonjudgmental to people.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Nestor&#39;s guide to having ideas</title>
+      <link>https://nestordemeure.github.io/writing/guides/ideas/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/guides/ideas/</guid>
+      <description>&lt;div class=&#34;heading-wrapper&#34;&gt;&#xA;    &lt;h2 id=&#34;no-one-is-born-uncreative&#34;&gt;&#xA;        &lt;a class=&#34;heading-anchor&#34; href=&#34;#no-one-is-born-uncreative&#34; style=&#34;text-decoration: none&#34;&gt;&#xA;            No One Is Born Uncreative&#xA;        &lt;/a&gt;&#xA;    &lt;/h2&gt;&#xA;&lt;/div&gt;&lt;p&gt;Some people have told me that they are not creative. It usually stems from them thinking that creativity is an innate gift: some people are born with a brain that overflows with ideas at regular intervals, while others stay dry for most of their life.&lt;/p&gt;&#xA;&lt;p&gt;In practice, I have found creativity to be a &lt;em&gt;muscle&lt;/em&gt;. The more you try to use it, the easier it gets. But it doesn&amp;rsquo;t necessarily mean that you get good ideas&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beowulf on Nestor Demeure</title>
+    <link>https://nestordemeure.github.io/writing/translations/beowulf/</link>
+    <description>Recent content in Beowulf on Nestor Demeure</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 17 May 2024 17:41:46 -0700</lastBuildDate>
+    <atom:link href="https://nestordemeure.github.io/writing/translations/beowulf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additional References</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/references/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;The more the poem is read, the less it is read except in translation&amp;rdquo;&lt;/em&gt;&#xA;— John D. Niles, &lt;a href=&#34;https://www.jstor.org/stable/378784&#34;&gt;Rewriting Beowulf: The Task of Translation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Beowulf has been &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_translations_of_Beowulf&#34;&gt;translated&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_adaptations_of_Beowulf&#34;&gt;adapted&lt;/a&gt; many times (you will find a handy comparison of various translations &lt;a href=&#34;https://www.paddletrips.net/beowulf/html/grendel.html&#34;&gt;here&lt;/a&gt;).&#xA;I believe this stems from &lt;a href=&#34;https://en.wikipedia.org/wiki/Translating_Beowulf&#34;&gt;the impossibility of producing a perfect translation&lt;/a&gt;—a translation that would both preserve the form (&lt;a href=&#34;https://en.wikipedia.org/wiki/Alliterative_verse&#34;&gt;alliterative verse&lt;/a&gt;) and produce a text whose meaning is clear to modern readers (is the text even designed to be read silently?). This produces many compromises, as well as axes of freedom, for the translator (see John D. Niles&amp;rsquo;s excellent &lt;a href=&#34;https://www.jstor.org/stable/378784&#34;&gt;Rewriting Beowulf: The Task of Translation&lt;/a&gt; for a discussion on the topic).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Translator&#39;s Notes</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/notes/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Like any interpretive work, a translation is the result of a volatile hermeneutic process. Its readers should be wary of accepting it as a record of “what the text says,” for the text says many things, some of them enigmatically.&amp;rdquo;&lt;/em&gt;&#xA;— John D. Niles, &lt;a href=&#34;https://www.jstor.org/stable/378784&#34;&gt;Rewriting Beowulf: The Task of Translation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The bulk of the translation work was done using Artificial Intelligence (and in particular &lt;a href=&#34;https://www.anthropic.com/news/claude-3-family&#34;&gt;Claude Opus&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;&#xA;&lt;p&gt;The process and prompt I used are detailed below.&#xA;They were born out of a lot of trial and error and are likely still very imperfect (as demonstrated by the fact that I was not able to capture the style I wanted).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IIX. Twilight</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/8-twilight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/8-twilight/</guid>
+      <description>&lt;p&gt;Then the prince went and sat on a seat by the wall, thoughtfully gazing on the work of giants, how the stone-arches held up the eternal earth-hall from within. His thane, glorious in his victory, washed the blood-stained hand of his lord abundantly with water, the great-hearted man, weary from his battle-wounds, and loosened his helmet.&lt;/p&gt;&#xA;&lt;p&gt;Beowulf spoke in spite of his injuries, his mortal wound; he knew full well that he had spent his allotted days, his worldly joy; then all was gone for him, the count of his days, death very near: &amp;ldquo;Now I would give my war-gear to my son, if any heir had been granted to me, born of my body. I have ruled this people for fifty winters. There was not one of the neighboring kings who dared meet me with swords, or oppress me with terror. I bided my time in my home, sought out my own fate, quarreled with no one, nor swore many false oaths. For all that I may have joy, though sick with mortal wounds, because the gods need not blame me with the murder of kinsmen, when my life departs from my body.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VII. The Dragon</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/7-dragon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/7-dragon/</guid>
+      <description>&lt;p&gt;The dragon guarded a hoard in the high heath, a stone-barrow; a path ran beneath, unknown to men. Inside, a certain man had entered who seized a cup, a gold-plated treasure; he did not give it back, though he had tricked the sleeping guardian with thievish craft. The king found out that his rage was provoked.&lt;/p&gt;&#xA;&lt;p&gt;It was not by his own desire that the man sought out the dragon&amp;rsquo;s hoard, bringing about woe and destruction; rather, out of dire necessity, a servant, one of some slaves, sought refuge there with a guilty conscience, fleeing heavy blows. Soon he entered, the frightened spirit of the man. There he saw many old treasures lying in that earthen hall, as some man in days of yore, mindful of a noble heritage, had hidden them there, the immense legacy of a high-born race, precious treasures. Death had seized them all in times past, and the only one still living from that people, a warden hoping to delay, longed that he might for a little while enjoy the long-accumulated wealth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VI. Trophies</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/6-trophies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/6-trophies/</guid>
+      <description>&lt;p&gt;Beowulf spoke, the son of Ecgtheow: &amp;ldquo;Lo, son of Healfdene, prince of the Scyldings, we have joyfully brought you this sea-booty, which you gaze on here, as a token of glory. I hardly survived it, hazarded an undersea battle, engaged in a risky task. The fight would soon have been finished if fate had not protected me. I could not accomplish anything with Hrunting in the conflict, though that weapon is strong; but the All-Father granted that I saw a beautiful, powerful sword hanging on the wall. I drew that weapon in battle. Then I slew the guardians of the house in that moment as occasion presented itself. That battle-sword then burned up, that patterned blade, as the blood sprang out, hottest of battle-sweat. I brought the hilt from there as a trophy, avenged the evil deeds, the death-agony of the Danes, as was fitting. I promise you that you may sleep in Heorot free from care with your band of warriors, and each of your thanes, of the tried and true, of the young and old; you need not, prince of the Scyldings, fear for them death-harm from that side, as you did before.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>V. Grendel&#39;s Mother</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/5-mother/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/5-mother/</guid>
+      <description>&lt;p&gt;She came then to Heorot, where the Ring-Danes slept throughout the hall. Misfortune befell the nobles when Grendel&amp;rsquo;s mother burst in upon them. The terror was less only by so much as the strength of women, the war-terror of a wife, is less than an armed man&amp;rsquo;s, when the bound sword, hammer-forged and stained with blood, the keen blade with its edge, cuts the boar on the helmet of the opposed warrior. Then, hard-edged swords were drawn from the benches, many a broad shield lifted fast in hand; they did not think of helm or broad corslet when the terror seized them. She was in haste, wanting to get out from there to save her life when discovered. Quickly, she seized one of the nobles tight, then went to the fen. That man was to Hrothgar the most beloved of heroes in the rank of retainer between the two seas, a mighty shield-warrior, whom she killed on his resting place, a war-renowned fighter. Beowulf was not there; another lodging had been assigned earlier, after the gift-giving, to the mighty Geat. An outcry arose in Heorot. She had taken the bloody hand in her fierce grip. Grief was renewed again in the dwellings. That was no good bargain, which they on both sides had to pay for with lives of friends.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IV. The Morning After</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/4-celebrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/4-celebrations/</guid>
+      <description>&lt;p&gt;In the morning, as I have heard, many a warrior gathered around the gift-hall. Tribal chiefs came from far and wide over distant paths to behold the wonder, the tracks of the enemy. His parting from life did not seem grievous to any of the men who saw the splendor of the inglorious one&amp;rsquo;s footprints, how he, weary in spirit and overcome in the fight, doomed and driven out, bore his death-marks to the mere of the water-monsters. There, the water seethed with blood, the terrible swirling of the waves all mingled with hot gore, with sword-blood; the death-doomed one dyed it when, deprived of joy, he laid down his life in his fen-refuge, where hell received him.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>III. Beowulf</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/3-beowulf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/3-beowulf/</guid>
+      <description>&lt;p&gt;In the beer-hall, a bench was cleared for the Geats to sit together, the stout-hearted ones proud in their strength. A thane did his duty, bearing in his hands the decorated ale-cup, pouring out the bright sweet drink. At times, a clear-voiced scop sang in Heorot, and there was joy among the heroes, a great host of Danes and Weders.&lt;/p&gt;&#xA;&lt;p&gt;Unferth, son of Ecglaf, who sat at the feet of the Scyldings&amp;rsquo; lord, spoke, unbinding a battle-rune. Beowulf&amp;rsquo;s journey, the brave seafarer&amp;rsquo;s quest, was a great vexation to him, for he would not allow that any other man under the heavens could achieve more glory than himself. &amp;ldquo;Are you that Beowulf,&amp;rdquo; he asked, &amp;ldquo;who strove with Breca on the open sea, competing at swimming? For pride, you two tested the waters, risking your lives in the deep for a foolish boast. No one, friend or foe, could dissuade you from that sorrowful journey when you swam out into the sea. You enfolded the ocean streams with your arms, traversed the water-tracks, tossed with your hands, gliding over the turbulent waves and surges of winter. In the water&amp;rsquo;s power, you toiled seven nights. He overcame you, having more strength. The morning sea cast him up on the land of the Heatho-Reames, from where he, beloved of his people, sought his dear homeland, the Brondings&amp;rsquo; country, his fair stronghold, his folk, city, and treasures. Beanstan&amp;rsquo;s son truly fulfilled his boast against you. So I expect a worse result for you, even if you have prevailed in every battle-rush and grim fight, if you dare await Grendel for the space of a night.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>II. Grendel</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/2-grendel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/2-grendel/</guid>
+      <description>&lt;p&gt;At dawn, as day broke, Grendel&amp;rsquo;s deeds were laid bare. After their feasting, wailing filled the morning air, a great cry of sorrow. The renowned ruler, long good and noble, sat joyless, the strong one suffering for his thanes as they beheld the loathsome foe&amp;rsquo;s track, the accursed spirit&amp;rsquo;s trail. That struggle was too strong, too long-lasting and loathsome.&lt;/p&gt;&#xA;&lt;p&gt;After a single night, Grendel wrought more slaughter, not shrinking from his evil, firmly set in his ways. It was easy to find one who sought rest elsewhere, a bed among the hall-bowers, when the hellish fiend&amp;rsquo;s hate was clearly shown by a sign. Thereafter, those who escaped kept a safer distance. Against right, one against all, Grendel ruled and fought until the best of houses stood empty. Twelve long winters the Scyldings&amp;rsquo; friend suffered, enduring immense sorrows. Through sad songs, it became known to all that Grendel long warred with Hrothgar, his violence, enmity, and ceaseless strife spanning many half-years. He wanted no peace, nor would he withdraw his life-bale or accept tribute. No wise counselor could expect bright compensation from the slayer&amp;rsquo;s hands. The dark death-shadow pursued both old and young, lurking, waiting, ruling the misty moors by night. Men know not where such hellish demons wander on their errands. Thus, the foe of mankind, the awful lone roamer, often committed many crimes and harsh humiliations. He dwelt in Heorot on the dark nights, yet could not approach the gift-throne, feeling no warmth of kinship.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I. Beginnings</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/1-beginnings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/1-beginnings/</guid>
+      <description>&lt;p&gt;Listen well! Let me tell you of the glory of the Spear-Danes&amp;rsquo; kings in days long past, and the valorous deeds of those mighty princes.&lt;/p&gt;&#xA;&lt;p&gt;Scyld Scefing, abandoned as a child, rose to seize the mead-benches from many tribes and troops of enemies. From this, he found solace. He grew under the heavens, thriving with honors, until each nation across the whale-road had to obey him and pay tribute. That was a good king!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prelude</title>
+      <link>https://nestordemeure.github.io/writing/translations/beowulf/0-prelude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nestordemeure.github.io/writing/translations/beowulf/0-prelude/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;If you wish to translate, not rewrite Beowulf, your language must be literary and traditional: not because it is now a long while since the poem was made, or because it speaks of things that have since become ancient; but because the diction of Beowulf was poetical, archaic, artificial (if you will), in the day that the poem was made.&amp;rdquo;&lt;/em&gt;&#xA;— J. R. R. Tolkien, &lt;a href=&#34;https://en.wikipedia.org/wiki/Beowulf:_The_Monsters_and_the_Critics&#34;&gt;Beowulf: The Monsters and the Critics&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
