@@ -4,7 +4,7 @@ languageCode = "en-us"
 publishDir = "docs"
 # https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/exampleSite/config.toml
 theme = "hello-friend-ng"
-paginate = 100
+pagination.pagerSize = 100
 
 # This message is only used by the RSS template.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
