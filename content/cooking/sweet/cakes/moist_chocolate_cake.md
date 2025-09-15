@@ -9,7 +9,7 @@ images:
 This recipe produces a very nicely moist chocolate cake with rich chocolate flavor.
 Perfect when your main requirement for a cake is that it should be *"chocolate flavored."*
 
-## Ingredients (one bundt or round cake pan):
+## Ingredients:
 
 * 240 grams flour
 * 125 grams sugar
