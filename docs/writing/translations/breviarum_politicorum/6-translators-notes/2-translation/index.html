@@ -272,7 +272,7 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>Translate the FULL section (up to, and excluding the <span style="color:#e6db74">`$NEXT-HEADING`</span> section). Take the existing translation, as well as the translation for the upcoming headings, into account. Preserve emphasis and other types of Markdown formatting. Your text should read EASILY: it should be clear, use direct sentence structures, and split into short paragraphs. Break lines meaningfully rather than following the original: the Latin text was produced by an OCR and that it might contain small mistakes as well as approximate line breaks.
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>Do not include the title of the section. Put your translation in &lt;<span style="color:#f92672">response</span>&gt;&lt;/<span style="color:#f92672">response</span>&gt; tags.
+</span></span><span style="display:flex;"><span>Do not include the title of the section. Put your translation in &lt;response&gt;&lt;/response&gt; tags.
 </span></span></code></pre></div><p>Having obtained a translation, I checked for missing and added passages (a common failure case) running this prompt one section at a time until all were triple checked or corrected:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>This Latin excerpt is a section of the 1684 print of Mazarin&#39;s <span style="color:#e6db74">`Breviarum Politicorum, Secundum Rubricas Mazarinicas`</span>:
 </span></span><span style="display:flex;"><span>
@@ -290,7 +290,7 @@
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>Check the translation (especially the beginning and end of the section, this is where addition/deletion is the most likely) and tell me if the English matches with the Latin or not.
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>If the translation appears correct, display &#34;Matching&#34;. Otherwise, provide a fixed translation. Either way, put your answer in &lt;<span style="color:#f92672">response</span>&gt;&lt;/<span style="color:#f92672">response</span>&gt; tags.
+</span></span><span style="display:flex;"><span>If the translation appears correct, display &#34;Matching&#34;. Otherwise, provide a fixed translation. Either way, put your answer in &lt;response&gt;&lt;/response&gt; tags.
 </span></span></code></pre></div><p>I then did a machine-assisted editing pass using the following prompt to single out sentences that needed clarification:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>You are an expert editor with a knack for producing clear, well-flowing texts.
 </span></span><span style="display:flex;"><span>
