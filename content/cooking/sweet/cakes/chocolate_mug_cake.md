@@ -8,7 +8,7 @@ images:
 
 Mug cakes tend to be dry, this one succeeds at being reasonably moist and tasting like... Chocapic breakfast cereals?
 
-## Ingredients (1 large mug)
+## Ingredients (1 large[^mug] mug)
 
 * 30 grams salted butter
 * 1 large egg
@@ -20,7 +20,9 @@ Mug cakes tend to be dry, this one succeeds at being reasonably moist and tastin
 * 30 grams flour
 * 1 gram baking powder
 
-[^oil]: This is the secret to a moist cake.
+[^mug]: You could also do two smaller coffee-cups worth of cake, in which case you will want to reduce the baking time.
+
+[^oil]: This, and limiting the time in the microwave, is the secret to a moist cake.
 
 ## Preparation
 
