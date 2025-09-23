@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Mug Cake"
-date: 2025-09-2
+date: 2025-09-22
 draft: false
 comments: false
 images:
