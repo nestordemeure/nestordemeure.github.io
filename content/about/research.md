@@ -11,6 +11,12 @@ I am a researcher with specialties in numerical accuracy, artificial intelligenc
 
 You can find most of my publications on [Researchgate](https://www.researchgate.net/profile/Nestor-Demeure):
 
+#### [Model Consistency as a Cheap yet Predictive Proxy for LLM Elo Scores](https://arxiv.org/abs/2509.23510) (machine learning)
+
+This paper (published as part of the proceedings of *EMNLP 2025*) introduces a method to evaluate large language models without expensive human comparisons or even labeled data.
+
+We observed that when an LLM is asked to *judge* model matchups, the consistency with which it selects a model as the best across similar pairs produces a metric that is 91% correlated with human-produced Elo scores. This provides a simple proxy for Elo scores that can be computed cheaply, without any human data or prior knowledge.
+
 #### [High-level GPU code: a case study examining JAX and OpenMP.](https://dl.acm.org/doi/10.1145/3624062.3624186) (high-performance computing)
 
 This paper (published as part of the proceedings of *Supercomputing 2023*) contrasts and compares the use of both JAX and OpenMP target offload to port a large cosmology code to GPU.
