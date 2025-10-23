@@ -8,28 +8,28 @@ images:
 
 Mug cakes tend to be dry, this one succeeds at being reasonably moist and tasting like... Chocapic breakfast cereals?
 
-## Ingredients (1 large[^mug] mug)
+## Ingredients (1 large mug)
 
 * 30 grams salted butter
-* 1 large egg
 * 50 grams sugar
-* 12 grams unsweetened cocoa powder
 * 15 ml olive oil[^oil]
+* 1 large egg
+* 12 grams unsweetened cocoa powder
 * 1 teaspoon vanilla extract
 * 45 ml milk
 * 30 grams flour
 * 1 gram baking powder
 
-[^mug]: You could also do two smaller coffee-cups worth of cake, in which case you will want to reduce the baking time.
-
 [^oil]: This, and limiting the time in the microwave, is the secret to a moist cake.
 
 ## Preparation
 
-* melt the butter in your mug
+* melt the butter in your mug[^mug]
 * whisk together the melted butter, sugar, oil, egg, cocoa, and vanilla until smooth
 * add milk and whisk until combined
 * add flour and baking powder, folding gently until you no longer see dry flour (don't overmix)
+
+[^mug]: You could also do two smaller coffee-cups worth of cake, in which case you will want to reduce the baking time.
 
 ## Cooking
 
