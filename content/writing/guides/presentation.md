@@ -166,4 +166,6 @@ I found that a good way to gauge interest is to see how many questions you recei
 
 And voilà! This might seem like a lot, but it boils down to keeping your slides clear, organized and concise, then rehearsing them until you are confident in your delivery. Now go forth and present; practice makes perfect, and in a couple of talks, you will be fantastic[^mine]!
 
+If you want to learn more about giving presentations, I highly recommend watching Patrick Winston's excellent [How to Speak lecture](https://youtu.be/Unzc731iCUY).
+
 [^mine]: The curious reader will find slides and recordings of some of my presentations (of *very* varied quality) [here](/about/research/#talks).
