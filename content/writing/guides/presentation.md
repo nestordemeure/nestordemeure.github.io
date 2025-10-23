@@ -29,6 +29,8 @@ But, I have yet to see good-looking Beamer slides[^looking].
 
 I have a soft spot for [Google Slides](https://docs.google.com/presentation/create) because it is easy to use, makes it trivial to share the slides with others (in particular teammates and event organizers), and is easily saved in a Google Drive folder (meaning that it will survive laptop replacements and other events).
 
+But, I have recently started playing with [Marp](https://marp.app/) and been happy with the ability to compile markdown to slides, [following my preferred slide style, and customizing the engine to my specific use-cases](https://github.com/nestordemeure/nersc_markdown_slides).
+
 Overall, *any software you are comfortable with* is likely to be fine.
 
 [^equation]: At the moment, equations are definitely a pain to display in Google Slides. There are [plugins](https://webapps.stackexchange.com/a/172062) to help with it, but the situation is not ideal.
