@@ -13,7 +13,7 @@ Mug cakes tend to be dry, this one succeeds at being reasonably moist and tastin
 * 30 grams salted butter
 * 50 grams sugar
 * 15 ml olive oil[^oil]
-* 1 large egg
+* 1 large egg[^banana]
 * 12 grams unsweetened cocoa powder
 * 1 teaspoon vanilla extract
 * 45 ml milk
@@ -21,6 +21,8 @@ Mug cakes tend to be dry, this one succeeds at being reasonably moist and tastin
 * 1 gram baking powder
 
 [^oil]: This, and limiting the time in the microwave, is the secret to a moist cake.
+
+[^banana]: You can replace the egg with 2/3 of a very ripe banana. The batter will look weird, and it will need an additional minute in the microwave, but the result is delicious.
 
 ## Preparation
 
