@@ -15,15 +15,16 @@ I have fond memories of him going out to cut herbs in the garden, then returning
 * 1 teaspoon dried thyme (or 1 tablespoon fresh thyme)
 * 1 teaspoon dried sage (or 1 tablespoon fresh sage)
 * 1 star anise (optional)
+* A few cloves (optional, to disinfect the throat)
 * 2 tablespoons cane sugar (or honey to taste)
 * 1 small orange or lemon (juice + peel)
 * 60 ml (about 4 tablespoons) dark rum[^rum]
 
-[^rum]: You can reduce it to taste. But yes, it is an alcoholized sick children's drink.
+[^rum]: You can reduce it to taste. But yes, it *is* an alcoholized sick children's drink.
 
 ## Preparation:
 
-* In a small pot, combine water, thyme, sage, star anise (if using), and sugar
+* In a small pot, combine water, thyme, sage, and sugar, plus any optional spices (star anise, cloves)
 * Cut the citrus into wedges or slices, squeeze in the juice, then drop the peel in too
 * Bring to a gentle boil, then simmer for 5–7 minutes
 * Remove from heat and let infuse 2–3 minutes
