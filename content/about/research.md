@@ -29,6 +29,12 @@ This paper (published as part of the proceedings of the *Cray User Group 2023*) 
 
 It gives a practical look at porting a large pre-existing application to GPU, studying the performance of the resulting code but also usability and productivity.
 
+#### [VERROU: New stochastic rounding modes for numerical verification](https://hal.science/view/index/docid/5446368) (numerical accuracy)
+
+This paper (presented at the *10th International Congress on Industrial and Applied Mathematics (ICIAM) 2023* in Tokyo) introduces new deterministic stochastic rounding modes for numerical verification.
+
+These modes maintain stochastic properties between different executions *while guaranteeing determinism* within a single execution, solving issues where traditional stochastic rounding can cause runtime errors in algorithms that relies on floating-point determinism.
+
 #### [Encapsulated error, a direct approach to evaluate floating-point accuracy](https://dl.acm.org/doi/10.1145/3549205) (numerical accuracy)
 
 This paper covers my work on *encapsulated error*, a method designed to measure the numerical error of computations while being efficient enough to be applied to large parallel applications running on a supercomputer.
