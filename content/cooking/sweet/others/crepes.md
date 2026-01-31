@@ -16,17 +16,19 @@ Crêpes are the perfect social dish. You can make them together, then everyone p
 
 * 250 grams flour
 * 25 grams sugar
-* 4 eggs
 * 500 ml milk
+* 4 eggs
 * 50 grams salted butter (or 40 grams olive oil and a pinch of salt, the taste is slightly different but it works)
 
 ## Preparation:
 
 * Put the flour in a mixing bowl.
 * Add the sugar.
+* Add the milk progressively while mixing.[^bocuse]
 * Add the eggs and mix.
-* Add the milk progressively while mixing.
 * Add the melted butter (making sure it is not hot enough to cook the eggs prematurely) and mix.
+
+[^bocuse]: Mixing the milk in before adding eggs is [a Paul Bocuse trick](https://youtu.be/MM7DrO_4BVw?t=238) to avoid clumps in the batter.
 
 ## Cooking:
 
