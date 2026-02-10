@@ -29,7 +29,7 @@ This paper (published as part of the proceedings of the *Cray User Group 2023*) 
 
 It gives a practical look at porting a large pre-existing application to GPU, studying the performance of the resulting code but also usability and productivity.
 
-#### [VERROU: New stochastic rounding modes for numerical verification](https://hal.science/view/index/docid/5446368) (numerical accuracy)
+#### [VERROU: New stochastic rounding modes for numerical verification](https://hal.science/hal-05446368) (numerical accuracy)
 
 This paper (presented at the *10th International Congress on Industrial and Applied Mathematics (ICIAM) 2023* in Tokyo) introduces new deterministic stochastic rounding modes for numerical verification.
 
