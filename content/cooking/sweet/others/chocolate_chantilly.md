@@ -28,7 +28,7 @@ It is delicious, fairly easy to make, and versatile (people use it as a mousse, 
 [^ice]: The chocolate should be in a bowl, itself placed in a *cold* water bath, but there is no need for any ice.
 [^whisk]: I recommend whisking by hand; overwhisking will make the end result grainy.
 
-## Serving
+## Serving:
 
 * You can serve it as soon as it is done, or keep it for up to a few days in the fridge
 * You can add some salt flakes or shaved chocolate on the mousse when serving for added fanciness
