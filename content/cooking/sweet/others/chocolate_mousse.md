@@ -6,8 +6,11 @@ comments: false
 images:
 ---
 
-This is the perfect recipe to do when you have leftover egg whites. It is delicious and uses barely any ingredients (I always keep the proper chocolate in my pantry to do this recipe when I have egg whites).
+This is the perfect recipe to do when you have leftover egg whites[^egg].
+It is delicious and uses barely any ingredients (I always keep the proper chocolate in my pantry to do this recipe when I have egg whites).
 Its only downside is that, once you have prepared everything, you need to *wait*.
+
+[^egg]: Note that I have now, 4 years later, [an even better recipe](./chocolate_chantilly.md) that does not require any eggs.
 
 ## Ingredients (1 portion):
 
