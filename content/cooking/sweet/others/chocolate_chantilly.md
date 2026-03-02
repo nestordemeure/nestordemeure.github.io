@@ -11,8 +11,10 @@ It is delicious, fairly easy to make, and versatile (people use it as a mousse, 
 
 ## Ingredients (1 portion):
 
-* 35 grams of chocolate[^choco]
+* 35 grams of dark[^white] chocolate[^choco]
 * 35 grams of liquid[^liquid]
+
+[^white]: In theory you could get away with *white* chocolate. But you would have to use a 3-to-4 liquid-to-chocolate ratio (instead of a 1-to-1), so about 26 grams of water here.
 
 [^choco]: This is pretty much the only ingredient, so you want *good* quality---about 70% cacao---chocolate in bar form (avoiding any coating that comes with chocolate chips).
 
