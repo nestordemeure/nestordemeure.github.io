@@ -1,6 +1,6 @@
 baseURL = 'https://nestordemeure.github.io/'
 title = "Nestor Demeure"
-languageCode = "en-us"
+locale = "en-us"
 publishDir = "docs"
 # https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/exampleSite/config.toml
 theme = "hello-friend-ng"
