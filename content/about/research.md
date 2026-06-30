@@ -11,6 +11,12 @@ I am a researcher with specialties in numerical accuracy, artificial intelligenc
 
 You can find most of my publications on [Researchgate](https://www.researchgate.net/profile/Nestor-Demeure):
 
+#### [GIGA-Lens 2.0: Strong-Lens Modeling on Multiple GPU Nodes](https://arxiv.org/abs/2606.30633) (high-performance computing)
+
+This paper presents GIGA-Lens 2.0, a major upgrade to the [GPU-accelerated Bayesian framework for modeling strong gravitational lensing systems (GIGA-Lens)](https://github.com/giga-lens/gigalens), enabling it to run across multiple GPU nodes. We successfully ran it on 128 nodes (512 A100 GPUs), demonstrating significant speed benefits while modeling 100 simulated systems and a real system, DESI J238.5690+04.7276.
+
+My contribution was using JAX to move the codebase from a single-node implementation to a multi-node one that scaled seamlessly up to 128 nodes and 512 A100 GPUs.
+
 #### [Model Consistency as a Cheap yet Predictive Proxy for LLM Elo Scores](https://arxiv.org/abs/2509.23510) (machine learning)
 
 This paper (published as part of the proceedings of *EMNLP 2025*) introduces a method to evaluate large language models without expensive human comparisons or even labeled data.
