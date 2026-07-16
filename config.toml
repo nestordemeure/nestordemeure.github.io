@@ -35,7 +35,7 @@ dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 
 customCSS = ["/css/style.css"]
-customJS = ["/js/sidenote.js", "/js/main.js"]
+customJS = ["/js/sidenote.js"]
 
 # Subtitle for home
 homeSubtitle = "French, researcher, engineer, consulting mentalist."
@@ -48,9 +48,6 @@ disableReadOtherPosts = false
 
 # Enable sharing buttons, if you like
 enableSharingButtons = true
-
-# Toggle this option need to rebuild SCSS, requires extended version of Hugo
-justifyContent = true # Set "text-align: justify" to .post-content.
 
 # Metadata mostly used in document's head
 description = ""

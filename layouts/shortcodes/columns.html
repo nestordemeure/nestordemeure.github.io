@@ -1,6 +1,9 @@
 <!-- layouts/shortcodes/columns.html -->
 <div class="double-column-container">
     {{ $parts := split .Inner "<--->" }}
+    {{ if lt (len $parts) 2 }}
+        {{ errorf "columns shortcode in %s needs a '<--->' separator between the two columns" .Position }}
+    {{ end }}
         {{ $leftFlex := .Get "leftFlex" | default "95" }}
         {{ $rightFlex := .Get "rightFlex" | default "80" }}
         <div class="double-column" style="flex: {{ $leftFlex }};">
