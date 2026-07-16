@@ -138,6 +138,10 @@ identifier = "likes"
 name = "Likes"
 url = "/likes"
 
+# a page's date is its front-matter date if given, otherwise its last git commit date
+[frontmatter]
+date = ["date", ":git"]
+
 # option of the markup generator
 [markup]
 [markup.goldmark]

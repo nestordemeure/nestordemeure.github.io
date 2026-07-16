@@ -4,6 +4,11 @@ draft: false
 comments: false
 date: 2024-05-17
 images:
+# on the /posts page, descendants of this work are displayed (and deduplicated) as the work itself
+listTitle: "Breviarium Politicorum"
+cascade:
+  params:
+    listTitle: "Breviarium Politicorum"
 ---
 
 The [*Breviarium Politicorum Secundum Rubricas Mazarinicas*](https://fr.wikipedia.org/wiki/Br%C3%A9viaire_des_politiciens) (which translates to *The Politician's Handbook, Leaves from Mazarin's Notebooks*) was published in 1684, 23 years after the death of its proclaimed author: [Cardinal Jules Mazarin](https://en.wikipedia.org/wiki/Cardinal_Mazarin). Diplomat, politician, and advisor to kings, Mazarin was one of the key political figures of 17th-century France. As such, and regardless of its actual authorship, the text has been a subject of considerable attention.
