@@ -106,7 +106,6 @@ var user_location = { latitude: 37.7749, longitude: -122.4194 }; // San Francisc
 
 // returns a promise pointing to the user's location
 function setUserLocation() {
-    console.log("LOCATED!")
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(
             position => {

@@ -1,3 +1,5 @@
+// NOTE: this script depends on headings being wrapped in a `div.heading-wrapper`,
+// which is done by the render hook in layouts/_default/_markup/render-heading.html
 document.addEventListener('DOMContentLoaded', function () {
   const months = [
     'january', 'february', 'march', 'april', 'may', 'june',
@@ -7,11 +9,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const currentDate = new Date();
   const currentMonth = months[currentDate.getMonth()];
 
-  // Hide all content initially
-  document.querySelectorAll('.heading-wrapper, p').forEach(el => {
-    el.style.display = 'none';
-  });
-
   // Find all h2 elements (month headings)
   const monthHeadings = Array.from(document.querySelectorAll('.heading-wrapper h2'));
 
@@ -20,17 +17,24 @@ document.addEventListener('DOMContentLoaded', function () {
     h2.textContent.trim().toLowerCase() === currentMonth
   );
 
-  if (currentMonthIndex !== -1) {
-    // Show the current month's heading
-    monthHeadings[currentMonthIndex].closest('.heading-wrapper').style.display = '';
+  // if the expected markup is not found, leave the page untouched
+  // rather than hiding content we cannot reveal
+  if (currentMonthIndex === -1) return;
 
-    // Show all content until the next month's heading
-    let currentElement = monthHeadings[currentMonthIndex].closest('.heading-wrapper').nextElementSibling;
-    const nextMonthHeading = monthHeadings[currentMonthIndex + 1];
+  // Hide all content initially
+  document.querySelectorAll('.heading-wrapper, p').forEach(el => {
+    el.style.display = 'none';
+  });
 
-    while (currentElement && currentElement !== nextMonthHeading?.closest('.heading-wrapper')) {
-      currentElement.style.display = '';
-      currentElement = currentElement.nextElementSibling;
-    }
+  // Show the current month's heading
+  monthHeadings[currentMonthIndex].closest('.heading-wrapper').style.display = '';
+
+  // Show all content until the next month's heading
+  let currentElement = monthHeadings[currentMonthIndex].closest('.heading-wrapper').nextElementSibling;
+  const nextMonthHeading = monthHeadings[currentMonthIndex + 1];
+
+  while (currentElement && currentElement !== nextMonthHeading?.closest('.heading-wrapper')) {
+    currentElement.style.display = '';
+    currentElement = currentElement.nextElementSibling;
   }
 });
