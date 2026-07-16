@@ -3,4 +3,16 @@
 .posts .content {
     text-align: justify;
     hyphens: auto;
+    /* never hyphenate words under 6 letters, keep at least 3 letters on each side */
+    hyphenate-limit-chars: 6 3 3;
+    /* better paragraph-level line breaking (avoids orphans) where supported */
+    text-wrap: pretty;
+}
+
+.sidenote {
+    /* the ~35 characters per line of a sidenote are too few to justify well
+       (huge word gaps), so sidenotes are set ragged-right like print marginalia */
+    text-align: left;
+    /* narrow column: hyphenate more readily to keep the ragged edge tight */
+    hyphenate-limit-chars: 5 2 3;
 }
