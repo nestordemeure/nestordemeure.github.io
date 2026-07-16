@@ -1,3 +1,9 @@
+/* desktop breakpoint, also read by sidenote.js
+   keep in sync with the two @media queries below (CSS cannot use var() in media queries) */
+:root {
+    --sidenote-breakpoint: 1400px;
+}
+
 .sidenote {
     /* columns display: number then text*/
     display: grid;
@@ -18,26 +24,34 @@
 
 /* Computer screen */
 @media (min-width: 1400px) {
+    .sidenote {
+        /* sized to the free gutter beside the 800px post column
+           (1.5rem gap to the text plus 1rem clearance from the viewport edge),
+           capped so notes do not grow huge on very wide screens */
+        --sidenote-width: min(22rem, calc((100vw - 800px) / 2 - 2.5rem));
+    }
+
     .sidenote-right {
         float: right;
-        width: 22.5vw;
-        margin-right: -23vw;
+        width: var(--sidenote-width);
+        margin-right: calc(-1 * var(--sidenote-width) - 1.5rem);
     }
 
     .sidenote-left {
         float: left;
-        width: 23vw;
-        margin-left: -24.5vw;
+        width: var(--sidenote-width);
+        margin-left: calc(-1 * var(--sidenote-width) - 1.5rem);
     }
 
-    /* further shifts left sidenotes inside lists so that they are properly aligned with other side notes */
+    /* compensates the list indentation so that left sidenotes inside lists
+       stay aligned with the other left sidenotes */
     ul li .sidenote-left {
-        margin-left: -27.5vw;
+        margin-left: calc(-1 * var(--sidenote-width) - 1.5rem - 40px);
     }
 }
 
 /* Mobile */
-@media (max-width: 1400px) {
+@media (max-width: 1399.98px) {
     .sidenote {
         /* to ensure that the line will break at the end of the line and not the footnote number */
         float: right;
