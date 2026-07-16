@@ -34,7 +34,8 @@ dateformShort = "Jan 2"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 
-customCSS = ["/css/style.css"]
+# stylesheets under assets/, bundled by the theme into a single minified file
+customCSSAssets = ["css/sidenote.css", "css/footnote.css", "css/justify.css", "css/darkmode.css", "css/columns.css", "css/code.css"]
 customJS = ["/js/sidenote.js"]
 
 # Subtitle for home

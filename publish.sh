@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 
 # makes sure the blog is rebuilded with the latest information
 rm -rf docs/*
-hugo
+hugo --minify
 
 # pushes the blog to github
 git add -A .
