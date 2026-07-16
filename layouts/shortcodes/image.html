@@ -1,4 +1,6 @@
-{{- /* overrides the theme's image shortcode to lazy-load images */ -}}
+{{- /* overrides the theme's image shortcode to lazy-load images
+       and expose the title parameter as alt text for screen readers */ -}}
 {{ if .Get "src" }}
-    <img src="{{ .Get "src" | safeURL }}" loading="lazy" decoding="async" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} />
+    {{- $alt := or (.Get "alt") (.Get "title") -}}
+    <img src="{{ .Get "src" | safeURL }}" loading="lazy" decoding="async" {{ with $alt }} alt="{{ . | markdownify | plainify | chomp }}" {{ end }} class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} />
 {{ end }}
