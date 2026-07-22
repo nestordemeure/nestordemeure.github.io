@@ -216,6 +216,19 @@ import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
             .filter(el => !el.closest('.sidenote'))
         const noteTargets = Array.from(document.querySelectorAll('.sidenote-text'))
 
+        // 0. wait for the webfonts before justifying. justif's initial pass runs
+        //    synchronously and enhances every element up front, but its post-font
+        //    re-measurement is viewport-gated: an off-screen element measured with
+        //    the (narrower) fallback font can be left un-justified because its
+        //    correction is parked until scrolled into view. A short note then
+        //    wraps to a second line under the real font and falls back to the
+        //    browser's justification, which will not hyphenate a capitalised word
+        //    (e.g. "Necronomicon") -> large gaps. Measuring with fonts already
+        //    loaded avoids that entirely.
+        if (document.fonts && document.fonts.ready) {
+            try { await document.fonts.ready } catch (err) { /* ignore */ }
+        }
+
         // 1. justify the body text FIRST and wait for it to settle: this reflows
         //    the text and moves the footnote markers, so it must finish before we
         //    measure marker positions.
