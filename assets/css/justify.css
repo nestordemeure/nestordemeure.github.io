@@ -10,10 +10,15 @@
 }
 
 .sidenote {
-    /* sidenotes are justified too: justif's Knuth-Plass line breaking plus
-       hyphenation keeps the word gaps tight even in this narrow (~35ch) column.
-       text-align here is only the pre-JS / justif-skipped fallback. */
-    text-align: justify;
+    /* sidenotes are justified by justif (Knuth-Plass + hyphenation), which sets
+       its own per-line spacing and forces text-align:left on what it enhances.
+       We therefore leave the base as left rather than `justify`: at some widths
+       justif judges a note to fit one line (its optical-margin protrusion lets
+       the trailing "." / "↩︎" hang past the edge) and leaves it untouched, but
+       the browser then wraps it to two lines. With `justify` that fallback line
+       stretches with big gaps and no hyphenation of capitalised words (e.g.
+       "Necronomicon"); left keeps it cleanly ragged instead. */
+    text-align: left;
     /* narrow column: hyphenate more readily to keep gaps small */
     hyphenate-limit-chars: 5 2 3;
 }
