@@ -51,6 +51,16 @@ import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
             // the id has no associated footnote, we are done
             break
         }
+        // put the "[" "]" around the marker into real text rather than CSS
+        // ::before/::after: justif measures line widths from the DOM text, so
+        // pseudo-element brackets are invisible to it and every justified line
+        // carrying a marker ends up ~2 characters wider than justif aimed for
+        // (its right edge overshoots the margin).
+        const ref = footnote_number.querySelector('.footnote-ref')
+        if (ref && !ref.dataset.bracketed) {
+            ref.textContent = `[${ref.textContent}]`
+            ref.dataset.bracketed = '1'
+        }
         // builds sidenote
         const sidenote = document.createElement("small")
         const footnote_id = `fn:${id}`

@@ -3,13 +3,9 @@
     text-decoration: none;
 }
 
-.footnote-ref:before {
-    content: '[';
-}
-
-.footnote-ref:after {
-    content: ']';
-}
+/* The surrounding "[" "]" are added as real text by sidenote.js (see there):
+   generated ::before/::after content is invisible to justif's line measurement,
+   which made every justified line with a marker overshoot the right margin. */
 
 .footnote-backref {
     /*removes link underlying*/
