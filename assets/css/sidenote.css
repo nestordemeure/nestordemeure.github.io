@@ -43,9 +43,12 @@
         margin-left: calc(-1 * var(--sidenote-width) - 1.5rem);
     }
 
-    /* compensates the list indentation so that left sidenotes inside lists
-       stay aligned with the other left sidenotes */
-    ul li .sidenote-left {
+    /* compensates the list indentation so that left sidenotes belonging to a
+       list item stay aligned with the other left sidenotes. sidenote.js inserts
+       the note as a sibling of the <li> (a child of the <ul>/<ol>, so justif can
+       still justify the list item), hence the direct-child selector. */
+    ul > .sidenote-left,
+    ol > .sidenote-left {
         margin-left: calc(-1 * var(--sidenote-width) - 1.5rem - 40px);
     }
 }
