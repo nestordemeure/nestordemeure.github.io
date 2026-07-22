@@ -45,7 +45,8 @@ import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
     while (true) {
         const id = sidenoteList.length + 1
         // finds the footnote number in the text
-        const footnote_number = document.getElementById(`fnref:${id}`)
+        const marker_id = `fnref:${id}`
+        const footnote_number = document.getElementById(marker_id)
         if (!footnote_number) {
             // the id has no associated footnote, we are done
             break
@@ -74,8 +75,10 @@ import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
         const reference = lastInsertedForBlock.get(block) || block
         insertAfter(reference, sidenote)
         lastInsertedForBlock.set(block, sidenote)
-        // updates sidenote list
-        sidenoteList.push([footnote_number, sidenote])
+        // store the marker's id, not the element: justif rebuilds each paragraph
+        // and replaces the marker with a (re-)cloned copy, so the element must be
+        // looked up fresh by id every time we measure it (see positionSidenotes).
+        sidenoteList.push([marker_id, sidenote])
     }
 
     // delete the footnote footer if there was at least one footnote
@@ -134,7 +137,11 @@ import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
         const margin = fontsize
         let ceilingRight = -window.pageYOffset
         let ceilingLeft = -window.pageYOffset
-        for (const [number, note] of sidenoteList) {
+        for (const [markerId, note] of sidenoteList) {
+            // look the marker up fresh: justif may have replaced the original
+            // element with a clone (the stored reference would be detached)
+            const number = document.getElementById(markerId)
+            if (!number) continue
             const [numberx, numbery] = getPosition(number)
             let shift
             // pick side
@@ -191,27 +198,38 @@ import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
     //-------------------------------------------------------------------------------------------------
     // ORCHESTRATION
 
-    async function run() {
-        // float the notes into the margin first, so they do not flash full-width
-        // while justif is running, and so sidenote text gets its final (narrow)
-        // width before it is justified
-        positionSidenotes()
+    // justifies a set of elements and waits for justif to settle (fonts +
+    // layout). justif skips anything it cannot handle (paragraphs holding an
+    // image or table, etc.), leaving the CSS `text-align: justify` fallback.
+    // never throws: even if justif fails we still want the notes placed.
+    async function justifyAndSettle(elements) {
+        if (elements.length === 0) return
+        try {
+            await justify(elements, justifyOptions).ready
+        } catch (err) {
+            console.error('justif failed:', err)
+        }
+    }
 
-        // justify the body text and the sidenote text in one pass. justif skips
-        // anything it cannot handle (e.g. paragraphs holding an image or table)
-        // and leaves the CSS `text-align: justify` fallback in place there.
+    async function run() {
         const contentTargets = Array.from(document.querySelectorAll(CONTENT_SELECTOR))
             .filter(el => !el.closest('.sidenote'))
         const noteTargets = Array.from(document.querySelectorAll('.sidenote-text'))
-        const targets = contentTargets.concat(noteTargets)
-        if (targets.length > 0) {
-            const controller = justify(targets, justifyOptions)
-            // waits for fonts to load and the layout to settle
-            await controller.ready
-        }
 
-        // the body reflow moved the markers and the sidenotes changed height, so
-        // place the notes again against the final layout
+        // 1. justify the body text FIRST and wait for it to settle: this reflows
+        //    the text and moves the footnote markers, so it must finish before we
+        //    measure marker positions.
+        await justifyAndSettle(contentTargets)
+
+        // 2. markers are now in their final positions: place the notes with the
+        //    vetted algorithm. this also gives each note its final narrow width.
+        positionSidenotes()
+
+        // 3. justify the sidenote text now that it has its final width.
+        await justifyAndSettle(noteTargets)
+
+        // 4. justifying the notes changed their heights, so place once more
+        //    against the final layout.
         positionSidenotes()
     }
 
