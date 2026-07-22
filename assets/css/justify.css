@@ -10,9 +10,10 @@
 }
 
 .sidenote {
-    /* the ~35 characters per line of a sidenote are too few to justify well
-       (huge word gaps), so sidenotes are set ragged-right like print marginalia */
-    text-align: left;
-    /* narrow column: hyphenate more readily to keep the ragged edge tight */
+    /* sidenotes are justified too: justif's Knuth-Plass line breaking plus
+       hyphenation keeps the word gaps tight even in this narrow (~35ch) column.
+       text-align here is only the pre-JS / justif-skipped fallback. */
+    text-align: justify;
+    /* narrow column: hyphenate more readily to keep gaps small */
     hyphenate-limit-chars: 5 2 3;
 }

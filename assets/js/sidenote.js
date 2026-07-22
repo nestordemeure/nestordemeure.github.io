@@ -1,5 +1,32 @@
-(function () {
+// Footnotes -> sidenotes, TeX-style justification, and sidenote placement.
+//
+// Pipeline (order matters):
+//   1. turn Hugo's footnotes into sidenote elements
+//   2. run justif (Knuth-Plass line breaking) on the body text AND the sidenotes
+//   3. place the sidenotes in the margin, aligned to their markers
+//
+// justif reflows the body text, which moves the footnote markers, so it MUST
+// run before placement (step 3 measures marker positions). justif also cannot
+// justify a paragraph that contains a non-inline child, so each sidenote is
+// inserted as a sibling *after* its marker's block rather than inline next to
+// the marker: the marker (an inline <sup>) stays in the paragraph, keeping the
+// paragraph justifiable.
+
+import { justify } from './justif/index.js'
+import { hyphenateEnUS } from './justif/hyphenate/en-us.js'
+
+;(function () {
     'use strict'
+
+    // block-level text elements justif should justify, within post content.
+    // sidenote text is justified separately (see below); everything inside a
+    // .sidenote is excluded from this pass.
+    const CONTENT_SELECTOR = [
+        '.post-content p', '.post-content li', '.post-content figcaption', '.post-content dd',
+        '.posts .content p', '.posts .content li', '.posts .content figcaption', '.posts .content dd',
+    ].join(', ')
+
+    const justifyOptions = { hyphenate: hyphenateEnUS }
 
     //-------------------------------------------------------------------------------------------------
     // FOOTNOTE TO SIDENOTES
@@ -12,6 +39,9 @@
 
     // iterates as long as we can find footnotes
     const sidenoteList = []
+    // remembers the last node inserted after a given block, so several
+    // footnotes in the same block keep their document order
+    const lastInsertedForBlock = new Map()
     while (true) {
         const id = sidenoteList.length + 1
         // finds the footnote number in the text
@@ -37,8 +67,13 @@
         // the sidenote takes over the footnote's id once the footer is deleted below,
         // so that #fn:id anchors keep working
         sidenote.setAttribute('id', footnote_id)
-        // inserts sidenote's html after footnote marker
-        insertAfter(footnote_number, sidenote)
+        // insert the sidenote *after* the marker's block (not inline next to the
+        // marker) so the block stays free of non-inline children and justif can
+        // justify it; the inline marker stays put for placement.
+        const block = footnote_number.closest('p, li, blockquote, figcaption, dd, dt, pre, h1, h2, h3, h4, h5, h6') || footnote_number
+        const reference = lastInsertedForBlock.get(block) || block
+        insertAfter(reference, sidenote)
+        lastInsertedForBlock.set(block, sidenote)
         // updates sidenote list
         sidenoteList.push([footnote_number, sidenote])
     }
@@ -47,36 +82,6 @@
     if (sidenoteList.length > 0) {
         document.getElementsByClassName("footnotes")[0].remove()
     }
-
-    /*
-    // FOOTNOTE HTML
-
-    // markers
-    for their own good < sup id = "fnref:3" > <a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup >
-
-    // footnotes
-    <div class="footnotes" role="doc-endnotes">
-        <hr>
-        <ol>
-            <li id="fn:1">
-                <p>They ca thstatus quo.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-            </li>
-            <li id="fn:2">
-                <p>As the tit in love with.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-            </li>
-        </ol>
-    </div>
-
-    // SIDENOTE HTML
-
-    for their own good < sup id = "fnref:4" > <a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup >
-    <small id="fn:4" class="sidenote sidenote-right">
-        <div class="sidenote-number">4.</div>
-        <div class="sidenote-text">
-            <p>A lot of the charm of the movie is inherited from the source material, the exellent and eponym book by Umberto Eco</a>.&nbsp;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">↩︎</a></p>
-        </div>
-    </small>
-    */
 
     //-------------------------------------------------------------------------------------------------
     // SIDENOTE PLACEMENT
@@ -183,9 +188,37 @@
         }
     }
 
-    // runs the function once now, then again when late-loading resources
-    // (images, webfonts) have shifted the layout, and on resizes
-    positionSidenotes()
+    //-------------------------------------------------------------------------------------------------
+    // ORCHESTRATION
+
+    async function run() {
+        // float the notes into the margin first, so they do not flash full-width
+        // while justif is running, and so sidenote text gets its final (narrow)
+        // width before it is justified
+        positionSidenotes()
+
+        // justify the body text and the sidenote text in one pass. justif skips
+        // anything it cannot handle (e.g. paragraphs holding an image or table)
+        // and leaves the CSS `text-align: justify` fallback in place there.
+        const contentTargets = Array.from(document.querySelectorAll(CONTENT_SELECTOR))
+            .filter(el => !el.closest('.sidenote'))
+        const noteTargets = Array.from(document.querySelectorAll('.sidenote-text'))
+        const targets = contentTargets.concat(noteTargets)
+        if (targets.length > 0) {
+            const controller = justify(targets, justifyOptions)
+            // waits for fonts to load and the layout to settle
+            await controller.ready
+        }
+
+        // the body reflow moved the markers and the sidenotes changed height, so
+        // place the notes again against the final layout
+        positionSidenotes()
+    }
+
+    run()
+
+    // reposition when late-loading resources (images, webfonts) shift the layout,
+    // and on resize (justif reflows via its own ResizeObserver first)
     window.addEventListener('load', positionSidenotes)
     if (document.fonts) {
         document.fonts.ready.then(positionSidenotes)
@@ -193,6 +226,6 @@
     let resizeTimer = null
     window.addEventListener('resize', function () {
         clearTimeout(resizeTimer)
-        resizeTimer = setTimeout(positionSidenotes, 100)
+        resizeTimer = setTimeout(positionSidenotes, 150)
     })
 })()

@@ -36,7 +36,8 @@ dateformNumTime = "2006-01-02 15:04"
 
 # stylesheets under assets/, bundled by the theme into a single minified file
 customCSSAssets = ["css/sidenote.css", "css/footnote.css", "css/justify.css", "css/darkmode.css", "css/columns.css", "css/code.css"]
-customJS = ["/js/sidenote.js"]
+# sidenote.js now lives under assets/ and is bundled with justif in javascript.html
+customJS = []
 
 # Subtitle for home
 homeSubtitle = "French, researcher, engineer, consulting mentalist."
