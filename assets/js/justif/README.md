@@ -1,8 +1,8 @@
 # Vendored: justif
 
 Source: **justif** — <https://github.com/lyallcooper/justif> (MIT, see `LICENSE`)
-Version: **0.4.2**, npm package `justif`
-Fetched from: <https://cdn.jsdelivr.net/npm/justif@0.4.2/dist/>
+Version: **0.6.4**, npm package `justif`
+Fetched from: <https://cdn.jsdelivr.net/npm/justif@0.6.4/dist/>
 
 TeX-style (Knuth–Plass) paragraph justification, used by `../sidenote.js`.
 
@@ -13,9 +13,9 @@ internal chunk files. We vendor only the transitive closure of the two modules
 `sidenote.js` imports:
 
 - `index.js`            — entry point; exports `justify`
-- `chunk-AKQMEKJ5.js`   — core algorithm (imported by `index.js`)
+- `chunk-GGFAIDOO.js`   — core algorithm (imported by `index.js`)
 - `hyphenate/en-us.js`  — exports `hyphenateEnUS`
-- `chunk-KQ5ZWCOR.js`   — hyphenator (imported by `hyphenate/en-us.js`)
+- `chunk-KTATQWFD.js`   — hyphenator (imported by `hyphenate/en-us.js`)
 
 Hugo's esbuild (`js.Build`, in the theme's `partials/javascript.html`) bundles
 and tree-shakes these together with `sidenote.js`.
