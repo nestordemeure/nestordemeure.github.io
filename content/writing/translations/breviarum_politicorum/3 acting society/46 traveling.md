@@ -2,7 +2,7 @@
 title: "Traveling"
 draft: false
 comments: false
-weight: -46
+weight: 46
 images:
 ---
 

@@ -2,7 +2,7 @@
 title: "Quelling a Sedition"
 draft: false
 comments: false
-weight: -39
+weight: 39
 images:
 ---
 

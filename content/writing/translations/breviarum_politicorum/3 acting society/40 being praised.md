@@ -2,7 +2,7 @@
 title: "Being Praised"
 draft: false
 comments: false
-weight: -40
+weight: 40
 images:
 ---
 

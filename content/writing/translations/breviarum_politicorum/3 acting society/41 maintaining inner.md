@@ -2,7 +2,7 @@
 title: "Maintaining Inner Peace"
 draft: false
 comments: false
-weight: -41
+weight: 41
 images:
 ---
 

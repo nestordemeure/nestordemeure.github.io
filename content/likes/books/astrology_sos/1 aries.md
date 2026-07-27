@@ -1,8 +1,8 @@
 ---
 title: "Aries (March 21 - April 19)"
 draft: false
+weight: 1
 comments: false
-date: 0001-03-21
 images:
 ---
 

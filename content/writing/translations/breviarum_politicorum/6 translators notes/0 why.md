@@ -2,7 +2,7 @@
 title: "0. Why translate the Breviarium Politicorum?"
 draft: false
 comments: false
-weight: 0
+weight: 1
 images:
 ---
 

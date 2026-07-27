@@ -1,8 +1,8 @@
 ---
 title: "Scorpio (October 23 - November 21)"
 draft: false
+weight: 8
 comments: false
-date: 0001-10-23
 images:
 ---
 

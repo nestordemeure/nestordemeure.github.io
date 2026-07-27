@@ -1,8 +1,8 @@
 ---
 title: "Leo (July 23 - August 22)"
 draft: false
+weight: 5
 comments: false
-date: 0001-07-23
 images:
 ---
 

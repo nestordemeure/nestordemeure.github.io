@@ -2,7 +2,7 @@
 title: "Avoiding Ambushes"
 draft: false
 comments: false
-weight: -22
+weight: 22
 images:
 ---
 

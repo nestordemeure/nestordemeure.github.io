@@ -1,8 +1,8 @@
 ---
 title: "Virgo (August 23 - September 22)"
 draft: false
+weight: 6
 comments: false
-date: 0001-08-23
 images:
 ---
 

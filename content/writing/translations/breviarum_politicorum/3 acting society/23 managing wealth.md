@@ -2,7 +2,7 @@
 title: "Managing Wealth"
 draft: false
 comments: false
-weight: -23
+weight: 23
 images:
 ---
 

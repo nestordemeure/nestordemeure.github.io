@@ -2,7 +2,7 @@
 title: "Negotiating Shrewdly"
 draft: false
 comments: false
-weight: -30
+weight: 30
 images:
 ---
 

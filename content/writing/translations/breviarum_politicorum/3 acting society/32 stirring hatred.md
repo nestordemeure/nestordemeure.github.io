@@ -2,7 +2,7 @@
 title: "Stirring Hatred Against the Wicked"
 draft: false
 comments: false
-weight: -32
+weight: 32
 images:
 ---
 

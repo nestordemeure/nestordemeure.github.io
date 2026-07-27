@@ -4,6 +4,11 @@ draft: false
 comments: false
 date: 2023-12-27
 images:
+# on the /posts page, descendants of this work are displayed (and deduplicated) as the work itself
+listTitle: "Astrology SOS"
+cascade:
+  params:
+    listTitle: "Astrology SOS"
 ---
 
 *Astrology SOS*, by *The Woke Mystix*, is not about telling you what your zodiac sign (there is already a plethora of books about that out there) does but rather to give you a sense of *rhythm*.

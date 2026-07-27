@@ -2,7 +2,7 @@
 title: "A Word from the Publisher"
 draft: false
 comments: false
-weight: -1
+weight: 1
 images:
 ---
 

@@ -2,7 +2,7 @@
 title: "Avoiding Vain Pursuits"
 draft: false
 comments: false
-weight: -47
+weight: 47
 images:
 ---
 

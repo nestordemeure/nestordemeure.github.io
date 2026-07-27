@@ -2,7 +2,7 @@
 title: "Arriving at the Truth"
 draft: false
 comments: false
-weight: -51
+weight: 51
 images:
 ---
 

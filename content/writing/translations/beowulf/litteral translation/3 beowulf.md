@@ -2,7 +2,7 @@
 title: "III. Beowulf"
 draft: false
 comments: false
-weight: -4
+weight: 4
 images:
 ---
 

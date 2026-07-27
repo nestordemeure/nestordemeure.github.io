@@ -2,7 +2,7 @@
 title: "Learn About Yourself"
 draft: false
 comments: false
-weight: -1
+weight: 1
 images:
 ---
 

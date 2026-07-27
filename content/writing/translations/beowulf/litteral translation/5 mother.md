@@ -2,7 +2,7 @@
 title: "V. Grendel's Mother"
 draft: false
 comments: false
-weight: -6
+weight: 6
 images:
 ---
 

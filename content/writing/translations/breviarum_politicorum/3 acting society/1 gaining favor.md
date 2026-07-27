@@ -2,7 +2,7 @@
 title: "Gaining Favor with a Friend"
 draft: false
 comments: false
-weight: -1
+weight: 1
 images:
 ---
 

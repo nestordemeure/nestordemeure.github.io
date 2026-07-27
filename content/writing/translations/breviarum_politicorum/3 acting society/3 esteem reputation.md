@@ -2,7 +2,7 @@
 title: "Gaining Esteem and Reputation"
 draft: false
 comments: false
-weight: -3
+weight: 3
 images:
 ---
 

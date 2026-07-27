@@ -1,8 +1,8 @@
 ---
 title: "Aquarius (January 20 - February 18)"
 draft: false
+weight: 11
 comments: false
-date: 0001-01-20
 images:
 ---
 

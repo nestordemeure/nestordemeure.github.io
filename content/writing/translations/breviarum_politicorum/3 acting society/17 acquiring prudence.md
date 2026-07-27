@@ -2,7 +2,7 @@
 title: "Acquiring Prudence"
 draft: false
 comments: false
-weight: -17
+weight: 17
 images:
 ---
 

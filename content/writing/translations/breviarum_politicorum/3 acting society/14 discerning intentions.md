@@ -2,7 +2,7 @@
 title: "Discerning Intentions"
 draft: false
 comments: false
-weight: -14
+weight: 14
 images:
 ---
 

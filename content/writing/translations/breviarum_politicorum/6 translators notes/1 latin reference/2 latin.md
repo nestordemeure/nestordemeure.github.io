@@ -3,7 +3,7 @@ title: "Latin Reference"
 css: "old.css"
 draft: false
 comments: false
-weight: -2
+weight: 2
 ---
 
 <!-- Old Style -->

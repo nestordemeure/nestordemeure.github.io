@@ -2,7 +2,7 @@
 title: "Deposing the Wicked"
 draft: false
 comments: false
-weight: -45
+weight: 45
 images:
 ---
 

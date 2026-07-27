@@ -2,7 +2,7 @@
 title: "Avoiding Offense"
 draft: false
 comments: false
-weight: -15
+weight: 15
 images:
 ---
 

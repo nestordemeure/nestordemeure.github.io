@@ -2,7 +2,7 @@
 title: "Disregarding Criticism"
 draft: false
 comments: false
-weight: -42
+weight: 42
 images:
 ---
 

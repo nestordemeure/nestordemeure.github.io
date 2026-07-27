@@ -2,7 +2,7 @@
 title: "Punishing and Correcting"
 draft: false
 comments: false
-weight: -38
+weight: 38
 images:
 ---
 

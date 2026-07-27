@@ -1,8 +1,8 @@
 ---
 title: "Capricorn (December 22 - January 19)"
 draft: false
+weight: 10
 comments: false
-date: 0001-12-22
 images:
 ---
 

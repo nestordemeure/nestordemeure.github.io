@@ -1,8 +1,8 @@
 ---
 title: "Pisces (February 19 - March 20)"
 draft: false
+weight: 12
 comments: false
-date: 0001-02-19
 images:
 ---
 

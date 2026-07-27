@@ -2,7 +2,7 @@
 title: "Avoiding Lending Money"
 draft: false
 comments: false
-weight: -50
+weight: 50
 images:
 ---
 

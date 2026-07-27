@@ -2,7 +2,7 @@
 title: "Getting Rid of an Unwelcome Guest"
 draft: false
 comments: false
-weight: -19
+weight: 19
 images:
 ---
 

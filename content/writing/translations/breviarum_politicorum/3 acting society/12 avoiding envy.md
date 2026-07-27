@@ -2,7 +2,7 @@
 title: "Avoiding Envy"
 draft: false
 comments: false
-weight: -12
+weight: 12
 images:
 ---
 

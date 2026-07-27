@@ -2,7 +2,7 @@
 title: "Gaining and Conferring Offices"
 draft: false
 comments: false
-weight: -24
+weight: 24
 images:
 ---
 

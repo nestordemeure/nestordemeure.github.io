@@ -2,7 +2,7 @@
 title: "Acquiring Gravity"
 draft: false
 comments: false
-weight: -5
+weight: 5
 images:
 ---
 

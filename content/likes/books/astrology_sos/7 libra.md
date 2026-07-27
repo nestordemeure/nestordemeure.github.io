@@ -1,8 +1,8 @@
 ---
 title: "Libra (September 23 - October 22)"
 draft: false
+weight: 7
 comments: false
-date: 0001-09-23
 images:
 ---
 

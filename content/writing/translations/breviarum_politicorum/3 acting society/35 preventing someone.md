@@ -2,7 +2,7 @@
 title: "Preventing Someone from Declining a Duty"
 draft: false
 comments: false
-weight: -35
+weight: 35
 images:
 ---
 

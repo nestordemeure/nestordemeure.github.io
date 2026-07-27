@@ -2,7 +2,7 @@
 title: "Translator's Notes"
 draft: false
 comments: false
-weight: -10
+weight: 10
 images:
 ---
 

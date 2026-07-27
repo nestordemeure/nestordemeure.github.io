@@ -1,8 +1,8 @@
 ---
 title: "Taurus (April 20 - May 20)"
 draft: false
+weight: 2
 comments: false
-date: 0001-04-20
 images:
 ---
 

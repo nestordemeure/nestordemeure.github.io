@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $paginator := .Paginate (where .Data.Pages ".Params.unlisted" "!=" "true") }}
+{{ $pages := where .Data.Pages ".Params.unlisted" "!=" "true" }}
 
 <main class="posts">
     <h1>{{ .Title }}</h1>
@@ -8,6 +8,25 @@
     <div class="content">{{ .Content }}</div>
     {{ end }}
 
+    {{ if .Params.listTitle }}
+    <!-- Multi-chapter work (marked by a cascading listTitle param, see CLAUDE.md): render a table
+         of contents in reading order (front-matter weight), not by date. Edit dates and year
+         headings are meaningless for the chapters of a single work, and it must not paginate. -->
+    <div class="posts-group">
+        <ul class="posts-list">
+            {{ range $pages.ByWeight }}
+            <li class="post-item">
+                <a href="{{ .Permalink }}">
+                    <span class="post-title">
+                        {{ .Title }}
+                    </span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ else }}
+    {{ $paginator := .Paginate $pages }}
     {{ range $paginator.Pages.GroupByDate "2006" }}
     <div class="posts-group">
         <div class="post-year">{{ .Key }}</div>
@@ -33,5 +52,6 @@
     </div>
     {{ end }}
     {{ partial "pagination-list.html" . }}
+    {{ end }}
 </main>
 {{ end }}

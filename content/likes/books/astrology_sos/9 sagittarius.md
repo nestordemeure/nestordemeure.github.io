@@ -1,8 +1,8 @@
 ---
 title: "Sagittarius (November 22 - December 21)"
 draft: false
+weight: 9
 comments: false
-date: 0001-11-22
 images:
 ---
 

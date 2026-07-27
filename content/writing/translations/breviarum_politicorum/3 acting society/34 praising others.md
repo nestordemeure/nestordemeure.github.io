@@ -2,7 +2,7 @@
 title: "Praising Others"
 draft: false
 comments: false
-weight: -34
+weight: 34
 images:
 ---
 

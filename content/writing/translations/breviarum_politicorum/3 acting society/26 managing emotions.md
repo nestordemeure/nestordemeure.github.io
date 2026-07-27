@@ -2,7 +2,7 @@
 title: "Managing Emotions"
 draft: false
 comments: false
-weight: -26
+weight: 26
 images:
 ---
 

@@ -2,7 +2,7 @@
 title: "Identifying Mutual Friends"
 draft: false
 comments: false
-weight: -2
+weight: 2
 images:
 ---
 
