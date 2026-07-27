@@ -2,6 +2,8 @@
 {{ $pages := where .Data.Pages ".Params.unlisted" "!=" "true" }}
 
 <main class="posts">
+    {{ partial "breadcrumb.html" . }}
+
     <h1>{{ .Title }}</h1>
 
     {{ if .Content }}
