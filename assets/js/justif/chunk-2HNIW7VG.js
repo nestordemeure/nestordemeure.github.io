@@ -1306,6 +1306,7 @@ function attempt(para, widths, opts, mode) {
     lpAdj: lpAdjAt(firstStart, 0),
     lineW: lineWidthAt(widths, 0)
   };
+  const easyLine = typeof widths === "number" ? 0 : Math.max(0, widths.length - 1);
   let candN = 0;
   const candFrom = [];
   const candFit = [];
@@ -1397,7 +1398,7 @@ function attempt(para, widths, opts, mode) {
           if (Math.abs(fit - node.fitness) > 1) d += opts.adjDemerits;
           if (forced && b === n - 1 && node.flagged) d += opts.finalHyphenDemerits;
           const total = node.totalDemerits + d;
-          const key = node.line * 4 + fit;
+          const key = Math.min(node.line, easyLine) * 4 + fit;
           const slot = slotStamp[key] === stamp ? slotOf[key] : -1;
           if (slot < 0) {
             slotStamp[key] = stamp;
@@ -1407,7 +1408,10 @@ function attempt(para, widths, opts, mode) {
             candDem[candN] = total;
             candOver[candN] = false;
             candN++;
-          } else if (total < candDem[slot]) {
+          } else if (total < candDem[slot] ||
+          // Collapsed classes tie often in emergency and rescue passes;
+          // choose a stable representative that uses fewer lines.
+          total === candDem[slot] && node.line < candFrom[slot].line) {
             candFrom[slot] = node;
             candFit[slot] = fit;
             candDem[slot] = total;
@@ -3108,5 +3112,5 @@ function fontProtrusion(familyList) {
   return id === void 0 ? void 0 : TABLES[id];
 }
 export { CJK_CHAR, Fitness, INF_BAD, INF_PENALTY, ItemType, UNDERFULL_RATIO, badness, breakParagraph, breakRp, buildItems, cjkBreakAllowed, composeProtrusion, defaultBreakOptions, defaultBuildOptions, demerits, demeritsUncapped, fitness, fontProtrusion, graphemes, hangingPunctuation, kinsokuNotAtLineEnd, kinsokuNotAtLineStart, latinProtrusion, layoutLines, lineText, lineWidthAt, maxEndingStretch, protrusionCodes, textMakesBox, withSums };
-//# sourceMappingURL=chunk-GGFAIDOO.js.map
-//# sourceMappingURL=chunk-GGFAIDOO.js.map
+//# sourceMappingURL=chunk-2HNIW7VG.js.map
+//# sourceMappingURL=chunk-2HNIW7VG.js.map

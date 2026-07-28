@@ -1,5 +1,5 @@
-import { composeProtrusion, latinProtrusion, defaultBuildOptions, breakParagraph, layoutLines, graphemes, defaultBreakOptions, ItemType, CJK_CHAR, fontProtrusion, buildItems, textMakesBox } from './chunk-GGFAIDOO.js';
-export { composeProtrusion, fontProtrusion, hangingPunctuation, kinsokuNotAtLineEnd, kinsokuNotAtLineStart, latinProtrusion } from './chunk-GGFAIDOO.js';
+import { composeProtrusion, latinProtrusion, defaultBuildOptions, breakParagraph, layoutLines, graphemes, defaultBreakOptions, ItemType, CJK_CHAR, fontProtrusion, buildItems, textMakesBox } from './chunk-2HNIW7VG.js';
+export { composeProtrusion, fontProtrusion, hangingPunctuation, kinsokuNotAtLineEnd, kinsokuNotAtLineStart, latinProtrusion } from './chunk-2HNIW7VG.js';
 
 // src/dom/measure.ts
 function fontSpecOf(style) {
@@ -2454,6 +2454,7 @@ function justify(targets, options) {
   };
   const flushPatches = batch => {
     if (batch.length === 0) return;
+    if (viewObserver !== null && !viewObserverReady) seedNearViewport(batch);
     const measure = [];
     for (const e of batch) {
       if (viewObserver === null || nearViewport.has(e.p)) measure.push(e);else if (e.p.isConnected) hiddenCorrections.set(e.p, e.pending);
@@ -2606,7 +2607,22 @@ function justify(targets, options) {
   const SLICE_BUDGET_MS = 10;
   const CORRECTION_CHUNK = 100;
   const nearViewport = /* @__PURE__ */new Set();
+  let viewObserverReady = false;
+  const seedNearViewport = batch => {
+    const root = document.documentElement;
+    const width = root.clientWidth || window.innerWidth;
+    const height = root.clientHeight || window.innerHeight;
+    const margin = width / 2;
+    for (const _ref16 of batch) {
+      const p = _ref16.p;
+      const r = p.getBoundingClientRect();
+      if (r.bottom >= -margin && r.top <= height + margin && r.right >= -margin && r.left <= width + margin) {
+        nearViewport.add(p);
+      } else nearViewport.delete(p);
+    }
+  };
   const viewObserver = typeof IntersectionObserver === "undefined" ? null : new IntersectionObserver(entries => {
+    viewObserverReady = true;
     let promoted = false;
     for (const e of entries) {
       if (e.isIntersecting) {
@@ -2747,9 +2763,9 @@ function justify(targets, options) {
     }
     if (options.observeResize !== false) {
       observer = createWidthObserver(widths => {
-        for (const _ref16 of widths) {
-          const el = _ref16[0];
-          const width = _ref16[1];
+        for (const _ref17 of widths) {
+          const el = _ref17[0];
+          const width = _ref17[1];
           const state = ownedState(el);
           if (state === void 0) continue;
           if (Math.abs(width - state.width) < 0.05) {
@@ -2779,9 +2795,9 @@ function justify(targets, options) {
     endScanBatch(scanBatch);
     restoreScanStyles();
   }
-  for (const _ref17 of pendingSkips) {
-    const p = _ref17.p;
-    const reason = _ref17.reason;
+  for (const _ref18 of pendingSkips) {
+    const p = _ref18.p;
+    const reason = _ref18.reason;
     emitSkip(p, reason);
   }
   fontProbes = collectFontProbes(scannable.flatMap(p => scanned.get(p) ?? []), hyphenate !== void 0);
