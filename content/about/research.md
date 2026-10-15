@@ -17,6 +17,12 @@ This paper presents GIGA-Lens 2.0, a major upgrade to the [GPU-accelerated Bayes
 
 My contribution was using JAX to move the codebase from a single-node implementation to a multi-node one that scaled seamlessly up to 128 nodes and 512 A100 GPUs.
 
+#### [An Agentic Toolkit and Comparative Study for HPC Operations and User Support](https://dl.acm.org/doi/10.1145/3837730.3837744) (machine learning)
+
+This paper (published as part of the proceedings of the *Cray User Group 2026*) presents ATHOS, a model-agnostic toolkit for building AI agents that assist supercomputing centers with operations and user support, and uses it to compare models, retrieval strategies, and agent frameworks on tasks derived from NERSC data.
+
+My main contribution was the comparison with off-the-shelf coding agents (Codex and Claude Code), which matched or approached the accuracy of purpose-built agents, but at a substantially higher token cost.
+
 #### [Model Consistency as a Cheap yet Predictive Proxy for LLM Elo Scores](https://arxiv.org/abs/2509.23510) (machine learning)
 
 This paper (published as part of the proceedings of *EMNLP 2025*) introduces a method to evaluate large language models without expensive human comparisons or even labeled data.
